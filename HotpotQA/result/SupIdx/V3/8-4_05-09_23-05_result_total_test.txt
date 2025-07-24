@@ -1,0 +1,1429 @@
+##########
+ID:1
+Question:Which magazine was started first Arthur's Magazine or First for Women?
+golden idx: [7, 9]
+[7, 9, 2, 5, 6, 3, 0, 8]
+
+[7, 9, 8, 3]
+
+成功的数量为：2总数：2当前回溯率：100.0%
+##########
+##########
+ID:2
+Question:The Oberoi family is part of a hotel company that has a head office in what city?
+golden idx: [1, 8]
+[1, 8, 0, 6, 7, 2, 3, 4]
+
+[1, 8, 2, 3]
+
+成功的数量为：4总数：4当前回溯率：100.0%
+##########
+##########
+ID:3
+Question:Musician and satirist Allie Goertz wrote a song about the "The Simpsons" character Milhouse, who Matt Groening named after who?
+golden idx: [6, 8]
+[8,0,6,1,3,4,5,2]
+
+[8,6,0,1]
+
+成功的数量为：6总数：6当前回溯率：100.0%
+##########
+##########
+ID:4
+Question: What nationality was James Henry Miller's wife?
+golden idx: [5, 6]
+[3,7,4,6,0,1,5,9]
+
+[3,7,4,6]
+
+成功的数量为：7总数：8当前回溯率：87.5%
+##########
+##########
+ID:5
+Question:Cadmium Chloride is slightly soluble in this chemical, it is also called what?
+golden idx: [7, 9]
+[9,3,6,4,1,7,8,2]
+
+[9,3,6,4]
+
+成功的数量为：8总数：10当前回溯率：80.0%
+##########
+##########
+ID:6
+Question:Which tennis player won more Grand Slam titles, Henri Leconte or Jonathan Stark?
+golden idx: [4, 8]
+[4,8,0,1,2,9,7,5]
+
+[4, 8, 0, 9]
+
+成功的数量为：10总数：12当前回溯率：83.33333333333334%
+##########
+##########
+ID:7
+Question:Which genus of moth in the world's seventh-largest country contains only one species?
+golden idx: [1, 4]
+[0, 3, 4, 5, 8, 9, 6, 2]
+
+[0, 3, 4, 8]
+
+成功的数量为：11总数：14当前回溯率：78.57142857142857%
+##########
+##########
+ID:8
+Question:Who was once considered the best kick boxer in the world, however he has been involved in a number of controversies relating to his "unsportsmanlike conducts" in the sport and crimes of violence outside of the ring.
+golden idx: [0, 7]
+[7,6,0,4,2,5,3,1]
+
+[7, 0, 6, 2]
+
+成功的数量为：13总数：16当前回溯率：81.25%
+##########
+##########
+ID:9
+Question:The Dutch-Belgian television series that "House of Anubis" was based on first aired in what year?
+golden idx: [0, 6]
+[0, 6, 7, 1, 2, 8, 4, 5]
+
+[0, 6, 7, 2]
+
+成功的数量为：15总数：18当前回溯率：83.33333333333334%
+##########
+##########
+ID:10
+Question:What is the length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged?
+golden idx: [2, 3]
+[3, 1, 4, 0, 6, 9, 2, 5]
+
+[3,2,4,1]
+
+成功的数量为：17总数：20当前回溯率：85.0%
+##########
+##########
+ID:11
+Question:Fast Cars, Danger, Fire and Knives includes guest appearances from which hip hop record executive?
+golden idx: [4, 8]
+[8,7,0,3,6,4,2,9]
+
+[8,7,4,6]
+
+成功的数量为：19总数：22当前回溯率：86.36363636363636%
+##########
+##########
+ID:12
+Question:Gunmen from Laredo starred which narrator of "Frontier"?
+golden idx: [3, 7]
+[7,0,3,1,6,2,5,4]
+
+[3,7,0,1]
+
+成功的数量为：21总数：24当前回溯率：87.5%
+##########
+##########
+ID:13
+Question:Where did the form of music played by Die Rhöner Säuwäntzt originate?
+golden idx: [3, 9]
+[3,1,8,9,4,6,2,5]
+
+[3, 9, 1, 8]
+
+成功的数量为：23总数：26当前回溯率：88.46153846153845%
+##########
+##########
+ID:14
+Question:In which American football game was Malcolm Smith named Most Valuable player?
+golden idx: [2, 5]
+[2, 9, 5, 3, 1, 4, 0, 6]
+
+[2, 5, 9, 3]
+
+成功的数量为：25总数：28当前回溯率：89.28571428571429%
+##########
+##########
+ID:15
+Question:What U.S Highway gives access to Zilpo Road, and is also known as Midland Trail?
+golden idx: [2, 7]
+[1, 2, 7, 4, 0, 3, 6, 8]
+
+[1, 2, 4, 7]
+
+成功的数量为：27总数：30当前回溯率：90.0%
+##########
+##########
+ID:16
+Question:The 1988 American comedy film, The Great Outdoors, starred a four-time Academy Award nominee, who received a star on the Hollywood Walk of Fame in what year?
+golden idx: [3, 6]
+[0, 3, 6, 7, 4, 2, 1, 8]
+
+[6,0,3,7]
+
+成功的数量为：29总数：32当前回溯率：90.625%
+##########
+##########
+ID:17
+Question:What are the names of the current members of  American heavy metal band who wrote the music for  Hurt Locker The Musical? 
+golden idx: [0, 3]
+[3,0,1,4,6,7,2,8]
+
+[3,0,1,4]
+
+成功的数量为：31总数：34当前回溯率：91.17647058823529%
+##########
+##########
+ID:18
+Question:Human Error" is the season finale of the third season of a tv show that aired on what network?
+golden idx: [1, 2]
+[1, 0, 3, 6, 4, 7, 8, 9]
+
+[1,0,3,6]
+
+成功的数量为：32总数：36当前回溯率：88.88888888888889%
+##########
+##########
+ID:19
+Question:Dua Lipa, an English singer, songwriter and model, the album spawned the number-one single "New Rules" is a song by English singer Dua Lipa from her eponymous debut studio album, released in what year?
+golden idx: [3, 8]
+[8, 2, 3, 1, 6, 7, 0, 5]
+
+[2, 3, 1, 8]
+
+成功的数量为：34总数：38当前回溯率：89.47368421052632%
+##########
+##########
+ID:20
+Question:American politician Joe Heck ran unsuccessfully against Democrat Catherine Cortez Masto, a woman who previously served as the 32nd Attorney General of where?
+golden idx: [7, 8]
+[7, 8, 0, 1, 9, 4, 3, 2]
+
+[7,8,0,1]
+
+成功的数量为：36总数：40当前回溯率：90.0%
+##########
+##########
+ID:21
+Question:Which state does the drug stores, of which the CEO is Warren Bryant, are located?
+golden idx: [1, 7]
+[1, 7, 0, 3, 5, 6, 8, 2]
+
+[7, 1, 0, 2]
+
+成功的数量为：38总数：42当前回溯率：90.47619047619048%
+##########
+##########
+ID:22
+Question:Which  American politician did Donahue replaced 
+golden idx: [0, 5]
+[5, 4, 7, 0, 2, 3, 1, 8]
+
+[5,4,7,0]
+
+成功的数量为：40总数：44当前回溯率：90.9090909090909%
+##########
+##########
+ID:23
+Question:Which band was founded first, Hole, the rock band that Courtney Love was a frontwoman of, or The Wolfhounds?
+golden idx: [1, 9]
+[1, 0, 9, 6, 7, 3, 5, 4]
+
+[1, 9, 6, 7]
+
+成功的数量为：42总数：46当前回溯率：91.30434782608695%
+##########
+##########
+ID:24
+Question:How old is the female main protagonist of Catching Fire?
+golden idx: [1, 9]
+##########
+ID:25
+Question:Chang Ucchin was born in korea during a time that ended with the conclusion of what? 
+golden idx: [3, 9]
+[3, 2, 9, 4, 1, 5, 7, 6]
+
+[3, 9, 2, 4]
+
+成功的数量为：44总数：50当前回溯率：91.66666666666666%
+##########
+##########
+ID:26
+Question:Who is the director of the 2003 film which has scenes in it filmed at the Quality Cafe in Los Angeles?
+golden idx: [8, 9]
+[4,8,7,2,3,0,6,1]
+
+[8, 4, 7, 2]
+
+成功的数量为：45总数：52当前回溯率：90.0%
+##########
+##########
+ID:27
+Question:New Faces of 1952 is a musical revue with songs and comedy skits, it helped jump start the career of which young performer, and American actress?
+golden idx: [8, 9]
+[8, 1, 0, 7, 2, 9, 3, 6]
+
+[8, 1, 0, 7]
+
+成功的数量为：46总数：54当前回溯率：88.46153846153845%
+##########
+##########
+ID:28
+Question:Were Pavel Urysohn and Leonid Levin known for the same type of work?
+golden idx: [1, 7]
+[1, 7, 2, 6, 0, 8, 3, 4]
+
+[7, 1, 0, 8]
+
+成功的数量为：48总数：56当前回溯率：88.88888888888889%
+##########
+##########
+ID:29
+Question:Are both The New Pornographers and Kings of Leon American rock bands?
+golden idx: [1, 2]
+[1, 3, 0, 4, 5, 8, 2, 6]
+
+[2, 8, 1, 4]
+
+成功的数量为：50总数：58当前回溯率：89.28571428571429%
+##########
+##########
+ID:30
+Question:750 7th Avenue and 101 Park Avenue, are located in which city?
+golden idx: [2, 8]
+[2, 8, 0, 6, 7, 3, 5, 1]
+
+[2,8,0,6]
+
+成功的数量为：52总数：60当前回溯率：89.65517241379311%
+##########
+##########
+ID:31
+Question:Which actress played the part of fictitious character Kimberly Ann Hart, in the franchise built around a live action superhero television series taking much of its footage from the Japanese tokusatsu 'Super Sentai'?
+golden idx: [0, 9]
+[0, 9, 1, 3, 4, 5, 6, 7]
+
+[0, 9, 3, 4]
+
+成功的数量为：54总数：62当前回溯率：90.0%
+##########
+##########
+ID:32
+Question:Who was born first, Pablo Trapero or Aleksander Ford?
+golden idx: [1, 6]
+[6,1,0,8,7,4,3,5]
+
+[1,0,6,8]
+
+成功的数量为：56总数：64当前回溯率：90.32258064516128%
+##########
+##########
+ID:33
+Question:Are Jane and First for Women both women's magazines?
+golden idx: [7, 9]
+[7, 9, 1, 0, 8, 5, 8, 2]
+
+[7,9,8,1]
+
+成功的数量为：58总数：66当前回溯率：90.625%
+##########
+##########
+ID:34
+Question:What profession does Nicholas Ray and Elia Kazan have in common?
+golden idx: [4, 9]
+[4, 9, 6, 7, 8, 0, 5, 3]
+
+[4, 9, 6, 7]
+
+成功的数量为：60总数：68当前回溯率：90.9090909090909%
+##########
+##########
+ID:35
+Question:Where is the company that purchased Aixam based in?
+golden idx: [2, 3]
+[3, 2, 0, 1, 9, 4, 5, 6]
+
+[3,2,9,4]
+
+成功的数量为：62总数：70当前回溯率：91.17647058823529%
+##########
+##########
+ID:36
+Question:Which documentary is about Finnish rock groups, Adam Clayton Powell or The Saimaa Gesture?
+golden idx: [4, 5]
+[5,4,6,0,1,3,2,8]
+
+[5,4,0,1]
+
+成功的数量为：64总数：72当前回溯率：91.42857142857143%
+##########
+##########
+ID:37
+Question:Who was inducted into the Rock and Roll Hall of Fame, David Lee Roth or Cia Berg?
+golden idx: [0, 1]
+[1, 6, 5, 2, 4, 7, 0, 8]
+
+[1,6,5,2]
+
+成功的数量为：65总数：74当前回溯率：90.27777777777779%
+##########
+##########
+ID:38
+Question:Zimbabwe's Guwe Secondary School has a sister school in what New York cunty?
+golden idx: [1, 2]
+[1, 7, 2, 3, 8, 0, 4, 5]
+
+[1, 7, 2, 0]
+
+成功的数量为：67总数：76当前回溯率：90.54054054054053%
+##########
+##########
+ID:39
+Question:The Royal Commission into Drug Trafficking (1977–1979) or Woodward Royal Commission was a royal commission initiated by the New South Wales Government to investigate drug trafficking in New South Wales, Australia, especially links between the New South Wales Police and Mafia, The Honoured Society, is a Calabrian 'Ndrangheta criminal confederation, started in Melbourne and currently active in all of which country?  
+golden idx: [2, 6]
+[2,6,3,9,0,7,4,8]
+
+[6, 2, 9, 3]
+
+成功的数量为：69总数：78当前回溯率：90.78947368421053%
+##########
+##########
+ID:40
+Question:The 337th Flight Test Squadron (337 FLTS) was most recently part of the 46th Test Wing and based at McClellan Air Force Base, a former United States Air Force base located in the North Highlands area of Sacramento County, in which US state?
+golden idx: [0, 1]
+[1,0,8,7,4,6,2,3]
+
+[1, 0, 8, 7]
+
+成功的数量为：71总数：80当前回溯率：91.02564102564102%
+##########
+##########
+ID:41
+Question:The axial turbojet Pirna 014 was designed by engineers from this German aircraft and aircraft engine manufacturer based in which city?
+golden idx: [2, 8]
+[8, 2, 9, 1, 5, 6, 4, 3]
+
+[2, 8, 9, 6]
+
+成功的数量为：73总数：82当前回溯率：91.25%
+##########
+##########
+ID:42
+Question:Which faith is designated to the University of Providence, private university accredited by the NW association of Schools and Colleges and located in a third largest city in Montana after being passed by Missoula? 
+golden idx: [1, 3]
+[3, 2, 1, 9, 8, 4, 5, 6]
+
+[3, 2, 1, 9]
+
+成功的数量为：75总数：84当前回溯率：91.46341463414635%
+##########
+##########
+ID:43
+Question:Pauline Henry was known as the vocalist of a very popular cover song. Which album was this song from?
+golden idx: [6, 8]
+[5, 8, 9, 6, 4, 0, 2, 7]
+
+[5, 8, 9, 6]
+
+成功的数量为：77总数：86当前回溯率：91.66666666666666%
+##########
+##########
+ID:44
+Question:Guitars for Wounded Warriors is an album that was recorded in the village in which New York county?
+golden idx: [0, 1]
+[1, 0, 5, 3, 6, 2, 7, 8]
+
+[1, 0, 5, 3]
+
+成功的数量为：79总数：88当前回溯率：91.86046511627907%
+##########
+##########
+ID:45
+Question:What American country music singer-songwriter, born in May of 1942, sang a duet with her ex-husband the same year that he released the song "The Battle?"
+golden idx: [5, 7]
+[5,3,1,2,0,6,7,8]
+
+[5,3,1,0]
+
+成功的数量为：80总数：90当前回溯率：90.9090909090909%
+##########
+##########
+ID:46
+Question:Who was born first, Francis Nethersole or Elizabeth Stuart?
+golden idx: [5, 9]
+[9,4,1,5,0,3,8,7]
+
+[5, 9, 4, 1]
+
+成功的数量为：82总数：92当前回溯率：91.11111111111111%
+##########
+##########
+ID:47
+Question:What does the Hacker-Pschorr Brewery have to limit in order to comply with German regulations?
+golden idx: [6, 9]
+[9,6,5,1,4,7,2,8]
+
+[6, 9, 1, 4]
+
+成功的数量为：84总数：94当前回溯率：91.30434782608695%
+##########
+##########
+ID:48
+Question:Don Barry Mason was the founder of the Psychedelic Shamanistic Institute (PSI), which other member that's Welsh, that died on 10 April 2016?
+golden idx: [1, 8]
+[8, 1, 2, 3, 0, 4, 6, 7]
+
+[1, 0, 3, 2]
+
+成功的数量为：85总数：96当前回溯率：90.42553191489363%
+##########
+##########
+ID:49
+Question:What male actor starred in The Messenger?
+golden idx: [2, 8]
+[2, 8, 0, 6, 3, 1, 5, 7]
+
+[2, 8, 0, 6]
+
+成功的数量为：87总数：98当前回溯率：90.625%
+##########
+##########
+ID:50
+Question:Are Gin and tonic and Paloma both cocktails based on tequila?
+golden idx: [7, 8]
+[7, 1, 2, 8, 3, 4, 5, 6]
+
+[7, 8, 1, 2]
+
+成功的数量为：89总数：100当前回溯率：90.81632653061224%
+##########
+##########
+ID:51
+Question:Who is older Glenn Hughes or Ross Lynch?
+golden idx: [1, 2]
+[1, 2, 7, 0, 3, 4, 5, 6]
+
+[1, 2, 7, 3]
+
+成功的数量为：91总数：102当前回溯率：91.0%
+##########
+##########
+ID:52
+Question:In what year was the creator of the current arrangement of the "Simpson's Theme" born?
+golden idx: [2, 7]
+[2, 7, 0, 4, 1, 6, 8, 5]
+
+[2, 7, 0, 4]
+
+成功的数量为：93总数：104当前回溯率：91.17647058823529%
+##########
+##########
+ID:53
+Question:The Southern Railway runs from Vienna to Graz and the border with Slovenia at Spielfeld via the first mountain railway built in Europe to use what kind of track?
+golden idx: [4, 9]
+[9, 4, 0, 8, 6, 7, 3, 1]
+
+[4, 9, 6, 0]
+
+成功的数量为：95总数：106当前回溯率：91.34615384615384%
+##########
+##########
+ID:54
+Question:In what show did Cynthia Nixon receive the 2004 Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series and a Screen Actors Guild Award for her performance?
+golden idx: [7, 9]
+[7, 6, 5, 1, 4, 8, 3, 0]
+
+[7, 6, 5, 1]
+
+成功的数量为：96总数：108当前回溯率：90.56603773584906%
+##########
+##########
+ID:55
+Question:Lee Jun-fan played what character in "The Green Hornet" television series?
+golden idx: [4, 9]
+[9, 4, 7, 2, 0, 6, 3, 1]
+
+[4, 7, 6, 9]
+
+成功的数量为：98总数：110当前回溯率：90.74074074074075%
+##########
+##########
+ID:56
+Question:The 1895/96 Football League season was the eighth in Football League history with Everton, their Goodison Park home, is a football stadium located in Walton, Liverpool, in which country?
+golden idx: [4, 8]
+[4, 0, 8, 1, 3, 2, 5, 6]
+
+[4, 8, 0, 5]
+
+成功的数量为：100总数：112当前回溯率：90.9090909090909%
+##########
+##########
+ID:57
+Question:A Head Full of Dreams Tour is the seventh tour by Coldplay, and which had it's first show at a stadium that is known as Estadio Unico and is owned by who?
+golden idx: [3, 7]
+[7, 3, 8, 4, 2, 1, 5, 6]
+
+[3, 7, 8, 4]
+
+成功的数量为：102总数：114当前回溯率：91.07142857142857%
+##########
+##########
+ID:58
+Question:Roger Avary (born August 23, 1965) is a Canadian film and television producer, screenwriter and director in the American mass media industry, he wrote the screenplay for Beowulf, a 2007 British-American 3D motion capture epic fantasy film, directed by who?
+golden idx: [2, 9]
+[2, 9, 0, 1, 3, 6, 5, 4]
+
+[2,9,0,1]
+
+成功的数量为：104总数：116当前回溯率：91.22807017543859%
+##########
+##########
+ID:59
+Question:The American Pre-Code comedy film featuring an American actress, dancer, and singer, widely known for performing in films and RKO's musical films, was released in what year?
+golden idx: [1, 8]
+[0, 1, 3, 6, 4, 5, 7, 2]
+
+[0, 1, 3, 6]
+
+成功的数量为：105总数：118当前回溯率：90.51724137931035%
+##########
+##########
+ID:60
+Question:An edited version of "Just the Two of Us" reached number two on the "Billboard" Hot 100 behind a song written and composed by Donna Weiss and Jackie DeShannon which spend how many weeks at No. 1 on the "Billboard" hot 100?
+golden idx: [4, 5]
+[4, 5, 0, 2, 7, 8, 3, 6]
+
+[4, 5, 7, 0]
+
+成功的数量为：107总数：120当前回溯率：90.67796610169492%
+##########
+##########
+ID:61
+Question:Which band has more members, Saint Motel or Curve?
+golden idx: [6, 7]
+[6,0,3,5,2,4,8,9]
+
+[6, 0, 3, 2]
+
+成功的数量为：108总数：122当前回溯率：90.0%
+##########
+##########
+ID:62
+Question:"Funnybot" is the second episode of the fifteenth season of which American animated television series, created by Trey Parker and Matt Stone?  
+golden idx: [3, 5]
+[3,6,7,4,5,0,1,2]
+
+[3,6,7,4]
+
+成功的数量为：109总数：124当前回溯率：89.34426229508196%
+##########
+##########
+ID:63
+Question:Which private research university is located in Chestnut Hill, Massachusetts Boston College or Stanford University? 
+golden idx: [7, 8]
+[8,6,5,2,0,1,3,4]
+
+[8, 6, 5, 2]
+
+成功的数量为：110总数：126当前回溯率：88.70967741935483%
+##########
+##########
+ID:64
+Question:What American stage, film, and television actor  who also appeared in a large number of musicals, played Samson in the 1949 film "Samson and Delilah".
+golden idx: [1, 7]
+[1, 7, 5, 0, 4, 3, 2, 8]
+
+[1, 7, 5, 0]
+
+成功的数量为：112总数：128当前回溯率：88.88888888888889%
+##########
+##########
+ID:65
+Question:Iqaluit Airport and Canadian North are based out of what country?
+golden idx: [0, 4]
+[4,0,3,7,2,1,8,9]
+
+[4, 0, 3, 7]
+
+成功的数量为：114总数：130当前回溯率：89.0625%
+##########
+##########
+ID:66
+Question:In what political party was the man who officially opened he Royal Spa Centre in 1972?
+golden idx: [0, 5]
+[5,0,8,6,7,2,3,1]
+
+[5,0,8,1]
+
+成功的数量为：116总数：132当前回溯率：89.23076923076924%
+##########
+##########
+ID:67
+Question:Which Oscar-nominated film was written by the screenwriter who wrote a 1991 romantic drama based upon a screenplay by Sooni Taraporevala?
+golden idx: [2, 6]
+[2, 6, 0, 3, 5, 4, 1, 9]
+
+[6, 2, 3, 9]
+
+成功的数量为：118总数：134当前回溯率：89.39393939393939%
+##########
+##########
+ID:68
+Question:Are both Tim McIlrath and Spike Slawson American punk rock musicians?
+golden idx: [1, 5]
+[5,1,0,2,3,4,6,7]
+
+[5,1,0,2]
+
+成功的数量为：120总数：136当前回溯率：89.55223880597015%
+##########
+##########
+ID:69
+Question:The Golden Globe Award winner for best actor from "Roseanne" starred along what actress in Gigantic?
+golden idx: [4, 8]
+[8, 4, 0, 1, 3, 6, 2, 5]
+
+[4, 8, 0, 1]
+
+成功的数量为：122总数：138当前回溯率：89.70588235294117%
+##########
+##########
+ID:70
+Question:The expert mentor to the celebrities that perform on "Splash!" won the 2009 FINA World Championionship in the individual event at what age? 
+golden idx: [2, 9]
+[9, 0, 1, 2, 3, 4, 5, 6]
+
+[2, 1, 3, 4]
+
+成功的数量为：123总数：140当前回溯率：89.13043478260869%
+##########
+##########
+ID:71
+Question:Still Da Baddest is the fourth studio album by American rapper Trina, following the poor chart performance, "I Got a Thang for You" featuring which American singer/songwriter, record producer, business woman, and television personality, and was born in Oakland, California?
+golden idx: [6, 7]
+##########
+ID:72
+Question:What profession does Am Rong and Alexandre Rockwell have in common?
+golden idx: [3, 9]
+[0, 1, 4, 9, 8, 7, 2, 3]
+
+[3,0,1,8]
+
+成功的数量为：124总数：144当前回溯率：88.57142857142857%
+##########
+##########
+ID:73
+Question:El Nuevo Cojo and Golf Magazine are both special interest publications but which one is owned by Time Inc?
+golden idx: [3, 9]
+[0, 3, 9, 5, 6, 4, 2, 1]
+
+[0, 1, 2, 5]
+
+成功的数量为：124总数：146当前回溯率：87.32394366197182%
+##########
+##########
+ID:74
+Question:Who funds the bowling team that includes the school bus driver for Springfield Elementary School?
+golden idx: [2, 5]
+[5,2,7,0,6,3,1,4]
+
+[5,2,7,0]
+
+成功的数量为：126总数：148当前回溯率：87.5%
+##########
+##########
+ID:75
+Question:What city are George Washington University Hospital and MedStar Washington Hospital Center located in?
+golden idx: [4, 9]
+[4,9,0,1,8,2,6,7]
+
+[4, 9, 0, 1]
+
+成功的数量为：128总数：150当前回溯率：87.67123287671232%
+##########
+##########
+ID:76
+Question:what is the connection between Peter O'Meara and Norman Dike?
+golden idx: [1, 6]
+[1, 6, 4, 5, 0, 2, 3, 7]
+
+[1, 6, 2, 5]
+
+成功的数量为：130总数：152当前回溯率：87.83783783783784%
+##########
+##########
+ID:77
+Question:What author has contributed to such works as "New Statesmen", "The Nation", and "The Atlantic", among others, while also being being associated with Dysteleology?
+golden idx: [2, 7]
+[7, 1, 4, 5, 3, 0, 8, 2]
+
+[7, 1, 4, 0]
+
+成功的数量为：131总数：154当前回溯率：87.33333333333333%
+##########
+##########
+ID:78
+Question:Who developed the prototype pacemaker used by the 34th President of the USA?
+golden idx: [4, 6]
+[4, 5, 6, 2, 0, 3, 7, 8]
+
+[0, 5, 6, 4]
+
+成功的数量为：133总数：156当前回溯率：87.5%
+##########
+##########
+ID:79
+Question:Which publishing company has published Bizarre and a sister publication devoted to the anomalous phenomena popularised by Charles Fort?
+golden idx: [1, 3]
+[1, 3, 2, 4, 5, 8, 7, 6]
+
+[3, 1, 2, 4]
+
+成功的数量为：135总数：158当前回溯率：87.66233766233766%
+##########
+##########
+ID:80
+Question:Who performed the lead single on the album Friends in Low Places, No Fences, that reached #1 on Billboard?
+golden idx: [2, 9]
+[2, 9, 0, 1, 3, 4, 5, 6]
+
+[2, 9, 0, 1]
+
+成功的数量为：137总数：160当前回溯率：87.82051282051282%
+##########
+##########
+ID:81
+Question:Hate to Feel is the tenth track on what Alice in Chains' album that peaked as number six on the Billboard 200?
+golden idx: [4, 9]
+[9, 4, 3, 1, 7, 2, 6, 8]
+
+[9, 4, 2, 8]
+
+成功的数量为：139总数：162当前回溯率：87.9746835443038%
+##########
+##########
+ID:82
+Question:The lead singer and guitarist in the Portland, Oregon rock band consisting of John Gourley, Zach Carothers, Kyle O'Quin, Jason Sechrist and Eric Howk, goes by what alias?
+golden idx: [1, 2]
+[1, 2, 0, 3, 4, 6, 7, 8]
+
+[1, 2, 3, 4]
+
+成功的数量为：141总数：164当前回溯率：88.125%
+##########
+##########
+ID:83
+Question:What year was the winner of the 2016 Marrakesh ePrix born?
+golden idx: [8, 9]
+[9, 8, 0, 4, 2, 7, 5, 6]
+
+[8, 9, 4, 0]
+
+成功的数量为：143总数：166当前回溯率：88.27160493827161%
+##########
+##########
+ID:84
+Question:South Korean actor Kim Yool-ho starred in what 2016 movie directed by Yeon Sang-ho Yeon Sang-ho and starring actors Gong Yoo, Jung Yu-mi, and Ma Dong-seok?
+golden idx: [2, 6]
+[2, 0, 6, 3, 9, 5, 1, 8]
+
+[2,6,3,5]
+
+成功的数量为：145总数：168当前回溯率：88.41463414634147%
+##########
+##########
+ID:85
+Question:According to the 2006 census what is the population of the city in which James Iroha Uchechukwu was born ?
+golden idx: [4, 5]
+[5,1,3,0,2,6,8,7]
+
+[5, 0, 1, 3]
+
+成功的数量为：146总数：170当前回溯率：87.95180722891565%
+##########
+##########
+ID:86
+Question:What actor in the film D.C. Cab also had a role in the TV series Barney Miller?
+golden idx: [2, 5]
+[1, 2, 3, 5, 4, 8, 0, 7]
+
+[3, 5, 1, 4]
+
+成功的数量为：147总数：172当前回溯率：87.5%
+##########
+##########
+ID:87
+Question:Which industry do Richard Hawley and Chicago's Catherine belong to? 
+golden idx: [2, 3]
+[3, 2, 0, 1, 5, 6, 7, 4]
+
+[3, 2, 0, 1]
+
+成功的数量为：149总数：174当前回溯率：87.6470588235294%
+##########
+##########
+ID:88
+Question:Are Pam Veasey and Jon Jost both American?
+golden idx: [1, 7]
+[1, 7, 2, 3, 6, 4, 5, 0]
+
+[1, 7, 0, 4]
+
+成功的数量为：151总数：176当前回溯率：87.79069767441861%
+##########
+##########
+ID:89
+Question:Maurice Hines and his brother were famous for what?
+golden idx: [0, 3]
+[3,0,8,1,9,2,5,6]
+
+[3, 0, 8, 9]
+
+成功的数量为：153总数：178当前回溯率：87.93103448275862%
+##########
+##########
+ID:90
+Question:Are the New Orleans Outfall Canals the same length as the Augusta Canal?
+golden idx: [1, 5]
+[1, 0, 2, 4, 5, 3, 6, 7]
+
+[1, 0, 4, 2]
+
+成功的数量为：154总数：180当前回溯率：87.5%
+##########
+##########
+ID:91
+Question:In which stadium do the teams owned by Myra Kraft's husband play?
+golden idx: [2, 4]
+[4,2,0,1,5,6,7,8]
+
+[4,2,0,1]
+
+成功的数量为：156总数：182当前回溯率：87.64044943820225%
+##########
+##########
+ID:92
+Question:What southern California based band covered Blue Öyster Cult's Godzilla?
+golden idx: [5, 8]
+[5, 1, 4, 3, 0, 2, 7, 9]
+
+[5, 1, 4, 3]
+
+成功的数量为：157总数：184当前回溯率：87.22222222222223%
+##########
+##########
+ID:93
+Question:The Swedish-British entertainment studio executive and film executive producer, who was the Executive producer for a 2016 American action thriller film directed by Babak Najafi, currently serve?
+golden idx: [4, 8]
+[8,1,4,0,7,2,5,3]
+
+[8, 4, 1, 2]
+
+成功的数量为：159总数：186当前回溯率：87.36263736263736%
+##########
+##########
+ID:94
+Question:an Emmy Award winner and two-time Tony Award winner, was on the episode 15 of the third season of "Chuck". what is her name ?
+golden idx: [4, 8]
+[8, 5, 7, 1, 6, 3, 4, 0]
+
+[8, 5, 7, 4]
+
+成功的数量为：161总数：188当前回溯率：87.5%
+##########
+##########
+ID:95
+Question:What is the current name of the Atlanta Mansion built for the daughter of the 41st Mayor of Atlanta, Georgia?
+golden idx: [0, 3]
+[3,0,1,5,9,4,8,7]
+
+[3, 0, 5, 1]
+
+成功的数量为：163总数：190当前回溯率：87.63440860215054%
+##########
+##########
+ID:96
+Question:Who invented the type of script used in autographs?
+golden idx: [1, 3]
+[1, 3, 6, 2, 7, 8, 0, 5]
+
+[3,2,6,1]
+
+成功的数量为：165总数：192当前回溯率：87.7659574468085%
+##########
+##########
+ID:97
+Question:Approximately what percentage of the global population is made up of the ethnic group Princess Fragrant was produced to improve relations with?
+golden idx: [3, 8]
+[0,2,3,8,7,5,6,9]
+
+[8,0,2,3]
+
+成功的数量为：167总数：194当前回溯率：87.89473684210526%
+##########
+##########
+ID:98
+Question:The Boren-McCurdy proposals were partially brought about by which Oklahoma politician in 1992?
+golden idx: [0, 9]
+[9, 0, 1, 3, 4, 7, 6, 2]
+
+[9, 0, 1, 3]
+
+成功的数量为：169总数：196当前回溯率：88.02083333333334%
+##########
+##########
+ID:99
+Question:The Thoen Stone is on display at a museum in what county?
+golden idx: [5, 8]
+[8,0,7,1,2,5,6,3]
+
+[8, 0, 5, 2]
+
+成功的数量为：171总数：198当前回溯率：88.14432989690721%
+##########
+##########
+ID:100
+Question:Is Children's National Medical Center or MedStar Washington Hospital Center the largest private hospital in Washington, D.C.?
+golden idx: [7, 9]
+[9, 7, 0, 1, 3, 4, 5, 6]
+
+[9, 7, 0, 1]
+
+成功的数量为：173总数：200当前回溯率：88.26530612244898%
+##########
+##########
+ID:101
+Question:Prince William, Duke of Gloucester and Prince George of Denmark, were eventually monarchs of which Kingdom?
+golden idx: [7, 8]
+[7, 8, 0, 3, 1, 5, 2, 9]
+
+[7,8,9,0]
+
+成功的数量为：175总数：202当前回溯率：88.38383838383838%
+##########
+##########
+ID:102
+Question:The airline operating in Whitehorse, Yukon handled how many passengers in 2012?
+golden idx: [0, 7]
+[0, 7, 9, 8, 1, 2, 3, 5]
+
+[0, 7, 9, 8]
+
+成功的数量为：177总数：204当前回溯率：88.5%
+##########
+##########
+ID:103
+Question:What State has a Disney Resort & Spa that is a beachside hotel, resort and vacation destination offering complimentary children's activities and programs and that Djuan Rivers was a General Manager at?
+golden idx: [7, 9]
+[7,3,0,1,4,8,6,5]
+
+[7, 3, 1, 8]
+
+成功的数量为：178总数：206当前回溯率：88.11881188118812%
+##########
+##########
+ID:104
+Question:Are Wenling and Xinzheng both in China?
+golden idx: [0, 1]
+[1, 0, 9, 2, 7, 3, 8, 4]
+
+[1,0,9,2]
+
+成功的数量为：180总数：208当前回溯率：88.23529411764706%
+##########
+##########
+ID:105
+Question:What is the birth date of the coach of the 2014-15 Michigan Wolverines men's basketball team?
+golden idx: [5, 9]
+[9,5,0,4,2,3,7,1]
+
+[5, 9, 1, 0]
+
+成功的数量为：182总数：210当前回溯率：88.3495145631068%
+##########
+##########
+ID:106
+Question:Which organization presents the award in which Chris Noonan was nominated for his work in "Babe?"
+golden idx: [3, 7]
+[3,2,7,0,4,1,5,6]
+
+[3, 2, 7, 0]
+
+成功的数量为：184总数：212当前回溯率：88.46153846153845%
+##########
+##########
+ID:107
+Question:Where is the base of one of the three main British intelligence agencies?
+golden idx: [2, 6]
+[2,6,4,5,0,8,1,3]
+
+[2, 6, 3, 4]
+
+成功的数量为：186总数：214当前回溯率：88.57142857142857%
+##########
+##########
+ID:108
+Question:When a Man Falls in Love, is a 2013 South Korean television series, starring Song Seung-heon, Shin Se-kyung, Chae Jung-an, and which South Korean actor, born on ? 
+golden idx: [2, 3]
+[2,3,6,7,0,1,4,5]
+
+[2, 3, 0, 4]
+
+成功的数量为：188总数：216当前回溯率：88.67924528301887%
+##########
+##########
+ID:109
+Question:What retailer is the second-largest in the United States and has a commercial featuring the American artist who was 1st runner-up in the 2005 USA Weekend Magazine's songwriting competition?
+golden idx: [0, 6]
+[6,3,0,4,7,9,2,1]
+
+[0, 6, 3, 4]
+
+成功的数量为：190总数：218当前回溯率：88.78504672897196%
+##########
+##########
+ID:110
+Question:Which English actor of stage, film and television from the 1978 BBC drama "Pennies From Heaven" appeared in the 2006 BBC Four television play "Kenneth Williams: Fantabulosa!?"
+golden idx: [0, 2]
+[3, 0, 2, 5, 6, 1, 7, 9]
+
+[2, 0, 1, 5]
+
+成功的数量为：192总数：220当前回溯率：88.88888888888889%
+##########
+##########
+ID:111
+Question:Who hosted both Miss USA 1968 and The Price Is Right?
+golden idx: [3, 9]
+[1, 3, 9, 0, 4, 6, 2, 5]
+
+[1, 3, 9, 4]
+
+成功的数量为：194总数：222当前回溯率：88.9908256880734%
+##########
+##########
+ID:112
+Question:What video game published by Sierra Entertainment includes an antagonist figure who's mystery is the core of the series? 
+golden idx: [1, 3]
+[1, 3, 2, 6, 7, 5, 4, 0]
+
+[3,1,6,7]
+
+成功的数量为：196总数：224当前回溯率：89.0909090909091%
+##########
+##########
+ID:113
+Question:Close to the Enemy starred the English actor known as Ash Morgan in what BBC series?
+golden idx: [4, 7]
+[7,4,3,2,8,1,0,5]
+
+[7,4,8,1]
+
+成功的数量为：198总数：226当前回溯率：89.1891891891892%
+##########
+##########
+ID:114
+Question:The Bass Rock Lighthouse was next to what Castle?
+golden idx: [3, 4]
+[3, 5, 4, 1, 2, 0, 6, 8]
+
+[5, 3, 4, 0]
+
+成功的数量为：200总数：228当前回溯率：89.28571428571429%
+##########
+##########
+ID:115
+Question:Gülhane Park and Zografeion Lyceum, are located in which country?
+golden idx: [2, 6]
+[2, 0, 1, 6, 7, 5, 8, 9]
+
+[2, 0, 1, 6]
+
+成功的数量为：202总数：230当前回溯率：89.38053097345133%
+##########
+##########
+ID:116
+Question:What is the name of the movie in which Edwin Brown plays a man that executed at least 400 people, including William Joyce and John Amery?
+golden idx: [3, 9]
+[9, 3, 6, 1, 0, 8, 7, 2]
+
+[9, 3, 6, 0]
+
+成功的数量为：204总数：232当前回溯率：89.47368421052632%
+##########
+##########
+ID:117
+Question:What genre of music is the solo artist that contributed to Real Damage a variant of?
+golden idx: [0, 4]
+[4,0,3,7,5,8,9,1]
+
+[0, 4, 7, 8]
+
+成功的数量为：206总数：234当前回溯率：89.56521739130436%
+##########
+##########
+ID:118
+Question:Jake David Shapiro was best know for being the screenwriter of a film directed by who?
+golden idx: [5, 9]
+[5, 9, 0, 1, 8, 3, 4, 2]
+
+[5, 0, 9, 8]
+
+成功的数量为：208总数：236当前回溯率：89.65517241379311%
+##########
+##########
+ID:119
+Question:What book contains a poem which, along with "Beowulf" and the "Anglo-Saxon Chronicle", preserves a legendary list of the kings of the Angles?
+golden idx: [2, 4]
+[4,1,8,3,0,6,2,9]
+
+[4, 8, 1, 2]
+
+成功的数量为：210总数：238当前回溯率：89.74358974358975%
+##########
+##########
+ID:120
+Question:Norbert Holm was arrested and later demoted because of his Chief of Operations association with a military theorist popularly known as what?
+golden idx: [2, 8]
+[8, 2, 0, 1, 5, 6, 3, 7]
+
+[8, 2, 0, 1]
+
+成功的数量为：212总数：240当前回溯率：89.83050847457628%
+##########
+##########
+ID:121
+Question:What state does Sang-Wook Cheong work as a materials scientist?
+golden idx: [6, 7]
+[6,0,1,2,3,4,5,7]
+
+[6,0,2,1]
+
+成功的数量为：213总数：242当前回溯率：89.49579831932773%
+##########
+##########
+ID:122
+Question:What type of vegetation does Kniphofia and Baptisia have in common?
+golden idx: [1, 4]
+[4, 1, 9, 3, 7, 8, 6, 5]
+
+[4, 1, 9, 3]
+
+成功的数量为：215总数：244当前回溯率：89.58333333333334%
+##########
+##########
+ID:123
+Question:Californian rock band Lit recorded A Place in the Sun in 1995, but what's their best known song?
+golden idx: [1, 6]
+[1, 8, 6, 9, 0, 5, 2, 7]
+
+[1, 8, 6, 9]
+
+成功的数量为：217总数：246当前回溯率：89.6694214876033%
+##########
+##########
+ID:124
+Question:Gary Harrison, began his career in the 1970s and has written over how many major-label recorded songs including several number-one hits, another artist who have recorded his work include Bryan White, an American country music artist?
+golden idx: [7, 9]
+[7, 0, 8, 2, 3, 5, 6, 1]
+
+[7, 8, 2, 3]
+
+成功的数量为：218总数：248当前回溯率：89.34426229508196%
+##########
+##########
+ID:125
+Question:The 1976 German Grand Prix was won by a driver who retired in what year?
+golden idx: [0, 4]
+[0, 3, 7, 5, 2, 1, 6, 9]
+
+[0,3,1,2]
+
+成功的数量为：219总数：250当前回溯率：89.02439024390245%
+##########
+##########
+ID:126
+Question:What event at the Asian Junior Athletics Championships has men and women competing at the same time?
+golden idx: [2, 3]
+[0, 1, 3, 4, 5, 8, 2, 9]
+
+[3, 0, 1, 9]
+
+成功的数量为：220总数：252当前回溯率：88.70967741935483%
+##########
+##########
+ID:127
+Question:Which 1999 French Open - Women's Doubles runner-up was born in Russia on 7 June 1981?
+golden idx: [0, 1]
+[1, 2, 8, 9, 3, 7, 4, 0]
+
+[1, 8, 0, 2]
+
+成功的数量为：222总数：254当前回溯率：88.8%
+##########
+##########
+ID:128
+Question:What is the length of the River which has Wild Horse Creek as a tributary ?
+golden idx: [1, 7]
+[1, 0, 2, 3, 8, 7, 6, 5]
+
+[8,1,2,3]
+
+成功的数量为：223总数：256当前回溯率：88.4920634920635%
+##########
+##########
+ID:129
+Question:Are Manhattan West and Singer Building both projects in New York?
+golden idx: [2, 6]
+[2, 6, 1, 4, 5, 7, 0, 8]
+
+[2, 6, 1, 4]
+
+成功的数量为：225总数：258当前回溯率：88.58267716535433%
+##########
+##########
+ID:130
+Question:Who is the American internet entrepreneur who founded the company featured on 24 Hours on Craigslist?
+golden idx: [1, 9]
+[9, 1, 0, 3, 4, 5, 6, 8]
+
+[1, 0, 3, 4]
+
+成功的数量为：226总数：260当前回溯率：88.28125%
+##########
+##########
+ID:131
+Question:Between two tennis players Kim Clijsters and Mary Pierce, who is older?
+golden idx: [1, 9]
+[9,1,5,6,7,2,3,0]
+
+[9, 1, 6, 5]
+
+成功的数量为：228总数：262当前回溯率：88.37209302325581%
+##########
+##########
+ID:132
+Question:Which American college that has sent students to Centre for Medieval and Renaissance Studies was founded in 1874?
+golden idx: [8, 9]
+[8,9,2,5,6,7,4,3]
+
+[8, 9, 2, 5]
+
+成功的数量为：230总数：264当前回溯率：88.46153846153845%
+##########
+##########
+ID:133
+Question:Hot Coffee, Mississippi sometimes shares a zipcode with a nearby city with what population at the 2010 census?
+golden idx: [4, 7]
+[4,7,8,0,1,6,3,9]
+
+[7,4,0,1]
+
+成功的数量为：232总数：266当前回溯率：88.54961832061069%
+##########
+##########
+ID:134
+Question:Jo Ann Terry won the 80m hurdles event at what Sao Paulo-based event from 1963?
+golden idx: [3, 7]
+[7, 3, 0, 6, 2, 1, 8, 9]
+
+[7, 3, 6, 2]
+
+成功的数量为：234总数：268当前回溯率：88.63636363636364%
+##########
+##########
+ID:135
+Question:Pearl Lowe and Alison Goldfrapp, is of which nationality?
+golden idx: [1, 2]
+[1, 0, 8, 3, 4, 5, 6, 9]
+
+[1,8,0,3]
+
+成功的数量为：235总数：270当前回溯率：88.34586466165413%
+##########
+##########
+ID:136
+Question:Which British company whose majority of its business interests are in Asia was related to the London Based Trading house Matheson & Company?
+golden idx: [4, 7]
+[7,4,1,2,0,3,6,8]
+
+[7, 4, 3, 0]
+
+成功的数量为：237总数：272当前回溯率：88.43283582089553%
+##########
+##########
+ID:137
+Question:What man, also known as mi Sde-Or, created a military self-defense system developed for the Israel Defense Forces?
+golden idx: [4, 5]
+[4, 5, 2, 3, 0, 6, 7, 8]
+
+[4, 5, 2, 3]
+
+成功的数量为：239总数：274当前回溯率：88.51851851851852%
+##########
+##########
+ID:138
+Question:Do musicians Robert Fleischman and Jimmy Barnes have the same nationality?
+golden idx: [1, 3]
+[1, 3, 2, 4, 8, 0, 5, 7]
+
+[8,0,2,4]
+
+成功的数量为：239总数：276当前回溯率：87.86764705882352%
+##########
+##########
+ID:139
+Question:What is the name of this American multinational corporation that provides IT services, headquartered in New Jersey, that acquired Mirabeau?
+golden idx: [1, 5]
+[1, 5, 0, 3, 4, 2, 6, 8]
+
+[1, 5, 0, 3]
+
+成功的数量为：241总数：278当前回溯率：87.95620437956204%
+##########
+##########
+ID:140
+Question:When was Fannie Lee Chaney's son born?
+golden idx: [6, 9]
+[6,9,3,8,2,0,5,7]
+
+[6, 9, 8, 3]
+
+成功的数量为：243总数：280当前回溯率：88.04347826086956%
+##########
+##########
+ID:141
+Question:The Canada Memorial in Green Park, London, United Kingdom, commemorates members of the Canadian Forces killed during the First and Second World Wars, the memorial was the result of lobbying and fund raising, much of it in Canada, by the former Canadian media tycoon Conrad Moffat Black, his title is what, of this British former newspaper publisher and author?
+golden idx: [2, 9]
+[9, 2, 4, 7, 0, 5, 1, 8]
+
+[9, 2, 4, 7]
+
+成功的数量为：245总数：282当前回溯率：88.12949640287769%
+##########
+##########
+ID:142
+Question:WNP-3 and WNP-5 were constructed by the agency formed in which year?
+golden idx: [6, 9]
+[0, 9, 5, 6, 2, 3, 8, 4]
+
+[9, 6, 5, 8]
+
+成功的数量为：247总数：284当前回溯率：88.21428571428571%
+##########
+##########
+ID:143
+Question:he Central Harbourfront is a waterfront site it is the result of Central and Wan Chai Reclamation, and it sits to the east of the International Finance Centre (IFC), a skyscraper and an integrated commercial development on the waterfront of the Central District, of which territory?
+golden idx: [3, 5]
+[5, 3, 0, 1, 6, 7, 2, 9]
+
+[5, 3, 0, 1]
+
+成功的数量为：249总数：286当前回溯率：88.29787234042553%
+##########
+##########
+ID:144
+Question:What city does Bundestag and Reichstag building have in common?
+golden idx: [1, 9]
+[1, 3, 0, 4, 2, 9, 6, 7]
+
+[9, 3, 1, 4]
+
+成功的数量为：251总数：288当前回溯率：88.38028169014085%
+##########
+##########

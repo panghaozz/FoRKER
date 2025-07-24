@@ -1,0 +1,414 @@
+##########
+ID:1
+Question:Were Scott Derrickson and Ed Wood of the same nationality?
+Right Answer:yes
+Answer: Yes
+Evidence and explanation: Both Scott Derrickson and Ed Wood are identified as American in the provided context.
+Step-by-step reasoning with evidence and explanation: 
+1. From the context provided in index 1, we learn that Scott Derrickson is an American director, screenwriter, and producer. This information is found in the sentence: "Scott Derrickson (born July 16, 1966) is an American director, screenwriter and producer."
+2. From the context provided in index 8, we learn that Ed Wood was an American filmmaker, actor, writer, producer, and director. This information is found in the sentence: "Edward Davis Wood Jr. (October 10, 1924 – December 10, 1978) was an American filmmaker, actor, writer, producer, and director."
+3. Therefore, based on the information provided in the context, we can conclude that both Scott Derrickson and Ed Wood are of the same nationality, which is American.
+原始EM：1, 总数：1, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：1, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:2
+Question:What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?
+Right Answer:Chief of Protocol
+Answer: United States ambassador to Ghana and to Czechoslovakia and Chief of Protocol of the United States.
+Evidence and explanation: The woman who portrayed Corliss Archer in the film "Kiss and Tell" was Shirley Temple, as stated in the context from 'Kiss and Tell (1945 film)'. According to the context from 'Shirley Temple', she later held the positions of United States ambassador to Ghana and to Czechoslovakia and also served as Chief of Protocol of the United States.
+Step-by-step reasoning with evidence and explanation: 
+1. Identify the actress who portrayed Corliss Archer in the film "Kiss and Tell". From the context 'Kiss and Tell (1945 film)', we learn that the actress is Shirley Temple.
+2. Determine the government position held by Shirley Temple. From the context 'Shirley Temple', we learn that she was named United States ambassador to Ghana and to Czechoslovakia and also served as Chief of Protocol of the United States.
+3. Therefore, the government position held by the woman who portrayed Corliss Archer in the film "Kiss and Tell" was United States ambassador to Ghana and to Czechoslovakia and Chief of Protocol of the United States.
+原始EM：1, 总数：2, 网络错误：0, 当前原始EM分数：50.0%, 增强EM答对：1, 当前增强EM分数：50.0%, 当前F1分数：68.75%
+##########
+##########
+ID:3
+Question:What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?
+Right Answer:Animorphs
+Answer: The Animorphs series.
+Evidence and explanation: The Animorphs series is a science fantasy series of young adult books written by Katherine Applegate and her husband Michael Grant, writing together under the name K. A. Applegate, and published by Scholastic. It is told in first person, with all six main characters taking turns narrating the books through their own perspectives. The Hork-Bajir Chronicles is the second companion book to the "Animorphs" series, written by K. A. Applegate. The book tells the story of how the Yeerks enslaved the Hork-Bajir, and how Aldrea, an Andalite, and her companion, Dak Hamee, a Hork-Bajir, tried to save their world from the invasion.
+Step-by-step reasoning with evidence and explanation: The question asks for a science fantasy young adult series that is told in first person and has a set of companion books narrating the stories of enslaved worlds and alien species. From the provided context, the Animorphs series fits this description. The context from index 8 states that Animorphs is a science fantasy series of young adult books written by K. A. Applegate and is told in first person. The context from index 6 provides information about The Hork-Bajir Chronicles, which is a companion book to the Animorphs series. This book narrates the story of how the Yeerks enslaved the Hork-Bajir, an alien species. Therefore, the Animorphs series is the answer to the question.
+原始EM：1, 总数：3, 网络错误：0, 当前原始EM分数：33.33333333333333%, 增强EM答对：1, 当前增强EM分数：33.33333333333333%, 当前F1分数：68.05555555555554%
+##########
+##########
+ID:4
+Question:Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?
+Right Answer:no
+Answer: No, the Laleli Mosque and Esma Sultan Mansion are not located in the same neighborhood.
+Evidence and explanation: The Laleli Mosque is located in Laleli, Fatih, Istanbul, Turkey as per context index 3. The Esma Sultan Mansion is located at Bosphorus in Ortaköy neighborhood of Istanbul, Turkey as per context index 8.
+Step-by-step reasoning with evidence and explanation: 
+1. From the context index 3, we learn that the Laleli Mosque is located in the Laleli, Fatih neighborhood of Istanbul, Turkey.
+2. From the context index 8, we learn that the Esma Sultan Mansion is located in the Ortaköy neighborhood of Istanbul, Turkey.
+3. Comparing the two pieces of information, it is clear that the Laleli Mosque and the Esma Sultan Mansion are located in different neighborhoods of Istanbul, Turkey. Therefore, the claim that they are located in the same neighborhood is false.
+原始EM：1, 总数：4, 网络错误：0, 当前原始EM分数：25.0%, 增强EM答对：1, 当前增强EM分数：25.0%, 当前F1分数：51.041666666666664%
+##########
+##########
+ID:5
+Question:The director of the romantic comedy "Big Stone Gap" is based in what New York city?
+Right Answer:Greenwich Village, New York City
+Answer: Greenwich Village, New York City
+Evidence and explanation: The director of the romantic comedy "Big Stone Gap" is Adriana Trigiani, who is based in Greenwich Village, New York City.
+Step-by-step reasoning with evidence and explanation: 
+1. From the context given in index 8, we learn that the romantic comedy "Big Stone Gap" was written and directed by Adriana Trigiani. 
+2. In the context given in index 7, it is stated that Adriana Trigiani is an entrepreneur based in Greenwich Village, New York City. 
+3. Therefore, by connecting these two pieces of information, we can conclude that the director of "Big Stone Gap", Adriana Trigiani, is based in Greenwich Village, New York City.
+原始EM：2, 总数：5, 网络错误：0, 当前原始EM分数：40.0%, 增强EM答对：2, 当前增强EM分数：40.0%, 当前F1分数：60.83333333333333%
+##########
+##########
+ID:6
+Question:2014 S/S is the debut album of a South Korean boy group that was formed by who?
+Right Answer:YG Entertainment
+Answer: YG Entertainment
+Evidence and explanation: The context from the title "2014 S/S" states that "2014 S/S is the debut album of South Korean group WINNER. It was released on August 12, 2014 by the group's record label, YG Entertainment."
+Step-by-step reasoning with evidence and explanation: The question asks about the debut album "2014 S/S" and who formed the South Korean boy group that released it. By looking at the context provided, we can see that the album "2014 S/S" is associated with the South Korean group WINNER. The context further states that the album was released by the group's record label, YG Entertainment. Therefore, it can be inferred that YG Entertainment is the entity that formed the South Korean boy group that released the debut album "2014 S/S".
+原始EM：3, 总数：6, 网络错误：0, 当前原始EM分数：50.0%, 增强EM答对：3, 当前增强EM分数：50.0%, 当前F1分数：67.3611111111111%
+##########
+##########
+ID:7
+Question:Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?
+Right Answer:Eenasul Fateh
+Answer: Eenasul Fateh
+Evidence and explanation: The context from the title 'Eenasul Fateh' states that "Eenasul Fateh, also known by his stage name Aladin, is a Bangladeshi-British cultural practitioner, magician, live artist and former international management consultant."
+Step-by-step reasoning with evidence and explanation: The question asks for a person known by the stage name Aladin who also worked as a consultant to help organizations improve their performance. By examining the provided contexts, the information in the 'Eenasul Fateh' context directly matches the requirements of the question. It mentions that Eenasul Fateh, who is known by his stage name Aladin, was a former international management consultant. Therefore, Eenasul Fateh is the person referred to in the question.
+原始EM：4, 总数：7, 网络错误：0, 当前原始EM分数：57.14285714285714%, 增强EM答对：4, 当前增强EM分数：57.14285714285714%, 当前F1分数：72.02380952380952%
+##########
+##########
+ID:8
+Question:The arena where the Lewiston Maineiacs played their home games can seat how many people?
+Right Answer:3,677 seated
+Answer: The arena can seat 4,000 people.
+Evidence and explanation: The evidence comes from the context provided in the paragraph titled 'Androscoggin Bank Colisée', which states that the Androscoggin Bank Colisée, where the Lewiston Maineiacs played their home games, has a capacity of 4,000 (3,677 seated).
+Step-by-step reasoning with evidence and explanation: 
+1. The question asks about the seating capacity of the arena where the Lewiston Maineiacs played their home games.
+2. From the context provided, we know that the Lewiston Maineiacs were a junior ice hockey team based in Lewiston, Maine (from the paragraph titled 'Lewiston Maineiacs').
+3. The same context also tells us that the team played its home games at the Androscoggin Bank Colisée.
+4. Another piece of context, from the paragraph titled 'Androscoggin Bank Colisée', tells us that this arena has a capacity of 4,000 (3,677 seated).
+5. Therefore, we can conclude that the arena where the Lewiston Maineiacs played their home games can seat 4,000 people.
+原始EM：4, 总数：8, 网络错误：0, 当前原始EM分数：50.0%, 增强EM答对：4, 当前增强EM分数：50.0%, 当前F1分数：63.02083333333333%
+##########
+##########
+ID:9
+Question:Who is older, Annie Morton or Terry Richardson?
+Right Answer:Terry Richardson
+Answer: Annie Morton is older than Terry Richardson.
+Evidence and explanation: The context provided gives the birth dates of both individuals. Terry Richardson was born on August 14, 1965, and Annie Morton was born on October 8, 1970. Therefore, Annie Morton is older than Terry Richardson by about five years.
+Step-by-step reasoning with evidence and explanation: 
+1. From the context titled 'Terry Richardson', we learn that Terry Richardson was born on August 14, 1965.
+2. From the context titled 'Annie Morton', we learn that Annie Morton was born on October 8, 1970.
+3. Comparing these two dates, it is clear that Annie Morton was born before Terry Richardson, making her older by about five years.
+原始EM：4, 总数：9, 网络错误：0, 当前原始EM分数：44.44444444444444%, 增强EM答对：4, 当前增强EM分数：44.44444444444444%, 当前F1分数：60.956790123456784%
+##########
+##########
+ID:10
+Question:Are Local H and For Against both from the United States?
+Right Answer:yes
+Answer: Yes
+Evidence and explanation: The band Local H is from Zion, Illinois, United States as stated in context 5. The band For Against is from Lincoln, Nebraska, United States as stated in context 6.
+Step-by-step reasoning with evidence and explanation: To answer the question, we need to find the origin of both bands, Local H and For Against. Looking at the context provided, context 5 states that "Local H is an American rock band originally formed by guitarist and vocalist Scott Lucas, bassist Matt Garcia, drummer Joe Daniels, and lead guitarist John Sparkman in Zion, Illinois in 1987." This confirms that Local H is from the United States, specifically Zion, Illinois. Next, we look at context 6 which states that "For Against is a United States post-punk/dream pop band from Lincoln, Nebraska." This confirms that For Against is also from the United States, specifically Lincoln, Nebraska. Therefore, both bands, Local H and For Against, are from the United States.
+原始EM：5, 总数：10, 网络错误：0, 当前原始EM分数：50.0%, 增强EM答对：5, 当前增强EM分数：50.0%, 当前F1分数：64.8611111111111%
+##########
+##########
+ID:11
+Question:What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?
+Right Answer:Kansas Song
+Answer: Kansas Song (We’re From Kansas)
+Evidence and explanation: The evidence comes from the context with index 9, which states that "Kansas Song (We’re From Kansas) is a fight song of the University of Kansas."
+Step-by-step reasoning with evidence and explanation: The question asks for the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area. From the context with index 1, we learn that the University of Kansas is a public research university in the U.S. state of Kansas with its main campus in Lawrence and two branch campuses in the Kansas City metropolitan area. Therefore, the university in question is the University of Kansas. Then, from the context with index 9, we find that the fight song of the University of Kansas is "Kansas Song (We’re From Kansas)". Therefore, the answer to the question is "Kansas Song (We’re From Kansas)".
+原始EM：5, 总数：11, 网络错误：0, 当前原始EM分数：45.45454545454545%, 增强EM答对：5, 当前增强EM分数：45.45454545454545%, 当前F1分数：64.15945165945165%
+##########
+##########
+ID:12
+Question:What screenwriter with credits for "Evolution" co-wrote a film starring Nicolas Cage and Téa Leoni?
+Right Answer:David Weissman
+Answer: David Weissman
+Evidence and explanation: The context from the title "David Weissman" states that David Weissman is a screenwriter whose film credits include "The Family Man" (2000) and "Evolution" (2001). The context from the title "The Family Man" confirms that "The Family Man" is a film starring Nicolas Cage and Téa Leoni, and it was written by David Diamond and David Weissman.
+Step-by-step reasoning with evidence and explanation: 
+1. The question asks for a screenwriter with credits for "Evolution" who also co-wrote a film starring Nicolas Cage and Téa Leoni.
+2. From the context titled "David Weissman", we learn that David Weissman is a screenwriter who has credits for "Evolution".
+3. The same context also mentions that David Weissman has credits for "The Family Man".
+4. From the context titled "The Family Man", we learn that "The Family Man" is a film starring Nicolas Cage and Téa Leoni, and it was written by David Diamond and David Weissman.
+5. Therefore, based on these pieces of evidence, we can conclude that David Weissman is the screenwriter who, in addition to having credits for "Evolution", co-wrote a film starring Nicolas Cage and Téa Leoni.
+原始EM：6, 总数：12, 网络错误：0, 当前原始EM分数：50.0%, 增强EM答对：6, 当前增强EM分数：50.0%, 当前F1分数：67.14616402116401%
+##########
+##########
+ID:13
+Question:What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?
+Right Answer:1999
+Answer: 1999
+Evidence and explanation: The song "Oh My God" by Guns N' Roses was released in 1999 on the soundtrack to the film "End of Days". The film "End of Days" stars Arnold Schwarzenegger as a former New York Police Department detective.
+Step-by-step reasoning with evidence and explanation: 
+1. The question asks for the year when Guns N Roses performed a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective. 
+2. From the context given in index 1, we learn that Guns N' Roses released a song called "Oh My God" in 1999 for the soundtrack to a film. This song was sent out to radio stations as a promo for the soundtrack and the band.
+3. The context in index 8 provides information about the film "End of Days", which was released in 1999. This film stars Arnold Schwarzenegger as a former New York Police Department detective.
+4. By connecting the information from these two pieces of context, we can conclude that the year when Guns N Roses performed a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective was 1999.
+原始EM：7, 总数：13, 网络错误：0, 当前原始EM分数：53.84615384615385%, 增强EM答对：7, 当前增强EM分数：53.84615384615385%, 当前F1分数：69.67338217338217%
+##########
+##########
+ID:14
+Question:Are Random House Tower and 888 7th Avenue both used for real estate?
+Right Answer:no
+Answer: Yes, both Random House Tower and 888 7th Avenue are used for real estate.
+Evidence and explanation: The Random House Tower, also known as the Park Imperial Apartments, is a mixed-use tower in New York City that is used as the headquarters of book publisher Random House and a luxury apartment complex. 888 7th Avenue is a modern-style office skyscraper in Midtown Manhattan which carries the Vornado Realty Trust corporate headquarters and is also the location of Pershing Square Capital Management.
+Step-by-step reasoning with evidence and explanation: The first step is to understand the context of the question, which is about the use of Random House Tower and 888 7th Avenue for real estate. The context provided in the paragraphs about these two buildings gives us the necessary information. The Random House Tower, as mentioned in the context with index 2, is a mixed-use tower that serves as the headquarters for the book publisher Random House and also houses a luxury apartment complex. This indicates that the building is used for real estate, as it provides residential spaces. Similarly, 888 7th Avenue, as mentioned in the context with index 1 and 4, is an office skyscraper that houses the Vornado Realty Trust corporate headquarters and Pershing Square Capital Management. This indicates that the building is used for real estate, as it provides commercial spaces. Therefore, based on the information provided in the context, we can conclude that both Random House Tower and 888 7th Avenue are used for real estate.
+原始EM：7, 总数：14, 网络错误：0, 当前原始EM分数：50.0%, 增强EM答对：7, 当前增强EM分数：50.0%, 当前F1分数：64.69671201814059%
+##########
+##########
+ID:15
+Question:The football manager who recruited David Beckham managed Manchester United during what timeframe?
+Right Answer:from 1986 to 2013
+Answer: Alex Ferguson managed Manchester United from 1986 to 2013.
+Evidence and explanation: The context from the title "Alex Ferguson" states that Sir Alexander Chapman Ferguson, CBE is a Scottish former football manager and player who managed Manchester United from 1986 to 2013.
+Step-by-step reasoning with evidence and explanation: 
+1. The question asks for the timeframe during which the football manager who recruited David Beckham managed Manchester United.
+2. From the context titled "1995–96 Manchester United F.C. season", we learn that David Beckham was drafted into Manchester United during this season.
+3. The context titled "Alex Ferguson" provides the information that Alex Ferguson managed Manchester United from 1986 to 2013.
+4. Therefore, combining these pieces of information, we can conclude that the football manager who recruited David Beckham, Alex Ferguson, managed Manchester United from 1986 to 2013.
+原始EM：7, 总数：15, 网络错误：0, 当前原始EM分数：46.666666666666664%, 增强EM答对：7, 当前增强EM分数：46.666666666666664%, 当前F1分数：64.48616198616199%
+##########
+##########
+ID:16
+Question:Brown State Fishing Lake is in a country that has a population of how many inhabitants ?
+Right Answer:9,984
+Answer: 9,984 inhabitants
+Evidence and explanation: The evidence is found in the context titled "Brown County, Kansas" which states that "As of the 2010 census, the county population was 9,984."
+Step-by-step reasoning with evidence and explanation: The question asks for the population of the country where Brown State Fishing Lake is located. From the context titled "Brown State Fishing Lake", we know that the lake is located in Brown County, Kansas in the United States. Then, we look at the context titled "Brown County, Kansas" which provides the population of Brown County as of the 2010 census, which is 9,984. Therefore, the population of the country (United States) where Brown State Fishing Lake is located, specifically in Brown County, is 9,984 inhabitants.
+原始EM：7, 总数：16, 网络错误：0, 当前原始EM分数：43.75%, 增强EM答对：7, 当前增强EM分数：43.75%, 当前F1分数：64.62244352869352%
+##########
+##########
+ID:17
+Question:The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?
+Right Answer:the North Atlantic Conference
+Answer: The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as the North Atlantic Conference from 1988 to 1996.
+Evidence and explanation: The evidence is found in the context provided from the title "America East Conference" which states, "The conference was known as the Eastern College Athletic Conference-North from 1979 to 1988 and the North Atlantic Conference from 1988 to 1996." Additionally, the context from the title "Vermont Catamounts men's soccer" confirms that "The team competes in the America East Conference."
+Step-by-step reasoning with evidence and explanation: 
+1. The question asks for the former name of the conference in which the Vermont Catamounts men's soccer team currently competes.
+2. From the context titled "Vermont Catamounts men's soccer", we know that the team currently competes in the America East Conference.
+3. To find the former name of this conference, we look at the context titled "America East Conference". Here, we find that the conference was known as the North Atlantic Conference from 1988 to 1996.
+4. Therefore, the Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as the North Atlantic Conference from 1988 to 1996.
+原始EM：7, 总数：17, 网络错误：0, 当前原始EM分数：41.17647058823529%, 增强EM答对：7, 当前增强EM分数：41.17647058823529%, 当前F1分数：62.291711556417425%
+##########
+##########
+ID:18
+Question:Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?
+Right Answer:yes
+Answer: Yes, Giuseppe Verdi and Ambroise Thomas are both Opera composers.
+Evidence and explanation: The context from the titles 'Giuseppe Verdi' and 'Ambroise Thomas' provides direct evidence. Giuseppe Verdi is described as an Italian opera composer and Ambroise Thomas is described as a French composer, best known for his operas.
+Step-by-step reasoning with evidence and explanation: 
+1. From the context titled 'Giuseppe Verdi', we learn that Giuseppe Verdi was an Italian opera composer. This confirms that Giuseppe Verdi is indeed an opera composer.
+2. From the context titled 'Ambroise Thomas', we learn that Ambroise Thomas was a French composer, best known for his operas. This confirms that Ambroise Thomas is also an opera composer.
+3. Therefore, based on the information provided in the context, we can conclude that both Giuseppe Verdi and Ambroise Thomas are opera composers.
+原始EM：7, 总数：18, 网络错误：0, 当前原始EM分数：38.88888888888889%, 增强EM答对：7, 当前增强EM分数：38.88888888888889%, 当前F1分数：58.83106091439424%
+##########
+##########
+ID:19
+Question:Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?
+Right Answer:1969 until 1974
+Answer: 1969 to 1974
+Evidence and explanation: The evidence comes from the context provided in the paragraph about Richard Nixon, who was the President of the United States from 1969 until 1974. Roger O. Egeberg served as Assistant Secretary for Health and Scientific Affairs during the Nixon administration, as stated in the paragraph about Roger O. Egeberg.
+Step-by-step reasoning with evidence and explanation: 
+1. The question asks for the years during which the president served under whom Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs.
+2. From the context about Roger O. Egeberg, we know that he served in this role during the Nixon administration.
+3. To find out the years of Nixon's presidency, we look at the context about Richard Nixon, which tells us that he was the President of the United States from 1969 until 1974.
+4. Therefore, Roger O. Egeberg served as Assistant Secretary for Health and Scientific Affairs during the years 1969 to 1974.
+原始EM：7, 总数：19, 网络错误：0, 当前原始EM分数：36.84210526315789%, 增强EM答对：7, 当前增强EM分数：36.84210526315789%, 当前F1分数：59.24346121714542%
+##########
+##########
+ID:20
+Question:Which writer was from England, Henry Roth or Robert Erskine Childers?
+Right Answer:Robert Erskine Childers DSC
+Answer: Robert Erskine Childers
+Evidence and explanation: The context from the title "Robert Erskine Childers" states that he was a British writer. On the other hand, the context from the title "Henry Roth" states that he was an American novelist and short story writer.
+Step-by-step reasoning with evidence and explanation: 
+1. The question asks which writer, Henry Roth or Robert Erskine Childers, was from England.
+2. To answer this, we need to determine the nationality of each writer.
+3. From the context titled "Henry Roth", we learn that Henry Roth was an American novelist and short story writer. This means he was not from England.
+4. From the context titled "Robert Erskine Childers", we learn that Robert Erskine Childers was a British writer. Since England is part of Britain, this means that Robert Erskine Childers was from England.
+5. Therefore, the writer from England is Robert Erskine Childers.
+原始EM：7, 总数：20, 网络错误：0, 当前原始EM分数：35.0%, 增强EM答对：7, 当前增强EM分数：35.0%, 当前F1分数：60.56700244200244%
+##########
+##########
+ID:21
+Question:Which other Mexican Formula One race car driver has held the podium besides the Force India driver born in 1990?
+Right Answer:Pedro Rodríguez
+Answer: Pedro Rodríguez
+Evidence and explanation: The context from 'Formula One drivers from Mexico' mentions that Pedro Rodríguez is the most successful Mexican driver and the only one to have won a grand prix. Sergio Pérez, who is the Force India driver born in 1990, is the only other Mexican to finish on the podium.
+Step-by-step reasoning with evidence and explanation: The question asks for another Mexican Formula One race car driver who has held the podium besides the Force India driver born in 1990. From the context 'Sergio Pérez', we know that the Force India driver born in 1990 is Sergio Pérez. Then, from the context 'Formula One drivers from Mexico', we learn that there have been six Formula One drivers from Mexico who have taken part in races since the championship began in 1950. Among them, Pedro Rodríguez is the most successful Mexican driver being the only one to have won a grand prix. Sergio Pérez is the only other Mexican to finish on the podium. Therefore, the other Mexican Formula One race car driver who has held the podium besides Sergio Pérez is Pedro Rodríguez.
+原始EM：8, 总数：21, 网络错误：0, 当前原始EM分数：38.095238095238095%, 增强EM答对：8, 当前增强EM分数：38.095238095238095%, 当前F1分数：62.44476423047851%
+##########
+##########
+ID:22
+Question:This singer of A Rather Blustery Day also voiced what hedgehog?
+Right Answer:Sonic
+Answer: Dr. Robotnik from "Sonic the Hedgehog"
+Evidence and explanation: The context from the title 'Jim Cummings' mentions that Jim Cummings, who sang "A Rather Blustery Day" as Pooh, also voiced Dr. Robotnik from "Sonic the Hedgehog".
+Step-by-step reasoning with evidence and explanation: 
+1. The question asks for the hedgehog character that was voiced by the singer of "A Rather Blustery Day".
+2. From the context titled 'A Rather Blustery Day', we learn that the song was sung by Jim Cummings as Pooh.
+3. Looking for more information about Jim Cummings in the provided contexts, we find in the context titled 'Jim Cummings' that he also voiced Dr. Robotnik from "Sonic the Hedgehog".
+4. Therefore, the hedgehog character that the singer of "A Rather Blustery Day" also voiced is Dr. Robotnik from "Sonic the Hedgehog".
+原始EM：8, 总数：22, 网络错误：0, 当前原始EM分数：36.36363636363637%, 增强EM答对：8, 当前增强EM分数：36.36363636363637%, 当前F1分数：61.12151737151736%
+##########
+##########
+ID:23
+Question:Aside from the Apple Remote, what other device can control the program Apple Remote was originally designed to interact with?
+Right Answer:keyboard function keys
+Answer: The Siri Remote and the keyboard function keys can control the program Apple Remote was originally designed to interact with.
+Evidence and explanation: The Siri Remote, as stated in the context from 'Siri Remote', is a successor of the original Apple Remote and is designed to work with the Apple TV, which the Apple Remote was originally designed to interact with. The keyboard function keys, as mentioned in the context from 'Front Row (software)', can also control the software that the Apple Remote was originally designed to interact with.
+Step-by-step reasoning with evidence and explanation: 
+1. The Apple Remote was originally designed to interact with the Front Row media program on the iSight iMac G5 and is compatible with some later desktop and portable Macintosh computers, as well as the first three generations of Apple TV (from 'Apple Remote' context).
+2. The Siri Remote is a successor of the original Apple Remote and is designed to work with the Apple TV (from 'Siri Remote' context). This implies that the Siri Remote can control the program that the Apple Remote was originally designed to interact with.
+3. The Front Row software, which the Apple Remote was originally designed to interact with, can also be controlled by the keyboard function keys (from 'Front Row (software)' context). This means that the keyboard function keys can control the program that the Apple Remote was originally designed to interact with.
+原始EM：8, 总数：23, 网络错误：0, 当前原始EM分数：34.78260869565217%, 增强EM答对：8, 当前增强EM分数：34.78260869565217%, 当前F1分数：59.83705780616535%
+##########
+##########
+ID:24
+Question:Which performance act has a higher instrument to person ratio, Badly Drawn Boy or Wolf Alice? 
+Right Answer:Badly Drawn Boy
+Answer: Badly Drawn Boy
+Evidence and explanation: Badly Drawn Boy, also known as Damon Gough, is described as a multi-instrumentalist, indicating that he plays multiple instruments. On the other hand, Wolf Alice is a four-piece band, with each member typically playing one instrument.
+Step-by-step reasoning with evidence and explanation: 
+1. From the context provided, we learn that Wolf Alice is a four-piece band (context idx: 0). This typically means that there are four members, each playing one instrument, giving a ratio of 1:1 for instruments to persons.
+2. In contrast, Badly Drawn Boy is described as a multi-instrumentalist (context idx: 2). This means that he plays more than one instrument. Since Badly Drawn Boy is a solo act, this gives a ratio of more than 1:1 for instruments to persons.
+3. Therefore, based on the information provided, Badly Drawn Boy has a higher instrument to person ratio than Wolf Alice.
+原始EM：9, 总数：24, 网络错误：0, 当前原始EM分数：37.5%, 增强EM答对：9, 当前增强EM分数：37.5%, 当前F1分数：61.510513730908464%
+##########
+##########
+ID:25
+Question:What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?
+Right Answer:World's Best Goalkeeper
+Answer: The IFFHS voted Peter Schmeichel, the father of Kasper Schmeichel, as the World's Best Goalkeeper in 1992.
+Evidence and explanation: The evidence is found in the context provided in the paragraph titled 'Peter Schmeichel', which states that "Peter Bolesław Schmeichel MBE is a Danish former professional footballer who played as a goalkeeper, and was voted the IFFHS World's Best Goalkeeper in 1992 and 1993."
+Step-by-step reasoning with evidence and explanation: 
+1. The question asks about the father of Kasper Schmeichel and his recognition by the IFFHS in 1992. 
+2. From the context titled 'Kasper Schmeichel', we know that the father of Kasper Schmeichel is Peter Schmeichel. 
+3. Then, we look for information about Peter Schmeichel in 1992. 
+4. In the context titled 'Peter Schmeichel', it is stated that Peter Schmeichel was voted the IFFHS World's Best Goalkeeper in 1992. 
+5. Therefore, we can conclude that the father of Kasper Schmeichel, Peter Schmeichel, was voted the World's Best Goalkeeper by the IFFHS in 1992.
+原始EM：9, 总数：25, 网络错误：0, 当前原始EM分数：36.0%, 增强EM答对：9, 当前增强EM分数：36.0%, 当前F1分数：60.46185788755448%
+##########
+##########
+ID:26
+Question:Who was the writer of These Boots Are Made for Walkin' and who died in 2007?
+Right Answer:Barton Lee Hazlewood
+Answer: The writer of "These Boots Are Made for Walkin'" was Lee Hazlewood and Lee Hazlewood died in 2007.
+Evidence and explanation: The evidence comes from the context provided in the paragraphs with the titles "These Boots Are Made for Walkin'" and "Lee Hazlewood". The first paragraph states that the song was written by Lee Hazlewood and the second paragraph provides information about Lee Hazlewood's death in 2007.
+Step-by-step reasoning with evidence and explanation: 
+1. The question asks for the writer of the song "These Boots Are Made for Walkin'" and who died in 2007. 
+2. From the context titled "These Boots Are Made for Walkin'", we learn that the song was written by Lee Hazlewood. This answers the first part of the question.
+3. To find out who died in 2007, we need to look at the context provided. The context titled "Lee Hazlewood" states that Lee Hazlewood died in 2007. This answers the second part of the question.
+4. Therefore, the writer of "These Boots Are Made for Walkin'" was Lee Hazlewood and Lee Hazlewood died in 2007.
+原始EM：9, 总数：26, 网络错误：0, 当前原始EM分数：34.61538461538461%, 增强EM答对：9, 当前增强EM分数：34.61538461538461%, 当前F1分数：58.94611841414652%
+##########
+##########
+ID:27
+Question:The 2011–12 VCU Rams men's basketball team, led by third year head coach Shaka Smart, represented Virginia Commonwealth University which was founded in what year?
+Right Answer:1838
+Answer: 1838
+Evidence and explanation: The evidence is found in the context titled "Virginia Commonwealth University". The paragraph text states that "VCU was founded in 1838 as the medical department of Hampden–Sydney College, becoming the Medical College of Virginia in 1854."
+Step-by-step reasoning with evidence and explanation: The question asks for the year in which Virginia Commonwealth University was founded. By examining the context provided, we find the relevant information in the context titled "Virginia Commonwealth University". The text clearly states that VCU was founded in 1838. Therefore, the answer to the question is 1838.
+原始EM：10, 总数：27, 网络错误：0, 当前原始EM分数：37.03703703703704%, 增强EM答对：10, 当前增强EM分数：37.03703703703704%, 当前F1分数：60.4666325469559%
+##########
+##########
+ID:28
+Question:Are both Dictyosperma, and Huernia described as a genus?
+Right Answer:yes
+Answer: Yes, both Dictyosperma and Huernia are described as a genus.
+
+Evidence and explanation: The context provided describes Dictyosperma as a monotypic genus of flowering plant in the palm family found in the Mascarene Islands in the Indian Ocean. Similarly, Huernia is described as a genus that consists of stem succulents from Eastern and Southern Africa.
+
+Step-by-step reasoning with evidence and explanation: 
+
+Step 1: The first piece of context describes Dictyosperma as a monotypic genus of flowering plant. This means that Dictyosperma is indeed a genus, and it only contains one species, Dictyosperma album.
+
+Step 2: The second piece of context describes Huernia as a genus that consists of stem succulents from Eastern and Southern Africa. This confirms that Huernia is also a genus, and it contains multiple species of stem succulents.
+
+Step 3: Therefore, based on the provided context, we can conclude that both Dictyosperma and Huernia are described as a genus.
+原始EM：10, 总数：28, 网络错误：0, 当前原始EM分数：35.714285714285715%, 增强EM答对：10, 当前增强EM分数：35.714285714285715%, 当前F1分数：58.3071099559932%
+##########
+##########
+ID:29
+Question:Kaiser Ventures corporation was founded by an American industrialist who became known as the father of modern American shipbuilding?
+Right Answer:Henry J. Kaiser
+Answer: False
+Evidence and explanation: Kaiser Ventures was founded by Henry J. Kaiser, who was indeed an American industrialist and known as the father of modern American shipbuilding. However, he did not found Kaiser Ventures directly. Kaiser Ventures was formerly known as Kaiser Steel, which was founded by Henry J. Kaiser. 
+Step-by-step reasoning with evidence and explanation: 
+1. The claim states that Kaiser Ventures was founded by an American industrialist who is known as the father of modern American shipbuilding. 
+2. From the context provided, we can see that Henry J. Kaiser is known as the father of modern American shipbuilding (context idx 9). He established the Kaiser Shipyards and later formed Kaiser Aluminum and Kaiser Steel (context idx 9).
+3. However, Kaiser Ventures was not directly founded by Henry J. Kaiser. Instead, it was formerly known as Kaiser Steel, which was founded by Henry J. Kaiser (context idx 8). 
+4. Therefore, while Henry J. Kaiser is indeed associated with the founding of the company that would become Kaiser Ventures, he did not directly found Kaiser Ventures. Hence, the claim is false.
+原始EM：10, 总数：29, 网络错误：0, 当前原始EM分数：34.48275862068966%, 增强EM答对：10, 当前增强EM分数：34.48275862068966%, 当前F1分数：56.29651995751067%
+##########
+##########
+ID:30
+Question:What is the name for the adventure in "Tunnels and Trolls", a game designed by Ken St. Andre?
+Right Answer:Arena of Khazan
+Answer: The adventure in "Tunnels and Trolls" is called "Arena of Khazan".
+Evidence and explanation: The context with index 5 titled "Arena of Khazan" states that "Arena of Khazan is a 1979 role-playing game adventure for "Tunnels & Trolls" published by Flying Buffalo."
+Step-by-step reasoning with evidence and explanation: 
+1. The question asks for the name of the adventure in "Tunnels and Trolls", a game designed by Ken St. Andre.
+2. The context with index 3 titled "Tunnels & Trolls" confirms that "Tunnels & Trolls" is a fantasy role-playing game designed by Ken St. Andre.
+3. The context with index 5 titled "Arena of Khazan" provides the answer to the question. It states that "Arena of Khazan is a 1979 role-playing game adventure for "Tunnels & Trolls" published by Flying Buffalo."
+4. Therefore, the name of the adventure in "Tunnels and Trolls" is "Arena of Khazan".
+原始EM：10, 总数：30, 网络错误：0, 当前原始EM分数：33.33333333333333%, 增强EM答对：10, 当前增强EM分数：33.33333333333333%, 当前F1分数：56.086635958926976%
+##########
+##########
+ID:31
+Question:When was Poison's album "Shut Up, Make Love" released?
+Right Answer:2000
+Answer: The album "Shut Up, Make Love" by Poison was released in 2000.
+Evidence and explanation: The evidence comes from the context with index 2, titled "Shut Up, Make Love". The paragraph text states, '"Shut Up, Make Love" is a song by American rock band Poison; released in 2000, it was the first single presented to radio stations from their 2000 "Crack a Smile...and More!" album.'
+Step-by-step reasoning with evidence and explanation: The question asks for the release date of Poison's album "Shut Up, Make Love". By examining the provided contexts, the relevant information is found in the context with index 2, titled "Shut Up, Make Love". The paragraph text clearly states that the song "Shut Up, Make Love" by the American rock band Poison was released in 2000. It was the first single presented to radio stations from their 2000 album "Crack a Smile...and More!". Therefore, it can be concluded that Poison's album "Shut Up, Make Love" was released in 2000.
+原始EM：10, 总数：31, 网络错误：0, 当前原始EM分数：32.25806451612903%, 增强EM答对：10, 当前增强EM分数：32.25806451612903%, 当前F1分数：54.81502404627343%
+##########
+##########
+ID:32
+Question:Hayden is a singer-songwriter from Canada, but where does Buck-Tick hail from?
+Right Answer:Fujioka, Gunma
+Answer: Buck-Tick hails from Fujioka, Gunma, Japan.
+Evidence and explanation: The information is found in the context with the title "Buck-Tick", which states that "Buck-Tick (stylized as BUCK-TICK) is a Japanese rock band, formed in Fujioka, Gunma in 1983."
+
+Step-by-step reasoning with evidence and explanation: 
+1. The question asks about the origin of Buck-Tick. 
+2. I searched through the provided contexts for any mention of Buck-Tick.
+3. I found the relevant information in the context titled "Buck-Tick", which states that the band was formed in Fujioka, Gunma in 1983.
+4. Therefore, Buck-Tick hails from Fujioka, Gunma, Japan.
+原始EM：10, 总数：32, 网络错误：0, 当前原始EM分数：31.25%, 增强EM答对：10, 当前增强EM分数：31.25%, 当前F1分数：54.66455454482738%
+##########
+##########
+ID:33
+Question:Which  French ace pilot and adventurer fly L'Oiseau Blanc
+Right Answer:Charles Eugène
+Answer: Charles Nungesser and François Coli
+Evidence and explanation: The context from 'Levasseur PL.8' and 'L'Oiseau Blanc' clearly states that Charles Nungesser and François Coli flew the L'Oiseau Blanc.
+Step-by-step reasoning with evidence and explanation: 
+1. The context from 'Levasseur PL.8' mentions that the aircraft was built specifically for pilots Charles Nungesser and François Coli for a transatlantic attempt to win the Orteig Prize. This indicates that these two pilots were associated with the aircraft L'Oiseau Blanc.
+2. The context from 'L'Oiseau Blanc' confirms that the aircraft was flown by French World War I aviation heroes, Charles Nungesser and François Coli. This directly answers the question, confirming that Charles Nungesser and François Coli were the French ace pilots who flew L'Oiseau Blanc.
+原始EM：10, 总数：33, 网络错误：0, 当前原始EM分数：30.303030303030305%, 增强EM答对：10, 当前增强EM分数：30.303030303030305%, 当前F1分数：54.018153902054834%
+##########
+##########
+ID:34
+Question:Are Freakonomics and In the Realm of the Hackers both American documentaries?
+Right Answer:no
+Answer: No
+Evidence and explanation: While "Freakonomics: The Movie" is an American documentary, "In The Realm of the Hackers" is an Australian documentary.
+Step-by-step reasoning with evidence and explanation: The context provided gives information about both documentaries. For "Freakonomics: The Movie", the context from index 9 states that it is a 2010 American documentary film based on the 2005 book "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything" by economist Steven D. Levitt and writer Stephen J. Dubner. This confirms that "Freakonomics: The Movie" is an American documentary. On the other hand, the context from index 6 states that "In The Realm of the Hackers" is a 2003 Australian documentary directed by Kevin Anderson about the prominent hacker community, centered in Melbourne, Australia in the late 1980s until early 1990. This confirms that "In The Realm of the Hackers" is an Australian documentary, not an American one. Therefore, the claim that both "Freakonomics: The Movie" and "In The Realm of the Hackers" are American documentaries is incorrect.
+原始EM：11, 总数：34, 网络错误：0, 当前原始EM分数：32.35294117647059%, 增强EM答对：11, 当前增强EM分数：32.35294117647059%, 当前F1分数：55.37056114022969%
+##########
+##########
+ID:35
+Question:Which band, Letters to Cleo or Screaming Trees, had more members?
+Right Answer:Letters to Cleo
+Answer: Letters to Cleo had more members.
+Evidence and explanation: The context provided in the paragraphs about 'Letters to Cleo' and 'Screaming Trees' shows that Letters to Cleo had six members (Kay Hanley, Greg McKenna, Michael Eisenstein, Stacy Jones, Scott Riebling, and Tom Polce) while Screaming Trees had four original members (Mark Lanegan, Gary Lee Conner, Van Conner and Mark Pickerel) and one additional member (Barrett Martin) during its most successful period.
+Step-by-step reasoning with evidence and explanation: 
+1. From the context paragraph with the title 'Letters to Cleo', we learn that the band Letters to Cleo had six members: Kay Hanley, Greg McKenna, Michael Eisenstein, Stacy Jones, Scott Riebling, and Tom Polce.
+2. From the context paragraph with the title 'Screaming Trees', we learn that the band Screaming Trees was formed by four members: Mark Lanegan, Gary Lee Conner, Van Conner and Mark Pickerel. It is also mentioned that Mark Pickerel was replaced by Barrett Martin during the band's most successful period.
+3. Comparing the number of members in both bands, Letters to Cleo had six members while Screaming Trees had five members (including the replacement member).
+4. Therefore, the band Letters to Cleo had more members than Screaming Trees.
+原始EM：11, 总数：35, 网络错误：0, 当前原始EM分数：31.428571428571427%, 增强EM答对：11, 当前增强EM分数：31.428571428571427%, 当前F1分数：55.693307012413605%
+##########
+##########
+ID:36
+Question:Alexander Kerensky was defeated and destroyed by the Bolsheviks in the course of a civil war that ended when ?
+Right Answer:October 1922

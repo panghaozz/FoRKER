@@ -1,0 +1,1716 @@
+##########
+ID:1
+Question:Which magazine was started first Arthur's Magazine or First for Women?
+golden idx: [7, 9]
+step-by-step think: 1. "Arthur's Magazine" context: It directly relates to the claim as it mentions "Arthur's Magazine" and provides information about its publication period. It is informative and likely contains the answer to the claim. 2. "First for Women" context: This context directly mentions "First for Women," which is part of the claim. It provides information about the magazine, its publisher, and publication date. It is relevant and likely contains the answer to the claim. 3. "2014–15 Ukrainian Hockey Championship" context: This context is not directly related to the claim about magazines. 4. "Radio City (Indian radio station)" context: This context is informative but does not directly relate to the claim about magazines. 5. "Freeway Complex Fire" context: This context discusses a wildfire in California and is not relevant to the claim. 
+idx: [7, 9]
+成功的数量为：2总数：2当前回溯率：100.0%
+##########
+##########
+ID:2
+Question:The Oberoi family is part of a hotel company that has a head office in what city?
+golden idx: [1, 8]
+step-by-step think: 1. "The Oberoi Group" context: It directly relates to the claim as it provides information about the Oberoi family and their hotel company, including the location of the head office. It is informative and likely contains the answer to the claim. 2. "Oberoi family" context: This context directly mentions the Oberoi family and their involvement in hotels, which is directly relevant to the claim. It is likely to contain the answer to the claim and provides additional background information.
+idx: [1, 8]
+成功的数量为：4总数：4当前回溯率：100.0%
+##########
+##########
+ID:3
+Question:Musician and satirist Allie Goertz wrote a song about the "The Simpsons" character Milhouse, who Matt Groening named after who?
+golden idx: [6, 8]
+step-by-step think: 1. "Allie Goertz" context: It directly relates to the claim as it mentions the musician and satirist Allie Goertz, who wrote a song about the "The Simpsons" character Milhouse. It provides relevant information about her work and songs based on pop culture topics. It is informative and likely contains the answer to the claim. 
+2. "Milhouse Van Houten" context: This context directly relates to the claim as it provides information about the character Milhouse from "The Simpsons", including the fact that Matt Groening named the character after President Richard Nixon's middle name. It is highly relevant to the claim and likely contains important details related to the claim.
+idx: [8, 6]
+成功的数量为：6总数：6当前回溯率：100.0%
+##########
+##########
+ID:4
+Question: What nationality was James Henry Miller's wife?
+golden idx: [5, 6]
+step-by-step think: 1. "June Miller" context: This context directly mentions June Miller, who was the second wife of Henry Miller. Since the question is about the nationality of James Henry Miller's wife, June Miller's nationality is likely mentioned in this context. It is highly relevant and informative. 2. "Incest: From a Journal of Love" context: This context discusses relationships involving Henry Miller, including his wife June Miller. Since the question is about the nationality of James Henry Miller's wife, this context may also contain relevant information regarding June Miller's nationality.
+idx: [3, 4]
+成功的数量为：6总数：8当前回溯率：75.0%
+##########
+##########
+ID:5
+Question:Cadmium Chloride is slightly soluble in this chemical, it is also called what?
+golden idx: [7, 9]
+step-by-step think:1. "Water blue" context: It directly relates to the claim as it mentions the solubility of a chemical in water, which is relevant to the claim. It provides information about the solubility of a chemical compound in water and ethanol. This context is informative and likely contains the answer to the claim. 2. "Cadmium chloride" context: This context directly mentions "cadmium chloride," which is part of the claim. It provides information about the solubility of cadmium chloride in water and alcohol. It is relevant and likely contains the answer to the claim.
+idx: [1, 9]
+成功的数量为：7总数：10当前回溯率：70.0%
+##########
+##########
+ID:6
+Question:Which tennis player won more Grand Slam titles, Henri Leconte or Jonathan Stark?
+golden idx: [4, 8]
+step-by-step think: 1. "Henri Leconte" context: It directly relates to the claim as it provides information about Henri Leconte, a tennis player mentioned in the claim. It is relevant and likely contains the answer to the claim. 2. "Jonathan Stark (tennis)" context: This context directly relates to the claim as it provides information about Jonathan Stark, another tennis player mentioned in the claim. It is relevant and likely contains the answer to the claim.
+idx: [4, 8]
+成功的数量为：9总数：12当前回溯率：75.0%
+##########
+##########
+ID:7
+Question:Which genus of moth in the world's seventh-largest country contains only one species?
+golden idx: [1, 4]
+step-by-step think: 1. "Nymphuliella" context: It directly relates to the claim as it mentions a genus of moth containing only one species. This context provides specific information about Nymphuliella containing Nymphuliella daeckealis, the China Mark Moth. It is highly relevant and likely contains the answer to the claim. 2. "Indogrammodes" context: This context directly relates to the claim by mentioning a genus of moths in India containing only one species, Indogrammodes pectinicornalis. It is informative and provides specific information relevant to the claim.
+
+idx: [4, 0]
+成功的数量为：10总数：14当前回溯率：71.42857142857143%
+##########
+##########
+ID:8
+Question:Who was once considered the best kick boxer in the world, however he has been involved in a number of controversies relating to his "unsportsmanlike conducts" in the sport and crimes of violence outside of the ring.
+golden idx: [0, 7]
+step-by-step think: 1. "Badr Hari" context: This context directly addresses the claim by mentioning Badr Hari, who was once considered the best kickboxer in the world but has been involved in controversies related to unsportsmanlike conduct and crimes of violence. It provides relevant information likely to contain the answer. 2. "Global Fighting Championship" context: This context mentions kickboxing and MMA events, including fighters like Badr Hari. While it does not directly address the controversies, it provides background information that could be relevant to the claim.
+
+idx: [7, 0]
+成功的数量为：12总数：16当前回溯率：75.0%
+##########
+##########
+ID:9
+Question:The Dutch-Belgian television series that "House of Anubis" was based on first aired in what year?
+golden idx: [0, 6]
+step-by-step think:1. "House of Anubis" context: It directly relates to the claim as it mentions the television series "House of Anubis" and provides information about its premiere date. It is informative and likely contains the answer to the claim. 2. "Het Huis Anubis" context: This context is also directly related to the claim as it provides information about the original Dutch-Belgian television series "Het Huis Anubis", on which "House of Anubis" was based. It is relevant and likely contains useful information related to the claim.
+idx: [0, 6]
+成功的数量为：14总数：18当前回溯率：77.77777777777779%
+##########
+##########
+ID:10
+Question:What is the length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged?
+golden idx: [2, 3]
+step-by-step think:1. "2013 Liqui Moly Bathurst 12 Hour" context: This context directly relates to the claim as it specifically mentions the event where the Bathurst 12 Hour was staged in 2013. It provides detailed information about the race and the location. It is informative and likely contains the answer to the claim. 
+2. "2016 Liqui Moly Bathurst 12 Hour" context: This context also directly relates to the claim as it provides information about the Bathurst 12 Hour event staged in 2016. It mentions the Mount Panorama Circuit and the types of cars involved. It is relevant and likely contains information relevant to the claim.
+idx: [3, 1]
+成功的数量为：15总数：20当前回溯率：75.0%
+##########
+##########
+ID:11
+Question:Fast Cars, Danger, Fire and Knives includes guest appearances from which hip hop record executive?
+golden idx: [4, 8]
+step-by-step think:1. "Fast Cars, Danger, Fire and Knives" context: This context directly relates to the claim as it mentions the album "Fast Cars, Danger, Fire and Knives" by Aesop Rock, and it includes guest appearances from various artists, including a record executive. It is directly relevant, informative, and likely contains the answer to the claim. 2. "Lights Out Paris" context: This context mentions guest appearances from hip hop artists on an album, which is related to the claim. It provides information about the album and its guest appearances, but it may not be as directly relevant as the previous context.
+
+idx: [8, 0]
+成功的数量为：16总数：22当前回溯率：72.72727272727273%
+##########
+##########
+ID:12
+Question:Gunmen from Laredo starred which narrator of "Frontier"?
+golden idx: [3, 7]
+step-by-step think:1. "Gunmen from Laredo" context: This context directly relates to the claim as it mentions "Gunmen from Laredo" and provides information about the film. It is informative and likely contains the answer to the claim. 2. "Seemanto-heera" context: Although it does not directly relate to the claim, it provides information about the novella "Frontier" and its narrator Ajit Bandyopadhyay. However, it might not be as relevant or likely to contain the answer compared to the context directly related to the claim.
+idx: [3, 0]
+成功的数量为：17总数：24当前回溯率：70.83333333333334%
+##########
+##########
+ID:13
+Question:Where did the form of music played by Die Rhöner Säuwäntzt originate?
+golden idx: [3, 9]
+step-by-step think: 1. "Die Rhöner Säuwäntzt" context: This context directly relates to the claim as it mentions the music played by the band Die Rhöner Säuwäntzt. It provides specific information about the origin and style of the music. It is informative and likely contains the answer to the claim. 2. "Kantrum" context: Although it mentions a type of folk music played by the Khmer in Isan, Thailand, it does not directly relate to the claim about the music played by Die Rhöner Säuwäntzt. However, it provides insights into a different music genre that may not be as relevant or likely to contain the answer compared to the context directly related to Die Rhöner Säuwäntzt.
+idx: [3,1]
+成功的数量为：18总数：26当前回溯率：69.23076923076923%
+##########
+##########
+ID:14
+Question:In which American football game was Malcolm Smith named Most Valuable player?
+golden idx: [2, 5]
+step-by-step think: 1. "Malcolm Smith (American football)" context: This context directly relates to the claim by mentioning Malcolm Smith and providing details about him being named the Most Valuable Player of Super Bowl XLVIII. It is highly relevant and likely contains the answer to the claim. 
+2. "Super Bowl Most Valuable Player Award" context: This context directly relates to the claim as it provides information about the Super Bowl Most Valuable Player Award and how the winner is chosen. It is informative and likely to contain relevant details about the Most Valuable Player of Super Bowl XLVIII.
+idx: [2, 9]
+成功的数量为：19总数：28当前回溯率：67.85714285714286%
+##########
+##########
+ID:15
+Question:What U.S Highway gives access to Zilpo Road, and is also known as Midland Trail?
+golden idx: [2, 7]
+step-by-step think: 1. "Glen Ferris, West Virginia" context: This context directly mentions U.S. Route 60, also known as the Midland Trail, which gives access to Zilpo Road. It provides specific information about the location and accessibility of Zilpo Road, making it highly relevant and likely to contain the answer to the claim. 2. "Zilpo Road" context: This context explicitly states that Zilpo Road can be accessed by U.S. Highway 60. It describes the route through the Daniel Boone National Forest and ends at the Zilpo Recreation Area, providing key details related to the claim.
+idx: [1, 2]
+成功的数量为：20总数：30当前回溯率：66.66666666666666%
+##########
+##########
+ID:16
+Question:The 1988 American comedy film, The Great Outdoors, starred a four-time Academy Award nominee, who received a star on the Hollywood Walk of Fame in what year?
+golden idx: [3, 6]
+step-by-step think: 
+1. "John Lithgow" context: John Lithgow is a four-time Academy Award nominee who received a star on the Hollywood Walk of Fame. This context directly relates to the claim and provides relevant information about a star on the Hollywood Walk of Fame, which is pertinent to the claim. It is informative and likely contains the answer to the claim.
+2. "Annette Bening" context: Annette Bening is a four-time Academy Award nominee who received a star on the Hollywood Walk of Fame. This context directly relates to the claim and provides information about a star on the Hollywood Walk of Fame, which is relevant to the claim. It is informative and likely contains the answer to the claim.
+
+idx: [0, 6]
+成功的数量为：21总数：32当前回溯率：65.625%
+##########
+##########
+ID:17
+Question:What are the names of the current members of  American heavy metal band who wrote the music for  Hurt Locker The Musical? 
+golden idx: [0, 3]
+step-by-step think: 1. "Hurt Locker (musical)" context: This context directly mentions "Hurt Locker The Musical" and provides information about its opening, cast, and the music writers, including the American heavy metal band Metallica. It is highly relevant to the claim and likely contains the answer. 2. "Metallica" context: This context provides detailed information about the American heavy metal band Metallica, including their current lineup and former members. While it doesn't directly mention "Hurt Locker The Musical," it is relevant as it talks about the music writers of the band. It is informative but may be less likely to contain the specific answer compared to the context about "Hurt Locker (musical)".
+idx: [3, 0]
+成功的数量为：23总数：34当前回溯率：67.64705882352942%
+##########
+##########
+ID:18
+Question:Human Error" is the season finale of the third season of a tv show that aired on what network?
+golden idx: [1, 2]
+step-by-step think: 1. "Human Error (House)" context: This context directly relates to the claim as it mentions "Human Error" as the season finale of the third season of "House". It is informative and likely contains the answer to the claim. 2. "The Price of Free and Fair Elections" context: Although it indirectly relates to the claim by mentioning the season finale of the third season of "Scandal", it provides detailed information about the episode, including its original air date and production details. It is relevant and likely contains information related to the claim.
+idx: [1, 0]
+成功的数量为：24总数：36当前回溯率：66.66666666666666%
+##########
+##########
+ID:19
+Question:Dua Lipa, an English singer, songwriter and model, the album spawned the number-one single "New Rules" is a song by English singer Dua Lipa from her eponymous debut studio album, released in what year?
+golden idx: [3, 8]
+step-by-step think:1. "New Rules (song)" context: It directly relates to the claim as it mentions "New Rules," the number-one single from Dua Lipa's debut album. It provides information about the song, its release date, and its relation to Dua Lipa's debut studio album. It is informative and likely contains the answer to the claim. 2. "Dua Lipa (album)" context: This context directly relates to the claim as it provides information about Dua Lipa's eponymous debut studio album, including its release date and lyrical themes. It is relevant and likely contains the answer to the claim.
+idx: [3, 2]
+成功的数量为：25总数：38当前回溯率：65.78947368421053%
+##########
+##########
+ID:20
+Question:American politician Joe Heck ran unsuccessfully against Democrat Catherine Cortez Masto, a woman who previously served as the 32nd Attorney General of where?
+golden idx: [7, 8]
+step-by-step think: 1. "Catherine Cortez Masto" context: This context directly relates to the claim as it mentions Catherine Cortez Masto, who is the individual running against Joe Heck in the claim. It provides relevant information about her serving as the 32nd Attorney General of Nevada. It is highly likely to contain the answer to the claim.  
+2. "Joe Heck" context: This context directly relates to the claim as it mentions Joe Heck, who ran unsuccessfully against Catherine Cortez Masto. It provides relevant information about his political career and the election mentioned in the claim. It is highly likely to contain the answer to the claim.
+
+idx: [7, 8]
+成功的数量为：27总数：40当前回溯率：67.5%
+##########
+##########
+ID:21
+Question:Which state does the drug stores, of which the CEO is Warren Bryant, are located?
+golden idx: [1, 7]
+step-by-step think: 1. "Longs Drugs" context: It directly relates to the claim as it mentions Longs Drugs and the CEO, Warren Bryant. It provides specific information about the state in which the drug stores are located, which is relevant and likely contains the answer to the claim. 2. "Warren Bryant" context: This context directly mentions Warren Bryant, the CEO of Longs Drug Store Corporation, which is directly related to the claim. It provides background information about Warren Bryant's position, making it relevant and likely to contain the answer to the claim.
+idx: [1, 7]
+成功的数量为：29总数：42当前回溯率：69.04761904761905%
+##########
+##########
+ID:22
+Question:Which  American politician did Donahue replaced 
+golden idx: [0, 5]
+step-by-step think: 
+1. "Sue Donahue" context: This context directly mentions Donahue replacing Kelli Ward in the Arizona State Senate. It is highly relevant to the claim as it specifically addresses the replacement of an American politician. It is informative and very likely to contain the answer to the claim.
+2. "Warren Furutani" context: This context talks about Warren Furutani replacing Laura Richardson as a member of the US House of Representatives. While it is not directly related to Donahue, it provides another example of a politician being replaced, which adds to the relevance. It is likely to contain insightful information that could help answer the claim.
+idx: [5, 7]
+成功的数量为：30总数：44当前回溯率：68.18181818181817%
+##########
+##########
+ID:23
+Question:Which band was founded first, Hole, the rock band that Courtney Love was a frontwoman of, or The Wolfhounds?
+golden idx: [1, 9]
+step-by-step think: 1. "The Wolfhounds" context: This context directly relates to the claim as it provides information about the indie pop/noise pop band The Wolfhounds. It is informative and likely contains the answer to the claim about which band was founded first. 2. "Courtney Love" context: This context directly mentions Courtney Love, who was the frontwoman of the rock band Hole. It provides background information about Love and her career, which is relevant to the claim. It is likely to contain relevant information about the founding of the band.
+idx: [9, 1]
+成功的数量为：32总数：46当前回溯率：69.56521739130434%
+##########
+##########
+ID:24
+Question:How old is the female main protagonist of Catching Fire?
+golden idx: [1, 9]
+Response is None32
+##########
+##########
+ID:25
+Question:Chang Ucchin was born in korea during a time that ended with the conclusion of what? 
+golden idx: [3, 9]
+step-by-step think: 1. "Chang Ucchin" context: This context directly mentions Chang Ucchin, who is the subject of the claim. It provides information about his background and birth during a specific time period. It is highly relevant and likely to contain the answer to the claim. 2. "United States in the Korean War" context: This context discusses the historical background of Korea during World War II and the Korean War, which may provide additional relevant information about the time period mentioned in the claim. It is informative and likely contains valuable context related to the claim.
+idx: [3, 2]
+成功的数量为：33总数：50当前回溯率：68.75%
+##########
+##########
+ID:26
+Question:Who is the director of the 2003 film which has scenes in it filmed at the Quality Cafe in Los Angeles?
+golden idx: [8, 9]
+step-by-step think: 1. "Quality Cafe (jazz club)" context: This context directly mentions the Quality Cafe in Los Angeles, which is relevant to the claim about scenes filmed at the Quality Cafe. It provides historical information about the venue, indicating a likelihood of containing the answer to the claim. 2. "Quality Cafe (diner)" context: This context also directly relates to the claim as it mentions the Quality Cafe in Los Angeles. It provides information about the diner's location and its appearance in various Hollywood films, indicating a potential relevance to the claim.
+idx: [4, 8]
+成功的数量为：34总数：52当前回溯率：68.0%
+##########
+##########
+ID:27
+Question:New Faces of 1952 is a musical revue with songs and comedy skits, it helped jump start the career of which young performer, and American actress?
+golden idx: [8, 9]
+step-by-step think:1. "New Faces of 1952" context: This context directly relates to the claim as it provides information about the musical revue in question, including its significance in jump-starting the careers of young performers such as Eartha Kitt. It is highly informative and likely contains the answer to the claim. 2. "Monotonous (song)" context: This context specifically mentions the song "Monotonous" from the musical revue "New Faces of 1952" and provides details about its performance by Eartha Kitt. It is directly relevant to the claim and likely contains useful information.
+idx: [8,1]
+成功的数量为：35总数：54当前回溯率：67.3076923076923%
+##########
+##########
+ID:28
+Question:Were Pavel Urysohn and Leonid Levin known for the same type of work?
+golden idx: [1, 7]
+step-by-step think:1. "Pavel Urysohn" context: This context directly mentions Pavel Urysohn who is known for his contributions in dimension theory and for developing Urysohn's Metrization Theorem and Urysohn's Lemma, which are fundamental results in topology. It is highly relevant to the claim and likely contains the answer. 2. "Leonid Levin" context: This context directly mentions Leonid Levin, a Soviet-American computer scientist. Although it is less directly relevant to the claim compared to the first context, it still provides information about a figure with a similar last name, making it potentially relevant to the claim.
+idx: [7, 1]
+成功的数量为：37总数：56当前回溯率：68.51851851851852%
+##########
+##########
+ID:29
+Question:Are both The New Pornographers and Kings of Leon American rock bands?
+golden idx: [1, 2]
+step-by-step think: 1. "The New Pornographers" context: It directly addresses one of the bands in the claim, providing detailed information about the Canadian indie rock band formed in 1997. It is highly relevant and likely contains valuable insights related to the claim. 2. "Kings of Leon" context: This context directly addresses the other band in the claim, providing information about the American rock band formed in Nashville in 1999. It is relevant and likely contains crucial details related to the claim.
+idx: [1, 2]
+成功的数量为：39总数：58当前回溯率：69.64285714285714%
+##########
+##########
+ID:30
+Question:750 7th Avenue and 101 Park Avenue, are located in which city?
+golden idx: [2, 8]
+step-by-step think: 1. "750 7th Avenue" context: This context directly mentions the address "750 7th Avenue," which is part of the claim. It provides detailed information about the building, its design, height, and ownership. It is highly relevant and likely to contain the answer to the claim. 2. "101 Park Avenue" context: This context directly addresses the other address in the claim, "101 Park Avenue." It provides information about the skyscraper, its height, number of floors, and the architect. It is relevant and likely to contain pertinent information related to the claim.
+idx: [2, 8]
+成功的数量为：41总数：60当前回溯率：70.6896551724138%
+##########
+##########
+ID:31
+Question:Which actress played the part of fictitious character Kimberly Ann Hart, in the franchise built around a live action superhero television series taking much of its footage from the Japanese tokusatsu 'Super Sentai'?
+golden idx: [0, 9]
+step-by-step think: 1. "Kimberly Hart" context: This context directly relates to the claim by mentioning Kimberly Ann Hart, the fictitious character in the Power Rangers universe, and the actress who played her. It provides specific details about the character and the actress, making it highly relevant and likely to contain the answer. 2. "Super Sentai" context: This context provides background information about the Super Sentai Series, which is the source material for Power Rangers. It explains the concept of the franchise and its significance, showing a clear connection to the claim and the character of Kimberly Ann Hart.
+idx: [0, 2]
+成功的数量为：42总数：62当前回溯率：70.0%
+##########
+##########
+ID:32
+Question:Who was born first, Pablo Trapero or Aleksander Ford?
+golden idx: [1, 6]
+step-by-step think: 1. "Aleksander Ford" context: This context directly mentions Aleksander Ford, providing detailed information about his background and career. It is informative and likely contains the answer to the claim about his birth. 
+2. "Pablo Trapero" context: This context directly relates to the claim as it provides information about Pablo Trapero and his work. It is informative and likely to contain relevant information about his birth.
+idx: [1, 6]
+成功的数量为：44总数：64当前回溯率：70.96774193548387%
+##########
+##########
+ID:33
+Question:Are Jane and First for Women both women's magazines?
+golden idx: [7, 9]
+step-by-step think: 1. "First for Women" context: This context directly mentions "First for Women" magazine, which is part of the claim. It provides information about the magazine, its publisher, and publication date. It is relevant and likely contains the answer to the claim. 2. "List of magazines in Malaysia" context: This context provides information about women's magazines in Malaysia, including the publication of the first women's magazine in 1932. It is relevant to the claim about women's magazines and their history.
+idx: [7, 1]
+成功的数量为：45总数：66当前回溯率：70.3125%
+##########
+##########
+ID:34
+Question:What profession does Nicholas Ray and Elia Kazan have in common?
+golden idx: [4, 9]
+step-by-step think: 1. "The Visitors (1972 film)" context: This context directly mentions Elia Kazan as the director of the film, providing relevant information about his profession. It is informative and likely contains the answer to the claim. 2. "Elia Kazan" context: This context directly provides detailed information about Elia Kazan's profession as a director, producer, writer, and actor. It is highly relevant and likely to contain the answer to the claim.
+
+idx: [1, 4]
+成功的数量为：46总数：68当前回溯率：69.6969696969697%
+##########
+##########
+ID:35
+Question:Where is the company that purchased Aixam based in?
+golden idx: [2, 3]
+step-by-step think: 1. "Aixam" context: It directly relates to the claim as it mentions the company Aixam and provides information about its acquisition by Polaris Industries. It is informative and likely contains the answer to the claim. 2. "Polaris Industries" context: This context directly relates to the claim as it provides information about Polaris Industries, the company that purchased Aixam. It is relevant and likely contains the answer to the claim.
+idx: [3, 2]
+成功的数量为：48总数：70当前回溯率：70.58823529411765%
+##########
+##########
+ID:36
+Question:Which documentary is about Finnish rock groups, Adam Clayton Powell or The Saimaa Gesture?
+golden idx: [4, 5]
+step-by-step think: 1. "The Saimaa Gesture" context: This context directly relates to the claim as it mentions a documentary about Finnish rock groups, which is part of the claim. It is informative and likely contains the answer to the claim. 2. "Adam Clayton Powell (film)" context: This context directly mentions a documentary film about a civil rights leader. Although it does not directly relate to Finnish rock groups, it is still relevant and informative. It might provide some background information related to the claim.
+idx: [5, 4]
+成功的数量为：50总数：72当前回溯率：71.42857142857143%
+##########
+##########
+ID:37
+Question:Who was inducted into the Rock and Roll Hall of Fame, David Lee Roth or Cia Berg?
+golden idx: [0, 1]
+step-by-step think: 1. "David Lee Roth" context: This context directly mentions David Lee Roth and states that he was inducted into the Rock and Roll Hall of Fame in 2007. This is highly relevant to the claim and likely contains the answer. 2. "Cia Berg" context: This context provides information about Cia Berg, a Swedish television presenter and singer, but it does not mention anything about the Rock and Roll Hall of Fame induction. It is less directly related to the claim compared to the context about David Lee Roth.
+idx: [1, 0]
+成功的数量为：52总数：74当前回溯率：72.22222222222221%
+##########
+##########
+ID:38
+Question:Zimbabwe's Guwe Secondary School has a sister school in what New York cunty?
+golden idx: [1, 2]
+step-by-step think: 1. "Guwe Secondary School" context: This context directly mentions the school in question and its sister school in Carle Place, New York. It is highly relevant and likely contains the answer to the claim. 2. "Singwango Secondary School" context: This context also mentions a sister school in Carle Place, New York, United States. It is relevant and likely to contain the answer to the claim as well.
+idx: [1, 7]
+成功的数量为：53总数：76当前回溯率：71.62162162162163%
+##########
+##########
+ID:39
+Question:The Royal Commission into Drug Trafficking (1977–1979) or Woodward Royal Commission was a royal commission initiated by the New South Wales Government to investigate drug trafficking in New South Wales, Australia, especially links between the New South Wales Police and Mafia, The Honoured Society, is a Calabrian 'Ndrangheta criminal confederation, started in Melbourne and currently active in all of which country?  
+golden idx: [2, 6]
+step-by-step think:1. "Royal Commission into Drug Trafficking" context: This context directly relates to the claim as it specifically mentions the Royal Commission into Drug Trafficking, which is the subject of the claim. It is likely to contain information relevant to the investigation of drug trafficking in New South Wales, Australia, and links between the Mafia and the New South Wales Police. 2. "Honoured Society (Australia)" context: This context directly mentions the Honoured Society, which is a Calabrian 'Ndrangheta criminal confederation, started in Melbourne and currently active in all of Australia. This is likely to be relevant as it provides information about the specific criminal organization mentioned in the claim. It may contain relevant details about the links between the Mafia and the New South Wales Police.
+idx: [2, 6]
+成功的数量为：55总数：78当前回溯率：72.36842105263158%
+##########
+##########
+ID:40
+Question:The 337th Flight Test Squadron (337 FLTS) was most recently part of the 46th Test Wing and based at McClellan Air Force Base, a former United States Air Force base located in the North Highlands area of Sacramento County, in which US state?
+golden idx: [0, 1]
+step-by-step think: 1. "McClellan Air Force Base" context: It directly mentions McClellan Air Force Base, which is crucial to the claim as it provides the location of the 337th Flight Test Squadron. It is highly relevant and likely contains the answer to the claim. 2. "337th Flight Test Squadron" context: This context directly relates to the claim as it provides detailed information about the 337th Flight Test Squadron, including its association with the 46th Test Wing and its base at McClellan Air Force Base. It is informative and very likely to contain the answer to the claim.
+idx: [1,0]
+成功的数量为：57总数：80当前回溯率：73.07692307692307%
+##########
+##########
+ID:41
+Question:The axial turbojet Pirna 014 was designed by engineers from this German aircraft and aircraft engine manufacturer based in which city?
+golden idx: [2, 8]
+step-by-step think: 
+1. "Pirna 014" context: This context directly relates to the claim about the axial turbojet Pirna 014 and provides specific information about its design and the engineers behind it. It is highly relevant and likely contains the answer to the claim.
+2. "Junkers" context: This context mentions the German aircraft and aircraft engine manufacturer Junkers, which could be related to the engineers behind the Pirna 014. It provides historical information that may help in understanding the background of the engineers involved in designing the Pirna 014.
+idx: [8, 2]
+成功的数量为：59总数：82当前回溯率：73.75%
+##########
+##########
+ID:42
+Question:Which faith is designated to the University of Providence, private university accredited by the NW association of Schools and Colleges and located in a third largest city in Montana after being passed by Missoula? 
+golden idx: [1, 3]
+step-by-step think: 1. "University of Providence" context: This context directly relates to the claim as it mentions the specific university accredited by the Northwest Association of Schools and Colleges. It provides detailed information about the university's accreditation and location in Great Falls, Montana. It is highly relevant and likely contains the answer to the claim. 2. "Missoula, Montana" context: This context provides information about the city of Missoula, Montana, and its population. It also mentions the University of Montana, but it is not as directly relevant to the specific claim about the University of Providence. It may still contain relevant information but is slightly less likely to contain the answer compared to the "University of Providence" context.
+idx: [3, 2]
+成功的数量为：60总数：84当前回溯率：73.17073170731707%
+##########
+##########
+ID:43
+Question:Pauline Henry was known as the vocalist of a very popular cover song. Which album was this song from?
+golden idx: [6, 8]
+step-by-step think: 1. "The Chimes (album)" context: It directly relates to the claim as it mentions the album featuring the vocalist Pauline Henry and includes the cover of U2's "I Still Haven't Found What I'm Looking For". It is likely to contain the answer to the claim. 2. "Pauline Henry" context: This context directly relates to the claim by providing information about Pauline Henry as the vocalist of The Chimes and their cover version of U2's song. It is highly relevant and likely to contain the answer to the claim.
+idx: [5, 8]
+成功的数量为：61总数：86当前回溯率：72.61904761904762%
+##########
+##########
+ID:44
+Question:Guitars for Wounded Warriors is an album that was recorded in the village in which New York county?
+golden idx: [0, 1]
+step-by-step think:1. "Guitar for Wounded Warriors" context: This context directly relates to the claim as it provides detailed information about the album "Guitars for Wounded Warriors" recorded in New Paltz (village), New York. It also mentions the specific studio where the tracks were recorded. It is informative and likely contains the answer to the claim. 2. "New Paltz (village), New York" context: This context directly relates to the claim as it provides information about the village in which the album "Guitars for Wounded Warriors" was recorded. It also gives the census population of the village. It is relevant and likely contains the answer to the claim.
+idx: [1, 0]
+成功的数量为：63总数：88当前回溯率：73.25581395348837%
+##########
+##########
+ID:45
+Question:What American country music singer-songwriter, born in May of 1942, sang a duet with her ex-husband the same year that he released the song "The Battle?"
+golden idx: [5, 7]
+step-by-step think: 1. "Three Wooden Crosses" context: It directly mentions a country music singer-songwriter, Randy Travis, and provides information about his song releases. Although it does not mention the specific details related to the claim, it is relevant to country music singers. 2. "The Battle (George Jones song)" context: This context directly relates to the claim as it mentions a song by George Jones. It provides details about the song "The Battle" and its thematic content. This context is likely to contain information relevant to the claim.
+idx: [5, 0]
+成功的数量为：64总数：90当前回溯率：72.72727272727273%
+##########
+##########
+ID:46
+Question:Who was born first, Francis Nethersole or Elizabeth Stuart?
+golden idx: [5, 9]
+step-by-step think: 1. "Elisabeth of the Palatinate" context: This context directly relates to the claim as it provides detailed information about Elizabeth Stuart, her birth date, and family background. It is informative and likely contains the answer to the claim. 2. "Gustavus Adolphus of the Palatinate" context: This context also directly relates to the claim as it provides information about Elizabeth Stuart and her family's refuge during the Thirty Years' War. It is relevant and likely contains useful information about the claim.
+idx: [1, 4]
+成功的数量为：64总数：92当前回溯率：71.11111111111111%
+##########
+##########
+ID:47
+Question:What does the Hacker-Pschorr Brewery have to limit in order to comply with German regulations?
+golden idx: [6, 9]
+step-by-step think: 1. "Hacker-Pschorr Brewery" context: This context directly addresses the claim as it specifically talks about the Hacker-Pschorr Brewery and its history. It is highly relevant and likely contains the answer to the claim regarding compliance with German regulations. 
+2. "Reinheitsgebot" context: This context discusses the German Beer Purity Law, which is a regulation directly related to German breweries like Hacker-Pschorr. It provides additional insights into German regulations that may impact the brewery's operations. This context is informative and likely relevant to the claim as well.
+
+idx: [9,6]
+成功的数量为：66总数：94当前回溯率：71.73913043478261%
+##########
+##########
+ID:48
+Question:Don Barry Mason was the founder of the Psychedelic Shamanistic Institute (PSI), which other member that's Welsh, that died on 10 April 2016?
+golden idx: [1, 8]
+step-by-step think: 1. "Don Barry Mason" context: This context directly relates to the claim as it mentions the founder of the Psychedelic Shamanistic Institute (PSI), Don Barry Mason. It provides detailed information about his role and the organization he founded. It is informative and likely contains the answer to the claim. 2. "Howard Marks" context: This context directly relates to the claim as it mentions a Welsh individual, Howard Marks, who died on 10 April 2016. It provides information about his background as a drug smuggler and author. It is relevant and likely contains the answer to the claim.
+idx: [8, 1]
+成功的数量为：68总数：96当前回溯率：72.3404255319149%
+##########
+##########
+ID:49
+Question:What male actor starred in The Messenger?
+golden idx: [2, 8]
+step-by-step think: 1. "The Messenger (2015 horror film)" context: It directly relates to the claim as it mentions "The Messenger," which is part of the claim. It provides information about the film, its director, and lead actors. It is likely to contain the answer to the claim. 2. "Robert Sheehan" context: This context directly mentions Robert Sheehan, who starred in The Messenger. It provides information about his background and acting career, including his role in The Messenger. It is relevant and likely to contain the answer to the claim. 
+idx: [2, 8]
+成功的数量为：70总数：98当前回溯率：72.91666666666666%
+##########
+##########
+ID:50
+Question:Are Gin and tonic and Paloma both cocktails based on tequila?
+golden idx: [7, 8]
+step-by-step think: 1. "Paloma (cocktail)" context: This context directly mentions "Paloma" and provides information about the cocktail being tequila-based. It is highly relevant and likely to contain the answer to the claim. 2. "Tequila and tonic" context: This context directly relates to the claim as it mentions "tequila and tonic" which is an ingredient in the Paloma cocktail. It is informative and likely contains relevant information to answer the claim.
+
+idx: [7, 2]
+成功的数量为：71总数：100当前回溯率：72.44897959183673%
+##########
+##########
+ID:51
+Question:Who is older Glenn Hughes or Ross Lynch?
+golden idx: [1, 2]
+step-by-step think: 1. "Glenn Hughes" context: Glenn Hughes is directly mentioned in the claim, providing information about his birthdate and career as a rock bassist and vocalist. This context is highly relevant and likely contains the answer to the claim. 2. "Ross Lynch" context: Ross Lynch is also mentioned in the claim, detailing his birthdate and career as a singer, songwriter, and actor. This context is directly related to the claim and likely contains the answer as well.
+idx: [1, 2]
+成功的数量为：73总数：102当前回溯率：73.0%
+##########
+##########
+ID:52
+Question:In what year was the creator of the current arrangement of the "Simpson's Theme" born?
+golden idx: [2, 7]
+step-by-step think: 1. "Alf Clausen" context: Provides direct information about the composer of the current arrangement of "The Simpsons Theme" and his birth year. Highly relevant and likely to contain the answer to the claim. 2. "The Simpsons Theme" context: Specifically mentions the current arrangement of "The Simpsons Theme" and the composer Alf Clausen. It details the change in arrangement during the third season. Relevant and informative, likely to contain important details related to the claim.
+idx: [2, 7]
+成功的数量为：75总数：104当前回溯率：73.52941176470588%
+##########
+##########
+ID:53
+Question:The Southern Railway runs from Vienna to Graz and the border with Slovenia at Spielfeld via the first mountain railway built in Europe to use what kind of track?
+golden idx: [4, 9]
+step-by-step think:1. "Semmering railway" context: It directly relates to the claim as it mentions the "Southern Railway" and provides information about its route, including the section from Vienna to Graz and the border with Slovenia at Spielfeld. It is informative and likely contains the answer to the claim. 2. "Southern Railway (Austria)" context: This context directly relates to the claim by providing detailed information about the Southern Railway in Austria, including its route from Vienna to Graz and the border with Slovenia at Spielfeld via Semmering and Bruck an der Mur. It is highly relevant and likely to contain the answer to the claim.
+idx: [4, 9]
+成功的数量为：77总数：106当前回溯率：74.03846153846155%
+##########
+##########
+ID:54
+Question:In what show did Cynthia Nixon receive the 2004 Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series and a Screen Actors Guild Award for her performance?
+golden idx: [7, 9]
+step-by-step think: 1. "Cynthia Nixon" context: This context directly mentions Cynthia Nixon and her award for "Sex and the City." It is highly relevant and likely contains the answer to the claim. 2. "Uzo Aduba" context: This context mentions Uzo Aduba and her Emmy Award for "Orange Is the New Black." It is relevant but not as directly related to the claim as the "Cynthia Nixon" context.
+idx: [7, 6]
+成功的数量为：78总数：108当前回溯率：73.58490566037736%
+##########
+##########
+ID:55
+Question:Lee Jun-fan played what character in "The Green Hornet" television series?
+golden idx: [4, 9]
+step-by-step think: 1. "Bruce Lee" context: Bruce Lee is directly related to the claim as he played the character of Kato in "The Green Hornet" TV series. This context is highly informative and likely contains the answer to the claim. 
+2. "The Green Hornet (TV series)" context: This context directly mentions the TV series "The Green Hornet" and provides information about the actors who played the main characters. It is relevant and likely contains information about Lee Jun-fan's character in the series.
+idx: [9,7]
+成功的数量为：79总数：110当前回溯率：73.14814814814815%
+##########
+##########
+ID:56
+Question:The 1895/96 Football League season was the eighth in Football League history with Everton, their Goodison Park home, is a football stadium located in Walton, Liverpool, in which country?
+golden idx: [4, 8]
+step-by-step think: 1. "1895–96 Everton F.C. season" context: This context directly mentions the 1895/96 Football League season, which is the subject of the claim. It provides detailed information about Everton's performance during that season and their home at Goodison Park. It is highly relevant and likely to contain the answer to the claim. 2. "Goodison Park" context: This context specifically discusses Goodison Park, which is mentioned in the claim as Everton's home stadium. It provides details about the stadium's location and history, making it relevant and likely to contain additional information related to the claim.
+idx: [8, 4]
+成功的数量为：81总数：112当前回溯率：73.63636363636363%
+##########
+##########
+ID:57
+Question:A Head Full of Dreams Tour is the seventh tour by Coldplay, and which had it's first show at a stadium that is known as Estadio Unico and is owned by who?
+golden idx: [3, 7]
+step-by-step think: 1. "Estadio Ciudad de La Plata" context: It directly relates to the claim as it mentions the stadium where the first show of the A Head Full of Dreams Tour was held. It provides information about the stadium, its ownership, and the date of the first show. It is informative and likely contains the answer to the claim. 2. "A Head Full of Dreams Tour" context: This context directly mentions the A Head Full of Dreams Tour and provides detailed information about the tour, including the first show at Estadio Ciudad de La Plata in Argentina. It is relevant and likely to contain the answer to the claim.
+idx: [7, 3]
+成功的数量为：83总数：114当前回溯率：74.10714285714286%
+##########
+##########
+ID:58
+Question:Roger Avary (born August 23, 1965) is a Canadian film and television producer, screenwriter and director in the American mass media industry, he wrote the screenplay for Beowulf, a 2007 British-American 3D motion capture epic fantasy film, directed by who?
+golden idx: [2, 9]
+step-by-step think: 1. "Roger Avary" context: This context directly relates to the claim as it provides detailed information about Roger Avary, including his work as a screenwriter for "Beowulf." It is highly relevant and likely contains the answer to the claim. 2. "Beowulf (2007 film)" context: This context directly addresses the claim by providing specific details about the 2007 British-American 3D motion capture epic fantasy film "Beowulf," including the director and the writers. It is highly relevant and likely contains the answer to the claim.
+idx: [9, 2]
+成功的数量为：85总数：116当前回溯率：74.56140350877193%
+##########
+##########
+ID:59
+Question:The American Pre-Code comedy film featuring an American actress, dancer, and singer, widely known for performing in films and RKO's musical films, was released in what year?
+golden idx: [1, 8]
+step-by-step think: 1. "Ladies of the Jury" context: It directly relates to the claim as it mentions "Ladies of the Jury", a 1932 American Pre-Code comedy film. It provides the release date and additional details about the film. It is informative and likely contains the answer to the claim. 2. "Hat Check Girl" context: This context directly mentions "Hat Check Girl," a 1932 American Pre-Code comedy film. It provides the release date and other relevant information. It is also relevant and likely contains the answer to the claim.
+idx: [0, 1]
+成功的数量为：86总数：118当前回溯率：74.13793103448276%
+##########
+##########
+ID:60
+Question:An edited version of "Just the Two of Us" reached number two on the "Billboard" Hot 100 behind a song written and composed by Donna Weiss and Jackie DeShannon which spend how many weeks at No. 1 on the "Billboard" hot 100?
+golden idx: [4, 5]
+step-by-step think:1. "Just the Two of Us (Grover Washington Jr. song)" context: It directly relates to the claim by mentioning the edited version of "Just the Two of Us" and its performance on the "Billboard" Hot 100. It also provides information about the song reaching number two on the chart. It is highly relevant and likely contains the answer to the claim. 
+2. "Bette Davis Eyes" context: This context directly mentions the song "Bette Davis Eyes" which spent nine weeks at No. 1 on the "Billboard" Hot 100. It provides the necessary information related to the claim. It is relevant and likely contains the answer to the claim.
+
+idx: [4, 5]
+成功的数量为：88总数：120当前回溯率：74.57627118644068%
+##########
+##########
+ID:61
+Question:Which band has more members, Saint Motel or Curve?
+golden idx: [6, 7]
+step-by-step think: 1. "Saint Motel" context: This context directly relates to the claim as it provides detailed information about the band Saint Motel, including the band members. It is informative and likely contains the answer to the claim. 2. "AJ Jackson" context: This context directly mentions A/J Jackson, who is the lead singer for the band Saint Motel. It provides relevant information about the band member. It is likely to contain the answer to the claim.
+idx: [6,0]
+成功的数量为：89总数：122当前回溯率：74.16666666666667%
+##########
+##########
+ID:62
+Question:"Funnybot" is the second episode of the fifteenth season of which American animated television series, created by Trey Parker and Matt Stone?  
+golden idx: [3, 5]
+step-by-step think: 1. "Funnybot" context: This context directly relates to the claim as it mentions "Funnybot" as the second episode of the fifteenth season of "South Park". It is informative and likely contains the answer to the claim. 2. "Major Boobage" context: This context also mentions "South Park" and provides information about the third episode in season 12. It is relevant and likely contains useful information, but not as directly related to the claim as the "Funnybot" context.
+idx: [3, 1]
+成功的数量为：90总数：124当前回溯率：73.77049180327869%
+##########
+##########
+ID:63
+Question:Which private research university is located in Chestnut Hill, Massachusetts Boston College or Stanford University? 
+golden idx: [7, 8]
+step-by-step think: 1. "Boston College" context: It directly relates to the claim as it provides detailed information about Boston College, which is mentioned in the question. It is informative and likely contains the answer to the claim. 2. "Stanford University" context: This context directly relates to the claim as it provides detailed information about Stanford University, which is mentioned in the question. It is informative and likely contains the answer to the claim.
+idx: [8, 7]
+成功的数量为：92总数：126当前回溯率：74.19354838709677%
+##########
+##########
+ID:64
+Question:What American stage, film, and television actor  who also appeared in a large number of musicals, played Samson in the 1949 film "Samson and Delilah".
+golden idx: [1, 7]
+step-by-step think: 1. "Victor Mature" context: It directly relates to the claim as it mentions Victor Mature, who played Samson in the 1949 film "Samson and Delilah". It provides specific information about his roles in films, including musicals. It is highly relevant and likely contains the answer to the claim. 2. "Samson and Delilah (1984 film)" context: This context directly relates to the claim by providing information about the 1984 television film adaptation of the biblical story of Samson and Delilah, which starred Victor Mature as Samson in the 1949 film. It is highly relevant and likely contains the answer to the claim.
+
+idx: [1, 7]
+成功的数量为：94总数：128当前回溯率：74.60317460317461%
+##########
+##########
+ID:65
+Question:Iqaluit Airport and Canadian North are based out of what country?
+golden idx: [0, 4]
+step-by-step think: 
+1. "Canadian North" context: It directly mentions Canadian North, which is part of the claim. It provides information about the airline's headquarters and operations in Canada. It is relevant and likely contains the answer to the claim. 
+2. "Iqaluit Airport" context: This context directly mentions Iqaluit Airport, which is also part of the claim. It provides detailed information about the airport, its location, and the carriers operating from there, including Canadian North. It is highly relevant and likely to contain the answer to the claim.
+
+idx: [0, 4]
+成功的数量为：96总数：130当前回溯率：75.0%
+##########
+##########
+ID:66
+Question:In what political party was the man who officially opened he Royal Spa Centre in 1972?
+golden idx: [0, 5]
+step-by-step think:1. "Royal Spa Centre" context: This context directly relates to the claim as it mentions the Royal Spa Centre and provides relevant information about its opening in 1972 by Anthony Eden. It is highly informative and likely contains the answer to the claim. 2. "Anthony Eden" context: This context provides information about Anthony Eden, who officially opened the Royal Spa Centre in 1972. It is directly relevant to the claim and likely contains important details about his political party affiliation.
+idx: [5, 0]
+成功的数量为：98总数：132当前回溯率：75.38461538461539%
+##########
+##########
+ID:67
+Question:Which Oscar-nominated film was written by the screenwriter who wrote a 1991 romantic drama based upon a screenplay by Sooni Taraporevala?
+golden idx: [2, 6]
+Response is None98
+##########
+##########
+ID:68
+Question:Are both Tim McIlrath and Spike Slawson American punk rock musicians?
+golden idx: [1, 5]
+step-by-step think: 1. "Spike Slawson" context: This context directly addresses one of the individuals mentioned in the claim, confirming Spike Slawson as an American punk rock musician. It is highly relevant and likely contains the answer to the claim. 2. "Tim McIlrath" context: This context directly addresses the other individual mentioned in the claim, confirming Tim McIlrath as an American punk rock musician. It is also highly relevant and likely contains the answer to the claim.
+idx: [1, 5]
+成功的数量为：100总数：136当前回溯率：75.75757575757575%
+##########
+##########
+ID:69
+Question:The Golden Globe Award winner for best actor from "Roseanne" starred along what actress in Gigantic?
+golden idx: [4, 8]
+step-by-step think: 1. "Gigantic (2008 film)" context: It directly relates to the claim as it mentions "Gigantic" and provides information about the film and its cast, including potential actors from "Roseanne." It is informative and likely contains the answer to the claim. 2. "John Goodman" context: This context directly mentions "Roseanne" and provides information about the Golden Globe Award winner for best actor. It is relevant and likely contains the answer to the claim.
+idx: [8, 4]
+成功的数量为：102总数：138当前回溯率：76.11940298507463%
+##########
+##########
+ID:70
+Question:The expert mentor to the celebrities that perform on "Splash!" won the 2009 FINA World Championionship in the individual event at what age? 
+golden idx: [2, 9]
+step-by-step think:1. "Tom Daley" context: It directly mentions Tom Daley winning the 2009 FINA World Championionship in the individual event at the age of 15, which is directly related to the claim. It is informative and likely contains the answer to the claim. 2. "Alicia McCormack" context: This context provides information about a different athlete and her achievements, which, although informative, is not as directly relevant or likely to contain the answer compared to the "Tom Daley" context.
+idx: [2, 1]
+成功的数量为：103总数：140当前回溯率：75.73529411764706%
+##########
+##########
+ID:71
+Question:Still Da Baddest is the fourth studio album by American rapper Trina, following the poor chart performance, "I Got a Thang for You" featuring which American singer/songwriter, record producer, business woman, and television personality, and was born in Oakland, California?
+golden idx: [6, 7]
+step-by-step think:1. "Still da Baddest" context: This context directly relates to the claim as it provides information about Trina's fourth studio album, which is the subject of the claim. It is informative and likely contains the answer to the claim. 2. "I Got a Thang for You" context: This context directly mentions the song featuring Keyshia Cole, which is part of the claim. It provides details about the single and its release as the second single from Trina's album. It is relevant and likely contains the answer to the claim.
+idx: [7, 5]
+成功的数量为：104总数：142当前回溯率：75.36231884057972%
+##########
+##########
+ID:72
+Question:What profession does Am Rong and Alexandre Rockwell have in common?
+golden idx: [3, 9]
+step-by-step think:1."Am Rong" context: It directly relates to the claim as it provides information about Am Rong's profession as a filmmaker and spokesperson during the Cambodian Civil War. It is highly relevant and likely contains the answer to the claim about the common profession between Am Rong and Alexandre Rockwell. 
+2."Four Rooms" context: This context mentions Alexandre Rockwell as one of the co-directors of the film. It provides information about his involvement in the film industry, which is relevant to the claim.
+idx: [3, 0]
+成功的数量为：105总数：144当前回溯率：75.0%
+##########
+##########
+ID:73
+Question:El Nuevo Cojo and Golf Magazine are both special interest publications but which one is owned by Time Inc?
+golden idx: [3, 9]
+step-by-step think: 1. "Time Inc." context: It directly relates to the claim as it mentions Time Inc., the company that owns special interest publications. It provides detailed information about the publications owned by Time Inc., including "Golf Magazine." It is informative and likely contains the answer to the claim. 2. "Golf Magazine" context: This context directly addresses the claim by providing specific details about Golf Magazine, stating that it is owned by Time Inc. It mentions the acquisition of the magazine by Time Inc. in 2000 and highlights its features and readership. It is highly relevant and very likely to contain the answer to the claim.
+idx: [0, 3]
+成功的数量为：106总数：146当前回溯率：74.64788732394366%
+##########
+##########
+ID:74
+Question:Who funds the bowling team that includes the school bus driver for Springfield Elementary School?
+golden idx: [2, 5]
+step-by-step think: 1. "Otto Mann" context: This context directly relates to the claim by mentioning Otto Mann as the school bus driver for Springfield Elementary School. It is highly relevant and likely contains the answer to the claim. 2. "Team Homer" context: While this context does not mention Otto Mann specifically, it provides information about a bowling team that includes a school bus driver. It is closely related to the claim and likely contains relevant information.
+
+idx: [5, 2]
+成功的数量为：108总数：148当前回溯率：75.0%
+##########
+##########
+ID:75
+Question:What city are George Washington University Hospital and MedStar Washington Hospital Center located in?
+golden idx: [4, 9]
+step-by-step think: 1. "MedStar Washington Hospital Center" context: It directly mentions the hospital and its location in Washington, D.C. It is highly relevant and likely contains the answer to the claim. 2. "George Washington University Hospital" context: This context directly relates to the claim as it provides information about the hospital's location and affiliation with the George Washington University School of Medicine and Health Sciences. It is informative and likely to contain the answer to the claim.
+idx: [9, 4]
+成功的数量为：110总数：150当前回溯率：75.34246575342466%
+##########
+##########
+ID:76
+Question:what is the connection between Peter O'Meara and Norman Dike?
+golden idx: [1, 6]
+step-by-step think:1. "Norman Dike" context: This context directly mentions Norman Dike, who is connected to Peter O'Meara as portrayed in the HBO miniseries "Band of Brothers." It provides detailed information about Norman Dike's background and connection to Peter O'Meara. It is highly relevant and likely contains the answer to the claim. 2. "Peter O'Meara" context: This context directly relates to the claim by providing information about Peter O'Meara and his portrayal of Norman Dike in the HBO miniseries "Band of Brothers." It is informative and likely to contain the answer to the claim.
+idx: [1, 6]
+成功的数量为：112总数：152当前回溯率：75.67567567567568%
+##########
+##########
+ID:77
+Question:What author has contributed to such works as "New Statesmen", "The Nation", and "The Atlantic", among others, while also being being associated with Dysteleology?
+golden idx: [2, 7]
+step-by-step think: 1. "Christopher Hitchens" context: It directly mentions the author who has contributed to "New Statesmen", "The Nation", and "The Atlantic" among others, which directly relates to the claim. It provides relevant information about the author's work and associations. It is likely to contain the answer to the claim. 
+2. "Silas Bent" context: This context mentions the author Silas Bent who has contributed to "The Atlantic" among others. While it may not directly mention all the works listed in the claim, it provides valuable information about the author's background and works. It is relevant and likely to contain relevant information to the claim.
+
+idx: [7, 1]
+成功的数量为：113总数：154当前回溯率：75.33333333333333%
+##########
+##########
+ID:78
+Question:Who developed the prototype pacemaker used by the 34th President of the USA?
+golden idx: [4, 6]
+step-by-step think: 1. "R Adams Cowley" context: This context directly mentions the prototype pacemaker used by Dwight D. Eisenhower. It provides detailed information about R Adams Cowley, his contributions to medicine, and the invention of the prototype pacemaker. It is highly relevant, informative, and likely contains the answer to the claim. 2. "Dwight D. Eisenhower" context: This context directly relates to the claim as it mentions Dwight D. Eisenhower, who was the 34th President of the United States. It provides information about his background, achievements, and role in history. While not as specific as the previous context, it is still relevant and likely contains relevant information about the prototype pacemaker used by Eisenhower.
+idx: [4,6]
+成功的数量为：115总数：156当前回溯率：75.6578947368421%
+##########
+##########
+ID:79
+Question:Which publishing company has published Bizarre and a sister publication devoted to the anomalous phenomena popularised by Charles Fort?
+golden idx: [1, 3]
+step-by-step think: 1. "Bizarre (magazine)" context: It directly relates to the claim as it mentions both "Bizarre" and its sister publication "Fortean Times." It provides relevant information about the publishing company, Dennis Publishing. It is informative and likely contains the answer to the claim.
+2. "Fortean Times" context: This context directly addresses the claim by mentioning "Fortean Times," a publication devoted to the anomalous phenomena popularised by Charles Fort. It also provides information about the publishing history, including the current publisher, Dennis Publishing Ltd. This context is highly relevant and likely to contain the answer to the claim.
+
+idx: [1, 3]
+成功的数量为：117总数：158当前回溯率：75.97402597402598%
+##########
+##########
+ID:80
+Question:Who performed the lead single on the album Friends in Low Places, No Fences, that reached #1 on Billboard?
+golden idx: [2, 9]
+step-by-step think: 1. "Friends in Low Places" context: It directly relates to the claim as it mentions the album "Friends in Low Places" and provides information about the lead single performed by Garth Brooks. It is highly relevant, informative, and likely contains the answer to the claim. 2. "No Fences" context: This context directly relates to the claim as it provides information about the album "No Fences" and its lead single performed by Garth Brooks. It is very relevant, informative, and likely contains the answer to the claim.
+idx: [2, 9]
+成功的数量为：119总数：160当前回溯率：76.28205128205127%
+##########
+##########
+ID:81
+Question:Hate to Feel is the tenth track on what Alice in Chains' album that peaked as number six on the Billboard 200?
+golden idx: [4, 9]
+step-by-step think: 1. "Dirt (Alice in Chains album)" context: It directly relates to the claim as it mentions the specific Alice in Chains album "Dirt" and its peak position on the Billboard 200. This context is highly relevant and likely contains the answer to the claim. 2. "Hate to Feel" context: This context directly mentions the song "Hate to Feel," which is part of the claim. It provides information about the album it belongs to and its track placement. This context is also relevant and likely contains the answer to the claim.
+
+idx: [4, 9]
+成功的数量为：121总数：162当前回溯率：76.58227848101265%
+##########
+##########
+ID:82
+Question:The lead singer and guitarist in the Portland, Oregon rock band consisting of John Gourley, Zach Carothers, Kyle O'Quin, Jason Sechrist and Eric Howk, goes by what alias?
+golden idx: [1, 2]
+step-by-step think: 
+1. "John Gourley" context: This context directly mentions the lead singer and guitarist in the Portland, Oregon rock band Portugal. The Man, which is relevant to the claim. It also provides information about the alias used by John Gourley. It is highly likely to contain the answer to the claim.
+2. "Portugal. The Man" context: This context directly relates to the claim by providing information about the band that includes John Gourley as the lead singer and guitarist. It mentions other band members as well. This context is relevant and likely to contain valuable information relevant to the claim.
+
+idx: [1, 2]
+成功的数量为：123总数：164当前回溯率：76.875%
+##########
+##########
+ID:83
+Question:What year was the winner of the 2016 Marrakesh ePrix born?
+golden idx: [8, 9]
+step-by-step think: 1. "2016 Marrakesh ePrix" context: It directly relates to the claim as it provides information about the 2016 Marrakesh ePrix, including the winner and the date of the event. It is highly relevant and likely contains the answer to the claim. 2. "Jérôme d'Ambrosio" context: This context directly mentions the 2016 Marrakesh ePrix and provides information about the driver, including his birthdate. It is relevant and likely contains the answer to the claim. 
+idx: [9, 0]
+成功的数量为：124总数：166当前回溯率：76.5432098765432%
+##########
+##########
+ID:84
+Question:South Korean actor Kim Yool-ho starred in what 2016 movie directed by Yeon Sang-ho Yeon Sang-ho and starring actors Gong Yoo, Jung Yu-mi, and Ma Dong-seok?
+golden idx: [2, 6]
+step-by-step think: 1. "Train to Busan" context: This context directly relates to the claim as it mentions the 2016 movie directed by Yeon Sang-ho and starring Gong Yoo, Jung Yu-mi, and Ma Dong-seok. It is highly relevant to the claim and likely contains the answer. 2. "Kim Yool-ho" context: This context provides information about South Korean actor Kim Yool-ho, who starred in "Train to Busan" as "man in suit 2". It directly relates to the claim and is likely to contain information about the movie.
+idx: [2, 6]
+成功的数量为：126总数：168当前回溯率：76.82926829268293%
+##########
+##########
+ID:85
+Question:According to the 2006 census what is the population of the city in which James Iroha Uchechukwu was born ?
+golden idx: [4, 5]
+step-by-step think: 1. "Enugu" context: It directly mentions the population of the city Enugu according to the 2006 Nigerian census, which is related to the claim about the 2006 census. This context is informative and likely contains the answer to the claim. 
+2. "Ningi, Nigeria" context: This context provides information about the population of Ningi, Nigeria according to the 2006 Census. It is relevant to the claim and likely contains information that could be related to the claim.
+
+idx: [5,1]
+成功的数量为：127总数：170当前回溯率：76.50602409638554%
+##########
+##########
+ID:86
+Question:What actor in the film D.C. Cab also had a role in the TV series Barney Miller?
+golden idx: [2, 5]
+step-by-step think: 1. "Jim Moody (actor)" context: It directly mentions the actor Jim Moody and his role in the film "D.C. Cab". It is highly relevant to the claim and likely contains information about actors in the film. 2. "Phil Fish (character)" context: This context provides information about the character Detective Phil Fish from the TV series "Barney Miller". It is relevant as it connects the TV series with a potential actor in the film "D.C. Cab". It is likely to contain relevant information about actors crossing over between the TV series and the film.
+idx: [1,3]
+成功的数量为：127总数：172当前回溯率：75.59523809523809%
+##########
+##########
+ID:87
+Question:Which industry do Richard Hawley and Chicago's Catherine belong to? 
+golden idx: [2, 3]
+step-by-step think: 1. "Richard Hawley" context: This context directly mentions Richard Hawley, who is one of the individuals in the claim. It provides detailed information about his background, career, and collaborations. It is highly relevant and likely contains the answer to the claim. 2. "Catherine (alternative rock band)" context: This context directly mentions the band Catherine from Chicago, which is the other entity in the claim. It provides information about the band's origin and activity period. It is relevant and likely contains the answer to the claim.
+
+idx: [2, 3]
+成功的数量为：129总数：174当前回溯率：75.88235294117646%
+##########
+##########
+ID:88
+Question:Are Pam Veasey and Jon Jost both American?
+golden idx: [1, 7]
+step-by-step think: 1. "Pam Veasey" context: This context directly addresses the claim by mentioning Pam Veasey as an American television writer, producer, and director. It is highly relevant and likely contains the answer to the claim. 2. "Jon Jost" context: This context directly addresses the claim by stating that Jon Jost is an American independent filmmaker. It is relevant and likely to contain information pertinent to the claim.
+
+idx: [1, 7]
+成功的数量为：131总数：176当前回溯率：76.16279069767442%
+##########
+##########
+ID:89
+Question:Maurice Hines and his brother were famous for what?
+golden idx: [0, 3]
+step-by-step think: 1. "Maurice Hines" context: This context directly relates to the claim as it mentions Maurice Hines and his brother Gregory Hines. It is highly relevant and likely contains the answer to the claim. 2. "Hot Feet" context: This context directly relates to Maurice Hines as it provides information about a musical directed and choreographed by him. It is relevant and likely contains the answer to the claim.
+idx: [3, 0]
+成功的数量为：133总数：178当前回溯率：76.4367816091954%
+##########
+##########
+ID:90
+Question:Are the New Orleans Outfall Canals the same length as the Augusta Canal?
+golden idx: [1, 5]
+step-by-step think: 1. "New Orleans Outfall Canals" context: It directly relates to the claim as it provides detailed information about the New Orleans Outfall Canals, including the 17th Street Canal, which is specifically mentioned in the claim. It is informative and likely contains the answer to the claim. 2. "17th Street Canal" context: This context also directly relates to the claim by providing specific details about the 17th Street Canal, which is part of the New Orleans Outfall Canals mentioned in the claim. It is relevant and likely contains the answer to the claim.
+idx: [1, 0]
+成功的数量为：134总数：180当前回溯率：76.13636363636364%
+##########
+##########
+ID:91
+Question:In which stadium do the teams owned by Myra Kraft's husband play?
+golden idx: [2, 4]
+step-by-step think: 1. "Robert Kraft" context: It directly mentions Myra Kraft, who is the subject of the claim. It provides information about her relationship to Robert Kraft and their ownership of sports teams. It is highly relevant and likely contains the answer to the claim. 2. "1926 American Football League season" context: While it does not directly mention Myra Kraft, it provides information about teams owned by individuals in the sports industry. It is somewhat relevant but may not be as likely to contain the specific answer compared to the context directly related to Myra Kraft.
+idx: [4,2]
+成功的数量为：136总数：182当前回溯率：76.40449438202246%
+##########
+##########
+ID:92
+Question:What southern California based band covered Blue Öyster Cult's Godzilla?
+golden idx: [5, 8]
+step-by-step think:1. "Godzilla (song)" context: This context directly relates to the claim as it specifically discusses the song "Godzilla" by Blue Öyster Cult, which is relevant to the claim. It provides detailed information about the song, its popularity, and covers by other bands. It is informative and likely contains the answer to the claim. 2. "Black Blade (song)" context: This context also directly relates to the claim as it provides information about a song by Blue Öyster Cult. It discusses the lyrics, music, and collaborations related to the song "Black Blade." It is relevant and likely contains valuable information related to the claim.
+idx: [5, 1]
+成功的数量为：137总数：184当前回溯率：76.11111111111111%
+##########
+##########
+ID:93
+Question:The Swedish-British entertainment studio executive and film executive producer, who was the Executive producer for a 2016 American action thriller film directed by Babak Najafi, currently serve?
+golden idx: [4, 8]
+step-by-step think: 1. "Zygi Kamasa" context: Zygi Kamasa is a Swedish-British entertainment studio executive and film executive producer who served as the Executive Producer for the film "London Has Fallen," which is directly related to the claim. It provides specific information about Zygi Kamasa's current role and past work, making it highly relevant and likely to contain the answer to the claim. 2. "London Has Fallen" context: This context provides additional details about the film "London Has Fallen," mentioning that it was directed by Babak Najafi. While it indirectly relates to the claim, it still offers valuable information about a project Zygi Kamasa was involved in. It is informative and may contain relevant details for the claim.
+
+idx: [8, 4]
+成功的数量为：139总数：186当前回溯率：76.37362637362637%
+##########
+##########
+ID:94
+Question:an Emmy Award winner and two-time Tony Award winner, was on the episode 15 of the third season of "Chuck". what is her name ?
+golden idx: [4, 8]
+step-by-step think:1. "Jane Alexander" context: It directly relates to the claim as it mentions Jane Alexander, who is a two-time Emmy Award winner. It is informative and likely contains the answer to the claim. 2. "Swoosie Kurtz" context: This context directly mentions Swoosie Kurtz, who is an Emmy Award winner and two-time Tony Award winner. It is relevant and likely contains the answer to the claim.
+idx: [5, 8]
+成功的数量为：140总数：188当前回溯率：76.08695652173914%
+##########
+##########
+ID:95
+Question:What is the current name of the Atlanta Mansion built for the daughter of the 41st Mayor of Atlanta, Georgia?
+golden idx: [0, 3]
+step-by-step think:1. "Rainbow Terrace" context: This context directly relates to the claim as it mentions the Atlanta Mansion built for the daughter of the 41st Mayor of Atlanta, Georgia. It provides specific information about the current name "Lullwater Estate" and the original owner. It is likely to contain the answer to the claim. 2. "Asa Griggs Candler" context: This context directly mentions the 41st Mayor of Atlanta, Georgia and provides information about his association with the Coca-Cola Company. While it is relevant, it may not be as likely to contain the answer compared to the context specifically about the mansion.
+idx: [3,0]
+成功的数量为：142总数：190当前回溯率：76.34408602150538%
+##########
+##########
+ID:96
+Question:Who invented the type of script used in autographs?
+golden idx: [1, 3]
+step-by-step think:1. "Cuneiform script" context: It directly addresses the invention of a script, which is relevant to the claim about the invention of a script used in autographs. It provides clear information about the origin of the Cuneiform script by the Sumerians. 2. "Autograph (Assyriology)" context: This context discusses the process of creating autographs and the importance of producing them in Assyriology. While it does not directly mention the invention of a script used in autographs, it is informative and likely to contain relevant information about scripts and writing systems.
+idx: [3,1]
+成功的数量为：144总数：192当前回溯率：76.59574468085107%
+##########
+##########
+ID:97
+Question:Approximately what percentage of the global population is made up of the ethnic group Princess Fragrant was produced to improve relations with?
+golden idx: [3, 8]
+step-by-step think: 1. "Han Chinese" context: It directly relates to the ethnic group mentioned in the claim and provides detailed information about their population percentage globally. It is highly relevant, informative, and likely contains the answer to the claim. 2. "Ewe people" context: This context mentions an African ethnic group, which is not directly related to Princess Fragrant and the specific ethnic group in question. While informative, it may not be as relevant or likely to contain the answer compared to the context specifically discussing the Han Chinese population percentage.
+idx: [8, 0]
+成功的数量为：145总数：194当前回溯率：76.31578947368422%
+##########
+##########
+ID:98
+Question:The Boren-McCurdy proposals were partially brought about by which Oklahoma politician in 1992?
+golden idx: [0, 9]
+step-by-step think: 1. "Boren-McCurdy proposals" context: It directly relates to the claim by mentioning the Boren-McCurdy proposals discussed in 1992, which is crucial to understanding the context around the claim. It is highly relevant, informative, and likely contains the answer to the claim. 
+2. "David L. Boren" context: This context provides background information on David L. Boren, an Oklahoma politician who served from 1979 to 1994. While it does not directly mention the Boren-McCurdy proposals, understanding Boren's role and political history may provide additional context to answer the claim.
+
+idx: [9, 0]
+成功的数量为：147总数：196当前回溯率：76.5625%
+##########
+##########
+ID:99
+Question:The Thoen Stone is on display at a museum in what county?
+golden idx: [5, 8]
+step-by-step think: 1. "Thoen Stone" context: It directly relates to the claim as it mentions the Thoen Stone and provides information about its discovery and current display location. It is informative and likely contains the answer to the claim. 2. "Yarmouth Runic Stone" context: This context mentions a stone with an inscription, which shows relevance and may contain relevant historical information. It is also likely to contain the answer to the claim.
+idx: [8, 0]
+成功的数量为：148总数：198当前回溯率：76.28865979381443%
+##########
+##########
+ID:100
+Question:Is Children's National Medical Center or MedStar Washington Hospital Center the largest private hospital in Washington, D.C.?
+golden idx: [7, 9]
+step-by-step think: 1. "MedStar Washington Hospital Center" context: It directly relates to the claim as it specifically mentions the hospital in question and provides information about its size and affiliation. It is likely to contain the answer to the claim. 2. "Children's National Medical Center" context: This context directly relates to the claim as it mentions the hospital in question, its ranking, and the services it provides. It is relevant and likely to contain the answer to the claim.
+idx: [9, 7]
+成功的数量为：150总数：200当前回溯率：76.53061224489795%
+##########
+##########
+ID:101
+Question:Prince William, Duke of Gloucester and Prince George of Denmark, were eventually monarchs of which Kingdom?
+golden idx: [7, 8]
+step-by-step think: 1. "Prince George of Denmark" context: This context directly mentions Prince George of Denmark, who was the husband of Queen Anne, and the claim is about the eventual monarchs of a kingdom. It is directly relevant to the claim, informative, and likely contains the answer. 2. "Prince William, Duke of Gloucester" context: This context provides information about Prince William, Duke of Gloucester, who is mentioned in the claim. It discusses his lineage and historical background, making it relevant and likely to contain the answer to the claim.
+idx: [8, 7]
+成功的数量为：152总数：202当前回溯率：76.76767676767676%
+##########
+##########
+ID:102
+Question:The airline operating in Whitehorse, Yukon handled how many passengers in 2012?
+golden idx: [0, 7]
+step-by-step think: 1. Erik Nielsen Whitehorse International Airport context: This context directly mentions Whitehorse, Yukon, which is relevant to the claim. It provides specific information about the airport handling 294,000 passengers in 2012, which is the exact information requested in the claim. This context is highly likely to contain the answer to the claim. 2. Air North context: This context also directly relates to Whitehorse, Yukon, and provides information about Air North, the airline operating in the region. Since the claim is about the number of passengers handled in Whitehorse, Yukon, this context is likely to contain relevant information as well.
+idx: [0, 7]
+成功的数量为：154总数：204当前回溯率：77.0%
+##########
+##########
+ID:103
+Question:What State has a Disney Resort & Spa that is a beachside hotel, resort and vacation destination offering complimentary children's activities and programs and that Djuan Rivers was a General Manager at?
+golden idx: [7, 9]
+step-by-step think: 
+1. "Aulani" context: It directly relates to the claim as it mentions Aulani, a Disney Resort & Spa, which is a beachside hotel offering children's activities and programs. Djuan Rivers is mentioned as the General Manager of the resort. It is highly relevant and likely contains the answer to the claim.
+2. "Ko Olina Resort" context: This context provides information about Ko Olina Resort, which includes Aulani, a Disney Resort & Spa. It mentions the location, amenities, and other resorts within the area. As Djuan Rivers was a General Manager at Aulani, this context is relevant and likely to contain additional information related to the claim.
+idx: [7, 3]
+成功的数量为：155总数：206当前回溯率：76.73267326732673%
+##########
+##########
+ID:104
+Question:Are Wenling and Xinzheng both in China?
+golden idx: [0, 1]
+step-by-step think: 1. "Wenling" context: It directly relates to the claim by providing information about Wenling, a city in China. It is informative and likely contains the answer to the claim. 2. "Xinzheng" context: This context directly relates to the claim by providing information about Xinzheng, a city in China. It is informative and likely contains the answer to the claim.
+idx: [1, 0]
+成功的数量为：157总数：208当前回溯率：76.9607843137255%
+##########
+##########
+ID:105
+Question:What is the birth date of the coach of the 2014-15 Michigan Wolverines men's basketball team?
+golden idx: [5, 9]
+step-by-step think:1. "2014–15 Michigan Wolverines men's basketball team" context: This context directly relates to the claim as it provides detailed information about the Michigan Wolverines men's basketball team for the 2014-15 season. It is highly relevant and likely contains the answer to the claim. 2. "Pete Tillotson" context: This context directly mentions the Michigan Wolverines men's basketball team and provides information about a former player. It is relevant and likely contains relevant information about the coach of the 2014-15 Michigan Wolverines men's basketball team.
+idx: [9, 1]
+成功的数量为：158总数：210当前回溯率：76.69902912621359%
+##########
+##########
+ID:106
+Question:Which organization presents the award in which Chris Noonan was nominated for his work in "Babe?"
+golden idx: [3, 7]
+step-by-step think: 1. "Chris Noonan" context: This context directly relates to the claim as it mentions Chris Noonan's nomination for his work in "Babe." It provides relevant information about his background and the specific award nomination. It is highly likely to contain the answer to the claim. 2. "Babe (film)" context: This context is directly related to the claim as it provides information about the film "Babe" directed by Chris Noonan. It gives essential background information about the work for which Noonan was nominated. It is also likely to contain relevant details related to the claim.
+idx: [3, 2]
+成功的数量为：159总数：212当前回溯率：76.4423076923077%
+##########
+##########
+ID:107
+Question:Where is the base of one of the three main British intelligence agencies?
+golden idx: [2, 6]
+step-by-step think: 1. "British intelligence agencies" context: This context directly addresses the claim by providing detailed information about the three main British intelligence agencies, which are relevant to the question. It is informative and highly likely to contain the answer to the claim. 2. "Ardeshir Reporter" context: This context talks about a secret British Intelligence agent in Iran and his role in historical events. While not directly related to the claim, it provides insight into British intelligence operations in different regions. It is informative but may be less likely to contain the specific answer to the claim.
+idx: [2, 4]
+成功的数量为：160总数：214当前回溯率：76.19047619047619%
+##########
+##########
+ID:108
+Question:When a Man Falls in Love, is a 2013 South Korean television series, starring Song Seung-heon, Shin Se-kyung, Chae Jung-an, and which South Korean actor, born on ? 
+golden idx: [2, 3]
+step-by-step think: 1. "When a Man Falls in Love" context: It directly relates to the claim as it mentions the South Korean television series and provides information about the cast. It is informative and likely contains the answer to the claim. 2. "Yeon Woo-jin" context: This context provides information about Yeon Woo-jin, a South Korean actor, who is mentioned in the claim. It is relevant and likely contains the answer to the claim.
+idx: [2, 3]
+成功的数量为：162总数：216当前回溯率：76.41509433962264%
+##########
+##########
+ID:109
+Question:What retailer is the second-largest in the United States and has a commercial featuring the American artist who was 1st runner-up in the 2005 USA Weekend Magazine's songwriting competition?
+golden idx: [0, 6]
+step-by-step think: 1. "Deanna Loveland" context: This context directly relates to the claim as it mentions the American artist Deanna Loveland, who was 1st runner-up in the 2005 USA Weekend Magazine's songwriting competition. It provides specific and relevant information that is likely to contain the answer to the claim. 2. "Target Corporation" context: While this context mentions the second-largest retailer in the United States, it is not directly related to the claim about the commercial featuring the American artist who was 1st runner-up in the 2005 USA Weekend Magazine's songwriting competition. However, it provides general background information that may be relevant in a broader context.
+
+idx: [6, 0]
+成功的数量为：164总数：218当前回溯率：76.63551401869158%
+##########
+##########
+ID:110
+Question:Which English actor of stage, film and television from the 1978 BBC drama "Pennies From Heaven" appeared in the 2006 BBC Four television play "Kenneth Williams: Fantabulosa!?"
+golden idx: [0, 2]
+step-by-step think: 1. "Cheryl Campbell" context: This context directly addresses the claim by mentioning an English actor who appeared in the 1978 BBC drama "Pennies From Heaven," which is relevant to the claim. It also provides detailed information about Cheryl Campbell's career in stage, film, and television, making it informative and likely to contain the answer to the claim. 2. "Kenneth Williams: Fantabulosa!" context: This context specifically discusses the 2006 BBC Four television play "Kenneth Williams: Fantabulosa!" starring Michael Sheen as Kenneth Williams. It is directly related to the claim and likely contains relevant information. 
+idx: [2, 0]
+成功的数量为：166总数：220当前回溯率：76.85185185185185%
+##########
+##########
+ID:111
+Question:Who hosted both Miss USA 1968 and The Price Is Right?
+golden idx: [3, 9]
+step-by-step think: 1. "Miss USA 1973" context: It directly relates to the claim as it mentions the hosting of both Miss USA and The Price Is Right by Bob Barker. It is informative and likely contains the answer to the claim. 2. "Miss USA 1968" context: This context directly relates to the claim as it mentions the hosting of Miss USA by Bob Barker. It is also likely to contain the answer to the claim.
+idx: [1, 3]
+成功的数量为：167总数：222当前回溯率：76.60550458715596%
+##########
+##########
+ID:112
+Question:What video game published by Sierra Entertainment includes an antagonist figure who's mystery is the core of the series? 
+golden idx: [1, 3]
+step-by-step think:
+1. "F.E.A.R." context: This context directly mentions the video game published by Sierra Entertainment and provides information about its release and expansion packs. It also specifically mentions the antagonist figure Alma Wade, whose mystery is the core of the series. It is highly relevant, informative, and very likely to contain the answer to the claim.
+2. "Alma Wade" context: This context directly relates to the claim as it specifically mentions Alma Wade, who is the antagonist figure in the "F.E.A.R." series, and emphasizes that her mystery is the core of the series. It is highly relevant, informative, and very likely to contain the answer to the claim.
+
+idx: [1, 3]
+成功的数量为：169总数：224当前回溯率：76.81818181818181%
+##########
+##########
+ID:113
+Question:Close to the Enemy starred the English actor known as Ash Morgan in what BBC series?
+golden idx: [4, 7]
+step-by-step think: 1. "Close to the Enemy" context: This context directly relates to the claim as it mentions the BBC series "Close to the Enemy" which is exactly what the question is asking about. It provides specific information about the series, its setting, cast, and premiere date. It is highly relevant, informative, and very likely to contain the answer to the claim. 2. "Robert Glenister" context: This context mentions the English actor known as Ash "Three Socks" Morgan in the BBC series "Hustle". While it does not directly mention "Close to the Enemy", the actor's association with a BBC series and his notable role makes it a potentially relevant context to consider for the claim.
+
+idx: [7, 4]
+成功的数量为：171总数：226当前回溯率：77.02702702702703%
+##########
+##########
+ID:114
+Question:The Bass Rock Lighthouse was next to what Castle?
+golden idx: [3, 4]
+step-by-step think: 1. "Bass Rock" context: This context directly mentions the Bass Rock Lighthouse, which is directly related to the claim about the Bass Rock Lighthouse. It provides information about the history and construction of the lighthouse, making it highly informative and likely to contain the answer to the claim. 2. "Bass Rock Lighthouse" context: This context specifically focuses on the Bass Rock Lighthouse, detailing its construction, operation, and maintenance. It contains detailed information about the lighthouse, making it relevant and likely to have the answer to the claim.
+
+idx: [5, 3]
+成功的数量为：172总数：228当前回溯率：76.78571428571429%
+##########
+##########
+ID:115
+Question:Gülhane Park and Zografeion Lyceum, are located in which country?
+golden idx: [2, 6]
+step-by-step think: 
+1. "İstanbul Archaeology Museums" context: It directly mentions Gülhane Park and Topkapı Palace, which are relevant to the claim. It provides information about the location of these landmarks in Istanbul, which is likely to contain the answer to the claim.
+2. "Tiled Kiosk" context: This context also directly mentions Gülhane Park and Topkapı Palace, providing historical and architectural details. It is relevant and likely to contain the answer to the claim.
+3. "Gülhane Park" context: This context directly mentions Gülhane Park and its historical significance, which is relevant to the claim. It is likely to contain relevant information about the location.
+4. "Zografeion Lyceum" context: Although it is also a landmark in Istanbul, it is less directly related to Gülhane Park and Topkapı Palace compared to the previous contexts. However, it still provides information about a location in Istanbul, which may be relevant to the claim.
+
+idx: [0, 1]
+成功的数量为：172总数：230当前回溯率：76.10619469026548%
+##########
+##########
+ID:116
+Question:What is the name of the movie in which Edwin Brown plays a man that executed at least 400 people, including William Joyce and John Amery?
+golden idx: [3, 9]
+Response is None172
+##########
+##########
+ID:117
+Question:What genre of music is the solo artist that contributed to Real Damage a variant of?
+golden idx: [0, 4]
+step-by-step think: 1. "Real Damage" context: This context directly relates to the claim about the solo artist who contributed to it. It provides specific information about the collaboration between the indie rock band Gossip and the Electropop solo artist Tracy + the Plastics. It is highly relevant and likely contains the answer to the claim. 
+2. "Electropop" context: While not directly mentioning the collaboration with Gossip or Tracy + the Plastics, this context provides background information about Electropop, which is the genre of music the solo artist in question belongs to. Understanding this genre can help in identifying the solo artist. It is informative and likely to contain additional relevant information about the artist contributing to Real Damage.
+
+idx: [4, 0]
+成功的数量为：174总数：234当前回溯率：76.31578947368422%
+##########
+##########
+ID:118
+Question:Jake David Shapiro was best know for being the screenwriter of a film directed by who?
+golden idx: [5, 9]
+step-by-step think:1. "J. David Shapiro" context: It directly mentions Jake David Shapiro, who is the screenwriter of a film. It provides information about his background and works, including being the screenwriter of a film. It is highly relevant and likely contains the answer to the claim. 2. "We Married Margo" context: This context mentions J. David Shapiro as the co-writer and director of a film. It provides specific details about his involvement in the movie. It is directly related to the claim and likely contains relevant information.
+idx: [5, 0]
+成功的数量为：175总数：236当前回溯率：76.08695652173914%
+##########
+##########
+ID:119
+Question:What book contains a poem which, along with "Beowulf" and the "Anglo-Saxon Chronicle", preserves a legendary list of the kings of the Angles?
+golden idx: [2, 4]
+step-by-step think: 
+1. "Kings of the Angles" context: This context directly addresses the claim by mentioning a legendary list of the kings of the Angles, which is crucial to the question. It is highly relevant, informative, and likely contains the answer to the claim.
+2. "The Dragon (Beowulf)" context: This context discusses the Anglo-Saxon poem "Beowulf", which is one of the key texts along with the "Anglo-Saxon Chronicle" and the legendary list of the kings of the Angles. It provides detailed information that is relevant and likely to contain the answer to the claim.
+
+idx: [4, 1]
+成功的数量为：176总数：238当前回溯率：75.86206896551724%
+##########
+##########
+ID:120
+Question:Norbert Holm was arrested and later demoted because of his Chief of Operations association with a military theorist popularly known as what?
+golden idx: [2, 8]
+step-by-step think:1. "Norbert Holm" context: This directly relates to the claim by mentioning Norbert Holm's arrest and demotion due to his association with Field Marshal Erwin Rommel. It is highly relevant and likely contains the answer to the claim. 2. "Erwin Rommel" context: This context directly mentions Erwin Rommel, who is associated with Norbert Holm's arrest and demotion. It provides information about Rommel being a military theorist and his popular nickname "Desert Fox." It is relevant and likely contains the answer to the claim.
+idx: [8, 2]
+成功的数量为：178总数：240当前回溯率：76.06837606837607%
+##########
+##########
+ID:121
+Question:What state does Sang-Wook Cheong work as a materials scientist?
+golden idx: [6, 7]
+step-by-step think: 1. "Sang-Wook Cheong" context: This context directly relates to the claim as it provides detailed information about Sang-Wook Cheong being a materials scientist at Rutgers University. It is highly relevant, informative, and likely contains the answer to the claim. 
+2. "Markus J. Buehler" context: This context is also relevant as it provides information about Markus J. Buehler, a materials scientist and engineer at the Massachusetts Institute of Technology (MIT). It is informative and likely contains relevant information.
+
+idx: [6,0]
+成功的数量为：179总数：242当前回溯率：75.84745762711864%
+##########
+##########
+ID:122
+Question:What type of vegetation does Kniphofia and Baptisia have in common?
+golden idx: [1, 4]
+step-by-step think: 1. "Kniphofia" context: It directly relates to the claim by providing detailed information about the vegetation type associated with Kniphofia. It is informative and likely contains the answer to the claim. 2. "Baptisia" context: This context directly mentions "Baptisia" and provides information about its genus and native habitat, making it relevant and likely to contain the answer to the claim.
+idx: [4, 1]
+成功的数量为：181总数：244当前回溯率：76.05042016806722%
+##########
+##########
+ID:123
+Question:Californian rock band Lit recorded A Place in the Sun in 1995, but what's their best known song?
+golden idx: [1, 6]
+step-by-step think: 
+1. Lit (band) context: This context directly relates to the claim by mentioning the band Lit and their best known song "My Own Worst Enemy". It is informative and likely contains the answer to the claim.
+2. My Own Worst Enemy (song) context: This context directly relates to the claim as it provides detailed information about Lit's best known song "My Own Worst Enemy". It is informative and likely contains the answer to the claim.
+3. Lifeline (Papa Roach song) context: Although it mentions a song by a similar band, it is not directly relevant to the claim about Lit and their best known song "My Own Worst Enemy". 
+4. Zip-Lock (song) context: While it provides information about another song by Lit, it is not directly relevant to the claim about their best known song.
+5. Astro Lounge context: This context mentions Smash Mouth, a different band, and their well-known song "All Star", which is not directly relevant to the claim about Lit.
+6. A Place in the Sun (Lit album) context: While it provides background information about Lit's album, it may not directly address the claim about their best known song.
+7. Time Is Running Out (Papa Roach song) context: This context mentions another song by a different band, Papa Roach, and is not directly relevant to the claim about Lit and their best known song.
+8. Lit (album) context: This context provides background information about Lit's album "A Place in the Sun", but it may not directly address the claim about their best known song.
+idx: [1, 6]
+成功的数量为：183总数：246当前回溯率：76.25%
+##########
+##########
+ID:124
+Question:Gary Harrison, began his career in the 1970s and has written over how many major-label recorded songs including several number-one hits, another artist who have recorded his work include Bryan White, an American country music artist?
+golden idx: [7, 9]
+step-by-step think: 1. "Gary Harrison" context: This context directly relates to the claim by providing information about Gary Harrison's career, major-label recorded songs, and artists who have recorded his work, including Bryan White. It is highly informative and likely contains the answer to the claim. 
+2. "Between Now and Forever" context: This context provides specific details about Bryan White's second studio album, including the number-one hits produced from the album. It also mentions Bryan White as an artist who recorded Gary Harrison's work. This context is relevant and likely contains relevant information.
+idx: [7, 0]
+成功的数量为：184总数：248当前回溯率：76.03305785123968%
+##########
+##########
+ID:125
+Question:The 1976 German Grand Prix was won by a driver who retired in what year?
+golden idx: [0, 4]
+step-by-step think: 
+1. "1976 German Grand Prix" context: This directly relates to the claim about the 1976 German Grand Prix and provides details about the event, including the winner, James Hunt. It is highly relevant and likely contains the answer to the claim.
+2. "Racing helmet" context: While not directly about the winner of the 1976 German Grand Prix, it provides crucial information about the event, including Niki Lauda's near-fatal accident during the race. It is informative and likely to contain relevant details related to the claim.
+3. "1984 European Grand Prix" context: This context provides information about a different race held at Nürburgring in 1984, which is not directly relevant to the claim about the 1976 German Grand Prix winner. It is less likely to contain the answer compared to the contexts directly related to the 1976 event.
+
+idx: [0, 8]
+成功的数量为：185总数：250当前回溯率：75.81967213114754%
+##########
+##########
+ID:126
+Question:What event at the Asian Junior Athletics Championships has men and women competing at the same time?
+golden idx: [2, 3]
+step-by-step think: 1. "2010 Asian Junior Athletics Championships" context: This context directly addresses the claim by stating that the men's and women's events were divided equally. It provides specific information about the competition and its format, making it highly relevant and likely to contain the answer. 2. "2001 Asian Junior Athletics Championships" context: This context also directly relates to the claim by mentioning the specific event where men and women's events were divided equally, except for the men's 3000 meters steeplechase. It provides relevant details that are likely to contain the answer to the claim.
+idx: [1, 3]
+成功的数量为：186总数：252当前回溯率：75.60975609756098%
+##########
+##########
+ID:127
+Question:Which 1999 French Open - Women's Doubles runner-up was born in Russia on 7 June 1981?
+golden idx: [0, 1]
+step-by-step think:1. "1999 French Open – Women's Doubles" context: It directly relates to the claim by providing specific information about the event in question, including the players, the results, and the final outcome. It is highly relevant and likely contains the answer to the claim. 2. "Anna Kournikova" context: This context directly mentions Anna Kournikova, who is relevant to the claim as a tennis player. It provides information about her background and professional career, which could potentially contain the answer to the claim.  3. "Lu Lu (badminton)" context: Although it contains information about a female badminton player, it is not directly related to the claim about the 1999 French Open - Women's Doubles. It might not be as relevant or likely to contain the answer compared to the contexts directly related to the claim. 4. "Dennis Coke" context: While it provides information about a Jamaican male badminton player, it is not directly related to the claim about the 1999 French Open - Women's Doubles. It might not be as relevant or likely to contain the answer compared to the contexts directly related to the claim. 
+idx: [1, 0]
+成功的数量为：188总数：254当前回溯率：75.80645161290323%
+##########
+##########
+ID:128
+Question:What is the length of the River which has Wild Horse Creek as a tributary ?
+golden idx: [1, 7]
+step-by-step think: 1. "Wild Horse Creek (Wyoming)" context: This context directly mentions Wild Horse Creek, which is a tributary of the Powder River in Wyoming. It is directly related to the claim and likely contains information about the length of the river. 2. "Wild Horse River" context: This context mentions the Wild Horse River, formerly known as Wild Horse Creek, which is a tributary of the Kootenay River in British Columbia, Canada. It is directly related to the claim and likely contains relevant information.
+
+idx: [1, 8]
+成功的数量为：189总数：256当前回溯率：75.6%
+##########
+##########
+ID:129
+Question:Are Manhattan West and Singer Building both projects in New York?
+golden idx: [2, 6]
+step-by-step think: 1. "Manhattan West" context: It directly relates to the claim as it provides detailed information about the Manhattan West project in New York, including its size, location, and features. It is informative and likely contains relevant information about the project. 2. "Singer Building" context: This context directly relates to the claim as it provides information about the Singer Building in New York, its history, and its connection to other buildings. It is informative and likely contains details that can help answer the claim.
+idx: [2, 6]
+成功的数量为：191总数：258当前回溯率：75.79365079365078%
+##########
+##########
+ID:130
+Question:Who is the American internet entrepreneur who founded the company featured on 24 Hours on Craigslist?
+golden idx: [1, 9]
+step-by-step think: 1. "Craig Newmark" context: It directly mentions Craig Newmark, the American Internet entrepreneur who founded Craigslist, which is the company featured in "24 Hours on Craigslist." This context is highly relevant and likely to contain the answer to the claim. 2. "24 Hours on Craigslist" context: This context directly relates to the claim as it provides information about the documentary that features the company founded by Craig Newmark. It explains the concept of the documentary and its connection to Craigslist. This context is also informative and likely to contain details relevant to the claim.
+idx: [1, 9]
+成功的数量为：193总数：260当前回溯率：75.98425196850394%
+##########
+##########
+ID:131
+Question:Between two tennis players Kim Clijsters and Mary Pierce, who is older?
+golden idx: [1, 9]
+step-by-step think: 1. "Mary Pierce" context: This context directly relates to the claim as it provides information about Mary Pierce including her birth date. It is directly relevant and likely contains the answer to the claim. 2. "Kim Clijsters" context: This context directly mentions Kim Clijsters and her birth date. It is relevant and likely contains the answer to the claim.
+idx: [9, 1]
+成功的数量为：195总数：262当前回溯率：76.171875%
+##########
+##########
+ID:132
+Question:Which American college that has sent students to Centre for Medieval and Renaissance Studies was founded in 1874?
+golden idx: [8, 9]
+step-by-step think: 
+1. "Centre for Medieval and Renaissance Studies" context: It directly relates to the claim as it provides information about the founding of the Centre for Medieval and Renaissance Studies, the American colleges that have sent students there, and the year of foundation. It is informative and likely contains the answer to the claim.
+2. "St. Olaf College" context: This context directly mentions St. Olaf College, an American college founded in 1874, which is directly related to the claim. It provides information about the founding and affiliation of the college. It is relevant and likely contains the answer to the claim.
+idx: [8, 9]
+成功的数量为：197总数：264当前回溯率：76.35658914728683%
+##########
+##########
+ID:133
+Question:Hot Coffee, Mississippi sometimes shares a zipcode with a nearby city with what population at the 2010 census?
+golden idx: [4, 7]
+step-by-step think: 
+1. "Hot Coffee, Mississippi" context: This context directly mentions Hot Coffee, Mississippi, which is part of the claim. It provides information about the shared zipcode with a nearby city. It is highly relevant and likely contains the specific population information sought in the claim.
+2. "Collins, Mississippi" context: This context is also directly related to Hot Coffee, Mississippi as it provides information about Collins, a nearby city that shares the zipcode. It is relevant and likely contains additional details that could help answer the claim.
+
+idx: [4, 7]
+成功的数量为：199总数：266当前回溯率：76.53846153846153%
+##########
+##########
+ID:134
+Question:Jo Ann Terry won the 80m hurdles event at what Sao Paulo-based event from 1963?
+golden idx: [3, 7]
+step-by-step think: 
+1. "Jo Ann Terry" context: This context directly relates to the claim as it mentions Jo Ann Terry and her victory in the 80m hurdles event at the 1963 Pan American Games. It is highly relevant and likely contains the answer to the claim.
+2. "1963 Pan American Games" context: This context provides information about the event where Jo Ann Terry won the 80m hurdles event in 1963. It directly relates to the claim and is informative, making it likely to contain the answer.
+
+idx: [3, 7]
+成功的数量为：201总数：268当前回溯率：76.7175572519084%
+##########
+##########
+ID:135
+Question:Pearl Lowe and Alison Goldfrapp, is of which nationality?
+golden idx: [1, 2]
+step-by-step think:1. "Alison Goldfrapp" context: This context directly mentions Alison Goldfrapp, who is one of the individuals mentioned in the claim. It provides information about her as an English musician and record producer, which is relevant to the claim. It is likely to contain the answer to the claim. 2. "Pearl Lowe" context: This context directly relates to the claim by mentioning Pearl Lowe, who is one of the individuals mentioned in the claim. It provides information about her as an English fashion and textiles designer, and former singer-songwriter. It is relevant and likely to contain the answer to the claim. 3. Other contexts: The other contexts are either not directly related to the claim or provide information about Goldfrapp's songs, albums, and collaborations, which are less likely to contain the answer to the claim.
+idx: [1, 2]
+成功的数量为：203总数：270当前回溯率：76.89393939393939%
+##########
+##########
+ID:136
+Question:Which British company whose majority of its business interests are in Asia was related to the London Based Trading house Matheson & Company?
+golden idx: [4, 7]
+step-by-step think: 1. "Matheson & Company" context: This context directly relates to the claim by mentioning a London-based trading house closely associated with Jardine Matheson of Hong Kong. It is informative and likely contains relevant information about British companies related to Matheson & Company. 2. "Jardine Matheson" context: This context discusses Jardine Matheson Holdings Limited, a British conglomerate with business interests in Asia. While it does not directly mention Matheson & Company, it provides additional information about the company's background and potential connections. 
+idx: [4, 7]
+成功的数量为：205总数：272当前回溯率：77.06766917293233%
+##########
+##########
+ID:137
+Question:What man, also known as mi Sde-Or, created a military self-defense system developed for the Israel Defense Forces?
+golden idx: [4, 5]
+step-by-step think: 1. "Imi Lichtenfeld" context: This context directly relates to the claim as it mentions "Krav Maga," the military self-defense system developed for the Israel Defense Forces. It provides detailed information about the founder, Imi Lichtenfeld, also known as Imi Sde-Or. It is highly relevant, informative, and likely contains the answer to the claim. 2. "Krav Maga" context: This context directly relates to the claim as it provides detailed information about the military self-defense system developed for the Israel Defense Forces, including its techniques, origin, and founder, Imi Lichtenfeld. It is highly relevant, informative, and likely contains the answer to the claim.
+idx: [4, 5]
+成功的数量为：207总数：274当前回溯率：77.23880597014924%
+##########
+##########
+ID:138
+Question:Do musicians Robert Fleischman and Jimmy Barnes have the same nationality?
+golden idx: [1, 3]
+step-by-step think: 1. "Jimmy Barnes" context: It directly relates to the claim as it mentions Jimmy Barnes and his nationality as Scottish-Australian. It is informative and likely contains the answer to the claim. 2. "Robert Fleischman" context: Although it does not directly relate to the claim, it provides information about Robert Fleischman being an American musician. It is relevant and likely to contain the answer to the claim compared to the other contexts. 
+idx: [1, 3]
+成功的数量为：209总数：276当前回溯率：77.4074074074074%
+##########
+##########
+ID:139
+Question:What is the name of this American multinational corporation that provides IT services, headquartered in New Jersey, that acquired Mirabeau?
+golden idx: [1, 5]
+step-by-step think: 1. "Cognizant" context: It directly relates to the claim as it mentions the American multinational corporation headquartered in New Jersey. It provides detailed information about the company and its services, including the acquisition of Mirabeau. It is highly relevant, informative, and likely to contain the answer to the claim. 2. "Mirabeau (company)" context: This context directly mentions the acquisition of Mirabeau, which is part of the claim. It provides specific information about Mirabeau being acquired by Cognizant in 2016. It is directly relevant and likely to contain the answer to the claim.
+idx: [1, 5]
+成功的数量为：211总数：278当前回溯率：77.57352941176471%
+##########
+##########
+ID:140
+Question:When was Fannie Lee Chaney's son born?
+golden idx: [6, 9]
+step-by-step think: 1. "Fannie Lee Chaney" context: This context directly relates to the claim as it mentions Fannie Lee Chaney, whose son James Chaney was murdered during the 1964 Freedom Summer rides in Mississippi. It is highly relevant and likely contains information about Fannie Lee Chaney's son. 2. "James Chaney" context: This context provides detailed information about James Earl Chaney, who was one of three civil rights workers murdered during Freedom Summer. It directly relates to the claim and is informative about Fannie Lee Chaney's son.
+idx: [6, 9]
+成功的数量为：213总数：280当前回溯率：77.73722627737226%
+##########
+##########
+ID:141
+Question:The Canada Memorial in Green Park, London, United Kingdom, commemorates members of the Canadian Forces killed during the First and Second World Wars, the memorial was the result of lobbying and fund raising, much of it in Canada, by the former Canadian media tycoon Conrad Moffat Black, his title is what, of this British former newspaper publisher and author?
+golden idx: [2, 9]
+step-by-step think: 1. "Canada Memorial" context: This context directly relates to the claim as it mentions the Canada Memorial in Green Park, London, which commemorates members of the Canadian Forces killed during the First and Second World Wars. It also mentions Conrad Moffat Black's involvement in lobbying and fundraising for the memorial. It is highly relevant, informative, and likely to contain the answer to the claim. 2. "Conrad Black" context: This context provides information about Conrad Moffat Black, his title as Lord Black of Crossharbour, and his background as a Canadian-born British former newspaper publisher and author. It directly mentions the individual in question from the claim and provides relevant background information. It is likely to contain additional details relevant to the claim.
+
+idx: [9, 2]
+成功的数量为：215总数：282当前回溯率：77.89855072463769%
+##########
+##########
+ID:142
+Question:WNP-3 and WNP-5 were constructed by the agency formed in which year?
+golden idx: [6, 9]
+step-by-step think: 1. "WNP-3 and WNP-5" context: This context directly relates to the claim as it specifically mentions WNP-3 and WNP-5, which are part of the claim. It provides relevant information about these nuclear power plants and their construction history by the Washington Public Power Supply System. It is informative and likely contains the answer to the claim. 2. "Extraordinary State Commission" context: Although not directly related to the claim about WNP-3 and WNP-5, this context provides information about a Soviet government agency formed in 1942. While it is informative, it is less likely to contain the answer compared to the context specifically mentioning the nuclear power plants constructed by the agency.
+idx: [9, 0]
+成功的数量为：216总数：284当前回溯率：77.6978417266187%
+##########
+##########
+ID:143
+Question:he Central Harbourfront is a waterfront site it is the result of Central and Wan Chai Reclamation, and it sits to the east of the International Finance Centre (IFC), a skyscraper and an integrated commercial development on the waterfront of the Central District, of which territory?
+golden idx: [3, 5]
+step-by-step think: 1. "Central Harbourfront" context: It directly relates to the claim as it specifically mentions the Central Harbourfront, which is the result of Central and Wan Chai Reclamation and sits to the east of the International Finance Centre (IFC). It provides direct information relevant to the claim and is likely to contain the answer. 2. "International Finance Centre (Hong Kong)" context: This context directly discusses the International Finance Centre (IFC), which is mentioned in the claim. It provides information about IFC being a skyscraper and an integrated commercial development on the waterfront of the Central District. It is relevant to the claim and may contain useful details related to the Central Harbourfront.
+idx: [5,3]
+成功的数量为：218总数：286当前回溯率：77.85714285714286%
+##########
+##########
+ID:144
+Question:What city does Bundestag and Reichstag building have in common?
+golden idx: [1, 9]
+step-by-step think: 1. "Bundestag (Berlin U-Bahn)" context: This context directly relates to the claim as it mentions the Bundestag and Reichstag buildings. It explains the name change of a Berlin U-Bahn station from Reichstag to Bundestag, providing relevant information. It is informative and likely contains the answer to the claim. 2. "Reichstag fire" context: This context directly relates to the claim as it discusses the Reichstag building and its historical significance. It provides information about the Reichstag fire and its aftermath, which is relevant to understanding the connection between the Bundestag and Reichstag buildings.
+idx: [1, 0]
+成功的数量为：219总数：288当前回溯率：77.6595744680851%
+##########
+##########
+ID:145
+Question:Which musician, Edwyn Collins or Jimmie Ross, played the bass guitar?
+golden idx: [7, 8]
+step-by-step think:1. "Hope and Despair" context: It directly relates to the claim as it provides information about the debut solo album by Scottish musician Edwyn Collins. It is informative and likely contains the answer to the claim. 2. "Orange Juice (band)" context: This context directly mentions the band Orange Juice, of which Edwyn Collins was a part. It provides information about the band's formation and activities. It is relevant and likely contains the answer to the claim.
+idx: [2, 3]
+成功的数量为：219总数：290当前回溯率：77.11267605633803%
+##########
+##########
+ID:146
+Question:what is the 3112 acre Pennsylvania state park that took over 11,000 to make due to the wave action of lake Erie called?
+golden idx: [1, 5]
+step-by-step think:1. "Presque Isle State Park" context: It directly relates to the claim by providing detailed information about a 3112 acre Pennsylvania state park located near Lake Erie. It is informative and likely contains the answer to the claim. 2. "History of Presque Isle" context: This context directly addresses the claim by discussing the wave action of Lake Erie over 11,000 years, which is directly related to the claim. It is informative and likely contains the answer to the claim.
+idx: [1, 5]
+成功的数量为：221总数：292当前回溯率：77.27272727272727%
+##########
+##########
+ID:147
+Question: Teri W. Odom is a member of a scientific journal first published in 2007 by who?
+golden idx: [5, 7]
+step-by-step think: 1. "ACS Nano" context: This context directly relates to the claim as it mentions a scientific journal first published in 2007, which is the same year mentioned in the claim. It provides information about the publisher, editor-in-chief, and the type of articles published. It is relevant, informative, and likely contains the answer to the claim. 2. "Teri W. Odom" context: This context directly mentions Teri W. Odom, who is a member of a scientific journal and is associated with multiple scientific publications. It provides detailed information about her roles and affiliations with various journals. It is highly relevant and likely contains the answer to the claim.
+idx: [5, 7]
+成功的数量为：223总数：294当前回溯率：77.43055555555556%
+##########
+##########
+ID:148
+Question:What forensic psychiatrist consulted on numbers cases including one for a contract killer associated with the DeCavalcante crime family?
+golden idx: [4, 6]
+step-by-step think: 1. "Park Dietz" context: Park Dietz is a forensic psychiatrist who has consulted on high-profile criminal cases, including those involving contract killers. This context directly relates to the claim about a forensic psychiatrist consulting on cases associated with the DeCavalcante crime family. It is highly relevant, informative, and likely contains the answer to the claim.
+2. "Richard Kuklinski" context: Richard Kuklinski was an American contract killer associated with the DeCavalcante crime family. This context provides specific information about a contract killer linked to the crime family mentioned in the claim. It is relevant, informative, and likely contains valuable insights related to the claim.
+
+idx: [4, 6]
+成功的数量为：225总数：296当前回溯率：77.58620689655173%
+##########
+##########
+ID:149
+Question:Which American singer-songwriter known as "the Caruso of Rock", recorded on the Monument Records label and had hits such as "Pretty One," and "Uptown"?
+golden idx: [2, 6]
+step-by-step think: 1. "Roy Orbison" context: This context directly relates to the claim by providing information about the American singer-songwriter known as "the Caruso of Rock" and his recordings on the Monument Records label. It is very informative and likely contains the answer to the claim. 2. "The Very Best of Ray Stevens" context: This context also mentions Monument Records and provides information about Ray Stevens' hits on the label. It is relevant and likely contains the answer to the claim.
+idx: [2, 0]
+成功的数量为：226总数：298当前回溯率：77.3972602739726%
+##########
+##########
+ID:150
+Question:The central character of "The Adventures of Brer Rabbit" was later adapted into which 1946 Walt Disney Company motion picture film?
+golden idx: [3, 8]
+step-by-step think: 1. "The Adventures of Brer Rabbit" context: This context directly addresses the central character mentioned in the claim and provides information about the character being adapted into a 1946 Walt Disney Company motion picture film. It is highly relevant and likely contains the answer to the claim. 
+2. "Color motion picture film" context: This context does not directly relate to the claim and provides information about unexposed color photographic film. It is less likely to contain the answer compared to the context directly related to the claim.
+
+idx: [3,0]
+成功的数量为：227总数：300当前回溯率：77.21088435374149%
+##########
+##########
+ID:151
+Question:Abraham Weinberg was a suspect in the killing of which Irish-American hitman?
+golden idx: [1, 7]
+Response is None227
+##########
+##########
+ID:152
+Question: Benjamin Halfpenny was a footballer for a club that plays its home matches where?
+golden idx: [0, 7]
+step-by-step think:1. "Widnes Vikings" context: This context directly mentions the Widnes Vikings, a football club that plays its home matches at the Select Security Stadium. It directly relates to the claim and is likely to contain the answer. 2. "Adelaide Football Club" context: This context provides information about the Adelaide Football Club, which competes in the Australian Football League and plays its home matches at Adelaide Oval. It directly relates to the claim and is likely to contain the answer.
+idx: [7, 3]
+成功的数量为：228总数：304当前回溯率：77.02702702702703%
+##########
+##########
+ID:153
+Question:The 2000–01 NBA season was the Jazz's 27th season in the National Basketball Association, and 22nd season in Salt Lake City, Utah, after the retirement of Jeff Hornacek, the Jazz signed free agents John Starks, and who?
+golden idx: [5, 8]
+step-by-step think: 1. "2000–01 Utah Jazz season" context: This context directly relates to the claim as it mentions the specific NBA season in question and provides detailed information about the Jazz's performance, roster changes, and accomplishments. It is highly relevant, informative, and likely contains the answer to the claim. 
+
+2. "1999–2000 Utah Jazz season" context: This context is relevant as it discusses a previous season of the Utah Jazz, including player signings and outcomes. While it may not be as directly related to the claim as the first context, it still provides valuable background information that could be useful in answering the claim.
+
+idx: [8, 1]
+成功的数量为：229总数：306当前回溯率：76.84563758389261%
+##########
+##########
+ID:154
+Question:What was population of the city where the Dutch retired footballer Foeke Booy born?
+golden idx: [2, 3]
+step-by-step think: 
+1. "Leeuwarden" context: It directly mentions the city where the Dutch retired footballer Foeke Booy was born, which is highly relevant to the claim. It provides the population of the city, which is likely to contain the answer to the claim.
+2. "Foeke Booy" context: This context directly mentions the Dutch retired footballer Foeke Booy, who is related to the claim. Although it does not provide the population information directly, it is still relevant and likely to contain additional details related to the claim.
+
+idx: [3, 2]
+成功的数量为：231总数：308当前回溯率：77.0%
+##########
+##########
+ID:155
+Question:In what year was the company that co-developed and distributed the BlackBerry DTEK60 founded?
+golden idx: [2, 8]
+step-by-step think: 1. "BlackBerry Limited" context: It directly relates to the claim as it provides detailed information about the company that co-developed and distributed the BlackBerry DTEK60. It mentions the founding year of BlackBerry Limited (originally known as Research In Motion), which is crucial for answering the claim. This context is highly relevant, informative, and likely contains the answer to the claim. 2. "BlackBerry DTEK60" context: This context directly relates to the claim as it provides specific information about the BlackBerry DTEK60, the smartphone in question. It mentions the collaboration between BlackBerry Limited and TCL in developing and distributing the device. This context is also highly relevant, informative, and likely contains the answer to the claim.
+
+idx: [2,8]
+成功的数量为：233总数：310当前回溯率：77.15231788079471%
+##########
+##########
+ID:156
+Question:Who chaired the ceremony in which the film written by Canet and Philippe Lefebvre won the award for Best Film?
+golden idx: [2, 6]
+step-by-step think:1. "Tell No One" context: This context directly mentions the film written by Canet and Philippe Lefebvre, and it also provides information about the awards it won. It is highly relevant and likely contains the answer to the claim. 2. "2nd Lumières Awards" context: This context directly relates to the claim as it mentions the award ceremony and the film "Ridicule" winning the award for Best Film. It is informative and relevant to the claim.
+idx: [2, 1]
+成功的数量为：234总数：312当前回溯率：76.97368421052632%
+##########
+##########
+ID:157
+Question:Mookychick is an independent daily online magazine and community with more than 100,000 readers a month and over 5,000 forum members, content includes analysis of current sociopolitical events, social and cultural trends, alternative fashion, movies, books, music and arts and crafts from a feminist perspective, in contrast with feminist publications and communities such as which women's lifestyle magazine that is published six times a year, and is published by Debbie Stoller and Laurie Henzel? 
+golden idx: [4, 8]
+step-by-step think: 1. "Bust (magazine)" context: It directly relates to the claim by providing information about a women's lifestyle magazine published six times a year. It is likely to contain the answer to the claim as it specifically addresses the comparison with other feminist publications. 2. "Mookychick" context: This context directly refers to an independent daily online magazine and community with content including sociopolitical events, alternative fashion, movies, books, music, and arts and crafts from a feminist perspective. It is relevant and likely to contain information related to the claim.
+idx: [8, 4]
+成功的数量为：236总数：314当前回溯率：77.12418300653596%
+##########
+##########
+ID:158
+Question:Der Mond was composed by the man who was best known for what cantata?
+golden idx: [0, 1]
+step-by-step think: 1. "Carl Orff" context: This context directly mentions Carl Orff, who is the composer of "Der Mond." It also provides additional information about his best-known cantata, "Carmina Burana," which is highly relevant and likely contains the answer to the claim. 2. "Der Mond" context: This context directly relates to the claim as it provides information about the opera "Der Mond," its composer, and its performance history. It is highly relevant and likely contains the answer to the claim.
+idx: [1, 0]
+成功的数量为：238总数：316当前回溯率：77.27272727272727%
+##########
+##########
+ID:159
+Question:Mackenzie Davis appeared in the 2013 Canadian romantic comedy film directed by whom?
+golden idx: [6, 8]
+step-by-step think: 1. "The Right Kind of Wrong (film)" context: This context directly relates to the claim as it mentions the 2013 Canadian romantic comedy film "The Right Kind of Wrong," which is directly related to the claim. It also provides information about the director, Jeremiah S. Chechik. It is relevant and likely contains the answer to the claim. 2. "The F Word (2013 film)" context: This context directly mentions the 2013 Canadian romantic comedy film "The F Word," which is directly related to the claim. It also provides information about the director, Michael Dowse, and the cast, including Mackenzie Davis. It is relevant and likely contains the answer to the claim.
+idx: [3, 6]
+成功的数量为：239总数：318当前回溯率：77.09677419354838%
+##########
+##########
+ID:160
+Question:The Developing Communities Project's first executive director was which former President?
+golden idx: [3, 8]
+step-by-step think: 1. "Developing Communities Project" context: This context directly relates to the claim as it mentions the organization where the first executive director served. It provides specific information about the organization and its history. It is relevant and likely contains the answer to the claim. 
+2. "Bikes Not Bombs" context: This context mentions the first Executive Director of the organization and provides details about their involvement. It is related to the claim and may contain relevant information. 
+idx: [8, 1]
+成功的数量为：240总数：320当前回溯率：76.92307692307693%
+##########
+##########
+ID:161
+Question:Jane's Addiction and Weeping Willows, play which genre of music?
+golden idx: [0, 8]
+step-by-step think: 1. "Perry Farrell" context: It directly relates to the claim as it mentions Jane's Addiction, which is part of the claim. It provides information about Perry Farrell's involvement in the band and his other musical projects. It is informative and likely contains the answer to the claim. 2. "Brian Virtue" context: This context directly mentions Jane's Addiction and provides information about a music producer who worked with the band. It is relevant and likely contains the answer to the claim.
+idx: [2, 1]
+成功的数量为：240总数：322当前回溯率：76.43312101910828%
+##########
+##########
+ID:162
+Question:Throne of Glass is a young adult high fantasy novel series, by which bestselling American fantasy author?
+golden idx: [4, 7]
+step-by-step think: 1. "Sarah J. Maas" context: This context directly relates to the claim as it mentions the author of the "Throne of Glass" series, which is the subject of the claim. It provides relevant information about the bestselling American fantasy author Sarah J. Maas and her debut novel. It is highly likely to contain the answer to the claim. 
+2. "Throne of Glass" context: This context directly relates to the claim as it provides detailed information about the "Throne of Glass" series, including the author Sarah J. Maas and the storyline. It is specifically about the topic mentioned in the claim and is very likely to contain relevant information.
+
+idx: [4, 7]
+成功的数量为：242总数：324当前回溯率：76.58227848101265%
+##########
+##########
+ID:163
+Question:The largest ship in the "Imperator" class ocean liners had how many gross register tons?
+golden idx: [4, 9]
+step-by-step think: 1. "Imperator-class ocean liner" context: This context directly relates to the claim as it provides specific information about the "Imperator" class ocean liners, including their size and features. It is informative and likely contains the answer to the claim. 2. "RMS Majestic (1914)" context: This context directly mentions the "RMS Majestic," which was the largest ship in the world at one point. It is relevant and likely contains information relevant to the claim. 
+idx: [4,9]
+成功的数量为：244总数：326当前回溯率：76.72955974842768%
+##########
+##########
+ID:164
+Question:Axle Whitehead was a part of an American comedy-drama television series that is a remake of the British series with the same name set in what city?
+golden idx: [2, 3]
+step-by-step think: 1. "Shameless (U.S. TV series)" context: It directly relates to the claim by mentioning the American comedy-drama television series "Shameless," which Axle Whitehead was a part of. It provides relevant information about the series being set in Chicago. It is highly likely to contain the answer to the claim. 
+2. "Axle Whitehead" context: This context directly relates to the claim by providing details about Axle Whitehead, his involvement in the "Shameless" series, and his role as Davis. It offers specific information related to the claim and is likely to contain the answer.
+
+idx: [3, 2]
+成功的数量为：246总数：328当前回溯率：76.875%
+##########
+##########
+ID:165
+Question:Were both Joseph Roth and Cid Corman authors?
+golden idx: [0, 9]
+step-by-step think: 1. "Joseph Roth" context: This context directly addresses the claim by providing information about Joseph Roth, one of the authors mentioned in the claim. It discusses his background, notable works, and his contributions to literature. It is highly relevant and likely contains key information about the author in question. 2. "Cid Corman" context: This context focuses on Cid Corman, another author mentioned in the claim. It provides details about his career as a poet, translator, and editor, emphasizing his significance in American poetry. While not as directly related to Joseph Roth, it is still relevant and informative in the context of authors. 
+idx: [9,0]
+成功的数量为：248总数：330当前回溯率：77.01863354037268%
+##########
+##########
+ID:166
+Question:What was the event that Afghanistan competed in for the first time in 2017 officially known as?
+golden idx: [4, 8]
+step-by-step think: 1. "Afghanistan at the Deaflympics" context: This context directly mentions "Afghanistan at the Deaflympics" and provides information about Afghanistan's participation for the first time in the 2017 Summer Deaflympics. It is informative and likely contains the answer to the claim. 2. "2002 Asian Games medal table" context: This context mentions Afghanistan's participation for the first time in the history of the Asian Games. It provides specific details about Afghanistan returning after the fall of the Taliban government and competing for the first time in an international sporting event hosted by South Korea. It is relevant and likely contains the answer to the claim.
+idx: [4, 1]
+成功的数量为：249总数：332当前回溯率：76.85185185185185%
+##########
+##########
+ID:167
+Question:Who was the director of the 2001 American romantic comedy film written by Marc Klein in which Lucy Gordon had a small role?
+golden idx: [0, 5]
+step-by-step think: 1. "Serendipity (film)" context: It directly relates to the claim as it provides information about the 2001 American romantic comedy film written by Marc Klein. It is highly relevant and likely to contain the answer to the claim. 2. "Lucy Gordon (actress)" context: This context directly mentions Lucy Gordon, who had a small role in the film. It provides additional information about the actress, making it relevant and likely to contain the answer to the claim.
+idx: [0, 5]
+成功的数量为：251总数：334当前回溯率：76.99386503067484%
+##########
+##########
+ID:168
+Question:What hamlet and census designated place was the location of the only pay-per-view Bunkhouse Stampede?
+golden idx: [0, 7]
+step-by-step think: 1. "Bunkhouse Stampede (1988)" context: This context directly mentions the Bunkhouse Stampede event, which is closely related to the claim as it specifies the location and nature of the event as a pay-per-view. It is highly informative and very likely to contain the answer to the claim. 2. "Uniondale, New York" context: This context directly relates to the claim by mentioning Uniondale, New York, the location where the only pay-per-view Bunkhouse Stampede took place. It provides specific information about the venue and event location. It is relevant and likely contains valuable information related to the claim.
+idx: [7, 0]
+成功的数量为：253总数：336当前回溯率：77.13414634146342%
+##########
+##########
+ID:169
+Question:La Barredora was a gang that declared war on the leader of the cartel based where?
+golden idx: [4, 6]
+Response is None253
+##########
+##########
+ID:170
+Question:What year did the chairman of the Jenkins Commission die?
+golden idx: [5, 7]
+step-by-step think: 1. "Commission on Foreign Economic Policy" context: It directly relates to the claim as it mentions the chairman of the Jenkins Commission, Clarence B. Randall, and provides information about the establishment and objectives of the commission. It is informative and likely contains the answer to the claim. 2. "Jenkins Commission (EU)" context: This context directly relates to the claim as it provides information about the Jenkins Commission in the European Union, with Roy Jenkins serving as President. It is relevant and likely contains relevant information about the Jenkins Commission.
+idx: [0, 9]
+成功的数量为：253总数：340当前回溯率：76.66666666666667%
+##########
+##########
+ID:171
+Question:Who was born first, Odysseas Elytis or Cornel West?
+golden idx: [0, 5]
+step-by-step think: 
+1. "Odysseas Elytis" context: This context directly mentions Odysseas Elytis, providing information about his birthdate and accomplishments, including winning the Nobel Prize in Literature. It is highly relevant to the claim and likely contains the answer about his birthdate.
+2. "Race Matters" context: This context discusses Cornel West and his book "Race Matters," providing background information about the author and his work. While it is relevant to one of the individuals mentioned in the claim, it may not directly answer the question about birthdates.
+3. "Kyriakos Charalambides" context: This context mentions a poet related to Greek culture but is less relevant to the specific claim about Odysseas Elytis and Cornel West.
+4. "David Carrasco" context: This context discusses an academic historian and scholar, which is not directly related to the claim about the birthdates of Odysseas Elytis and Cornel West.
+5. "Mytilene International Airport" context: This context mentions an international airport named after Odysseas Elytis, but it does not provide relevant information about his birthdate.
+6. "Cornel West" context: This context provides information about Cornel West, including his birthdate and background. It is relevant to one of the individuals mentioned in the claim but may not directly answer the question about birthdates.
+7. "Tragoudia Gia Tous Mines" context: This context discusses an album by Eleftheria Arvanitaki and includes poems by Odysseas Elytis, but it does not directly address the claim about birthdates.
+8. "Tavis Smiley" context: This context talks about Tavis Smiley and his collaboration with Cornel West on a radio show. While it provides background information, it is less likely to contain the answer to the claim.
+9. "David Connolly (translator)" context: This context mentions a translator who has worked on translating works by Odysseas Elytis, but it is not directly relevant to the birthdates of the individuals in the claim.
+10. "Mourning in America and Dreaming in Color" context: This context discusses an album by Brother Ali featuring Cornel West, which is not directly related to the claim about birthdates. 
+
+idx: [0,5]
+成功的数量为：255总数：342当前回溯率：76.80722891566265%
+##########
+##########
+ID:172
+Question: "Let Me Out" is a song released as the fifth single from what band's fifth studio album "Humanz" which was recorded in London, Paris, New York City, Chicago, and Jamaica ?
+golden idx: [0, 5]
+step-by-step think:1. "Humanz" context: It directly relates to the claim as it mentions the album "Humanz" and provides information about its recording locations. It is informative and likely contains the answer to the claim. 2. "Let Me Out (Gorillaz song)" context: This context directly relates to the claim as it mentions the song "Let Me Out" and its release as the fifth single from the album "Humanz". It provides specific details about the song and its connection to the album. It is relevant and likely contains the answer to the claim.
+idx: [0, 5]
+成功的数量为：257总数：344当前回溯率：76.94610778443113%
+##########
+##########
+ID:173
+Question:Up to how far off can the Deal Timeball be from Coordinated Universal Time?
+golden idx: [6, 8]
+step-by-step think: 1. "DUT1" context: It directly discusses the time correction difference between Universal Time (UT1) and Coordinated Universal Time (UTC), which is highly relevant to the claim. It is informative and likely contains the answer to the claim. 2. "Deal Timeball" context: This context provides specific information about the Deal Timeball, its historical significance, and its relation to Greenwich Mean Time. It is directly related to the claim and likely contains valuable information. 3. "Time in Malaysia" context: While it discusses Malaysia Standard Time and its relation to Coordinated Universal Time, it may not be as directly relevant to the specific query about the Deal Timeball. However, it still provides general information about time standards. 4. "Mountain Time Zone" context: This context is relevant to time zones but does not specifically address the Deal Timeball or Coordinated Universal Time, making it less likely to contain the answer to the claim. 5. "Day" context: Although it provides information about different definitions of a day and the concept of civil day, it does not directly address the claim about the Deal Timeball and Coordinated Universal Time. 6. "Civil time" context: It discusses civil time scales and standard time zones but does not directly relate to the specific query about the Deal Timeball. 7. "Central European Time" context: While it provides information about Central European Time, it is not directly related to the claim about the Deal Timeball and Coordinated Universal Time. 8. "Greenwich Mean Time" context: This context discusses Greenwich Mean Time and its relation to Coordinated Universal Time, making it directly relevant to the claim. It is informative and likely contains valuable information. 9. "Universal Time" context: It provides information about Universal Time and its various versions, including Coordinated Universal Time. It directly relates to the claim and is likely to contain relevant information. 10. "Fractional lambda switching" context: This context discusses optical networking and time-driven switching, which is not directly related to the query about the Deal Timeball and Coordinated Universal Time. It may not contain relevant information for the specific claim.
+idx: [0, 8]
+成功的数量为：258总数：346当前回溯率：76.78571428571429%
+##########
+##########
+ID:174
+Question:Superheaven and Oceansize, are bands of which shared genre?
+golden idx: [1, 6]
+step-by-step think: 1. "Oceansize" context: It directly relates to the claim as it provides information about the band Oceansize, which is part of the claim. It is informative and likely contains the answer to the claim. 2. "Superheaven" context: This context directly relates to the claim as it provides information about the band Superheaven, which is part of the claim. It is informative and likely contains the answer to the claim.
+idx: [1, 6]
+成功的数量为：260总数：348当前回溯率：76.92307692307693%
+##########
+##########
+ID:175
+Question:What nationality was a  historical drama film directed by?
+golden idx: [5, 9]
+step-by-step think: 1. "Nell Gwynn (1934 film)" context: This context directly relates to the claim as it mentions a historical drama film directed by Herbert Wilcox. It provides specific details about the film, its director, and the cast. It is highly relevant, informative, and likely contains the answer to the claim. 2. "Dick Turpin (1933 film)" context: This context also directly relates to the claim as it mentions a historical drama film directed by Victor Hanbury and John Stafford. It provides details about the film and its storyline. It is relevant, informative, and likely to contain information related to the claim.
+idx: [0, 1]
+成功的数量为：260总数：350当前回溯率：76.47058823529412%
+##########
+##########
+ID:176
+Question:Who has more scope of profession, Richard Ford or Robert E. Howard?
+golden idx: [3, 7]
+step-by-step think: 1. "Legacy of Robert E. Howard" context: This context directly mentions Robert E. Howard, who is one of the individuals mentioned in the claim. It provides information about his legacy and critical reception, which could be relevant to comparing his scope of profession with Richard Ford. It is likely to contain valuable insights related to the claim. 2. "Richard Ford" context: This context directly relates to the other individual mentioned in the claim, Richard Ford. It provides information about his works, including novels and short stories, which can help evaluate his scope of profession compared to Robert E. Howard.
+idx: [1, 3]
+成功的数量为：261总数：352当前回溯率：76.31578947368422%
+##########
+##########
+ID:177
+Question:The American Aircraft Penetrator was modified from a helicopter produced by what nation's military?
+golden idx: [6, 7]
+step-by-step think: 1. "AAI Penetrator" context: It directly relates to the claim as it mentions the "American Aircraft Penetrator" and provides information about its modification from the Bell UH-1 Iroquois. It is informative and likely contains the answer to the claim. 2. "American Aircraft Penetrator" context: This context directly mentions the "American Aircraft Penetrator" and provides details about its modification from the Bell UH-1 Iroquois. It is highly relevant and likely contains the answer to the claim.
+idx: [1, 7]
+成功的数量为：262总数：354当前回溯率：76.16279069767442%
+##########
+##########
+ID:178
+Question:Canton Road Station was a planned railway station on the Kowloon Southern Link of West Rail Line, that was to run beneath a large shopping mall located where?
+golden idx: [2, 5]
+step-by-step think:1. "Canton Road Station" context: This context directly relates to the claim as it mentions the planned railway station and its location beneath the shopping mall, Harbour City in Tsim Sha Tsui. It is informative and likely contains the answer to the claim. 2. "Harbour City (Hong Kong)" context: This context directly mentions the shopping mall, Harbour City, which is the location of the planned Canton Road Station. It provides detailed information about the mall's components and location, making it relevant and likely to contain the answer to the claim.
+idx: [5, 2]
+成功的数量为：264总数：356当前回溯率：76.30057803468208%
+##########
+##########
+ID:179
+Question:What South Korean sitcom starred a South Korean singer and actress who began her music career at the age of 15?
+golden idx: [5, 8]
+step-by-step think: 1. "The Sound of Your Heart (TV series)" context: This context directly mentions a South Korean sitcom starring a South Korean singer and actress, which is highly relevant to the claim. It provides specific details about the sitcom and the individuals involved. It is informative and likely to contain the answer to the claim. 2. "Han Sun-hwa" context: This context mentions a South Korean singer and actress who began her music career at a young age. While it does not directly mention the South Korean sitcom in question, it provides relevant information about a singer and actress, which could be connected to the claim.
+
+idx: [0, 1]
+成功的数量为：264总数：358当前回溯率：75.86206896551724%
+##########
+##########
+ID:180
+Question:Ghostbusters is a song written and recorded by Ray Parker Jr. as the theme song for a movie starring a Canadian-American actor who was an original member of the Not Ready for Prime Time Players on what show?
+golden idx: [4, 7]
+step-by-step think: 1. "Ghostbusters (song)" context: This context directly relates to the claim as it mentions "Ghostbusters" and provides information about the song, including the movie it is associated with. It is informative and likely contains the answer to the claim. 2. "Dan Aykroyd" context: This context directly relates to the claim as it provides information about a Canadian-American actor who was an original member of the Not Ready for Prime Time Players on "Saturday Night Live." It is relevant and likely contains the answer to the claim.
+idx: [7, 4]
+成功的数量为：266总数：360当前回溯率：76.0%
+##########
+##########
+ID:181
+Question:Gelatine was an airship piloted on September 19, 1905 by a pioneer American aviator and what?
+golden idx: [3, 5]
+step-by-step think: 1. "Gelatine (airship)" context: This context directly relates to the claim as it mentions the Gelatine airship and its pilot, Lincoln J. Beachey, on September 19, 1905. It provides detailed information about the flight which is highly relevant and likely contains the answer to the claim. 2. "Lowell Smith" context: This context mentions a pioneer American airman who achieved significant milestones in aviation history. While it provides valuable information about aviation, it may not be as directly related to the specific claim about the Gelatine airship piloted on September 19, 1905.
+idx: [5, 1]
+成功的数量为：267总数：362当前回溯率：75.85227272727273%
+##########
+##########
+ID:182
+Question:Which movie was released first, The Hunchback of Notre Dame or Saludos Amigos?
+golden idx: [6, 7]
+step-by-step think: 1. "The Hunchback of Notre Dame (1996 film)" context: This context directly relates to the claim as it mentions the film "The Hunchback of Notre Dame." It provides details about the film's release year, production, and the plot. It is highly relevant and likely to contain the answer to the claim. 2. "Saludos Amigos" context: This context directly relates to the claim as it mentions the film "Saludos Amigos." It provides information about the film's release year, production, and its connection to Latin America. It is highly relevant and likely to contain the answer to the claim.
+idx: [6, 7]
+成功的数量为：269总数：364当前回溯率：75.98870056497175%
+##########
+##########
+ID:183
+Question:In what country did the repression of citizens by a dictator during the period of 1973 to 1990 occur?
+golden idx: [6, 8]
+step-by-step think: 1. "Dirty War" context: This context directly relates to the claim as it mentions a period of state terrorism in Argentina from 1974 to 1983, which coincides with the claim's timeline. It provides detailed information about the repression of left-wing activists, political dissidents, and others, making it highly relevant and likely to contain the answer to the claim. 2. "Organización Primero de Marzo" context: This context directly relates to the claim as it discusses the repression under General Alfredo Stroessner’s dictatorship in Paraguay during the mid-70s. It provides information about the wave of repression, torture, and execution of leaders. This makes it highly relevant and likely to contain the answer to the claim.
+idx: [4, 3]
+成功的数量为：269总数：366当前回溯率：75.56179775280899%
+##########
+##########
+ID:184
+Question:The mother of the vice chair of Hillary Clinton's 2016 campaign for President is the director of what institue?
+golden idx: [1, 7]
+step-by-step think: 1. "Institute of Muslim Minority Affairs" context: This context directly mentions the director of the institute, Dr. Saleha Mahmood Abedin, who is the mother of Hillary Clinton aide Huma Abedin. It is directly relevant to the claim and likely contains the answer. 2. "Huma Abedin" context: This context directly mentions Huma Abedin, who was the vice chair of Hillary Clinton's 2016 campaign for President of the United States. It is directly relevant to the claim and likely contains further information related to the claim.
+idx: [1, 7]
+成功的数量为：271总数：368当前回溯率：75.69832402234637%
+##########
+##########
+ID:185
+Question:Michael Ralph DeVito (born June 10, 1984) is a former American football defensive end, he  the National Football League (NFL), DeVito attended high school at Nauset Regional High School an NEASC accredited high school located in North Eastham, in which state?
+golden idx: [0, 3]
+step-by-step think: 1. "Nauset Regional High School" context: This context directly mentions the high school attended by Michael Ralph DeVito, which is crucial to verifying the claim. It provides the specific location of the high school and its accreditation information. It is highly relevant and likely contains the answer to the claim. 
+
+2. "Mike DeVito" context: This context provides detailed information about Michael Ralph DeVito, mentioning his career as a football defensive end, the teams he played for in the NFL, and his college football background. While this context is informative about DeVito's professional life, it does not directly address the specific location of the high school he attended. However, it still holds relevance to the claim due to its focus on DeVito's football career.
+
+idx: [3, 0]
+成功的数量为：273总数：370当前回溯率：75.83333333333333%
+##########
+##########
+ID:186
+Question:"Apocalypic" is a song sung by Lizzy Hale from which group? 
+golden idx: [3, 9]
+step-by-step think: The context of "Halestorm" is directly related to the claim as it specifically mentions the song "Apocalyptic" by the American hard rock band Halestorm. It is informative and highly likely to contain the answer to the claim. The context of "Famine Song" is not directly related to the claim and doesn't provide any information about the song "Apocalyptic" by Lizzy Hale from the band Halestorm. Therefore, it is less likely to contain the answer compared to the "Halestorm" context.
+idx: [3, 9]
+成功的数量为：275总数：372当前回溯率：75.96685082872928%
+##########
+##########
+ID:187
+Question:Ted Sutton plays Sergeant Cunningham in a2002 film that stars Mel Gibson as what character?
+golden idx: [5, 8]
+step-by-step think:1. "Tequila Sunrise (film)" context: It directly relates to the claim as it mentions Mel Gibson and provides information about the film "Tequila Sunrise" in which he stars. It is informative and likely contains the answer to the claim. 2. "Maverick (film)" context: This context directly mentions Mel Gibson as Bret Maverick, the character he plays in the film. It provides details about the film's plot and the character played by Gibson. It is relevant and likely contains the answer to the claim.
+idx: [3, 2]
+成功的数量为：275总数：374当前回溯率：75.54945054945054%
+##########
+##########
+ID:188
+Question:Who is the former professional tennis player from Italy, Chris Evert or Mara Santangelo?
+golden idx: [3, 6]
+step-by-step think: 1. "Mara Santangelo" context: This context directly addresses one of the options in the claim, mentioning Mara Santangelo as a former professional tennis player from Italy. It is highly relevant and likely contains valuable information related to the claim. 2. "Alicia Molik" context: This context provides information about a professional tennis player who won Grand Slam women's doubles titles with Mara Santangelo. It indirectly connects to the claim by mentioning Mara Santangelo. It is relevant and may contain additional insights related to the claim.
+idx: [3, 0]
+成功的数量为：276总数：376当前回溯率：75.40983606557377%
+##########
+##########
+ID:189
+Question:Who directed a film that included Sarah Manninen?
+golden idx: [1, 9]
+step-by-step think: 1. "Willy the Sparrow" context: This context directly mentions a film directed by József Gémes that included Sarah Manninen as one of the voice actors. It is highly relevant to the claim and likely contains the answer. 2. "Separation (2013 film)" context: This context mentions a Canadian thriller film starring Sarah Manninen. It is also directly related to the claim and likely contains relevant information.
+idx: [0, 4]
+成功的数量为：276总数：378当前回溯率：75.0%
+##########
+##########
+ID:190
+Question:The republic with the smallest population of all the members of the Council of Europe is one of few places in Europe where a species of beetle cannot be found, that wew originally described in 1809 by whom?
+golden idx: [0, 6]
+step-by-step think: 
+1. "San Marino" context: It directly mentions San Marino, which is the republic with the smallest population of all the members of the Council of Europe. It is directly relevant to the claim and provides important information that can potentially lead to the answer.
+2. "Agonum fuliginosum" context: Although it does not directly relate to San Marino or the Council of Europe, it mentions a species of beetle that is not found in specific European locations, which may provide some clues related to the claim.
+
+idx: [6, 0]
+成功的数量为：278总数：380当前回溯率：75.13513513513513%
+##########
+##########
+ID:191
+Question:At the 2011 census, what was he population of the city where Kerry Saxby-Junna was born?
+golden idx: [1, 4]
+step-by-step think: 1. "Young, New South Wales" context: It directly provides the population of Young, New South Wales at the 2011 census, which is relevant to the claim about the population at the 2011 census. It is likely to contain the answer to the claim. 2. "Kerry Saxby-Junna" context: This context directly mentions Kerry Saxby-Junna, who was born in Young, New South Wales. It is directly relevant to the claim and likely contains the answer.
+idx: [1, 4]
+成功的数量为：280总数：382当前回溯率：75.26881720430107%
+##########
+##########
+ID:192
+Question:How many German scientists, engineers, and technicians, were recruited in post-Nazi Germany as a result of the clandestine operation where Arthur Rudolph became one of the main developers of the U.S. ?space program
+golden idx: [2, 5]
+step-by-step think: 1. "Operation Paperclip" context: It directly relates to the claim as it discusses the recruitment of German scientists, engineers, and technicians in post-Nazi Germany and their transfer to the U.S. It is informative and likely contains the answer to the claim. 2. "Arthur Rudolph" context: This context directly mentions Arthur Rudolph, who was a main developer of the U.S. space program as a result of Operation Paperclip. It provides specific information about his role and involvement in the program. It is relevant and likely contains the answer to the claim.
+idx: [2, 5]
+成功的数量为：282总数：384当前回溯率：75.40106951871658%
+##########
+##########
+ID:193
+Question: Marion is approximately 50 mi north of a city that is the third-most populous what in the U.S.?
+golden idx: [6, 7]
+step-by-step think: 
+1. "Marion, Ohio" context: This context directly relates to the claim as it specifically mentions Marion, which is approximately 50 mi north of Columbus. It is highly relevant and likely contains the answer to the claim.
+2. "Cambridge" context: This context mentions a city approximately 50 mi north of London, which is less relevant to the claim compared to the Marion, Ohio context. However, it still provides relevant information and is likely to contain the answer to the claim.
+idx: [7, 8]
+成功的数量为：283总数：386当前回溯率：75.2659574468085%
+##########
+##########
+ID:194
+Question:Jayantabhai Ki Luv Story includes a lead role for the film actress and model who is a native of what city?
+golden idx: [4, 7]
+step-by-step think:1. "Helly Luv" context: It directly mentions the actress and model Helly Luv, who was born in Urmia, Iran. This is relevant to the claim as it provides the native city of the actress. It is likely to contain the answer to the claim. 
+2. "My Dear Desperado" context: This context mentions the remake of the South Korean film in Hindi titled "Jayantabhai Ki Luv Story" which stars Vivek Oberoi and Neha Sharma in lead roles. This is relevant as it provides information about the film and the lead actress. It is also likely to contain the answer to the claim.
+
+idx: [0, 1]
+成功的数量为：283总数：388当前回溯率：74.86772486772487%
+##########
+##########
+ID:195
+Question:Which is currently more valuable, Temagami-Lorrain Mine or Meadowbank Gold Mine?
+golden idx: [1, 2]
+step-by-step think: 1. "Meadowbank Gold Mine" context: This context directly relates to the claim by providing information about the Meadowbank Gold Mine, which is directly mentioned in the claim. It is informative and likely contains the answer to the claim. 2. "Temagami-Lorrain Mine" context: This context also directly relates to the claim as it provides information about the Temagami-Lorrain Mine, which is mentioned in the claim. It is informative and likely contains the answer to the claim.
+idx: [1, 2]
+成功的数量为：285总数：390当前回溯率：75.0%
+##########
+##########
+ID:196
+Question:St James Street appears as a segment of Whitecross Street on the 1610 map of the Monmouth by an English historian best known as a mapmaker of what perior?
+golden idx: [2, 9]
+step-by-step think: 1. "St James Street, Monmouth" context: This context directly mentions St James Street, which is part of the claim. It provides information about the street, its historical significance, and archaeological discoveries made there. It is relevant and likely contains the answer to the claim. 2. "Whitecross Street, Monmouth" context: This context provides information about Whitecross Street and its historical background. Since St James Street appears as a segment of Whitecross Street on the 1610 map, this context is also relevant and likely to contain useful information related to the claim.
+idx: [9, 1]
+成功的数量为：286总数：392当前回溯率：74.86910994764398%
+##########
+##########
+ID:197
+Question:The Pineground Bridge formerly carried Depot Road over the Suncook River into a town with a population of what?
+golden idx: [2, 9]
+step-by-step think: 1. "Pineground Bridge" context: It directly relates to the claim as it provides detailed information about the Pineground Bridge, including its location and historical background. It is informative and likely contains the answer to the claim. 2. "Crystal Lake (Gilmanton, New Hampshire)" context: This context directly mentions Crystal Lake, which is at the head of the Suncook River watershed. It provides specific information related to the Suncook River, which is relevant and likely contains the answer to the claim.
+idx: [2, 3]
+成功的数量为：287总数：394当前回溯率：74.73958333333334%
+##########
+##########
+ID:198
+Question:Which city is the American rock band, that released their album on March 19, 2012, from?
+golden idx: [1, 6]
+step-by-step think: 1. "Specter at the Feast" context: It directly relates to the claim as it mentions the American rock band Black Rebel Motorcycle Club and the release date of their album. It provides relevant information and is likely to contain the answer to the claim. 2. "Port of Morrow (album)" context: This context directly relates to the claim as it mentions the American rock band The Shins and the release date of their album. It is informative and likely contains the answer to the claim.
+idx: [0, 6]
+成功的数量为：288总数：396当前回溯率：74.61139896373057%
+##########
+##########
+ID:199
+Question:The Rossendale Free Press serves the town how far north of Manchester?
+golden idx: [0, 5]
+step-by-step think: 1. "Haslingden" context: It directly answers the claim by stating that Haslingden is 19 miles north of Manchester, which is the specific information needed. It is highly relevant and likely contains the answer to the claim. 2. "Rossendale Free Press" context: This context directly mentions the newspaper in question and provides information about its distribution and ownership. It is directly related to the claim and likely contains relevant details.
+
+idx: [0, 5]
+成功的数量为：290总数：398当前回溯率：74.74226804123711%
+##########
+##########
+ID:200
+Question:Which american president's father was a farmer and he was a former US representative from NY?
+golden idx: [1, 3]
+step-by-step think:1. "Nathaniel Fillmore" context: This context directly relates to the claim as it provides information about the father of Millard Fillmore, who was a farmer. It is informative and highly likely to contain the answer to the claim. 2. "Millard Fillmore" context: This context directly mentions Millard Fillmore, the 13th President of the United States, and his background as a former U.S. Representative from New York. It is highly relevant and likely to contain the answer to the claim.
+idx: [1, 3]
+成功的数量为：292总数：400当前回溯率：74.87179487179488%
+##########

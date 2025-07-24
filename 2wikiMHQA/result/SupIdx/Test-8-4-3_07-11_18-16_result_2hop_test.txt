@@ -1,0 +1,1952 @@
+##########
+ID:101
+Question:What is the date of death of Gero Ii, Margrave Of The Saxon Ostmark's father?
+golden idx: [1, 5]
+ [1, 5, 3, 2, 0, 4, 6, 7]
+
+ [1, 5, 3, 2]
+
+ [1, 5, 3]
+
+成功的数量为：2总数：2当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:102
+Question:Are Tomskoye, Amur Oblast and Pleshkovo located in the same country?
+golden idx: [0, 5]
+ [0, 5, 1, 2, 3, 4, 6, 7]
+
+ [0, 5, 1, 2]
+
+ [0, 5, 1]
+
+成功的数量为：4总数：4当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:103
+Question:Which film came out earlier, I Am Breathing or Ulti Ganga?
+golden idx: [1, 9]
+ [1,9,4,8,3,6,5,7]
+
+ [1, 9, 4, 8]
+
+ [1, 9, 4]
+
+成功的数量为：6总数：6当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:104
+Question:Who was born later, Levon Julfalakyan or Charlotte Spurkeland?
+golden idx: [4, 9]
+ [4, 9]
+
+ [4, 9]
+
+ [4, 9, 5, 6, 2, 1, 3, 7]
+
+成功的数量为：8总数：8当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:105
+Question:Who is the father of the director of film Red 2 (Film)?
+golden idx: [0, 4]
+ [0, 4, 1, 2, 3, 5, 6, 7]
+
+ [0, 4, 1, 2]
+
+ [0, 4, 1]
+
+成功的数量为：10总数：10当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:106
+Question:When was the company that published American Scientist founded?
+golden idx: [0, 4]
+ [4, 0, 2, 6, 3, 8, 9, 1]
+
+ [4, 0, 2, 6]
+
+ [4, 0, 2]
+
+成功的数量为：12总数：12当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:107
+Question:What is the place of birth of Jo Planckaert's father?
+golden idx: [3, 4]
+ [3,2,7,4,0,9,1,5]
+
+ [3, 7, 2, 4]
+
+ [3, 7, 2]
+
+成功的数量为：13总数：14当前回溯率：92.85714285714286%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:108
+Question:What is the place of birth of Gwilym Lloyd George's father?
+golden idx: [1, 3]
+ [1, 3, 9, 2, 5, 0, 4, 6]
+
+ [1, 3, 9, 2]
+
+ [1, 3, 9]
+
+成功的数量为：15总数：16当前回溯率：93.75%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:109
+Question:What is the place of birth of James Douglas, 3Rd Earl Of Angus's father?
+golden idx: [0, 7]
+ [0,7,5,8,1,2,3,6]
+
+ [0, 7, 5, 8]
+
+ [0, 7, 5]
+
+成功的数量为：17总数：18当前回溯率：94.44444444444444%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:110
+Question:What nationality is the director of film They Call It Love?
+golden idx: [3, 7]
+ [3, 7, 1, 0, 8, 2, 4, 9]
+
+ [3, 7, 1, 0]
+
+ [3, 7, 1]
+
+成功的数量为：19总数：20当前回溯率：95.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:111
+Question:What is the place of birth of Zhanna Nemtsova's father?
+golden idx: [0, 5]
+ [0, 5, 6, 9, 7, 8, 3, 4]
+
+ [0, 5, 6, 9]
+
+ [0, 5, 6]
+
+成功的数量为：21总数：22当前回溯率：95.45454545454545%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:112
+Question:Which country the composer of film Continental, A Film Without Guns is from?
+golden idx: [7, 9]
+ [7, 9, 6, 3, 1, 4, 2, 5]
+
+ [7, 9, 6, 3]
+
+ [7, 9, 6]
+
+成功的数量为：23总数：24当前回溯率：95.83333333333334%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:113
+Question:Where was the director of film Age-Old Friends born?
+golden idx: [2, 6]
+ [2, 6, 0, 3, 4, 5, 7, 8]
+
+ [2, 6, 5, 4]
+
+ [2, 6, 5]
+
+成功的数量为：25总数：26当前回溯率：96.15384615384616%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:114
+Question:Which one was established first, Noerr or Korn Ferry?
+golden idx: [4, 8]
+ [4, 8, 9, 5, 7, 6, 0, 3]
+
+ [8, 4, 9, 5]
+
+ [8, 4, 5]
+
+成功的数量为：27总数：28当前回溯率：96.42857142857143%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:115
+Question:Where was the father of Eleonora Di Garzia Di Toledo born?
+golden idx: [5, 9]
+ [9, 5, 0, 4, 7, 1, 2, 3]
+
+ [9, 5, 0, 4]
+
+ [9, 5, 0]
+
+成功的数量为：29总数：30当前回溯率：96.66666666666667%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:116
+Question:What is the award that the director of film The Last Night Of The Barbary Coast got?
+golden idx: [0, 3]
+ [0, 3, 1, 4, 2, 5, 6, 9]
+
+ [0, 3, 6, 2]
+
+ [0, 3, 6]
+
+成功的数量为：31总数：32当前回溯率：96.875%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:117
+Question:Who is Prince Nicolas, Duke Of Ångermanland's mother?
+golden idx: [0, 1]
+ [1, 0, 8, 2, 3, 4, 5, 6]
+
+ [1, 0, 8, 2]
+
+ [1, 0, 8]
+
+成功的数量为：33总数：34当前回溯率：97.05882352941177%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:118
+Question:Who is the paternal grandmother of Princess Augusta Of Waldeck-Pyrmont?
+golden idx: [8, 9]
+ [9, 8, 7, 3, 0, 6, 1, 4]
+
+ [9, 8, 7, 1]
+
+ [9,8,7]
+
+成功的数量为：35总数：36当前回溯率：97.22222222222221%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:119
+Question:Where does the director of film The Marquise Of O (Film) work at?
+golden idx: [3, 5]
+ [3, 5, 8, 2, 0, 1, 6, 7]
+
+ [3, 5, 8, 2]
+
+ [3, 5, 8]
+
+成功的数量为：37总数：38当前回溯率：97.36842105263158%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:120
+Question:Which film was released first, Ekam – Son Of Soil or Farber'S Nerve?
+golden idx: [7, 8]
+ [7,8,1,3,2,6,9,5]
+
+ [7, 8, 1, 3]
+
+ [7,8,1]
+
+成功的数量为：39总数：40当前回溯率：97.5%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:121
+Question:Which country Mohammed Al-Modiahki's wife is from?
+golden idx: [1, 2]
+ [1, 2, 3, 5, 4, 0, 6, 7]
+
+ [2, 1, 3, 5]
+
+ [2, 1, 3]
+
+成功的数量为：41总数：42当前回溯率：97.61904761904762%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:122
+Question:Who is Philip Of Sicily's father?
+golden idx: [1, 5]
+ [1, 5, 0, 2, 3, 4, 6, 7]
+
+ [5, 1]
+
+ [5, 1, 0, 2]
+
+成功的数量为：43总数：44当前回溯率：97.72727272727273%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:123
+Question:Who was born later, Gideon Johnson Pillow or Holm Jølsen?
+golden idx: [2, 3]
+ [2, 3, 0, 1, 4, 5, 6, 7]
+
+ [2, 3, 4, 6]
+
+ [2, 3, 4]
+
+成功的数量为：45总数：46当前回溯率：97.82608695652173%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:124
+Question:Where did the director of film My Heidelberg, I Can Not Forget You die?
+golden idx: [5, 7]
+ [5, 7, 3, 4, 1, 2, 0, 6]
+
+ [5, 7, 4, 3]
+
+ [5, 7, 4]
+
+成功的数量为：47总数：48当前回溯率：97.91666666666666%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:125
+Question:Which film was released earlier, Tiger Of The Seven Seas or My Wife'S Lodger?
+golden idx: [1, 6]
+ [1, 6, 0, 4, 5, 2, 3, 7]
+
+ [1, 6, 0, 4]
+
+ [1, 6, 0]
+
+成功的数量为：49总数：50当前回溯率：98.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:126
+Question:Do Alice Mary Dowd and Richard N. Palmer have the same nationality?
+golden idx: [0, 5]
+ [5, 0, 1, 2, 3, 4, 6, 7]
+
+ [5,0,6,1]
+
+ [5, 0, 6]
+
+成功的数量为：51总数：52当前回溯率：98.07692307692307%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:127
+Question:Who is the father of the director of film Wonders Of The Sea 3D?
+golden idx: [4, 8]
+ [4, 8, 2, 3, 0, 9, 6, 7]
+
+ [4, 8, 2, 3]
+
+ [4, 8, 2]
+
+成功的数量为：53总数：54当前回溯率：98.14814814814815%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:128
+Question:Who died later, Narcís Ventalló or H. Verlan Andersen?
+golden idx: [0, 9]
+ [9, 0, 4, 2, 1, 7, 5, 3]
+
+ [9, 0, 4, 2]
+
+ [9, 0, 4]
+
+成功的数量为：55总数：56当前回溯率：98.21428571428571%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:129
+Question:Which film was released first, The Beginning Or The End or Hold Back The Night?
+golden idx: [0, 9]
+ [0, 9, 2, 1, 5, 3, 4, 6]
+
+ [0, 9, 2, 5]
+
+ [0,9,2]
+
+成功的数量为：57总数：58当前回溯率：98.27586206896551%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:130
+Question:Who is younger, Aneta Hladíková or René Poupardin?
+golden idx: [4, 5]
+ [5, 4]
+
+ [5, 4, 1, 2, 3, 6, 7, 8]
+
+ [5, 4, 1]
+
+成功的数量为：59总数：60当前回溯率：98.33333333333333%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:131
+Question:Where was the place of death of Prince Christopher Of Greece And Denmark's father?
+golden idx: [7, 8]
+ [7, 8, 5, 2, 4, 3, 6, 1]
+
+ [7, 8, 5, 2]
+
+ [7, 8, 5]
+
+成功的数量为：61总数：62当前回溯率：98.38709677419355%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:132
+Question:What is the place of birth of the director of film Guilty Of Treason?
+golden idx: [6, 9]
+ [9, 6, 1, 7, 5, 0, 2, 8]
+
+ [9, 6, 1, 7]
+
+ [9, 6, 1]
+
+成功的数量为：63总数：64当前回溯率：98.4375%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:133
+Question:Where did Charles Stewart, 3Rd Duke Of Richmond's father graduate from?
+golden idx: [3, 7]
+ [3, 7, 1, 5, 8, 4, 0, 2]
+
+ [3,7,1,5]
+
+ [3, 7, 1]
+
+成功的数量为：65总数：66当前回溯率：98.48484848484848%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:134
+Question:What is the place of birth of the performer of song I Wish (Gabrielle Song)?
+golden idx: [3, 9]
+ [3, 9, 2, 4, 5, 6, 7, 0]
+
+ [3, 9, 6, 7]
+
+ [3,9,6]
+
+成功的数量为：67总数：68当前回溯率：98.52941176470588%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:135
+Question:When was the director of film Jinpa born?
+golden idx: [0, 3]
+ [0, 3, 2, 8, 1, 4, 5, 6]
+
+ [0, 3, 2, 8]
+
+ [0,3,2]
+
+成功的数量为：69总数：70当前回溯率：98.57142857142858%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:136
+Question:Which film came out earlier, Dis-Moi Qui Tuer or Under The Hawthorn Tree (Film)?
+golden idx: [1, 6]
+ [6, 1, 7, 9, 0, 5, 3, 4]
+
+ [6, 1, 7, 9]
+
+ [6, 1, 9]
+
+成功的数量为：71总数：72当前回溯率：98.61111111111111%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:137
+Question:Where was the place of death of Tamatoa Vi's father?
+golden idx: [2, 7]
+ [7, 2, 5, 3, 6, 1, 4, 9]
+
+ [7, 2, 5, 9]
+
+ [7, 2, 5]
+
+成功的数量为：73总数：74当前回溯率：98.64864864864865%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:138
+Question:Where did the director of film Old Man Drinking A Glass Of Beer die?
+golden idx: [6, 9]
+ [6, 9, 1, 4, 5, 0, 2, 3]
+
+ [6, 9, 4, 5]
+
+ [6, 9, 4]
+
+成功的数量为：75总数：76当前回溯率：98.68421052631578%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:139
+Question:What is the date of death of Henry St John, 18Th Baron St John Of Bletso's father?
+golden idx: [0, 5]
+ [5, 0, 1, 2, 4, 3, 7, 6]
+
+ [5, 0, 1, 2]
+
+ [5, 0, 1]
+
+成功的数量为：77总数：78当前回溯率：98.71794871794873%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:140
+Question:Who is younger, Justin Paul or Helly Shah?
+golden idx: [2, 3]
+ [3, 2, 4, 7, 0, 9, 1, 5]
+
+ [2, 3, 4, 7]
+
+ [3,2,4]
+
+成功的数量为：79总数：80当前回溯率：98.75%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:141
+Question:Who was born first out of Marco De Luigi and Fabio Maistro?
+golden idx: [1, 4]
+ [4, 1, 9, 5, 3, 2, 6, 0]
+
+ [4, 1, 9, 5]
+
+ [4, 1, 9]
+
+成功的数量为：81总数：82当前回溯率：98.78048780487805%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:142
+Question:Who is Edward De Vere, 17Th Earl Of Oxford's paternal grandfather?
+golden idx: [0, 8]
+ [0, 9, 8, 1, 7, 4, 5, 3]
+
+ [0, 9, 8, 1]
+
+ [0, 8, 9]
+
+成功的数量为：83总数：84当前回溯率：98.80952380952381%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:143
+Question:Where was the place of death of Alexander Carl Otto Westphal's father?
+golden idx: [3, 8]
+ [8,3,4,6,7,1,2,5]
+
+ [8, 3, 4, 6]
+
+ [8, 3, 4]
+
+成功的数量为：85总数：86当前回溯率：98.83720930232558%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:144
+Question:Where was the place of death of Alessandro Vitelli's father?
+golden idx: [3, 9]
+ [3, 9, 8, 2, 7, 4, 6, 0]
+
+ [3, 9, 8, 2]
+
+ [3, 9, 8]
+
+成功的数量为：87总数：88当前回溯率：98.86363636363636%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:145
+Question:Where was the performer of song Bag Skyerne born?
+golden idx: [0, 5]
+ [0, 5, 1, 2, 3, 4, 7, 8]
+
+ [0, 5, 7, 8]
+
+ [0, 5, 7]
+
+成功的数量为：89总数：90当前回溯率：98.88888888888889%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:146
+Question:Where was the mother of Francis Ii Of France born?
+golden idx: [1, 2]
+ [1, 2, 3, 5, 8, 9, 6, 7]
+
+ [1, 2, 3, 5]
+
+ [1, 2, 3]
+
+成功的数量为：91总数：92当前回溯率：98.91304347826086%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:147
+Question:Who was born later, Marc De Clerck or Wiesław Perszke?
+golden idx: [6, 8]
+ [6, 8, 4, 5, 1, 2, 7, 9]
+
+ [8, 6, 5, 4]
+
+ [8, 6, 5]
+
+成功的数量为：93总数：94当前回溯率：98.93617021276596%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:148
+Question:What nationality is the director of film Madeleine (1950 Film)?
+golden idx: [4, 7]
+ [4, 7, 6, 1, 5, 2, 3, 0]
+
+ [7, 4, 1, 6]
+
+ [7, 4, 1]
+
+成功的数量为：95总数：96当前回溯率：98.95833333333334%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:149
+Question:Which song was released earlier, 1990-Sick (Get 'Em All) or Who'S Laughing Now (Song)?
+golden idx: [0, 1]
+ [1, 0, 7, 2, 3, 5, 6, 8]
+
+ [1, 0, 7, 2]
+
+ [1, 0, 7]
+
+成功的数量为：97总数：98当前回溯率：98.9795918367347%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:150
+Question:Where did the director of film Desolation Angels (1995 Film) graduate from?
+golden idx: [0, 7]
+ [0, 7, 1, 2, 3, 4, 5, 6]
+
+ [0, 7, 1, 6]
+
+ [0, 7, 1]
+
+成功的数量为：99总数：100当前回溯率：99.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:151
+Question:When did Richard Annesley, 2Nd Earl Annesley's father die?
+golden idx: [5, 7]
+ [7,5,6,4,2,8,0,3]
+
+ [7, 5, 6, 2]
+
+ [7, 5, 6]
+
+成功的数量为：101总数：102当前回溯率：99.01960784313727%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:152
+Question:What is the date of death of Conan Ii, Duke Of Brittany's mother?
+golden idx: [6, 8]
+ [6, 8, 3, 4, 2, 9, 1, 7]
+
+ [6, 8, 1, 7]
+
+ [6, 8, 7]
+
+成功的数量为：103总数：104当前回溯率：99.03846153846155%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:153
+Question:When was the director of film Reykjavík-Rotterdam born?
+golden idx: [3, 5]
+ [3, 5, 9, 0, 2, 6, 1, 4]
+
+ [3, 5, 9, 6]
+
+ [3, 5, 9]
+
+成功的数量为：105总数：106当前回溯率：99.05660377358491%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:154
+Question:What is the place of birth of Eiludd Powys's father?
+golden idx: [3, 5]
+ [3, 5, 8, 0, 1, 2, 4, 6]
+
+ [3, 5, 8, 6]
+
+ [3, 5, 8]
+
+成功的数量为：107总数：108当前回溯率：99.07407407407408%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:155
+Question:Where was the director of film At The End Of The Tunnel born?
+golden idx: [0, 8]
+ [8, 0, 1, 3, 4, 5, 6, 7]
+
+ [8, 0, 1, 3]
+
+ [8, 0, 1]
+
+成功的数量为：109总数：110当前回溯率：99.0909090909091%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:156
+Question:When was Ferdinand Iii Of Limburg Stirum's father born?
+golden idx: [2, 5]
+ [2, 5, 4, 0, 1, 6, 7, 8]
+
+ [2, 5, 6, 1]
+
+ [2, 5, 6]
+
+成功的数量为：111总数：112当前回溯率：99.10714285714286%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:157
+Question:Which country the director of film Ulzhan is from?
+golden idx: [6, 9]
+ [6, 9, 7, 1, 2, 3, 4, 5]
+
+ [6, 9, 7, 1]
+
+ [6, 9, 7]
+
+成功的数量为：113总数：114当前回溯率：99.12280701754386%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:158
+Question:Who is Prince Franz De Paula Of Liechtenstein's paternal grandfather?
+golden idx: [6, 8]
+ [6, 8, 5, 0, 2, 3, 9, 1]
+
+ [8, 5, 6, 2]
+
+ [5, 8, 6]
+
+成功的数量为：115总数：116当前回溯率：99.13793103448276%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:159
+Question:What is the place of birth of Samir Rifai's father?
+golden idx: [1, 7]
+ [1,7,5,3,6,4,9,2]
+
+ [1, 7, 5, 3]
+
+ [1, 7, 5]
+
+成功的数量为：117总数：118当前回溯率：99.15254237288136%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:160
+Question:Who is the paternal grandmother of Archduchess Dolores Of Austria?
+golden idx: [2, 4]
+ [4, 2, 9, 0, 1, 3, 5, 6]
+
+ [4, 2, 3, 9]
+
+ [4, 2, 9]
+
+成功的数量为：119总数：120当前回溯率：99.16666666666667%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:161
+Question:What is the place of birth of the director of film Peter'S Friends?
+golden idx: [0, 3]
+ [0, 3, 1, 7, 9, 5, 4, 6]
+
+ [0, 3, 1, 7]
+
+ [0, 3, 1]
+
+成功的数量为：121总数：122当前回溯率：99.18032786885246%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:162
+Question:Where was the composer of film Love Story 1999 born?
+golden idx: [6, 7]
+ [6, 7, 5, 3, 0, 1, 2, 4]
+
+ [6, 7, 0, 1]
+
+ [6, 7, 0]
+
+成功的数量为：123总数：124当前回溯率：99.19354838709677%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:163
+Question:Who is the father of Beltrán Vélez De Guevara, Marquis Of Campo Real?
+golden idx: [5, 9]
+ [5, 9, 2, 6, 4, 3, 0, 8]
+
+ [9, 5, 2, 6]
+
+ [9, 5, 2]
+
+成功的数量为：125总数：126当前回溯率：99.20634920634922%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:164
+Question:Where was the mother of Antonio Flores born?
+golden idx: [4, 5]
+ [4, 5, 0, 1, 2, 3, 6, 7]
+
+ [4, 5, 6, 0]
+
+ [4, 5, 6]
+
+成功的数量为：127总数：128当前回溯率：99.21875%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:165
+Question:What is the place of birth of the performer of song Down Ass Bitch?
+golden idx: [3, 5]
+ [3, 5, 7, 0, 1, 2, 4, 6]
+
+ [3, 5, 7, 0]
+
+ [3, 5, 7]
+
+成功的数量为：129总数：130当前回溯率：99.23076923076923%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:166
+Question:What is the place of birth of Empress Xu (Ming Dynasty)'s husband?
+golden idx: [1, 6]
+ [6,1]
+
+ [1, 6]
+
+ [1, 6]
+
+成功的数量为：131总数：132当前回溯率：99.24242424242425%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:167
+Question:Which film came out earlier, Niyoti or Angali Pangali?
+golden idx: [3, 6]
+ [6, 3]
+
+ [3, 6, 7, 5, 4, 2, 1, 0]
+
+ [6,3,7]
+
+成功的数量为：133总数：134当前回溯率：99.25373134328358%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:168
+Question:Which country Aleksandra Marianna Wiesiołowska's father is from?
+golden idx: [4, 5]
+ [5, 4, 7, 9, 8, 6, 3, 2]
+
+ [5, 4, 3, 8]
+
+ [5, 4, 3]
+
+成功的数量为：135总数：136当前回溯率：99.26470588235294%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:169
+Question:Which country Tivala's father is from?
+golden idx: [1, 8]
+ [1, 8, 0, 2, 3, 4, 5, 6]
+
+ [8,1,6,5]
+
+ [8,1,6]
+
+成功的数量为：137总数：138当前回溯率：99.27536231884058%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:170
+Question:Who is the paternal grandmother of King Kang Of Zhou?
+golden idx: [1, 3]
+ [3,1,0,7,2,4,5,6]
+
+ [3,1,0,2]
+
+ [3, 1, 2]
+
+成功的数量为：139总数：140当前回溯率：99.28571428571429%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:171
+Question:What is the place of birth of the director of film Double Or Nothing (1940 Film)?
+golden idx: [6, 9]
+ [9, 6, 2, 5, 4, 7, 3, 1]
+
+ [9, 6, 2, 5]
+
+ [9, 6, 5]
+
+成功的数量为：141总数：142当前回溯率：99.29577464788733%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:172
+Question:Are both villages, Mavrolithari and Ampelakia, Evros, located in the same country?
+golden idx: [0, 2]
+ [0, 2, 1, 3, 4, 5, 6, 7]
+
+ [0, 2, 5, 6]
+
+ [0, 2, 5]
+
+成功的数量为：143总数：144当前回溯率：99.30555555555556%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:173
+Question:Where was the place of death of the director of film Kathputli (1971 Film)?
+golden idx: [6, 9]
+ [6, 9, 3, 4, 8, 0, 1, 2]
+
+ [6, 9, 8, 4]
+
+ [6, 9, 8]
+
+成功的数量为：145总数：146当前回溯率：99.31506849315068%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:174
+Question:Where did the director of film Ręce Do Góry study?
+golden idx: [6, 9]
+ [9, 6, 2, 3, 7, 5, 8, 1]
+
+ [9, 6, 2, 3]
+
+ [9, 6, 2]
+
+成功的数量为：147总数：148当前回溯率：99.32432432432432%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:175
+Question:Where was the place of death of Suzanne Farrington's mother?
+golden idx: [3, 8]
+ [3, 8, 1, 5, 2, 9, 0, 4]
+
+ [3, 8, 5, 2]
+
+ [3, 8, 5]
+
+成功的数量为：149总数：150当前回溯率：99.33333333333333%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:176
+Question:What nationality is the director of film Name The Man?
+golden idx: [0, 1]
+ [0, 1, 6, 8, 2, 4, 5, 9]
+
+ [0, 1, 2, 4]
+
+ [0,1,2]
+
+成功的数量为：151总数：152当前回溯率：99.3421052631579%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:177
+Question:Do Kreesha Turner and Samantha Jo share the same nationality?
+golden idx: [4, 6]
+ [4, 6, 2, 5, 9, 0, 1, 3]
+
+ [4, 6, 2, 5]
+
+ [4, 6, 2]
+
+成功的数量为：153总数：154当前回溯率：99.35064935064936%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:178
+Question:What is the place of birth of the director of film Aurora (2018 Film)?
+golden idx: [3, 7]
+ [7, 3, 2, 0, 1, 4, 5, 6]
+
+ [7, 3, 2, 1]
+
+ [7, 3, 2]
+
+成功的数量为：155总数：156当前回溯率：99.35897435897436%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:179
+Question:When is Prince Napoléon Bonaparte's father's birthday?
+golden idx: [2, 9]
+ [2, 9, 4, 3, 6, 7, 0, 1]
+
+ [2, 9, 4, 3]
+
+ [2, 9, 4]
+
+成功的数量为：157总数：158当前回溯率：99.36708860759494%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:180
+Question:Which film was released more recently, Toolbox Murders or I Met You In Naples?
+golden idx: [3, 5]
+ [3,5,9,6,7,1,4,0]
+
+ [5, 3, 9, 6]
+
+ [5, 3, 9]
+
+成功的数量为：159总数：160当前回溯率：99.375%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:181
+Question:Where was the place of death of the composer of song How Long Has This Been Going On??
+golden idx: [1, 8]
+ [1, 8, 6, 2, 3, 4, 5, 7]
+
+ [1, 8, 6, 7]
+
+ [1, 8, 6]
+
+成功的数量为：161总数：162当前回溯率：99.38271604938271%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:182
+Question:Where did William S. Burroughs Jr.'s father study?
+golden idx: [0, 5]
+ [5, 0, 7, 4, 6, 9, 8, 3]
+
+ [5, 0, 7, 4]
+
+ [5, 0, 7]
+
+成功的数量为：163总数：164当前回溯率：99.39024390243902%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:183
+Question:Who is the maternal grandmother of Felipe De Marichalar Y Borbón?
+golden idx: [6, 7]
+ [7, 6, 5, 0, 1, 2, 3, 4]
+
+ [7, 6, 5, 3]
+
+ [7, 6, 5]
+
+成功的数量为：165总数：166当前回溯率：99.3975903614458%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:184
+Question:Which country Natalie Portman's husband is from?
+golden idx: [5, 9]
+ [9, 5, 7, 6, 4, 2, 0, 1]
+
+ [9, 5, 7, 6]
+
+ [9, 5, 7]
+
+成功的数量为：167总数：168当前回溯率：99.40476190476191%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:185
+Question:Who is the father-in-law of Tsandzile Ndwandwe?
+golden idx: [3, 6]
+ [6, 3, 2, 0, 9, 1, 4, 5]
+
+ [6, 3, 2, 0]
+
+ [6, 3, 0]
+
+成功的数量为：169总数：170当前回溯率：99.41176470588235%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:186
+Question:What is the place of birth of the performer of song Hunter (Björk Song)?
+golden idx: [6, 8]
+ [6, 8, 0, 1, 2, 3, 4, 5]
+
+ [6, 8, 5, 0]
+
+ [6, 8, 5]
+
+成功的数量为：171总数：172当前回溯率：99.4186046511628%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:187
+Question:Who is the paternal grandfather of Richard Beauchamp, 1St Earl Of Worcester?
+golden idx: [3, 8]
+ [3,8,5,4,7,1,0,6]
+
+ [8, 3, 5, 7]
+
+ [8, 3, 5]
+
+成功的数量为：173总数：174当前回溯率：99.42528735632183%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:188
+Question:Who is the spouse of the director of film Carol'S Journey?
+golden idx: [2, 3]
+ [3, 2, 0, 1, 4, 5, 6, 7]
+
+ [3, 2, 1, 4]
+
+ [3, 2, 1]
+
+成功的数量为：175总数：176当前回溯率：99.43181818181817%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:189
+Question:Where was the father of Augustus William, Duke Of Brunswick-Bevern born?
+golden idx: [6, 8]
+ [6, 8, 4, 0, 1, 2, 5, 7]
+
+ [6, 8, 4, 0]
+
+ [6, 8, 4]
+
+成功的数量为：177总数：178当前回溯率：99.43820224719101%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:190
+Question:Who is the mother-in-law of Lollia Paulina?
+golden idx: [0, 5]
+ [0, 5, 4, 6, 7, 3, 2, 1]
+
+ [0, 5, 6, 4]
+
+ [0, 5, 6]
+
+成功的数量为：179总数：180当前回溯率：99.44444444444444%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:191
+Question:Which film was released more recently, Gaza Ghetto or Kull The Conqueror?
+golden idx: [4, 8]
+ [4, 8, 9, 3, 2, 1, 0, 5]
+
+ [8, 4, 9, 0]
+
+ [8, 4, 9]
+
+成功的数量为：181总数：182当前回溯率：99.45054945054946%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:192
+Question:Who was born earlier, Raúl Osorio or James B. Harris?
+golden idx: [1, 9]
+ [1,9,0,3,2,4,5,6]
+
+ [1, 9, 0, 3]
+
+ [1, 9, 0]
+
+成功的数量为：183总数：184当前回溯率：99.45652173913044%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:193
+Question:When was the company that published Woman'S Century founded?
+golden idx: [8, 9]
+ [8, 9, 2, 6, 1, 3, 4, 5]
+
+ [9, 8, 3, 2]
+
+ [9, 8, 3]
+
+成功的数量为：185总数：186当前回溯率：99.46236559139786%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:194
+Question:Who is Charles Willoughby, 10Th Baron Willoughby Of Parham's paternal grandmother?
+golden idx: [1, 2]
+ [0, 2, 4, 5, 1, 3, 6, 7]
+
+ [0, 2, 1, 5]
+
+ [0, 2, 5]
+
+成功的数量为：186总数：188当前回溯率：98.93617021276596%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:195
+Question:Which film was released earlier, Premium (Film) or Week-End With Father?
+golden idx: [1, 2]
+ [1, 2, 0, 6, 4, 7, 3, 9]
+
+ [2,1,6,9]
+
+ [2,1,6]
+
+成功的数量为：188总数：190当前回溯率：98.94736842105263%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:196
+Question:What nationality is Gevherhan Sultan (Daughter Of Selim Ii)'s father?
+golden idx: [4, 8]
+ [4, 8, 3, 9, 0, 1, 2, 5]
+
+ [8, 4, 3, 9]
+
+ [8, 4, 3]
+
+成功的数量为：190总数：192当前回溯率：98.95833333333334%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:197
+Question:Are both Țerova and Slava (River) located in the same country?
+golden idx: [2, 7]
+ [2, 7, 0, 1, 3, 4, 5, 6]
+
+ [2, 7, 0, 1]
+
+ [2, 7, 0]
+
+成功的数量为：192总数：194当前回溯率：98.96907216494846%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:198
+Question:Are Graduate University Of Advanced Technology and Fruita Schoolhouse located in the same country?
+golden idx: [3, 5]
+ [3,5,0,6,1,2,7,8]
+
+ [3, 5, 0, 6]
+
+ [3, 5, 0]
+
+成功的数量为：194总数：196当前回溯率：98.9795918367347%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:199
+Question:Who is the paternal grandmother of Prince William Of Hesse-Kassel?
+golden idx: [3, 6]
+ [6,9,3,7,0,1,2,4]
+
+ [6, 3, 7, 2]
+
+ [6,3,7]
+
+成功的数量为：196总数：198当前回溯率：98.98989898989899%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:200
+Question:Where did the presenter of Tim Russert (Talk Show) die?
+golden idx: [0, 1]
+ [0, 1, 7, 6, 4, 5, 3, 9]
+
+ [1, 0, 4, 6]
+
+ [0, 1, 4]
+
+成功的数量为：198总数：200当前回溯率：99.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:201
+Question:What is the place of birth of the director of film The Last Horror Movie?
+golden idx: [7, 8]
+ [7, 8, 4, 9, 0, 1, 5, 2]
+
+ [7, 8, 9, 4]
+
+ [7, 8, 9]
+
+成功的数量为：200总数：202当前回溯率：99.00990099009901%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:202
+Question:Who is George Fitzroy, 1St Duke Of Northumberland's stepmother?
+golden idx: [0, 2]
+ [0, 2, 6, 8, 7, 3, 1, 4]
+
+ [0, 2, 6, 8]
+
+ [0,2,6]
+
+成功的数量为：202总数：204当前回溯率：99.01960784313727%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:203
+Question:Where does the director of film Ghost In The Machine (Film) work at?
+golden idx: [1, 7]
+ [1, 7, 0, 6, 4, 5, 8, 2]
+
+ [1, 7, 6, 5]
+
+ [1, 7, 5]
+
+成功的数量为：204总数：206当前回溯率：99.02912621359224%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:204
+Question:Are Elsah, Illinois and Chah-E Puzeh, Tabas both located in the same country?
+golden idx: [8, 9]
+ [9, 8, 7, 0, 1, 2, 3, 4]
+
+ [9, 8, 7, 0]
+
+ [9, 8, 0]
+
+成功的数量为：206总数：208当前回溯率：99.03846153846155%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:205
+Question:Who is the paternal grandmother of Louis, Count Of Verdun?
+golden idx: [5, 8]
+ [5, 8, 7, 3, 4, 1, 0, 2]
+
+ [8, 5, 7, 3]
+
+ [8, 5, 7]
+
+成功的数量为：208总数：210当前回溯率：99.04761904761905%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:206
+Question:What nationality is Anne Of Burgundy's father?
+golden idx: [1, 3]
+ [1, 3, 9, 0, 8, 7, 4, 6]
+
+ [1, 3, 7, 9]
+
+ [1, 3, 9]
+
+成功的数量为：210总数：212当前回溯率：99.05660377358491%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:207
+Question:Who lived longer, Csaba Pálinkás or Henry Scheffé?
+golden idx: [1, 5]
+ [5, 1, 0, 2, 3, 4, 6, 7]
+
+ [5, 1, 0, 2]
+
+ [5, 1, 0]
+
+成功的数量为：212总数：214当前回溯率：99.06542056074767%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:208
+Question:Which film was released more recently, Pirates Of The Prairie or Alien Origin?
+golden idx: [1, 4]
+ [1, 4, 2, 8, 0, 6, 7, 9]
+
+ [4,1,2,8]
+
+ [4,1,2]
+
+成功的数量为：214总数：216当前回溯率：99.07407407407408%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:209
+Question:Who is the mother of Edward I Of England?
+golden idx: [4, 9]
+ [4, 9, 6, 1, 0, 2, 3, 5]
+
+ [4, 9, 6, 1]
+
+ [4, 9, 6]
+
+成功的数量为：216总数：218当前回溯率：99.08256880733946%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:210
+Question:What is the date of death of Joan, Countess Of Blois's mother?
+golden idx: [2, 5]
+ [2, 5, 3, 1, 7, 9, 0, 4]
+
+ [2, 5, 3, 1]
+
+ [2, 5, 3]
+
+成功的数量为：218总数：220当前回溯率：99.0909090909091%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:211
+Question:Which album came out first, Issa Album or 3.2.1.?
+golden idx: [3, 7]
+ [7, 3, 1, 4, 0, 5, 9, 8]
+
+ [7, 3, 1, 4]
+
+ [7, 3, 1]
+
+成功的数量为：220总数：222当前回溯率：99.09909909909909%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:212
+Question:Who is Sancho Ramírez's maternal grandfather?
+golden idx: [1, 7]
+ [7,1,4,9,0,2,3,5]
+
+ [7, 1, 4, 9]
+
+ [7, 1, 4]
+
+成功的数量为：222总数：224当前回溯率：99.10714285714286%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:213
+Question:Which film was released earlier, New Jersey Drive or It Happened At The World'S Fair?
+golden idx: [4, 5]
+ [5, 4, 0, 2, 3, 7, 1, 6]
+
+ [5, 4, 0, 2]
+
+ [5, 4, 0]
+
+成功的数量为：224总数：226当前回溯率：99.11504424778761%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:214
+Question:Who is the spouse of the performer of song Lolita (Leah Labelle Song)?
+golden idx: [2, 4]
+ [4, 2, 3, 0, 1, 5, 6, 7]
+
+ [4, 2, 7, 1]
+
+ [4, 2, 1]
+
+成功的数量为：226总数：228当前回溯率：99.12280701754386%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:215
+Question:Where does Chris Warren (Rugby League)'s father work at?
+golden idx: [6, 7]
+ [7, 6, 0, 5, 9, 2, 4, 1]
+
+ [7, 6, 5, 0]
+
+ [7, 6, 5]
+
+成功的数量为：228总数：230当前回溯率：99.1304347826087%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:216
+Question:Where did Davey Boy Smith Jr.'s mother study?
+golden idx: [1, 8]
+ [8,1]
+
+ [8,1,2,9,0,3,4,5]
+
+ [8,1,2]
+
+成功的数量为：230总数：232当前回溯率：99.13793103448276%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:217
+Question:Which country Thomas Lyon-Bowes, Lord Glamis's father is from?
+golden idx: [0, 6]
+ [6, 0, 3, 9, 5, 1, 7, 8]
+
+ [6, 0, 3, 9]
+
+ [6, 0, 3]
+
+成功的数量为：232总数：234当前回溯率：99.14529914529915%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:218
+Question:What nationality is the performer of song Adore You (Jessie Ware Song)?
+golden idx: [0, 8]
+ [0, 8, 2, 1, 3, 4, 5, 6]
+
+ [0, 8, 2, 1]
+
+ [0,8,2]
+
+成功的数量为：234总数：236当前回溯率：99.15254237288136%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:219
+Question:Where was the father of Andrew Balding born?
+golden idx: [6, 8]
+ [6, 8, 0, 4, 7, 3, 1, 2]
+
+ [6, 8, 7, 3]
+
+ [6, 8, 7]
+
+成功的数量为：236总数：238当前回溯率：99.15966386554622%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:220
+Question:Which film was released earlier, Anna-Liisa or Children Underground?
+golden idx: [0, 2]
+ [2, 0, 1, 8, 4, 7, 6, 5]
+
+ [2, 0, 8, 7]
+
+ [2, 0, 8]
+
+成功的数量为：238总数：240当前回溯率：99.16666666666667%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:221
+Question:Are Arnold Palmer Regional Airport and Luis Muñoz Marín International Airport located in the same country?
+golden idx: [4, 9]
+ [4, 9, 1, 8, 5, 0, 2, 3]
+
+ [9, 4, 1, 8]
+
+ [9, 4, 1]
+
+成功的数量为：240总数：242当前回溯率：99.17355371900827%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:222
+Question:Which award the composer of film Pataakha won?
+golden idx: [1, 5]
+ [1, 5, 0, 2, 3, 4, 6, 7]
+
+ [1, 5, 0, 2]
+
+ [1, 5, 0]
+
+成功的数量为：242总数：244当前回溯率：99.18032786885246%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:223
+Question:What is the place of birth of the performer of song Damage (Pharoahe Monch Song)?
+golden idx: [4, 9]
+ [9, 4, 2, 3, 0, 1, 5, 6]
+
+ [9, 4, 2, 3]
+
+ [9, 4, 2]
+
+成功的数量为：244总数：246当前回溯率：99.1869918699187%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:224
+Question:Where did Henry C. Lord's father graduate from?
+golden idx: [5, 9]
+ [9, 5, 1, 6, 8, 0, 2, 3]
+
+ [9, 5, 8, 0]
+
+ [9, 5, 8]
+
+成功的数量为：246总数：248当前回溯率：99.19354838709677%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:225
+Question:What is the date of birth of Prince Bernhard Of Orange-Nassau, Van Vollenhoven's father?
+golden idx: [1, 8]
+ [1, 4, 6, 8, 9, 5, 2, 0]
+
+ [1, 8, 4, 6]
+
+ [1, 8, 4]
+
+成功的数量为：248总数：250当前回溯率：99.2%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:226
+Question:Are the bands The Catheters and Dark At Dawn, from the same country?
+golden idx: [0, 1]
+ [0, 1, 2, 3, 6, 5, 7, 4]
+
+ [0, 1, 2, 4]
+
+ [0, 1, 2]
+
+成功的数量为：250总数：252当前回溯率：99.20634920634922%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:227
+Question:Who is the paternal grandmother of Ingegerd Olofsdotter Of Sweden?
+golden idx: [1, 6]
+ [1, 6, 4, 2, 3, 5, 7, 0]
+
+ [1, 6, 4, 0]
+
+ [1, 6, 4]
+
+成功的数量为：252总数：254当前回溯率：99.21259842519686%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:228
+Question:Where was the place of death of the creator of Conan The Adventurer (1992 Tv Series)?
+golden idx: [5, 9]
+ [5, 4, 9, 3, 1, 2, 8, 0]
+
+ [5, 4, 9, 2]
+
+ [5, 4, 9]
+
+成功的数量为：254总数：256当前回溯率：99.21875%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:229
+Question:Are The Man Who Knew Too Much (1956 Film) and Man On Wire both from the same country?
+golden idx: [3, 6]
+ [3, 6, 7, 9, 4, 5, 1, 0]
+
+ [3, 6, 7, 9]
+
+ [3,6,7]
+
+成功的数量为：256总数：258当前回溯率：99.2248062015504%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:230
+Question:What is the place of birth of the director of film The Fj Holden?
+golden idx: [4, 9]
+ [4, 9, 0, 1, 2, 3, 5, 6]
+
+ [4, 9, 0, 1]
+
+ [4, 9, 0]
+
+成功的数量为：258总数：260当前回溯率：99.23076923076923%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:231
+Question:Who was born later, Lisbeth Cathrine Amalie Rose or Princess Raiyah Bint Hussein?
+golden idx: [6, 7]
+ [6, 7, 4, 3, 5, 8, 2, 0]
+
+ [6, 7, 4, 3]
+
+ [6, 7, 4]
+
+成功的数量为：260总数：262当前回溯率：99.23664122137404%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:232
+Question:Where was the performer of song Step Into The Light (Myra Song) born?
+golden idx: [1, 4]
+ [4, 1, 0, 2, 3, 5, 6, 7]
+
+ [4, 1, 2, 0]
+
+ [4, 1, 2]
+
+成功的数量为：262总数：264当前回溯率：99.24242424242425%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:233
+Question:Which country the director of film One Night At Mccool'S is from?
+golden idx: [2, 6]
+ [6, 2, 9, 0, 1, 3, 4, 5]
+
+ [2, 6, 9, 0]
+
+ [2, 6, 9]
+
+成功的数量为：264总数：266当前回溯率：99.24812030075188%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:234
+Question:Who is the paternal grandfather of Beatrice I, Abbess Of Quedlinburg?
+golden idx: [3, 6]
+ [3,6,4,5,8,7,1,2]
+
+ [3, 6, 4, 5]
+
+ [6, 3, 4]
+
+成功的数量为：266总数：268当前回溯率：99.25373134328358%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:235
+Question:Who is the paternal grandmother of John Iii, Duke Of Cleves?
+golden idx: [0, 2]
+ [0, 2, 9, 1, 4, 5, 7, 3]
+
+ [0, 2, 9, 1]
+
+ [0,9,2]
+
+成功的数量为：268总数：270当前回溯率：99.25925925925925%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:236
+Question:Where was the place of death of George Thomas Orlando Bridgeman's father?
+golden idx: [4, 7]
+ [4, 7, 0, 5, 1, 3, 2, 6]
+
+ [4, 7, 0, 1]
+
+ [4, 7, 0]
+
+成功的数量为：270总数：272当前回溯率：99.26470588235294%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:237
+Question:What nationality is Imperial Noble Consort Chunhui's husband?
+golden idx: [4, 5]
+ [5, 4, 8, 9, 0, 1, 2, 3]
+
+ [4, 5, 8, 9]
+
+ [4, 5, 8]
+
+成功的数量为：272总数：274当前回溯率：99.27007299270073%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:238
+Question:Who is younger, Nicolas Görtler or Michel De Salzmann?
+golden idx: [3, 8]
+ [3, 8, 7, 0, 1, 2, 4, 5]
+
+ [3, 8, 7, 0]
+
+ [3, 8, 7]
+
+成功的数量为：274总数：276当前回溯率：99.27536231884058%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:239
+Question:Which country Anthemiolus's father is from?
+golden idx: [7, 8]
+ [7, 8, 0, 1, 2, 3, 4, 5]
+
+ [7, 8, 0, 3]
+
+ [8, 7, 0]
+
+成功的数量为：276总数：278当前回溯率：99.28057553956835%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:240
+Question:Where was the place of burial of the performer of song This Time (Waylon Jennings Song)?
+golden idx: [7, 9]
+ [7, 9, 5, 0, 1, 2, 3, 4]
+
+ [7,9,5,0]
+
+ [7, 9, 5]
+
+成功的数量为：278总数：280当前回溯率：99.28571428571429%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:241
+Question:Who is Charles D'Orléans, Duke Of Penthièvre's paternal grandfather?
+golden idx: [0, 4]
+ [0, 4, 7, 1, 9, 3, 5, 2]
+
+ [0, 4, 7, 9]
+
+ [0, 7, 4]
+
+成功的数量为：280总数：282当前回溯率：99.29078014184397%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:242
+Question:What nationality is Ferdinand Of Portugal, Duke Of Guarda's mother?
+golden idx: [7, 8]
+ [7,8,3,1,0,2,4,5]
+
+ [7, 8, 3, 1]
+
+ [7, 8, 3]
+
+成功的数量为：282总数：284当前回溯率：99.29577464788733%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:243
+Question:Did the movies Passer L'Hiver and In My Skin, originate from the same country?
+golden idx: [0, 1]
+ [0, 1, 2, 3, 4, 5, 6, 7]
+
+ [0, 1, 2, 3]
+
+ [0, 1, 2]
+
+成功的数量为：284总数：286当前回溯率：99.3006993006993%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:244
+Question:What is the place of birth of Consort Liang's husband?
+golden idx: [3, 6]
+ [3, 6]
+
+ [3, 6, 0, 1, 2, 4, 5, 7]
+
+ [3,6,0]
+
+成功的数量为：286总数：288当前回溯率：99.30555555555556%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:245
+Question:Where did Muza Niyazova's husband die?
+golden idx: [3, 4]
+ [4, 3, 8, 6, 1, 0, 2, 5]
+
+ [4, 3, 6, 8]
+
+ [4, 3, 8]
+
+成功的数量为：288总数：290当前回溯率：99.3103448275862%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:246
+Question:Are both stations, Muzaffargarh Railway Station and Raisan Railway Station, located in the same country?
+golden idx: [7, 8]
+ [8, 7, 4, 0, 1, 3, 6, 9]
+
+ [8, 7, 4, 0]
+
+ [8, 7, 4]
+
+成功的数量为：290总数：292当前回溯率：99.31506849315068%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:247
+Question:Do John Amyas Alexander and Albert Seward share the same nationality?
+golden idx: [5, 6]
+ [5, 6, 7, 3, 8, 4, 0, 1]
+
+ [5, 6, 7, 0]
+
+ [5,6,7]
+
+成功的数量为：292总数：294当前回溯率：99.31972789115646%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:248
+Question:Who is younger, Bernard Chambaz or Tibor Pézsa?
+golden idx: [0, 3]
+ [3, 0]
+
+ [0, 3, 1, 2, 4, 5, 6, 7]
+
+ [3, 0, 1]
+
+成功的数量为：294总数：296当前回溯率：99.32432432432432%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:249
+Question:Which award the composer of film Bhookh (1947 Film) won?
+golden idx: [6, 9]
+ [9, 6, 0, 1, 2, 3, 4, 5]
+
+ [9, 6, 0, 1]
+
+ [9, 6, 0]
+
+成功的数量为：296总数：298当前回溯率：99.32885906040269%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+##########
+ID:250
+Question:Who is Joan, Countess Of Chiny's paternal grandfather?
+golden idx: [2, 7]
+ [2, 1, 7, 6, 5, 9, 3, 4]
+
+ [2, 1, 7, 6]
+
+ [1,2,7]
+
+成功的数量为：298总数：300当前回溯率：99.33333333333333%
+第1轮错误：0，第2轮错误：0，第3轮错误：2
+##########
+
+回溯率：99.33333333333333%

@@ -1,0 +1,338 @@
+##########
+ID:1
+Question:Which magazine was started first Arthur's Magazine or First for Women?
+golden idx: [7, 9]
+[7,9,2,5,6,1,0,4]
+
+[9, 7, 5, 0, 4, 2]
+
+[9,7,4,0]
+
+成功的数量为：2总数：2当前回溯率：100.0%
+##########
+##########
+ID:2
+Question:The Oberoi family is part of a hotel company that has a head office in what city?
+golden idx: [1, 8]
+[1, 8, 9, 0, 6, 7, 2, 3]
+
+[1, 8, 9, 0, 6, 7]
+
+[1, 8, 9, 0]
+
+成功的数量为：4总数：4当前回溯率：100.0%
+##########
+##########
+ID:3
+Question:Musician and satirist Allie Goertz wrote a song about the "The Simpsons" character Milhouse, who Matt Groening named after who?
+golden idx: [6, 8]
+[8, 6, 0, 1, 4, 5, 2, 3]
+
+[6, 8, 0, 1, 4, 5]
+
+[6,8,0,1]
+
+成功的数量为：6总数：6当前回溯率：100.0%
+##########
+##########
+ID:4
+Question: What nationality was James Henry Miller's wife?
+golden idx: [5, 6]
+[3, 4, 7, 0, 9, 6, 8, 1]
+
+[3, 7, 4, 9, 6, 8]
+
+[3, 7, 4, 6]
+
+成功的数量为：7总数：8当前回溯率：87.5%
+##########
+##########
+ID:5
+Question:Cadmium Chloride is slightly soluble in this chemical, it is also called what?
+golden idx: [7, 9]
+[9, 3, 4, 6, 0, 1, 2, 7]
+
+[9, 3, 4, 6, 0, 1]
+
+[9,3,4,6]
+
+成功的数量为：8总数：10当前回溯率：80.0%
+##########
+##########
+ID:6
+Question:Which tennis player won more Grand Slam titles, Henri Leconte or Jonathan Stark?
+golden idx: [4, 8]
+[7, 4, 0, 1, 5, 3, 2, 8]
+
+[8,4,0,2,7,3]
+
+[4, 8, 0, 2]
+
+成功的数量为：10总数：12当前回溯率：83.33333333333334%
+##########
+##########
+ID:7
+Question:Which genus of moth in the world's seventh-largest country contains only one species?
+golden idx: [1, 4]
+[0,4,3,5,9,8,6,2]
+
+[0, 4, 3, 5, 9, 8]
+
+[0, 4, 3, 5]
+
+成功的数量为：11总数：14当前回溯率：78.57142857142857%
+##########
+##########
+ID:8
+Question:Who was once considered the best kick boxer in the world, however he has been involved in a number of controversies relating to his "unsportsmanlike conducts" in the sport and crimes of violence outside of the ring.
+golden idx: [0, 7]
+[7, 0, 1, 4, 6, 9, 2, 3]
+
+[7, 0, 1, 4, 6, 5]
+
+[7, 0, 6, 1]
+
+成功的数量为：13总数：16当前回溯率：81.25%
+##########
+##########
+ID:9
+Question:The Dutch-Belgian television series that "House of Anubis" was based on first aired in what year?
+golden idx: [0, 6]
+[0, 6, 7, 1, 4, 5, 2, 8]
+
+[1, 0, 7, 2, 3, 8]
+
+[0,7,1,2]
+
+成功的数量为：14总数：18当前回溯率：77.77777777777779%
+##########
+##########
+ID:10
+Question:What is the length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged?
+golden idx: [2, 3]
+[3,1,4,5,9,2,6,0]
+
+[3, 9, 4, 5, 1, 2]
+
+[3, 5, 2, 4]
+
+成功的数量为：16总数：20当前回溯率：80.0%
+##########
+##########
+ID:11
+Question:Fast Cars, Danger, Fire and Knives includes guest appearances from which hip hop record executive?
+golden idx: [4, 8]
+[8, 7, 0, 4, 3, 6, 9, 1]
+
+[8, 7, 4, 3, 6, 9]
+
+[8, 7, 4, 9]
+
+成功的数量为：18总数：22当前回溯率：81.81818181818183%
+##########
+##########
+ID:12
+Question:Gunmen from Laredo starred which narrator of "Frontier"?
+golden idx: [3, 7]
+[3, 2, 7, 1, 6, 4, 0, 5]
+
+[7, 3, 1, 6, 4, 0]
+
+[7, 3, 1, 6]
+
+成功的数量为：20总数：24当前回溯率：83.33333333333334%
+##########
+##########
+ID:13
+Question:Where did the form of music played by Die Rhöner Säuwäntzt originate?
+golden idx: [3, 9]
+[3,4,1,9,6,5,7,2]
+
+[3, 4, 9, 1, 6, 5]
+
+[9, 3, 4, 1]
+
+成功的数量为：22总数：26当前回溯率：84.61538461538461%
+##########
+##########
+ID:14
+Question:In which American football game was Malcolm Smith named Most Valuable player?
+golden idx: [2, 5]
+[2, 5, 9, 1, 8, 0, 3, 4]
+
+[5, 2, 9, 8, 1, 7]
+
+[2, 5, 9, 8]
+
+成功的数量为：24总数：28当前回溯率：85.71428571428571%
+##########
+##########
+ID:15
+Question:What U.S Highway gives access to Zilpo Road, and is also known as Midland Trail?
+golden idx: [2, 7]
+[1, 7, 2, 4, 0, 6, 3, 5]
+
+[1, 7, 2, 4, 0, 6]
+
+[2, 1, 4, 7]
+
+成功的数量为：26总数：30当前回溯率：86.66666666666667%
+##########
+##########
+ID:16
+Question:The 1988 American comedy film, The Great Outdoors, starred a four-time Academy Award nominee, who received a star on the Hollywood Walk of Fame in what year?
+golden idx: [3, 6]
+[3,0,6,1,4,2,8,5]
+
+[3,0,6,1,4,2]
+
+[3, 6, 0, 1]
+
+成功的数量为：28总数：32当前回溯率：87.5%
+##########
+##########
+ID:17
+Question:What are the names of the current members of  American heavy metal band who wrote the music for  Hurt Locker The Musical? 
+golden idx: [0, 3]
+[3, 0, 1, 4, 5, 6, 7, 8]
+
+[0, 1, 2, 4, 6, 3]
+
+[3, 0, 2, 1]
+
+成功的数量为：30总数：34当前回溯率：88.23529411764706%
+##########
+##########
+ID:18
+Question:Human Error" is the season finale of the third season of a tv show that aired on what network?
+golden idx: [1, 2]
+[1, 0, 3, 7, 8, 6, 4, 9]
+
+[1,3,7,8,4,6]
+
+[1,3,7,8]
+
+成功的数量为：31总数：36当前回溯率：86.11111111111111%
+##########
+##########
+ID:19
+Question:Dua Lipa, an English singer, songwriter and model, the album spawned the number-one single "New Rules" is a song by English singer Dua Lipa from her eponymous debut studio album, released in what year?
+golden idx: [3, 8]
+[3, 2, 8, 9, 7, 5, 6, 0]
+
+[3, 8, 2, 9, 7, 5]
+
+[3, 8, 2, 9]
+
+成功的数量为：33总数：38当前回溯率：86.8421052631579%
+##########
+##########
+ID:20
+Question:American politician Joe Heck ran unsuccessfully against Democrat Catherine Cortez Masto, a woman who previously served as the 32nd Attorney General of where?
+golden idx: [7, 8]
+[7, 8, 0, 1, 2, 3, 4, 5]
+
+[0, 1, 7, 3, 2, 4]
+
+[7, 0, 1, 3]
+
+成功的数量为：34总数：40当前回溯率：85.0%
+##########
+##########
+ID:21
+Question:Which state does the drug stores, of which the CEO is Warren Bryant, are located?
+golden idx: [1, 7]
+[1, 7, 6, 2, 3, 4, 5, 8]
+
+[1, 7, 8, 2, 5, 6]
+
+[1, 7, 8, 2]
+
+成功的数量为：36总数：42当前回溯率：85.71428571428571%
+##########
+##########
+ID:22
+Question:Which  American politician did Donahue replaced 
+golden idx: [0, 5]
+[5, 7, 0, 8, 9, 1, 2, 3]
+
+[5, 0, 9, 7, 8, 9]
+
+[5,0,9,7]
+
+成功的数量为：38总数：44当前回溯率：86.36363636363636%
+##########
+##########
+ID:23
+Question:Which band was founded first, Hole, the rock band that Courtney Love was a frontwoman of, or The Wolfhounds?
+golden idx: [1, 9]
+[1, 0, 2, 5, 7, 6, 3, 9]
+
+[1, 5, 7, 0, 6, 9]
+
+[1, 7, 5, 9]
+
+成功的数量为：40总数：46当前回溯率：86.95652173913044%
+##########
+##########
+ID:24
+Question:How old is the female main protagonist of Catching Fire?
+golden idx: [1, 9]
+##########
+ID:25
+Question:Chang Ucchin was born in korea during a time that ended with the conclusion of what? 
+golden idx: [3, 9]
+[3,2,4,7,1,6,5,8]
+
+[3, 4, 7, 1, 6, 2]
+
+[3, 4, 6, 2]
+
+成功的数量为：41总数：50当前回溯率：85.41666666666666%
+##########
+##########
+ID:26
+Question:Who is the director of the 2003 film which has scenes in it filmed at the Quality Cafe in Los Angeles?
+golden idx: [8, 9]
+[8, 7, 5, 4, 0, 3, 1, 2]
+
+[8, 7, 4, 0, 3, 1]
+
+[8, 4, 7, 3]
+
+成功的数量为：42总数：52当前回溯率：84.0%
+##########
+##########
+ID:27
+Question:New Faces of 1952 is a musical revue with songs and comedy skits, it helped jump start the career of which young performer, and American actress?
+golden idx: [8, 9]
+[8,1,0,5,2,3,7,6]
+
+[8, 1, 0, 5, 2, 3]
+
+[8, 1, 0, 2]
+
+成功的数量为：43总数：54当前回溯率：82.6923076923077%
+##########
+##########
+ID:28
+Question:Were Pavel Urysohn and Leonid Levin known for the same type of work?
+golden idx: [1, 7]
+[7,1,0,8,3,4,5,9]
+
+[7, 1, 9, 4, 8, 0]
+
+[7, 1, 9, 4]
+
+成功的数量为：45总数：56当前回溯率：83.33333333333334%
+##########
+##########
+ID:29
+Question:Are both The New Pornographers and Kings of Leon American rock bands?
+golden idx: [1, 2]
+[1, 2, 0, 8, 4, 3, 5, 9]
+
+[2,8,1,3,4,0]
+
+[2,1,8,3]
+

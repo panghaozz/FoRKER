@@ -1,0 +1,608 @@
+##########
+ID:501
+Question:Who was the film which was Kim Dae-woo's directing debut about ?
+golden idx: [2, 4]
+step-by-step think: To rank the contexts, I will consider their relevance to the claim about Kim Dae-woo's directing debut. 1. Context idx 2: This context provides comprehensive information about Kim Dae-woo, including his switch to directing and his debut with the film "Forbidden Quest," which matches the claim. It is highly relevant and likely contains the answer. 2. Context idx 4: This context is about the film "Forbidden Quest," which is Kim Dae-woo's directing debut. It is directly relevant to the claim and highly likely to contain the answer. 3. Context idx 9: This context talks about "Obsessed," another film directed by Kim Dae-woo, which is not his debut but is related to his work. It is less relevant than the first two but still related to Kim Dae-woo's directing career.
+idx: [2, 4, 9]
+
+成功的数量为：2总数：2当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:502
+Question:Which city was the man who is known for a science humor story based on the tongue-in-cheek combination of two adages born in?
+golden idx: [7, 8]
+step-by-step think: 1. "John Frazee" context: This context is highly relevant as it mentions John Frazee, the man known for the science humor story, and provides information about his place of birth, which is directly related to the claim. 2. "Buttered cat paradox" context: This context is relevant because it discusses the Buttered cat paradox, the science humor story mentioned in the claim. However, it does not provide information about the birthplace of the man who wrote it. 3. "The Ruins of Cawdor" context: This context is somewhat relevant as it mentions Richard Aronson, an author known for a different humor story, which could potentially lead to confusion with the claim. However, it is less likely to contain the answer to the claim compared to the contexts that directly relate to John Frazee and the Buttered cat paradox.
+idx: [8,7,1]
+
+成功的数量为：4总数：4当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:503
+Question:What was the largest passenger capacity of the plane type used for BOAC Flight 911 ?
+golden idx: [2, 4]
+step-by-step think: To rank the contexts, I will consider their relevance to the claim about the largest passenger capacity of the plane type used for BOAC Flight 911. 1. Context idx 4 ("BOAC Flight 911"): This context is directly related to BOAC Flight 911 and mentions the Boeing 707-436 used in the flight, which is likely to contain information about the passenger capacity. 2. Context idx 2 ("Boeing 707"): This context discusses the Boeing 707 aircraft, providing a range of passenger capacities for different versions of the aircraft. It is highly relevant and likely to contain the specific answer to the claim. 3. Context idx 6 ("BOAC Flight 712"): Although this context is about a different BOAC flight, it mentions the Boeing 707-465, which could provide insight into the passenger capacities of similar aircraft models used by BOAC. The other contexts are about different topics and are less likely to contain the answer to the claim.
+idx: [4, 2, 6]
+
+成功的数量为：6总数：6当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:504
+Question:What is the birthday of this Anglo-Irish actress, courtean, and mistress, who was the mother to the illegitimate daughter of King William IV?
+golden idx: [5, 7]
+step-by-step think: The claim is asking for the birthday of Dorothea Jordan, the Anglo-Irish actress and mistress of King William IV. 1. Context idx 7: This context is directly about Dorothea Jordan, providing her birth and death dates, and mentioning her relationship with King William IV. It is highly relevant and likely contains the answer to the claim. 2. Context idx 5: This context mentions Elizabeth Hay, Countess of Erroll, who is an illegitimate daughter of King William IV and Dorothea Jordan. It provides specific birth and death dates, which are relevant to the claim. 3. Context idx 0: This context talks about Lady Mary Fox, another illegitimate daughter of King William IV and Dorothea Jordan, providing her birth and death dates. It is relevant but less directly related to Dorothea Jordan compared to the first two contexts.
+idx: [7,5,0]
+
+成功的数量为：8总数：8当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:505
+Question:During which years was the model of car, featured on the cover of Earth's "Pentastar: In the Style of Demons" manufactured?
+golden idx: [1, 8]
+step-by-step think: The claim is asking for the manufacturing years of the car model featured on the cover of Earth's album "Pentastar: In the Style of Demons." 1. Context idx 8 ("Pentastar: In the Style of Demons") is the most relevant as it directly mentions the album and the car on its cover, a Plymouth Barracuda, providing the exact information needed to answer the claim. 2. Context idx 1 ("Plymouth Barracuda") is the second most relevant because it provides the manufacturing years of the Plymouth Barracuda, which is the car model in question. 3. Context idx 9 ("Chevrolet Corvette") is less relevant than the first two but is included because it discusses another car model, which might be of interest when considering cars and their manufacturing years, even though it does not directly answer the claim.
+idx: [8,1,9]
+
+成功的数量为：10总数：10当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:506
+Question:The "civic rally cross" was sold alongside what other model sold exclusively in Japan at Honda Verno dealerships? 
+golden idx: [0, 7]
+step-by-step think: The claim is looking for a model sold exclusively in Japan at Honda Verno dealerships alongside the "civic rally cross". 1. Context idx 2 mentions the Honda Quint Integra being sold at Honda Verno dealerships alongside the CR-X, which fits the claim's criteria. 2. Context idx 4 talks about the Honda Quint being sold at Honda Verno, which is relevant but does not mention the CR-X specifically. 3. Context idx 7 mentions the Honda Ballade being sold at Honda Verno dealerships alongside the CR-X, fitting the claim's criteria. Other contexts mention Honda Verno but do not link the models to the CR-X as directly as idx 2 and idx 7 do.
+idx: [2, 7, 4]
+
+成功的数量为：11总数：12当前回溯率：91.66666666666666%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:507
+Question:Is Gasherbrum II or Nuptse closest to the tallest mountain in the world?
+golden idx: [3, 6]
+step-by-step think: To determine which mountain is closest to the tallest mountain in the world, Mount Everest, we need to consider the geographical proximity of Gasherbrum II and Nuptse to Everest. 1. "Nuptse" context: This context is highly relevant as it mentions Nuptse's location in relation to Mount Everest, stating it lies two kilometres WSW of Everest. This directly addresses the claim and is likely to contain the answer. 2. "Gasherbrum II" context: This context provides information about Gasherbrum II's elevation and location but does not mention its proximity to Everest. It is relevant but less likely to contain the specific answer to the claim compared to the Nuptse context. 3. "Karakoram" context: This context mentions the Karakoram range, where Gasherbrum II is located, and lists several high peaks, including Gasherbrum II. It is informative and provides a broader geographical context, which may help infer the distance to Everest, but it is less direct than the Nuptse context.
+idx: [6,3,9]
+
+成功的数量为：13总数：14当前回溯率：92.85714285714286%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:508
+Question:Which constituent college of the University of Oxford endows four professorial fellowships for sciences including chemistry and pure mathematics?
+golden idx: [6, 7]
+step-by-step think: 1. "Waynflete Professorship" context: This context is highly relevant as it directly mentions the Waynflete Professorships at the University of Oxford, which are endowed by Magdalen College and include professorships in sciences such as chemistry and pure mathematics. It is very likely to contain the answer to the claim. 2. "Savilian Professor of Geometry" context: This context is relevant because it discusses a professorship at the University of Oxford and mentions its association with professorial fellowships at New College, Oxford. However, it does not specify the endowment of four professorial fellowships for sciences including chemistry and pure mathematics. 3. "Magdalen College, Oxford" context: This context is relevant as it mentions Magdalen College, which is a constituent college of the University of Oxford and could potentially be the one that endows the professorships in question. However, it does not provide specific information about the endowment of professorships for sciences.
+idx: [7,2,6]
+
+成功的数量为：15总数：16当前回溯率：93.75%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:509
+Question:In what London botanical garden can you find the fungus described by Elise Maud Wakefield as "Lepiota"?
+golden idx: [1, 9]
+step-by-step think: The claim is looking for a specific London botanical garden where a fungus described as "Lepiota" by Elise Maud Wakefield can be found. 1. Context idx 1: This context is highly relevant as it mentions Elise Maud Wakefield and the term "Lepiota," and specifies that the type specimen was found at Kew Gardens, which is in London. It is very likely to contain the answer to the claim. 2. Context idx 9: This context is about Kew Gardens and provides extensive information about its collections, indicating that it is a significant botanical garden in London. It is likely to contain the answer since Kew Gardens is mentioned in the context with the highest relevance. 3. Context idx 4: This context is informative and talks about a botanical garden, but it is not located in London and does not mention "Lepiota" or Elise Maud Wakefield, making it less relevant than the first two contexts.
+idx: [1, 9, 4]
+
+成功的数量为：17总数：18当前回溯率：94.44444444444444%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:510
+Question:Who collaborated with Rihanna on the album release "Numb"?
+golden idx: [1, 5]
+step-by-step think:1. Context idx 5 ("Numb (Rihanna song)"): This context is directly relevant to the claim as it mentions the song "Numb" by Rihanna and confirms the collaboration with Eminem, which is the answer to the claim. 2. Context idx 1 ("The Monster (song)"): This context is relevant as it mentions the collaboration between Eminem and Rihanna on the song "Numb" and provides additional information about their collaborations, including the song in question. 3. Context idx 6 ("Rob Dougan"): This context is less directly relevant as it discusses Rob Dougan's remix of U2's song "Numb" rather than Rihanna's song, but it is still related to the claim through the mention of a song titled "Numb" and a collaboration, albeit with different artists.
+idx: [5, 1, 6]
+
+成功的数量为：19总数：20当前回溯率：95.0%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:511
+Question:Christopher Oscar Pena was recognized by an entertainment-industry brand aimed at what?
+golden idx: [4, 5]
+step-by-step think: To rank the contexts, I will consider their relevance to the claim about Christopher Oscar Peña being recognized by an entertainment-industry brand. 1. Context idx 5: This context is highly relevant as it mentions Christopher Oscar Peña and the recognition by Backstage magazine, which is an entertainment-industry brand. It directly answers the claim. 2. Context idx 4: This context is about Backstage magazine, which is the entertainment-industry brand that recognized Christopher Oscar Peña. It is relevant and informative regarding the nature of the brand. 3. Context idx 6: Although this context mentions a different Christopher Oscar, it is related to the entertainment industry and could potentially be confused with the subject of the claim. However, it is less relevant than the contexts that mention Christopher Oscar Peña or Backstage magazine directly.
+idx: [5, 4, 6]
+
+成功的数量为：21总数：22当前回溯率：95.45454545454545%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:512
+Question:What was the nationality of the actor playing a Russian hostage taker in "Hostage for a Day"?
+golden idx: [3, 6]
+step-by-step think: 1. "Hostage for a Day" context: This context is directly relevant as it mentions the film "Hostage for a Day" and specifies that John Candy, a Canadian actor, played a minor character as a Russian hostage taker. It is highly informative and likely contains the answer to the claim. 2. "John Candy" context: This context is about John Candy and provides information about his career and roles, including his work in Hollywood films. It is relevant and likely to contain the answer since it pertains to the actor in question. 3. "All Costs Paid" context: This context mentions a Soviet TV miniseries and a Russian actor, which could be misleadingly relevant. However, it does not pertain to the film "Hostage for a Day" or John Candy, making it less likely to contain the answer compared to the first two contexts.
+idx: [6, 3, 2]
+
+成功的数量为：23总数：24当前回溯率：95.83333333333334%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:513
+Question:The Argentine National Anthem was adopted 3 years after which event that led to the removal of Viceroy Baltasar Hildalgo de Cisneros?
+golden idx: [1, 6]
+step-by-step think: The claim is about the Argentine National Anthem being adopted three years after an event that led to the removal of Viceroy Baltasar Hidalgo de Cisneros. 1. Context idx 1: This context directly mentions the adoption of the Argentine National Anthem and its connection to the May Revolution, which is the event in question. It is highly relevant and likely contains the answer to the claim. 2. Context idx 6: This context provides a detailed account of the May Revolution, which is the event that led to the removal of Viceroy Baltasar Hidalgo de Cisneros. It is very informative and directly related to the claim. 3. Context idx 2: This context talks about the Argentina Bicentennial, which commemorates the May Revolution. It is relevant as it provides information about the event related to the claim. 4. Context idx 7: This context also relates to the May Revolution and the removal of Viceroy Baltasar Hidalgo de Cisneros but is less direct than the previous contexts. 5. Context idx 5: This context provides information about Baltasar Hidalgo de Cisneros himself, which is relevant but does not directly address the claim about the anthem's adoption. 6. Context idx 9: This context mentions the centennial celebration of the May Revolution, which is indirectly related to the claim. 7. Context idx 0: This context provides background on Liniers and Cisneros but does not directly address the anthem or the event in question. 8. Context idx 4: This context discusses an economic report presented to Cisneros, which is not directly relevant to the claim. 9. Context idx 8: This context provides a list of heads of state of Argentina, which is informative but not directly related to the claim. 10. Context idx 3: This context talks about historical national anthems in general and does not specifically address the claim about the Argentine National Anthem.
+idx: [1, 6, 2]
+
+成功的数量为：25总数：26当前回溯率：96.15384615384616%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:514
+Question:What professions did S. Sylvan Simon and Danny Cannon have in common?
+golden idx: [4, 7]
+step-by-step think: To determine the professions that S. Sylvan Simon and Danny Cannon had in common, I need to find contexts that mention their professions. Context 4 mentions S. Sylvan Simon as a stage/film director and producer. Context 7 mentions Danny Cannon as a film and television writer, director, and producer. These two contexts are the most relevant as they directly address the professions of both individuals. The other contexts mention films directed by S. Sylvan Simon but do not provide information about Danny Cannon's profession. Therefore, they are less relevant to the claim. Based on this, the ranking is as follows: 1. Context 4 is the most relevant as it mentions S. Sylvan Simon's profession. 2. Context 7 is the second most relevant as it mentions Danny Cannon's profession. 3. Context 0 is the third most relevant as it provides additional information about S. Sylvan Simon's work, which may indirectly suggest his profession.
+idx: [4, 7, 0]
+
+成功的数量为：27总数：28当前回溯率：96.42857142857143%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:515
+Question:What number album is the first W.A.S.P. album to feature Steven Edward Duren playing guitar?
+golden idx: [2, 5]
+step-by-step think: 1. "Blackie Lawless" context: This context is highly relevant as it mentions Blackie Lawless, who is Steven Edward Duren, and his role in W.A.S.P. as the lead singer and rhythm guitarist. It is likely to contain the answer to the claim about the album where he played guitar. 2. "Inside the Electric Circus" context: This context is relevant because it discusses the album "Inside the Electric Circus," which is a W.A.S.P. album and mentions Blackie Lawless switching from bass to rhythm guitar. It is likely to contain the answer to the claim. 3. "The Last Command (album)" context: This context is somewhat relevant as it mentions a W.A.S.P. album and the band members, but it does not mention Steven Edward Duren or Blackie Lawless playing guitar. It may not contain the answer but is related to the band's albums. 4. "Live...In the Raw" context: This context is about a W.A.S.P. album, but it does not mention Steven Edward Duren or Blackie Lawless's role in playing guitar. It is less likely to contain the answer compared to contexts that mention him directly. 5. "Blizzard Beasts" context: This context is not relevant to the claim as it discusses a different band and does not mention W.A.S.P. or Steven Edward Duren. It is unlikely to contain the answer to the claim.
+idx: [5,2,3]
+
+成功的数量为：29总数：30当前回溯率：96.66666666666667%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:516
+Question:What city did the Freebooters F.C. soccer team lose in that is now known as Croke Park?
+golden idx: [3, 9]
+step-by-step think:1. Context idx 9: This context is directly relevant as it mentions Freebooters F.C., the Irish Cup final, and the City and County Grounds, Jones Road, Dublin, which is now known as Croke Park. It is highly informative and likely contains the answer to the claim. 2. Context idx 3: This context provides detailed information about Croke Park, its location in Dublin, and its significance. It is relevant and likely contains the answer to the claim. 3. Context idx 1: This context mentions that Croke Park is nearby the North Circular Road in Dublin, making it relevant to the claim. However, it is less directly related to Freebooters F.C. compared to the previous contexts.
+idx: [9, 3, 1]
+
+成功的数量为：31总数：32当前回溯率：96.875%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:517
+Question:What screenplay was worked on by both Edward Carfagno and Miklos Rozsa?
+golden idx: [1, 4]
+step-by-step think: To rank the contexts, I considered the relevance to the claim about a screenplay worked on by both Edward Carfagno and Miklos Rozsa. 1. "Edward Carfagno" context: This context is highly relevant as it mentions Edward Carfagno's work as an art director and lists the films he worked on, which may include the screenplay in question. It is informative and likely contains the answer to the claim. 2. "Julius Caesar (1953 film)" context: This context is also highly relevant because it mentions Miklós Rózsa's involvement in the film's music score, and since Edward Carfagno worked on films during the same period, there is a possibility of overlap. 3. "Storm Over the Nile" context: This context mentions Miklos Rozsa's music being used in the film, which indicates his involvement, but does not directly mention Carfagno. However, it is still relevant and may contain the answer. The other contexts are less relevant as they do not mention both individuals or their collaborative work.
+idx: [1, 4, 0]
+
+成功的数量为：33总数：34当前回溯率：97.05882352941177%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:518
+Question:Which avant-garde Japanese composer studied with John Cage and wrote Music for Electric Metronomes?
+golden idx: [0, 2]
+step-by-step think: 1. Context idx 2: "Toshi Ichiyanagi" context is the most relevant as it directly mentions Toshi Ichiyanagi, the composer in question, and confirms his study with John Cage, which is crucial to the claim. 2. Context idx 0: "Music for Electric Metronomes" context is highly relevant because it discusses the specific composition mentioned in the claim and is written by Toshi Ichiyanagi, linking him to the work in question. 3. Context idx 4: "Zaj" context is relevant as it mentions John Cage's influence and support, which is related to the claim about studying with Cage, though it does not mention Ichiyanagi directly.
+idx: [2, 0, 4]
+
+成功的数量为：35总数：36当前回溯率：97.22222222222221%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:519
+Question:Where is the academy, for which Joseph D. Stewart was appointed Superintendent, located?
+golden idx: [1, 6]
+step-by-step think:1. Context idx 1: This context directly mentions Joseph D. Stewart and his appointment as Superintendent of the United States Merchant Marine Academy, making it highly relevant and likely to contain the answer to the claim. 2. Context idx 6: This context provides detailed information about the United States Merchant Marine Academy, including its location at Kings Point, New York, which is directly relevant to the claim. 3. Context idx 0: This context mentions the appointment of a different superintendent for the United States Merchant Marine Academy, which is relevant but less directly related to Joseph D. Stewart's appointment compared to the first two contexts.
+idx: [1, 6, 0]
+
+成功的数量为：37总数：38当前回溯率：97.36842105263158%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:520
+Question:James Spedding was chiefly known as the editor of the works of an author who served both as Attorney General and as what?
+golden idx: [1, 6]
+step-by-step think: The claim asks for the role that Francis Bacon, whose works were edited by James Spedding, held in addition to being Attorney General. 1. "Francis Bacon" context: This context is highly relevant as it directly mentions Francis Bacon and lists his roles, including the one sought by the claim, which is Lord Chancellor of England. It is informative and contains the answer to the claim. 2. "James Spedding" context: This context is relevant because it mentions James Spedding as the editor of the works of Francis Bacon. It is likely to contain the answer since it directly relates to the claim. 3. "Attorney General for England and Wales" context: This context is less directly relevant, but it provides information about the position of Attorney General in England and Wales, which is related to the roles held by Francis Bacon. It may not contain the answer but is informative regarding the claim.
+idx: [6, 1, 3]
+
+成功的数量为：39总数：40当前回溯率：97.5%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:521
+Question:Which movie directed by James Gunn portrayed the fictional character, Ego the Living Planet?
+golden idx: [0, 1]
+step-by-step think: 1. "Guardians of the Galaxy Vol. 2" context: This context is highly relevant as it mentions the film directed by James Gunn and includes the cast, which features Kurt Russell. It is likely to contain the answer to the claim since it discusses the sequel where Ego the Living Planet could be part of Peter Quill's parentage story. 2. "Ego the Living Planet" context: This context is directly related to the character in question and confirms that Ego is portrayed by Kurt Russell in "Guardians of the Galaxy Vol. 2", directly answering the claim. 3. "James Gunn" context: This context provides background information on James Gunn and lists the films he has directed, including "Guardians of the Galaxy Vol. 2", making it relevant and likely to contain the answer to the claim. The other contexts are less relevant as they either discuss different subjects or do not directly link James Gunn, the movie, and the character Ego the Living Planet.
+idx: [0, 1, 9]
+
+成功的数量为：41总数：42当前回溯率：97.61904761904762%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:522
+Question:The Government of Canada, which is the federal administration of Canada, is involved in what scandal in the province of Quebec?
+golden idx: [5, 8]
+step-by-step think: To rank the contexts, I will evaluate each one based on its relevance to the claim about the Government of Canada's involvement in a scandal in Quebec. 1. Context idx 5 ("Sponsorship scandal"): This context is highly relevant as it directly mentions a scandal involving the Government of Canada and the province of Quebec, known as the "Sponsorship scandal" or "AdScam." It provides detailed information about the scandal, making it the most likely to contain the answer to the claim. 2. Context idx 8 ("Government of Canada"): This context discusses the federal administration of Canada, which is relevant to the claim. However, it does not mention a specific scandal, making it less likely to contain the answer than idx 5, but still relevant. 3. Context idx 6 ("Canada–Quebec Accord"): This context is about a legal agreement between the federal government of Canada and the government of Quebec. While it is related to the federal administration's dealings with Quebec, it does not mention a scandal, placing it below idx 5 and idx 8 in terms of relevance and likelihood of containing the answer.
+idx: [5,8,6]
+
+成功的数量为：43总数：44当前回溯率：97.72727272727273%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:523
+Question:who had to escape nazis, Sigmund Freud or Evelyn Waugh?
+golden idx: [1, 9]
+step-by-step think:1. Context index 1 titled 'Sigmund Freud' directly addresses the claim by mentioning that Freud left Austria to escape the Nazis and died in exile in the United Kingdom in 1939. This context is highly relevant and informative, making it likely to contain the answer to the claim. 2. Context index 0 titled 'Statue of Sigmund Freud, Hampstead' is relevant as it mentions Freud's residence in London during the last months of his life, which is indirectly related to his escape from the Nazis. However, it does not explicitly mention his escape, making it slightly less relevant than context index 1. 3. Context index 9 titled 'Evelyn Waugh' provides information about Evelyn Waugh but does not mention anything about escaping Nazis, making it relevant to the claim only because it pertains to Waugh. It is less likely than the other contexts to contain the answer to the claim.
+idx: [1, 0, 9]
+
+成功的数量为：45总数：46当前回溯率：97.82608695652173%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:524
+Question:Conrad Anker located the body of a mountaineer who took part it the first three British expeditions to which mountain?
+golden idx: [8, 9]
+step-by-step think: 1. "The Wildest Dream" context: This context is highly relevant as it directly mentions Conrad Anker discovering George Mallory's body on Everest, which is the specific event related to the claim. It provides detailed information about the documentary that covers the event and is very likely to contain the answer to the claim. 2. "Mallory and Irvine Research Expedition" context: This context is also highly relevant because it discusses the expedition where Conrad Anker found Mallory's body, which is directly related to the claim. It provides a detailed account of the expedition's goals and findings, making it likely to contain the answer. 3. "Conrad Anker" context: This context is relevant as it provides information about Conrad Anker, including his discovery of Mallory's body on Everest. While it is less detailed than the previous contexts, it still directly relates to the claim and may contain the answer. 4. "George Mallory" context: This context is informative as it mentions George Mallory's participation in the first three British expeditions to Mount Everest, but it does not directly address the discovery of his body by Conrad Anker. 5. "2007 Altitude Everest expedition" context: This context is relevant as it discusses an expedition led by Conrad Anker related to George Mallory, but it focuses more on the reenactment of Mallory's last journey rather than the discovery of his body.
+idx: [3,5,9]
+
+成功的数量为：46总数：48当前回溯率：95.83333333333334%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:525
+Question:José Saramago and Ivo Andrić were recipients of what award in Literature?
+golden idx: [3, 4]
+step-by-step think: To address the claim about José Saramago and Ivo Andrić being recipients of a specific award in Literature, I will rank the contexts based on their relevance to the Nobel Prize in Literature, which is the award mentioned in the claim. 1. Context idx 1: This context mentions José Saramago receiving the Nobel Prize for Literature in 1998, directly answering the claim. 2. Context idx 4: This context states that Ivo Andrić won the Nobel Prize in Literature in 1961, which is also directly relevant to the claim. 3. Context idx 3: This context provides information about José Saramago as a recipient of the Nobel Prize in Literature, reinforcing the answer to the claim. The other contexts mention Ivo Andrić and José Saramago but do not directly address the award in question or are less informative regarding the specific claim.
+idx: [1, 4, 3]
+
+成功的数量为：48总数：50当前回溯率：96.0%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:526
+Question:Are Chlidanthus and Maianthemum both flowering plants?
+golden idx: [0, 1]
+step-by-step think:1. "Chlidanthus" context: This context is highly relevant as it describes the Chlidanthus genus and mentions that it includes flowering plants, directly addressing part of the claim. 2. "Maianthemum" context: This context is also highly relevant because it details the Maianthemum genus and confirms that it includes perennial flowering plants, which directly addresses the other part of the claim. Both contexts are equally informative and likely to contain the answer to the claim that both Chlidanthus and Maianthemum are flowering plants.
+idx: [0,1]
+
+成功的数量为：50总数：52当前回溯率：96.15384615384616%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:527
+Question:The Duke Steps Out stars an actress who was ranked tenth on a list of greatest female Hollywood stars in what year?
+golden idx: [0, 6]
+step-by-step think:1. "Joan Crawford" context: This context is highly relevant as it mentions Joan Crawford, who starred in "The Duke Steps Out," and provides the specific year (1999) when she was ranked tenth on the list of greatest female stars of Classic Hollywood Cinema. It directly answers the claim. 2. "The Duke Steps Out" context: This context is relevant because it mentions the film "The Duke Steps Out," which is directly related to the claim. However, it does not provide information about the ranking or the year, making it less informative than the "Joan Crawford" context. 3. "Greta Garbo" context: While this context mentions a ranking of a female Hollywood star by the American Film Institute, it is about Greta Garbo, not Joan Crawford, and the ranking is fifth, not tenth. It is less relevant to the claim but still related to the topic of Hollywood star rankings.
+idx: [0,6,8]
+
+成功的数量为：52总数：54当前回溯率：96.29629629629629%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:528
+Question:What drum machine was introduced in 1989 and allowed 32 notes to be played simultaneously?
+golden idx: [2, 4]
+step-by-step think: To rank the contexts, I will consider the relevance to the claim, informativeness, and likelihood of containing the answer. The claim is about a drum machine introduced in 1989 that allowed 32 notes to be played simultaneously. 1. Context idx 4 ("Roland R-8"): This context directly answers the claim by mentioning a drum machine introduced in 1989 with 32-voice polyphony, which means it can play 32 notes simultaneously. 2. Context idx 2 ("Polyphony and monophony in instruments"): This context is relevant as it explains the concept of polyphony, which is the ability to play multiple notes simultaneously, directly relating to the claim. 3. Context idx 1 ("Roland TR-909"): Although this context is about a drum machine introduced by Roland, it is from 1983 and does not mention the ability to play 32 notes simultaneously, making it less relevant than the first two contexts.
+idx: [4, 2, 1]
+
+成功的数量为：54总数：56当前回溯率：96.42857142857143%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:529
+Question:Which band was formed first, Wavves or Social Code?
+golden idx: [2, 4]
+step-by-step think: To determine which band was formed first, Wavves or Social Code, I will rank the contexts based on their relevance to the claim and the likelihood that they contain the answer. 1. Context idx 2: This context is highly relevant as it provides the formation year of Social Code, which is directly related to the claim. It states that Social Code was formed in 1999. 2. Context idx 4: This context is also highly relevant because it provides the formation year of Wavves, which is necessary to answer the claim. It states that Wavves was formed in 2008. 3. Context idx 5: This context is relevant as it provides additional information about Social Code's activities, including the release of their major label debut in 2004, which supports the information about the band's formation year found in context idx 2.
+idx: [2, 4, 5]
+
+成功的数量为：56总数：58当前回溯率：96.55172413793103%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:530
+Question:Iselin Solheim provided vocals in the song released on what date?
+golden idx: [1, 2]
+step-by-step think: To rank the contexts, I considered the relevance to the claim about Iselin Solheim's vocals and the specific release date of the song. 1. "Sing Me to Sleep" context: This context is highly relevant as it mentions Iselin Solheim's vocals and provides a specific release date for the song "Sing Me to Sleep", which is directly related to the claim. 2. "Faded (Alan Walker song)" context: This context is relevant because it discusses the song "Faded", which features Iselin Solheim's vocals, and provides a release date, although it is not the primary focus of the claim. 3. "Iselin Solheim" context: This context is informative as it provides background information on Iselin Solheim, including her work with Alan Walker, but it does not provide a specific release date for the songs she provided vocals for.
+idx: [5,2,1]
+
+成功的数量为：58总数：60当前回溯率：96.66666666666667%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:531
+Question:What took place first, The Korean War or The Western Allied invasion of Germany?
+golden idx: [6, 8]
+step-by-step think: To determine which event occurred first, the Korean War or the Western Allied invasion of Germany, we need to identify the contexts that provide specific dates or timeframes for these events. 1. "Korean War" context: This context is highly relevant as it provides the exact dates of the Korean War, from 25 June 1950 to 27 July 1953. It is informative and directly answers the claim. 2. "Western Allied invasion of Germany" context: This context is also highly relevant because it details the timeframe of the Western Allied invasion of Germany, which began in March 1945. It is informative and contains the answer to the claim. 3. "Matthew Ridgway" context: This context mentions the Western Allied invasion of Germany and provides additional information about the involvement of General Matthew Ridgway in World War II, making it relevant and likely to contain the answer to the claim. The other contexts, while informative about World War II, do not directly address the claim's timeframe and are therefore ranked lower.
+idx: [6,8,2]
+
+成功的数量为：60总数：62当前回溯率：96.7741935483871%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:532
+Question:Are Mauritz Stiller and Johannes Grenzfurthner both of the same nationality?
+golden idx: [4, 9]
+step-by-step think: To determine if Mauritz Stiller and Johannes Grenzfurthner are of the same nationality, I need to find contexts that mention their nationalities. 1. "Mauritz Stiller" context: This context is highly relevant as it mentions that Mauritz Stiller was Finnish-Swedish, which directly addresses half of the claim regarding nationality. 2. "Johannes Grenzfurthner" context: This context is equally important because it states that Johannes Grenzfurthner is Austrian, thus providing the other half of the claim regarding nationality. 3. "Soviet Unterzoegersdorf" context: This context is relevant as it provides background on Johannes Grenzfurthner and the concept he created, which is tied to Austria, but it's less direct than the context that explicitly states his nationality. The other contexts are about Swedish films or other individuals and do not directly address the nationalities of Stiller or Grenzfurthner.
+idx: [4,9,3]
+
+成功的数量为：62总数：64当前回溯率：96.875%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:533
+Question:Luke Null is an actor who was on the program that premiered its 43rd season on which date?
+golden idx: [8, 9]
+step-by-step think: To address the claim about Luke Null and the premiere date of the 43rd season of the program he was on, I will rank the contexts based on relevance and likelihood of containing the answer. 1. "Saturday Night Live (season 43)" context: This context is highly relevant as it directly mentions the 43rd season of "Saturday Night Live," the show Luke Null joined, and provides the exact premiere date, which is the answer to the claim. 2. "Luke Null" context: This context is relevant because it mentions Luke Null and his association with "Saturday Night Live," indicating the start of the 43rd season, which he joined. However, it does not provide the specific premiere date. 3. "38th (Welsh) Infantry Division" context: While this context mentions the 43rd Division, it is not relevant to Luke Null or "Saturday Night Live." It is included as the third context because the others are even less relevant to the claim.
+idx: [9, 8, 4]
+
+成功的数量为：64总数：66当前回溯率：96.96969696969697%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:534
+Question:With whom did this American singer, songwriter and record producer, who contributed to the single "Marvin Gaye" with Julie Frost, co-produced and performed the 2015 song for a movie soundtrack?
+golden idx: [2, 6]
+step-by-step think: The claim is looking for the American singer, songwriter, and record producer who co-produced and performed the 2015 song for a movie soundtrack, and who also contributed to the single "Marvin Gaye" with Julie Frost. 
+1. Context index 1: This context is highly relevant as it mentions Charlie Puth, who co-wrote the song "Marvin Gaye" with Julie Frost and features guest vocals by Meghan Trainor. It directly relates to the claim and is likely to contain the answer.
+2. Context index 2: This context provides information about Julie Frost, who co-wrote the song "Marvin Gaye" with Charlie Puth. It is relevant and informative, but since it focuses more on Julie Frost's achievements, it is slightly less likely to contain the specific answer to the claim compared to context index 1.
+3. Context index 6: This context talks about Charlie Puth and mentions his involvement with the "Furious 7" soundtrack, which indicates his experience with movie soundtracks. It is relevant and likely to contain the answer to the claim.
+The other contexts are less relevant as they either focus on Marvin Gaye himself or other songs and aspects of his career that are not directly related to the claim.
+
+idx: [1, 2, 6]
+
+成功的数量为：66总数：68当前回溯率：97.05882352941177%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:535
+Question:In what year did the Guild of Music Supervisors Awards recognize a British-American romantic drama film based on the 1952 romance novel "The Price of Salt" starring Cate Blanchett?
+golden idx: [0, 6]
+step-by-step think: To rank the contexts, I will consider their relevance to the claim, informativeness, and likelihood of containing the answer. 1. Context idx 0: This context mentions the Guild of Music Supervisors Awards and lists "Carol" as one of the winners in 2016, directly addressing the claim. It is highly relevant and likely contains the answer. 2. Context idx 6: This context provides detailed information about the film "Carol," including its release year and the fact that it is based on "The Price of Salt." It is relevant and informative but does not mention the award, making it slightly less likely to contain the answer to the claim than context idx 0. 3. Context idx 9: This context lists accolades received by "Carol," which is directly related to the claim. It is informative and likely to contain the answer, but it does not specify the year of the Guild of Music Supervisors Awards recognition, placing it after idx 0 and idx 6.
+idx: [0, 6, 9]
+
+成功的数量为：68总数：70当前回溯率：97.14285714285714%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:536
+Question:Who has released more studio albums, Candlelight Red or Motion City Soundtrack?
+golden idx: [4, 9]
+step-by-step think: To determine which band has released more studio albums, the contexts that explicitly mention the number of studio albums released by each band are most relevant. 1. Context idx 4: This context directly states that Motion City Soundtrack released six studio albums, which is crucial information for answering the claim. 2. Context idx 9: This context mentions that Candlelight Red has produced two studio albums and an EP, providing the exact number needed to answer the claim. 3. Context idx 3: While this context also mentions the six studio albums released by Motion City Soundtrack, it is ranked lower because it is less direct than idx 4, which is a more concise summary of the band's discography. The other contexts are informative about the bands' histories and works but do not directly answer the claim about the number of studio albums released.
+idx: [4,9,3]
+
+成功的数量为：70总数：72当前回溯率：97.22222222222221%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:537
+Question:What number president was Annie Caputo nominated by to become a member of the Nuclear Regulatory Commission?
+golden idx: [0, 9]
+step-by-step think: The claim asks for the number of the president who nominated Annie Caputo to the Nuclear Regulatory Commission. 1. "Annie Caputo" context: This context is directly relevant as it mentions Annie Caputo and her nomination by President Donald Trump, who is the 45th president. It is highly likely to contain the answer to the claim. 2. "Donald Trump" context: This context is relevant because it provides information about Donald Trump being the 45th president, which is necessary to answer the claim. 3. "David A. Wright" context: This context is somewhat relevant as it mentions a nomination by President Donald Trump to the Nuclear Regulatory Commission, which is similar to the claim regarding Annie Caputo. However, it is less directly related to the claim than the contexts that mention Annie Caputo or Donald Trump.
+idx: [9,0,4]
+
+成功的数量为：72总数：74当前回溯率：97.2972972972973%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:538
+Question:Jack Alfred Evans played with a football club team that is based in what city in Australia?
+golden idx: [0, 8]
+step-by-step think: The claim is about identifying the city in Australia where Jack Alfred Evans' football club team is based. 1. "Jack Evans (footballer, born 1930)" context: This context is highly relevant as it mentions Jack Alfred Evans and states that he played for St Kilda in the Victorian Football League (VFL). Since St Kilda is a suburb of Melbourne, this context is likely to contain the answer to the claim. 2. "St Kilda Football Club" context: This context is directly related to the claim as it provides information about the St Kilda Football Club, which is based in Melbourne. It confirms the location of the club and is therefore highly relevant and likely contains the answer. 3. "Jack Trengove" context: Although this context is about a different Australian rules footballer, it mentions the Melbourne Football Club in the AFL, which is related to the claim and could provide additional confirmation about the location of the club. The other contexts are about different individuals or clubs that are not relevant to the claim about Jack Alfred Evans and his club's location in Australia.
+idx: [0,8,9]
+
+成功的数量为：74总数：76当前回溯率：97.36842105263158%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:539
+Question:What is the date of birth of the English inventor that developed the Richard Hornsby & Sons oil engine? 
+golden idx: [2, 7]
+step-by-step think:1. "Richard Hornsby" context: This context is directly relevant as it mentions Richard Hornsby, the English inventor in question, and provides his date of birth, which is the answer to the claim. 2. "Richard Hornsby & Sons" context: This context is relevant as it discusses the company founded by Richard Hornsby and mentions its history with oil engines, which is related to the claim. However, it does not provide the specific answer to the claim about his date of birth. 3. "St Vincents Hall" context: This context is somewhat relevant as it mentions the mansion built for Richard Hornsby and provides a connection to his industrial activities. It is less likely to contain the answer to the claim compared to the contexts that directly mention Richard Hornsby.
+idx: [4,2,6]
+
+成功的数量为：75总数：78当前回溯率：96.15384615384616%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:540
+Question:Where was the sports complex at which Will Brodie made his debut in the thirty-five point loss against Melbourne located?
+golden idx: [1, 2]
+step-by-step think: The claim is about the location of the sports complex where Will Brodie made his debut in a thirty-five point loss against Melbourne. 1. "Will Brodie" context: This context is the most relevant as it directly mentions Will Brodie and specifies that he made his debut at TIO Traeger Park, which answers the claim. 2. "Traeger Park" context: This context is relevant because it provides detailed information about TIO Traeger Park, the location where Will Brodie made his debut. 3. "Gelora Bung Karno Sports Complex" context: Although this context is about a sports complex, it is not relevant to Will Brodie's debut, making it less likely to contain the answer to the claim compared to the contexts that directly relate to Will Brodie or TIO Traeger Park.
+idx: [2,1,0]
+
+成功的数量为：77总数：80当前回溯率：96.25%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:541
+Question:Cardinal Pole Roman Catholic School was named after the last Roman Catholic to hold what position?
+golden idx: [3, 4]
+step-by-step think: The claim is about the namesake of Cardinal Pole Roman Catholic School, specifically the last Roman Catholic to hold a certain position. 1. Context idx 4: This context is directly relevant as it mentions Cardinal Pole Catholic School and states it is named after Cardinal Reginald Pole, the last Roman Catholic Archbishop of Canterbury. It is highly informative and likely contains the answer to the claim. 2. Context idx 3: This context is about Reginald Pole himself, providing details about his role as the last Roman Catholic Archbishop of Canterbury. It is directly relevant to the claim and very informative. 3. Context idx 6: This context mentions the building formerly used by Cardinal Pole Roman Catholic School, which provides some historical relevance but is less directly related to the claim than the previous contexts. It is informative but less likely to contain the specific answer to the claim.
+idx: [4, 3, 6]
+
+成功的数量为：79总数：82当前回溯率：96.34146341463415%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:542
+Question:What job did Jörgen Smit work, where he was working in the world center for the anthroposophical movement?
+golden idx: [0, 7]
+step-by-step think: To rank the contexts, I considered the relevance to the claim about Jörgen Smit's job and his work at the world center for the anthroposophical movement. 1. "Jörgen Smit" context: This context is directly related to Jörgen Smit and provides detailed information about his roles within the Anthroposophical Society and his connection to the Goetheanum in Dornach, Switzerland. It is highly relevant and likely contains the answer to the claim. 2. "Goetheanum" context: This context describes the Goetheanum, which is the world center for the anthroposophical movement where Jörgen Smit worked. It is relevant and provides background information about the place of his work. 3. "Triodos Bank" context: This context mentions the bank's influence by the anthroposophical movement and its ethical banking approach, which is somewhat relevant but less directly connected to Jörgen Smit's job compared to the first two contexts. The other contexts are less relevant as they do not directly relate to Jörgen Smit or the anthroposophical movement's world center.
+idx: [7, 0, 3]
+
+成功的数量为：81总数：84当前回溯率：96.42857142857143%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:543
+Question:The Dogwoman telemovies were created by an actress born in what year?
+golden idx: [0, 4]
+step-by-step think: The claim is about the birth year of the actress who created the Dogwoman telemovies. 1. "Magda Szubanski" context: This context is directly relevant as it mentions Magda Szubanski, the creator and star of the Dogwoman telemovies, and provides her birth year, which is the answer to the claim. 2. "Dogwoman" context: This context is relevant because it discusses the Dogwoman telemovies and mentions Magda Szubanski as the creator and star, but it does not provide her birth year. 3. "Maggie Moore" context: This context is less relevant as it discusses a different actress and does not provide information related to the Dogwoman telemovies or Magda Szubanski.
+idx: [4,0,5]
+
+成功的数量为：83总数：86当前回溯率：96.51162790697676%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:544
+Question:Southeastern Illinois College offers an undergraduate academic degree considered to be greater level of education than what?
+golden idx: [4, 6]
+step-by-step think:1. Context idx 4: This context is directly about Southeastern Illinois College, which is the subject of the claim. It mentions that the college offers Associate degrees, which is likely the answer to the claim as it is considered to be a greater level of education than a high school diploma or GED. 2. Context idx 6: This context talks about Associate degrees and explicitly states that it is considered to be a greater level of education than a high school diploma or GED, which is the comparison being asked for in the claim. 3. Context idx 8: This context provides information about bachelor's degrees, which are typically a level of education higher than an Associate degree. It is relevant as it helps to understand the hierarchy of educational degrees in relation to the claim.
+idx: [4,6,8]
+
+成功的数量为：85总数：88当前回溯率：96.5909090909091%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:545
+Question:The American Sweetgum is the hostplant of what kind of bug?
+golden idx: [3, 6]
+step-by-step think:1. "Phyllocnistis liquidambarisella" context: This context is highly relevant as it mentions the American Sweetgum ("Liquidambar styraciflua") as the host plant for the species "Phyllocnistis liquidambarisella", which is a moth, and directly answers the claim. 2. "Datronia scutellata" context: This context is relevant because it mentions a plant pathogen that affects the American Sweetgum, although it is not a bug, it is closely related to the claim. 3. "Liquidambar styraciflua" context: This context provides detailed information about the American Sweetgum, including its various names and characteristics. It is informative and may contain further information related to the claim within the full text.
+idx: [3,1,6]
+
+成功的数量为：87总数：90当前回溯率：96.66666666666667%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:546
+Question:The first book in the Sprawl Trilogy won what three awards?
+golden idx: [2, 5]
+step-by-step think: The claim is asking for the awards won by the first book in the Sprawl Trilogy. 1. "Neuromancer" context: This context is directly relevant as it mentions "Neuromancer" being the first novel of the Sprawl Trilogy and lists the three awards it won - the Nebula Award, the Philip K. Dick Award, and the Hugo Award. It is highly informative and contains the answer to the claim. 2. "Sprawl trilogy" context: This context provides an overview of the Sprawl Trilogy, including "Neuromancer" as the first book. It is relevant but does not list the awards, so it is less likely to contain the answer compared to the "Neuromancer" context. 3. "Mona Lisa Overdrive" context: This context mentions the final book in the trilogy and the awards it was nominated for, which indicates the significance of the series in terms of awards, but it is not about the first book's awards. It is less relevant than the first two contexts but still contains useful information about the trilogy's recognition.
+idx: [5,2,6]
+
+成功的数量为：89总数：92当前回溯率：96.73913043478261%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:547
+Question:What drug is among the list of illegal drugs in the Philippines and can be taken by mouth or by injection?
+golden idx: [0, 4]
+step-by-step think: To rank the contexts, I will consider their relevance to the claim about a drug that is illegal in the Philippines and can be taken by mouth or by injection. 1. Context 4 ("Illegal drug trade in the Philippines"): This context is highly relevant as it specifically mentions the illegal drugs in the Philippines, including ephedrine, which can be taken by mouth or by injection. It directly addresses the claim and is likely to contain the answer. 2. Context 0 ("Ephedrine"): While this context is about ephedrine and mentions its methods of administration, it does not specifically address its legality in the Philippines. However, it is informative and somewhat relevant. 3. Context 6 ("Politics of drug abuse"): This context discusses the legislative aspect of drug abuse, which may include information on the legality of certain drugs, making it potentially relevant to the claim. The other contexts are less relevant as they pertain to drug issues in other countries or broader topics not specific to the claim.
+idx: [4, 0, 6]
+
+成功的数量为：91总数：94当前回溯率：96.80851063829788%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:548
+Question:The telenova "El Ardiente Secreto" was based ona novel published under what pen name?
+golden idx: [4, 8]
+step-by-step think: 1. Context idx 4: This context is highly relevant as it mentions "Jane Eyre" and the pen name "Currer Bell" under which Charlotte Brontë published the novel. Since "El Ardiente Secreto" is based on "Jane Eyre," this context is likely to contain the answer to the claim. 2. Context idx 0 and idx 8: Both contexts mention that "Ardiente secreto" is based on Charlotte Brontë's novel "Jane Eyre." However, they do not mention the pen name, making them less likely to contain the answer to the claim than context idx 4, but still relevant. 3. Context idx 3: This context mentions a pen name "Edith Van Dyne" used by L. Frank Baum, which is not directly related to the claim but is about pen names and could potentially mislead. The other contexts are less relevant as they mention different authors, pen names, or novels not related to the claim.
+idx: [4,0,8]
+
+成功的数量为：93总数：96当前回溯率：96.875%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:549
+Question:In the 2012-13 FC Sion they brought in Gennaro Gattuso and a player who now plays for what Scottish team?
+golden idx: [2, 3]
+step-by-step think:1. "2012–13 FC Sion season" context: This context is highly relevant as it mentions both Gennaro Gattuso and Kyle Lafferty, directly addressing the claim. It provides specific information about the players brought in by FC Sion during the 2012-13 season, making it likely to contain the answer. 2. "Kyle Lafferty" context: This context is relevant because it mentions Kyle Lafferty and the Scottish team he currently plays for, which is the direct answer to the claim. 3. "FC Sion" context: This context provides background information about FC Sion, including their achievements and home games. While it does not directly answer the claim, it is informative and related to FC Sion, which is the subject of the claim.
+idx: [3,2,8]
+
+成功的数量为：95总数：98当前回溯率：96.93877551020408%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:550
+Question:WAVN is a Gospel formatted broadcast radio station tied to which city in DeSoto County, Mississippi?
+golden idx: [3, 8]
+step-by-step think: 1. Context index 8 is the most relevant as it directly mentions WAVN and states that it is licensed to Southaven, Mississippi, which is in DeSoto County. This context is highly likely to contain the answer to the claim. 2. Context index 3 is relevant because it provides information about Southaven, Mississippi, which is the city tied to WAVN according to context index 8. It offers background information about the city, which could be useful for understanding the context of WAVN. 3. Context index 4 mentions WAKK, another gospel formatted broadcast radio station in Mississippi, which is less relevant than the previous two but still provides context about gospel stations in the state. The other contexts are about radio stations in different states or counties and are not as relevant to the claim.
+idx: [8,3,4]
+
+成功的数量为：97总数：100当前回溯率：97.0%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:551
+Question:The Azad Hind Dal was created by an Indian nationalist whose defiant patriotism made him a hero in India, but whose attempt to rid India of British rule during what war left a troubled legacy?
+golden idx: [0, 3]
+step-by-step think: 1. "Subhas Chandra Bose" context: This context is highly relevant as it directly mentions Subhas Chandra Bose and his role during World War II, which is the war referred to in the claim. It provides detailed information about Bose's attempt to rid India of British rule and is likely to contain the answer to the claim. 2. "Azad Hind Dal" context: This context is also very relevant because it describes the creation of the Azad Hind Dal by Subhas Chandra Bose during World War II and its activities, directly tying it to the claim. 3. "Indian National Army" context: This context is relevant as it discusses the Indian National Army's formation and alliance with Japan during World War II, led by Subhas Chandra Bose. It is likely to contain information that supports the answer to the claim.
+idx: [3,0,5]
+
+成功的数量为：99总数：102当前回溯率：97.05882352941177%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:552
+Question:What English stand-up comedian has a style of comedy full of "stream-of-conscious banter"?
+golden idx: [7, 8]
+step-by-step think: To rank the contexts, I considered the relevance to the claim about a comedian with a "stream-of-conscious banter" style. 1. "Stripped (tour)" context: This context is highly relevant as it describes Eddie Izzard's stand-up comedy tour, which is characterized by "stream-of-conscious banter." It provides detailed information about the tour and Izzard's style, making it likely to contain the answer to the claim. 2. "Eddie Izzard" context: This context is about Eddie Izzard himself and mentions his "rambling, whimsical monologue," which aligns with the "stream-of-conscious banter" style. It is informative and likely contains the answer to the claim. 3. "Stand-up comedy" context: While this context provides a general overview of stand-up comedy, it does not specifically mention the "stream-of-conscious banter" style. However, it is still relevant and may contain useful background information related to the claim.
+idx: [7, 8, 2]
+
+成功的数量为：101总数：104当前回溯率：97.11538461538461%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:553
+Question:Are both Jim McBride and Neil Jordan American?
+golden idx: [1, 5]
+step-by-step think: To address the claim about the nationalities of Jim McBride and Neil Jordan, I will rank the contexts based on their relevance to the claim and the likelihood of containing the answer. 1. Context idx 5: This context directly states that Jim McBride is an American, which is highly relevant to the claim. 2. Context idx 1: This context mentions that Neil Jordan is Irish, which directly answers the claim regarding his nationality. 3. Context idx 6: This context also refers to Jim McBride as an American and provides additional information about his work, which supports the answer to the claim. The other contexts are less relevant as they do not directly address the nationalities of the individuals in question.
+idx: [5,1,6]
+
+成功的数量为：103总数：106当前回溯率：97.16981132075472%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:554
+Question:What was the highest ranking in the United States for a single written by an English multi-instrumentalist?
+golden idx: [1, 8]
+step-by-step think: The claim is looking for the highest ranking in the United States for a single written by an English multi-instrumentalist. 1. "Moonlight Shadow" context: This context is highly relevant as it mentions "Moonlight Shadow," a song by English multi-instrumentalist Mike Oldfield, which reached number one on several European charts. It is likely to contain the answer to the claim regarding the highest ranking in the US. 2. "Man in the Rain" context: This context is relevant because it mentions "Man in the Rain," another song by Mike Oldfield, an English multi-instrumentalist. However, it does not provide information about the US ranking, making it less likely to contain the answer compared to "Moonlight Shadow." 3. "Magic Bus (song)" context: This context is relevant as it mentions "Magic Bus," a song by Pete Townshend, an English multi-instrumentalist. It provides specific information about its ranking in the US, making it likely to contain the answer to the claim. 4. "Pete Townshend" context: This context is informative as it provides information about Pete Townshend, an English multi-instrumentalist, but it does not mention any specific song rankings, making it less likely to contain the answer compared to the contexts that do. 5. The remaining contexts are not relevant to the claim as they do not pertain to music or rankings of singles in the US.
+idx: [5,2,1]
+
+成功的数量为：104总数：108当前回溯率：96.29629629629629%
+第1轮错误：4，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:555
+Question:Woman's Era and Naj are what kind of magazines?
+golden idx: [4, 7]
+step-by-step think: To determine the top 3 ranked contexts, I will evaluate each context based on its relevance to the claim and the likelihood of containing the answer. The claim is about the type of magazines "Woman's Era" and "Naj" are.
+
+1. Context idx 7 ("Woman's Era"): This context is highly relevant as it directly mentions "Woman's Era" and provides detailed information about the magazine, including its publication language, start year, publishing house, and managing editor. It is very likely to contain the answer to the claim.
+
+2. Context idx 4 ("Naj"): This context is also highly relevant because it directly mentions "Naj" and describes it as a Polish language fortnightly lifestyle and women's magazine. It is very likely to contain the answer to the claim.
+
+3. Context idx 5 ("Lifestyle trends and media"): While this context does not directly mention "Woman's Era" or "Naj," it discusses lifestyle trends and media, which could be related to the type of content these magazines may feature. It is less directly relevant than the first two contexts but still likely to contain useful information related to the claim.
+
+The other contexts are not directly related to the claim about the type of magazines "Woman's Era" and "Naj" are and therefore rank lower in relevance and likelihood of containing the answer.
+
+idx: [7, 4, 5]
+
+成功的数量为：106总数：110当前回溯率：96.36363636363636%
+第1轮错误：4，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:556
+Question:Name a musician that worked with Hiren Roy and Vilayat Khan.
+golden idx: [0, 6]
+step-by-step think: To address the claim, I will rank the contexts based on their relevance to Hiren Roy and Vilayat Khan, and the likelihood of containing information about a musician who worked with both. 1. Context 0: This context is highly relevant as it mentions Hiren Roy and Vilayat Khan, and lists musicians who have used Hiren Roy's sitars, including Nikhil Banerjee, who is a musician that worked with both. 2. Context 6: This context is relevant as it mentions Vilayat Khan and other musicians associated with him, but it does not mention Hiren Roy or a direct collaboration with him. 3. Context 1: This context mentions Anjan Chattopadhyay's training under Kalyani Roy, a disciple of Vilayat Khan, which shows a connection to Vilayat Khan but not a direct working relationship with Hiren Roy.
+idx: [0, 6, 1]
+
+成功的数量为：108总数：112当前回溯率：96.42857142857143%
+第1轮错误：4，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:557
+Question:Are the flowering plants Ecballium and Elatostema in the same family?
+golden idx: [3, 5]
+step-by-step think: To determine the top 3 ranked contexts, I will evaluate each context based on its relevance to the claim about the family relation between Ecballium and Elatostema. 1. Context idx 3 ("Ecballium"): This context is highly relevant as it directly mentions the genus Ecballium and provides information about its family, Cucurbitaceae. It is informative and likely contains part of the answer to the claim. 2. Context idx 5 ("Elatostema"): This context is also highly relevant because it directly mentions the genus Elatostema and provides information about its family, Urticaceae. It is informative and likely contains the other part of the answer to the claim. 3. Context idx 1 ("Austrobaileyales"): This context is relevant as it discusses the order Austrobaileyales, which includes several families of flowering plants. It may not directly contain the answer to the claim, but it provides useful information about the classification of flowering plants. 4. Context idx 6 ("Basal angiosperms"): This context provides information about the basal angiosperms, which is relevant to the overall understanding of flowering plant classification but less likely to contain the specific answer to the claim. 5. The remaining contexts (idx 0, 2, 4, 7, 8, 9) are about other plant genera or families and are not directly relevant to the claim.
+idx: [3,5,1]
+
+成功的数量为：110总数：114当前回溯率：96.49122807017544%
+第1轮错误：4，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:558
+Question:Are Ganzhou and Jimo District both located in China?
+golden idx: [1, 7]
+step-by-step think: To determine the top 3 ranked contexts, I will evaluate each context based on its relevance to the claim and the likelihood of containing the answer. 1. Context idx 7: This context provides comprehensive information about Ganzhou, including its location in Jiangxi, China, and details about its districts and population. It is highly relevant and likely contains the answer to the claim. 2. Context idx 1: This context mentions Jimo District and its location in Qingdao, Shandong, China. It is directly relevant to the claim and likely contains the answer. 3. Context idx 9: This context discusses Zhanggong District, which is part of Ganzhou in Jiangxi, China. It provides additional details about Ganzhou, supporting the information in context idx 7. While it is relevant, it may not be as directly related to the claim as the previous two contexts. The remaining contexts are either less relevant or provide information about specific locations within Ganzhou or Jimo, which are not as directly related to the claim as the top-ranked contexts.
+idx: [7,1,9]
+
+成功的数量为：112总数：116当前回溯率：96.55172413793103%
+第1轮错误：4，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:559
+Question:Which has more species, Aichryson or Polypodium?
+golden idx: [0, 4]
+step-by-step think: 1. "Aichryson" context: This context is highly relevant as it provides the exact number of species within the Aichryson genus, which is crucial to answering the claim. 2. "Polypodium" context: This context is also highly relevant because it gives a range for the number of species in the Polypodium genus, which is necessary to compare with Aichryson. 3. "Polypodium appalachianum" context: While this context is about a specific species within the Polypodium genus, it includes information about the species count and taxonomy that could be useful for understanding the diversity within the genus.
+idx: [4,0,9]
+
+成功的数量为：114总数：118当前回溯率：96.61016949152543%
+第1轮错误：4，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:560
+Question:Who is the psychologist who wrote about the disciple of the person known as the "Wild Woman of Buttle"?
+golden idx: [4, 9]

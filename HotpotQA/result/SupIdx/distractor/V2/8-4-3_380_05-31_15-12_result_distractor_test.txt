@@ -1,0 +1,912 @@
+##########
+ID:381
+Question:Who was born first, José Echegaray y Eizaguirre or P. J. O'Rourke?
+golden idx: [0, 8]
+[8, 0, 6, 7, 1, 2, 3, 4]
+
+[8, 0, 6, 7]
+
+[8, 0, 7]
+
+成功的数量为：2总数：2当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:382
+Question:Who did the Doncaster Belles play in the 1994 FA Women's Cup Final held at Glanford Park? 
+golden idx: [5, 6]
+[6, 7, 5, 4, 1, 9, 0, 3]
+
+[6, 7, 5, 4]
+
+[6, 7, 5]
+
+成功的数量为：4总数：4当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:383
+Question:What act for Innocent Records achieved Platinum sales and shares its name with a primary color in the RGB color model?
+golden idx: [0, 6]
+[6,0,5,7,1,2,4,9]
+
+[6, 0, 5, 7]
+
+[6, 0, 5]
+
+成功的数量为：6总数：6当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:384
+Question:What national historic district is located near a village in the town of Philipstown, New York?
+golden idx: [1, 6]
+[1, 6, 7, 9, 4, 8, 0, 2]
+
+[1, 6, 9, 4]
+
+[1, 6, 9]
+
+成功的数量为：8总数：8当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:385
+Question:Which American writer wrote both The Ganymede Takeover (1967) and The Man in the High Castle (1962)?
+golden idx: [6, 8]
+[6, 8, 3, 4, 0, 9, 1, 2]
+
+[8, 6, 4, 3]
+
+[8, 6, 3]
+
+成功的数量为：10总数：10当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:386
+Question:Curt Menefee is the host of the Fox network's NFL show with co-host Michael Anthony Strahan who spent his entire 15-year career with what team?
+golden idx: [3, 8]
+[3, 8, 1, 7, 5, 6, 2, 0]
+
+[3,8,0,1]
+
+[3,8,1]
+
+成功的数量为：12总数：12当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:387
+Question:Francisco Jose Hernandez was a participant in an invasion that took place in what year?
+golden idx: [2, 4]
+[2, 4, 0, 1, 3, 5, 6, 7]
+
+[4, 2, 5, 0]
+
+[4, 2, 0]
+
+成功的数量为：14总数：14当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:388
+Question:Dead but Rising was a song by the Danish band fomed in what city in 2001?
+golden idx: [1, 4]
+[4, 1, 0, 2, 3, 5, 6, 7]
+
+[4, 1, 5, 3]
+
+[4, 1, 5]
+
+成功的数量为：16总数：16当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:389
+Question:The man, who the award in which "Summer of the Monkeys" won, was a spokesman for white sector of America?
+golden idx: [1, 5]
+[5, 1, 0, 6, 2, 4, 3, 7]
+
+[5,1,0,7]
+
+[5, 1, 0]
+
+成功的数量为：18总数：18当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:390
+Question:Which lead actor/actress in War Chhod Na Yaar has also acted in Bengali and English-language films?
+golden idx: [2, 6]
+[2, 6, 0, 4, 1, 5, 8, 3]
+
+[6,2,5,3]
+
+[6, 2, 5]
+
+成功的数量为：20总数：20当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:391
+Question:What type of movie are Wishing Stairs and Voice?
+golden idx: [0, 9]
+[0,9,5,1,6,7,2,8]
+
+[0, 9, 5, 1]
+
+[0, 9, 5]
+
+成功的数量为：22总数：22当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:392
+Question:Which cast member of Alice Upside Down also stars in the ABC Family/Freeform drama "Switched at Birth?"
+golden idx: [0, 9]
+[9, 4, 0, 3, 7, 5, 6, 8]
+
+[9, 4, 3, 7]
+
+[9, 4, 3]
+
+成功的数量为：23总数：24当前回溯率：95.83333333333334%
+第1轮错误：0，第2轮错误：1，第3轮错误：0
+##########
+##########
+ID:393
+Question:What kind of movie directed by F. Javier gutierrez did an Italian model and actress star in?
+golden idx: [2, 9]
+[9, 2, 0, 4, 6, 7, 1, 3]
+
+[2, 9, 0, 7]
+
+[9, 2, 0]
+
+成功的数量为：25总数：26当前回溯率：96.15384615384616%
+第1轮错误：0，第2轮错误：1，第3轮错误：0
+##########
+##########
+ID:394
+Question:In which county is the English king Harold Godwinson buried?
+golden idx: [8, 9]
+[8, 9, 1, 0, 2, 3, 4, 7]
+
+[8, 9, 4, 7]
+
+[8, 9, 4]
+
+成功的数量为：27总数：28当前回溯率：96.42857142857143%
+第1轮错误：0，第2轮错误：1，第3轮错误：0
+##########
+##########
+ID:395
+Question:Who wrote The Devils, and was an eninent English theater, opera and film director?
+golden idx: [2, 5]
+[5, 2, 4, 7, 3, 1, 0, 6]
+
+[2, 5, 4, 6]
+
+[5, 2, 4]
+
+成功的数量为：29总数：30当前回溯率：96.66666666666667%
+第1轮错误：0，第2轮错误：1，第3轮错误：0
+##########
+##########
+ID:396
+Question:Which Grand Slam singles tournament have Francesca Schiavone and Olga Morozova both been finalists in?
+golden idx: [0, 8]
+[8,0,9,4,2,7,3,5]
+
+[8, 0, 9, 4]
+
+[8, 0, 9]
+
+成功的数量为：31总数：32当前回溯率：96.875%
+第1轮错误：0，第2轮错误：1，第3轮错误：0
+##########
+##########
+ID:397
+Question:"Kapitän zur See" Ernst Lindemann was the commander of which one of two battleships built for Nazi Germany's "Kriegsmarine"?
+golden idx: [5, 8]
+[4, 5, 8, 7, 0, 1, 2, 3]
+
+[4, 5, 8, 7]
+
+[4, 8, 5]
+
+成功的数量为：33总数：34当前回溯率：97.05882352941177%
+第1轮错误：0，第2轮错误：1，第3轮错误：0
+##########
+##########
+ID:398
+Question:Which football team does Lewis Young's older brother, Ashley Young, play for?
+golden idx: [3, 8]
+[3,8,1,0,4,5,6,9]
+
+[3, 8, 1, 9]
+
+[3,8,1]
+
+成功的数量为：35总数：36当前回溯率：97.22222222222221%
+第1轮错误：0，第2轮错误：1，第3轮错误：0
+##########
+##########
+ID:399
+Question:Snowdrop is a proprietary game engine first revealed with an online-only action role-playing video game developed by who?
+golden idx: [4, 7]
+[7,4,5,6,0,1,2,3]
+
+[7, 4, 0, 6]
+
+[7, 4, 0]
+
+成功的数量为：37总数：38当前回溯率：97.36842105263158%
+第1轮错误：0，第2轮错误：1，第3轮错误：0
+##########
+##########
+ID:400
+Question:Wendy Ayche was featured in 2016 in an annual production created by Youtube and what other organization?
+golden idx: [3, 7]
+[3, 7, 1, 4, 9, 0, 2, 5]
+
+[3,7,1,4]
+
+[3,7,1]
+
+成功的数量为：39总数：40当前回溯率：97.5%
+第1轮错误：0，第2轮错误：1，第3轮错误：0
+##########
+##########
+ID:401
+Question:John MacGregor, Baron MacGregor of Pulham Market was educated at the University of St Andrews and another university established by what monach?
+golden idx: [0, 7]
+[7, 0, 5, 2, 4, 1, 6, 9]
+
+[0, 7, 5, 2]
+
+[7, 0, 5]
+
+成功的数量为：41总数：42当前回溯率：97.61904761904762%
+第1轮错误：0，第2轮错误：1，第3轮错误：0
+##########
+##########
+ID:402
+Question:Which game was released first, Icehouse pieces or Kill Doctor Lucky?
+golden idx: [5, 6]
+[6, 5, 1, 7, 4, 0, 3, 9]
+
+[6, 5, 1, 7]
+
+[6,5,1]
+
+成功的数量为：43总数：44当前回溯率：97.72727272727273%
+第1轮错误：0，第2轮错误：1，第3轮错误：0
+##########
+##########
+ID:403
+Question:American Blues included the drummer from which American rock band?
+golden idx: [1, 3]
+[1, 3, 0, 4, 5, 6, 7, 8]
+
+[1, 3, 0, 4]
+
+[3, 1, 4]
+
+成功的数量为：45总数：46当前回溯率：97.82608695652173%
+第1轮错误：0，第2轮错误：1，第3轮错误：0
+##########
+##########
+ID:404
+Question:The Indian actor and philanthropist, who starred in "Mera Damad," entered the film industry in what year?
+golden idx: [4, 6]
+[0, 4, 6, 1, 2, 3, 5, 7]
+
+[0, 6, 4, 7]
+
+[0, 6, 4]
+
+成功的数量为：47总数：48当前回溯率：97.91666666666666%
+第1轮错误：0，第2轮错误：1，第3轮错误：0
+##########
+##########
+ID:405
+Question:The Jeep Cherokee was originally sold as a variant of a Jeep model produced during what years?
+golden idx: [0, 9]
+[9,0,7,2,4,6,1,3]
+
+[7, 9, 0, 2]
+
+[9, 7, 2]
+
+成功的数量为：48总数：50当前回溯率：96.0%
+第1轮错误：0，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:406
+Question:Where was the person born who was recognized by MIAL and is an American soprano?
+golden idx: [1, 4]
+[4, 1, 0, 2, 3, 5, 6, 7]
+
+[4, 1, 0, 5]
+
+[4, 1, 0]
+
+成功的数量为：50总数：52当前回溯率：96.15384615384616%
+第1轮错误：0，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:407
+Question:Which magazine is older, Gallery or Dime Magazine?
+golden idx: [0, 4]
+[4, 0, 2, 7, 1, 6, 5, 9]
+
+[4, 0, 2, 7]
+
+[4, 0, 2]
+
+成功的数量为：52总数：54当前回溯率：96.29629629629629%
+第1轮错误：0，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:408
+Question:which writer has the highest number of skill  Langston Hughes or  Ian McEwan
+golden idx: [6, 9]
+[9, 6, 5, 2, 3, 1, 4, 7]
+
+[9, 6, 5, 3]
+
+[9, 6, 5]
+
+成功的数量为：54总数：56当前回溯率：96.42857142857143%
+第1轮错误：0，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:409
+Question:How large is the shopping mall where KGOT radio station has its studios ?
+golden idx: [7, 8]
+[8, 7, 3, 1, 0, 2, 4, 5]
+
+[7, 8, 5, 4]
+
+[7, 8, 4]
+
+成功的数量为：56总数：58当前回溯率：96.55172413793103%
+第1轮错误：0，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:410
+Question:What are the names of the members of the Detroit-based hip hop duo who has worked with Jason Gilbert?
+golden idx: [3, 6]
+[3, 6, 8, 2, 4, 7, 0, 1]
+
+[6, 3, 2, 8]
+
+[6, 3, 2]
+
+成功的数量为：58总数：60当前回溯率：96.66666666666667%
+第1轮错误：0，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:411
+Question:Which has the larger population, Shanghai or Hanggin Rear Banner?
+golden idx: [8, 9]
+[9,8,3,4,5,0,6,1]
+
+[9,8,3,4]
+
+[9, 8, 3]
+
+成功的数量为：60总数：62当前回溯率：96.7741935483871%
+第1轮错误：0，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:412
+Question:Jacques Mathou starred in Delicatessen, the 1991 French movie in the style of which celebrated American animator?
+golden idx: [6, 9]
+[6, 9, 3, 5, 1, 0, 2, 4]
+
+[6, 9, 0, 2]
+
+[6, 9, 2]
+
+成功的数量为：62总数：64当前回溯率：96.875%
+第1轮错误：0，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:413
+Question:Jacques Sernas, actor in Fugitive in Trieste, was of what nationality?
+golden idx: [0, 3]
+[0, 3, 1, 2, 4, 5, 6, 7]
+
+[0, 3, 1, 2]
+
+[0,3,1]
+
+成功的数量为：64总数：66当前回溯率：96.96969696969697%
+第1轮错误：0，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:414
+Question:The VMAQT-1 logo is a female spirit in Irish mythology who heralds the death of what?
+golden idx: [3, 6]
+[6, 3, 1, 0, 2, 4, 5, 7]
+
+[6, 3, 1, 2]
+
+[6, 3, 2]
+
+成功的数量为：66总数：68当前回溯率：97.05882352941177%
+第1轮错误：0，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:415
+Question:The actress that played the leading role in the independent film "A Perfect Ending" also stars with John Bregar in a 2008 film directed by who?
+golden idx: [0, 5]
+[5,0,7,4,2,3,6,1]
+
+[5, 0, 7, 4]
+
+[5, 0, 7]
+
+成功的数量为：68总数：70当前回溯率：97.14285714285714%
+第1轮错误：0，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:416
+Question:Which band is from England, Fireflight or Dirty Pretty Things?
+golden idx: [3, 5]
+[3, 8, 0, 7, 4, 1, 6, 9]
+
+[3, 8, 7, 0]
+
+[3, 8, 7]
+
+成功的数量为：69总数：72当前回溯率：95.83333333333334%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:417
+Question:The Bart the Fink episode of The Simpsons aired in February of 1996, and involves the host of which kiddie show?
+golden idx: [1, 9]
+[9, 1, 2, 0, 4, 5, 3, 8]
+
+[9, 1, 2, 4]
+
+[9, 1, 2]
+
+成功的数量为：71总数：74当前回溯率：95.94594594594594%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:418
+Question:Which mall, Wilton Mall or Viaport Rotterdam, has had more owners?
+golden idx: [0, 6]
+[0, 6, 5, 1, 2, 3, 7, 8]
+
+[0, 6, 5, 1]
+
+[0, 6, 5]
+
+成功的数量为：73总数：76当前回溯率：96.05263157894737%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:419
+Question:Which close friend of an American former basketball player was signed for to play for the Timberwolves?
+golden idx: [2, 5]
+[2, 5, 4, 0, 1, 3, 7, 8]
+
+[2, 5, 4, 0]
+
+[2, 5, 4]
+
+成功的数量为：75总数：78当前回溯率：96.15384615384616%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:420
+Question:What is the 2010 population of the city 2.1 miles southwest of Marietta Air Force Station?
+golden idx: [7, 8]
+[8, 7, 1, 2, 0, 3, 4, 5]
+
+[8, 7, 1, 2]
+
+[8, 7, 1]
+
+成功的数量为：77总数：80当前回溯率：96.25%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:421
+Question:Are Buried Country and South of the Border both films turned into stage performances?
+golden idx: [5, 8]
+[5,8,9,1,2,3,0,7]
+
+[5,9,8,1]
+
+[5,8,9]
+
+成功的数量为：79总数：82当前回溯率：96.34146341463415%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:422
+Question:"A Summer in the Cage" and "American Hardcore" are both what kind of film?
+golden idx: [2, 6]
+[6, 2, 4, 1, 0, 8, 9, 7]
+
+[6, 2, 0, 1]
+
+[6, 2, 0]
+
+成功的数量为：81总数：84当前回溯率：96.42857142857143%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:423
+Question:How many novels are there in the series of novels of which Shadows in Flight is the tenth novel ?
+golden idx: [2, 3]
+[2, 3, 0, 4, 5, 7, 9, 1]
+
+[2,3,0,4]
+
+[2,3,0]
+
+成功的数量为：83总数：86当前回溯率：96.51162790697676%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:424
+Question:One of the coaches of Southern Methodist University also played what role at the Arizona State Sun Devils?
+golden idx: [0, 2]
+[2,0,8,1,3,5,6,4]
+
+[2, 0, 8, 1]
+
+[2, 0, 8]
+
+成功的数量为：85总数：88当前回溯率：96.5909090909091%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:425
+Question:What is the height of the player who won the 2015 AFL Rising Star award?
+golden idx: [2, 9]
+[2, 9, 0, 1, 4, 6, 7, 8]
+
+[2, 9, 1, 0]
+
+[2, 9, 1]
+
+成功的数量为：87总数：90当前回溯率：96.66666666666667%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:426
+Question:Las Vegas Festival Grounds is north of the hotel that is owned by which company?
+golden idx: [0, 3]
+[0,3,7,2,1,8,9,6]
+
+[0, 3, 7, 2]
+
+[0, 3, 7]
+
+成功的数量为：89总数：92当前回溯率：96.73913043478261%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:427
+Question:Which musical fantasy film is older, Bedknobs and Broomsticks or The Muppet Christmas Carol?
+golden idx: [0, 2]
+[2, 0, 4, 1, 7, 9, 8, 3]
+
+[2, 0, 4, 9]
+
+[2, 0, 9]
+
+成功的数量为：91总数：94当前回溯率：96.80851063829788%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:428
+Question:Which river system in Chilhowie, Virginia was the starting place for most Longhunters?
+golden idx: [5, 8]
+[8, 5, 0, 1, 4, 9, 3, 7]
+
+[8,5,3,1]
+
+[8,5,3]
+
+成功的数量为：93总数：96当前回溯率：96.875%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:429
+Question:What party does the House of Commons representative for Congleton belong to?
+golden idx: [3, 4]
+[3, 4, 0, 1, 2, 5, 6, 7]
+
+[3, 4, 6, 7]
+
+[3, 4, 6]
+
+成功的数量为：95总数：98当前回溯率：96.93877551020408%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:430
+Question:Season 2 of Rick and Morty began with the episode directed by whom?
+golden idx: [5, 6]
+[5, 6, 0, 2, 3, 4, 7, 8]
+
+[5, 6, 0, 7]
+
+[5, 6, 0]
+
+成功的数量为：97总数：100当前回溯率：97.0%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:431
+Question:What team did the recipient of the 2007 Brownlow Medal play for?
+golden idx: [0, 2]
+[2, 0, 1, 4, 6, 7, 8, 3]
+
+[2, 0, 1, 6]
+
+[2, 0, 1]
+
+成功的数量为：99总数：102当前回溯率：97.05882352941177%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:432
+Question:Were both the Battle of Stones River and the Battle of the Ch'ongch'on River fought in the 19th century?
+golden idx: [0, 1]
+[1, 0, 9, 2, 4, 5, 3, 8]
+
+[1, 0, 9, 8]
+
+[1, 0, 9]
+
+成功的数量为：101总数：104当前回溯率：97.11538461538461%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:433
+Question:Who has more scope of profession, Phil Rosen or  Delmer Daves?
+golden idx: [1, 8]
+[1,8,4,2,3,7,5,6]
+
+[8, 1, 4, 2]
+
+[1, 8, 4]
+
+成功的数量为：103总数：106当前回溯率：97.16981132075472%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:434
+Question:Which band has more members, Test Icicles or X Ambassadors?
+golden idx: [1, 7]
+[7,1,9,3,2,4,8,5]
+
+[7,1,9,3]
+
+[7, 1, 9]
+
+成功的数量为：105总数：108当前回溯率：97.22222222222221%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:435
+Question:The movies The Boatniks and The Great Locomotive Chase were both made by which production company?
+golden idx: [8, 9]
+[8, 9, 4, 0, 1, 2, 3, 5]
+
+[8, 9, 4, 3]
+
+[8, 9, 4]
+
+成功的数量为：107总数：110当前回溯率：97.27272727272728%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:436
+Question:How long is the river for which Frenchmans Creek is a tributary?
+golden idx: [5, 7]
+[7, 5, 0, 2, 1, 3, 4, 6]
+
+[7, 5, 0, 2]
+
+[7, 5, 0]
+
+成功的数量为：109总数：112当前回溯率：97.32142857142857%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:437
+Question:Where is the school that Tyler Kalinoski went to located?
+golden idx: [5, 9]
+[5, 9, 4, 1, 0, 6, 7, 8]
+
+[9,5,1,0]
+
+[9, 5, 1]
+
+成功的数量为：111总数：114当前回溯率：97.36842105263158%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:438
+Question:Ambrose Mendy has managed and/or advised a British professional boxer that as of July 2017 is ranked the world's seventh best super middleweight by who?
+golden idx: [0, 8]
+[0, 8, 4, 3, 7, 6, 5, 1]
+
+[8, 0, 7, 6]
+
+[8, 0, 7]
+
+成功的数量为：113总数：116当前回溯率：97.41379310344827%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:439
+Question:Rejuvelac is kind of grain water invented and promoted by a "holistic health" practitioner born in which year ?
+golden idx: [0, 9]
+[0, 9, 1, 8, 4, 6, 3, 7]
+
+[0, 9, 1, 8]
+
+[0,9,1]
+
+成功的数量为：115总数：118当前回溯率：97.45762711864407%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:440
+Question:What town host an annual media finance conference that has featured an Australian-born American media mogul?
+golden idx: [4, 9]
+[4, 9, 1, 5, 0, 2, 3, 6]
+
+[4, 9, 5, 1]
+
+[4, 9, 5]
+
+成功的数量为：117总数：120当前回溯率：97.5%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:441
+Question:Ronald Reagan and George H. W. Bush both held which position in office?
+golden idx: [0, 8]
+[0,5,6,8,3,4,2,1]
+
+[0, 8, 5, 6]
+
+[8, 0, 5]
+
+成功的数量为：119总数：122当前回溯率：97.54098360655738%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:442
+Question:In between The Bears and I and Oceans which was released on July 31, 1974, by Buena Vista Distribution?
+golden idx: [3, 8]
+[8, 3, 1, 4, 2, 0, 9, 5]
+
+[8, 1, 4, 2]
+
+[8,1,4]
+
+成功的数量为：120总数：124当前回溯率：96.7741935483871%
+第1轮错误：1，第2轮错误：2，第3轮错误：1
+##########
+##########
+ID:443
+Question:What book provided the foundation for Masters and Johnson's research team?
+golden idx: [8, 9]
+[8,2,7,9,0,1,3,4]
+
+[8, 2, 7, 9]
+
+[8, 9, 2]
+
+成功的数量为：122总数：126当前回溯率：96.82539682539682%
+第1轮错误：1，第2轮错误：2，第3轮错误：1
+##########
+##########
+ID:444
+Question:What star of "Attack of the Gryphon" was also a voice artist in Johnny Bravo?  
+golden idx: [2, 3]
+[3, 4, 2, 9, 0, 7, 6, 8]
+
+[9, 2, 4, 3]
+
+[9, 2, 3]
+
+成功的数量为：124总数：128当前回溯率：96.875%
+第1轮错误：1，第2轮错误：2，第3轮错误：1
+##########
+##########
+ID:445
+Question:Which fantasy film from 1971 featured the song "The Age of Not Believing"?
+golden idx: [0, 5]
+[0, 5, 1, 6, 9, 4, 3, 2]
+
+[0, 5, 1, 6]
+
+[0, 5, 1]
+
+成功的数量为：126总数：130当前回溯率：96.92307692307692%
+第1轮错误：1，第2轮错误：2，第3轮错误：1
+##########
+##########
+ID:446
+Question:Mick Carter is the landlord of a public house located at what address?
+golden idx: [3, 6]
+[3,6,8,0,9,1,2,4]
+
+[6, 3, 8, 0]
+
+[3,6,8]
+
+成功的数量为：128总数：132当前回溯率：96.96969696969697%
+第1轮错误：1，第2轮错误：2，第3轮错误：1
+##########
+##########
+ID:447
+Question:What television thriller anthology did the winner of one Golden Globe, two tony Awards and six Primetime Emmy Awards appear on?
+golden idx: [0, 6]
+[6, 0, 3, 1, 7, 4, 8, 9]
+
+[0, 6, 3, 9]
+
+[6, 0, 3]
+
+成功的数量为：130总数：134当前回溯率：97.01492537313433%
+第1轮错误：1，第2轮错误：2，第3轮错误：1
+##########
+##########
+ID:448
+Question:What Cayman Islands registered Mandarin and Cantonese-language television broadcaster launched Phoenix Hong Kong Channel on 28 March 2011?
+golden idx: [8, 9]
+[9, 8, 0, 5, 3, 4, 1, 6]
+
+[8, 9, 0, 5]
+
+[9, 8, 0]
+
+成功的数量为：132总数：136当前回溯率：97.05882352941177%
+第1轮错误：1，第2轮错误：2，第3轮错误：1
+##########
+##########
+ID:449
+Question:What is the name of the film starring Rose McGowan and features the character Earl McGraw's daughter?
+golden idx: [4, 5]
+[4, 5, 0, 1, 2, 6, 7, 9]
+
+[4, 5, 1, 2]
+
+[4,5,1]
+
+成功的数量为：134总数：138当前回溯率：97.10144927536231%
+第1轮错误：1，第2轮错误：2，第3轮错误：1
+##########
+##########
+ID:450
+Question:Chimaja Appawas the younger brother of a general of the Maratha Empire in India, who served as what to the fifth Maratha Chhatrapati Shahu from 1720 until his death?
+golden idx: [2, 3]
+[2, 3, 6, 0, 5, 1, 8, 7]
+
+[2, 3, 6, 5]
+
+[2, 3, 5]
+
+成功的数量为：136总数：140当前回溯率：97.14285714285714%
+第1轮错误：1，第2轮错误：2，第3轮错误：1
+##########
+
+回溯率：97.14285714285714%

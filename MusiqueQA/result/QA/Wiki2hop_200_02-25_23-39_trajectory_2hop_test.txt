@@ -1,0 +1,150 @@
+##########
+ID:1
+Question:Who is the spouse of the Green performer?
+
+Right Answer:Miquette Giraudy
+不进行反思
+Answer: Miquette Giraudy
+Evidence and explanation: The spouse of the Green performer is Miquette Giraudy, as she is the spouse of Steve Hillage, who is known as the Green performer in the provided context.
+Step by step with evidence and explanation:
+1. The reasoning steps highlight that "Green" refers to the performer Steve Hillage.
+2. The reasoning steps further mention that the spouse of Steve Hillage is Miquette Giraudy.
+3. Therefore, based on the information in the context, it can be inferred that Miquette Giraudy is the spouse of the Green performer.
+原始EM：1, 总数：1, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：1, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:2
+Question:Who founded the company that distributed the film UHF?
+
+Right Answer:Mike Medavoy
+不进行反思
+Answer: Mike Medavoy
+Evidence and explanation: Orion Pictures, the company that distributed the film UHF, was founded by Mike Medavoy.
+Step by step with evidence and explanation: 
+1. The claim is asking about the founder of the company that distributed the film UHF.
+2. The film UHF was distributed by Orion Pictures, as mentioned in the context.
+3. From the context, we know that Orion Pictures was founded by Mike Medavoy.
+4. Therefore, based on the provided context and reasoning steps, the founder of the company that distributed the film UHF is Mike Medavoy.
+原始EM：2, 总数：2, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：2, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:3
+Question:What administrative territorial entity is the owner of Ciudad Deportiva located?
+
+Right Answer:Tamaulipas
+进行反思
+Reflexion: The previous reasoning failed because the identified owner was the city of Nuevo Laredo, instead of the administrative territorial entity. The error stemmed from not directly identifying the administrative territorial entity that owns Ciudad Deportiva as opposed to a city within that entity. To mitigate similar failures, it is crucial to accurately differentiate between city ownership and administrative territorial ownership. A high-level plan would involve focusing on the specific territorial entity rather than a city within it. 
+Answer: Tamaulipas
+Evidence and explanation: The Ciudad Deportiva is located in Nuevo Laredo, but the territorial entity that owns it is Tamaulipas as stated in the context. Nuevo Laredo is within the state of Tamaulipas, making the correct answer Tamaulipas.
+Step by step with evidence and explanation: 
+1. Ciudad Deportiva is owned by an administrative territorial entity.
+2. Nuevo Laredo is a city within the administrative territorial entity.
+3. The administrative territorial entity containing Nuevo Laredo, where Ciudad Deportiva is located, is Tamaulipas.
+4. Therefore, the correct answer is Tamaulipas.
+原始EM：3, 总数：3, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：3, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:4
+Question:Where is Ulrich Walter's employer headquartered?
+
+Right Answer:Cologne
+不进行反思
+Answer: Cologne
+Evidence and explanation: The German Aerospace Center, which is Ulrich Walter's employer, is headquartered in Cologne, Germany.
+Step by step with evidence and explanation:
+1. The question is asking for the location of Ulrich Walter's employer headquarters.
+2. According to the provided context, Ulrich Walter's employer is the German Aerospace Center.
+3. From another context, it is mentioned that the German Aerospace Center is located in Cologne, Germany.
+4. Therefore, based on the information from the contexts, the headquarters of Ulrich Walter's employer is in Cologne, Germany.
+原始EM：4, 总数：4, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：4, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:5
+Question:Which company owns the manufacturer of Learjet 60?
+
+Right Answer:Bombardier Inc.
+不进行反思
+Answer: Bombardier Inc.
+Evidence and explanation: The manufacturer of Learjet 60 is Bombardier Aerospace, which is owned by Bombardier Inc. 
+Step by step with evidence and explanation:
+1. The claim is asking about the company that owns the manufacturer of Learjet 60.
+2. From the context index 10, we find that Learjet 60XR is manufactured by Bombardier Aerospace.
+3. According to the reasoning steps, Bombardier Aerospace is owned by Bombardier Inc.
+4. Therefore, the company that owns the manufacturer of Learjet 60 is Bombardier Inc.
+原始EM：5, 总数：5, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：5, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:6
+Question:Who is the child of Caroline LeRoy's spouse?
+
+Right Answer:Fletcher Webster
+不进行反思
+Answer: Fletcher Webster
+Evidence and explanation: The child of Caroline LeRoy's spouse is Fletcher Webster.
+Step by step with evidence and explanation:
+1. The claim asks for the child of Caroline LeRoy's spouse.
+2. According to the Reasoning Step 1, Caroline LeRoy is married to Daniel Webster.
+3. According to the Reasoning Step 2, Fletcher Webster is the child of Daniel Webster.
+4. Combining the evidence from the Reasoning Steps, we can conclude that Fletcher Webster is the child of Caroline LeRoy's spouse.
+原始EM：6, 总数：6, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：6, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:7
+Question:Who is the grandmother of Philippe, Duke of Orléans?
+
+Right Answer:Marie de' Medici
+不进行反思
+Answer: Marie de' Medici
+Evidence and explanation: The grandmother of Philippe, Duke of Orléans, is Marie de' Medici, who is the mother of Louis XIII (Philippe's father).
+Step by step with evidence and explanation:
+1. The reasoning steps provide the lineage: Philippe, Duke of Orléans, relates to Louis XIII.
+2. Louis XIII of France's mother is mentioned in the reasoning steps as Marie de' Medici.
+3. Therefore, based on the maternal lineage, Marie de' Medici is the grandmother of Philippe, Duke of Orléans.
+原始EM：7, 总数：7, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：7, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:8
+Question:What is the goal of the group that European Movement Germany is a member of?
+
+Right Answer:European integration
+不进行反思
+Answer: European integration
+Evidence and explanation: The goal of the group that European Movement Germany is a member of is European integration, as it is what the European Movement International, of which European Movement Germany is a member, strives towards.
+Step by step with evidence and explanation: 
+1. European Movement Germany is a member of European Movement International, as indicated in the context.
+2. European Movement International is focused on the movement towards European integration according to the provided context.
+3. Therefore, the goal of the group that European Movement Germany is a member of is European integration.
+原始EM：8, 总数：8, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：8, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:9
+Question:What company succeeded the owner of Empire Sports Network?
+
+Right Answer:Time Warner Cable
+不进行反思
+Answer: Time Warner Cable
+Evidence and explanation: The owner of Empire Sports Network, Adelphia Communications Corporation, was succeeded by Time Warner Cable.
+Step by step with evidence and explanation: 
+1. The claim states that the owner of Empire Sports Network needed to be determined.
+2. From the context, we know that Empire Sports Network was owned by Adelphia Communications Corporation.
+3. The next entity after Adelphia Communications Corporation in the reasoning steps is Time Warner Cable, indicating that Time Warner Cable succeeded Adelphia Communications Corporation.
+4. Therefore, the company that succeeded the owner of Empire Sports Network is Time Warner Cable.
+原始EM：9, 总数：9, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：9, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:10
+Question:What province shares a border with the province where Lago District is located?
+
+Right Answer:Cabo Delgado Province
+不进行反思
+Answer: Cabo Delgado Province
+Evidence and explanation: The province that shares a border with the province where Lago District is located is Cabo Delgado Province.
+Step by step with evidence and explanation: 
+1. Lago District is located in the administrative territorial entity called Niassa Province.
+2. Niassa Province shares a border with Cabo Delgado Province, as mentioned in the context.
+3. Therefore, the province that shares a border with Niassa Province, where Lago District is located, is Cabo Delgado Province.
+原始EM：10, 总数：10, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：10, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+
+准确率：100.0%
+网络错误：0

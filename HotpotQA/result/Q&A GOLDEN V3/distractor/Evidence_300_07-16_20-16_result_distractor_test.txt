@@ -1,0 +1,829 @@
+##########
+ID:301
+Question:Where is the company that owns thanKing Horse pub restaurant chain based ?
+Right Answer:Bury St Edmunds,
+进行反思
+ The previous reasoning failed because the answer "Greene King" did not directly address the location of the company. The error occurred due to not explicitly stating the location in the answer. To mitigate similar failures, it's important to ensure that the answer directly addresses the question asked. A high-level plan would include double-checking that the answer explicitly matches the question's requirement.
+ Bury St Edmunds, Suffolk, England
+原始EM：0, 总数：1, 网络错误：0, 当前原始EM分数：0.0%, 增强EM答对：1, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:302
+Question:What is the uppermost age range for the sort of fiction written by Alexander Gordon Smith?
+Right Answer:early 20s
+进行反思
+ The previous reasoning failed because it did not consider the broader age range mentioned in the context. The context indicates that the uppermost age range for young adult fiction can extend to the early 20s, not just 18. To mitigate similar failures, it's important to consider all relevant information in the context and not focus solely on one part. A high-level plan would include cross-referencing all provided contexts to ensure a comprehensive understanding of the information.
+ early 20s
+原始EM：1, 总数：2, 网络错误：0, 当前原始EM分数：50.0%, 增强EM答对：2, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:303
+Question:What is the birthday of the actress who was the Duchess in "The Revengers Tragedy"?
+Right Answer:23 November 1946
+不进行反思
+ 23 November 1946
+原始EM：2, 总数：3, 网络错误：0, 当前原始EM分数：66.66666666666666%, 增强EM答对：3, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:304
+Question:Which film starring Patrick Tatten is based on a book written by Steve Lopez?
+Right Answer:The Soloist
+不进行反思
+ The Soloist
+原始EM：3, 总数：4, 网络错误：0, 当前原始EM分数：75.0%, 增强EM答对：4, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:305
+Question:Are Skeptical Inquirer and The Progressive Populist both tabloid-style magazines?
+Right Answer:no
+不进行反思
+ No
+原始EM：4, 总数：5, 网络错误：0, 当前原始EM分数：80.0%, 增强EM答对：5, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:306
+Question:The 1984 film "Marlene" is a documentary about an actress born in what year?
+Right Answer:1901
+不进行反思
+ 1901
+原始EM：5, 总数：6, 网络错误：0, 当前原始EM分数：83.33333333333334%, 增强EM答对：6, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:307
+Question:Which former mill town is near Rivington Hall Barn?
+Right Answer:Bolton
+不进行反思
+ Bolton
+原始EM：6, 总数：7, 网络错误：0, 当前原始EM分数：85.71428571428571%, 增强EM答对：7, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:308
+Question:What prolific English engineer, who died on 15 December 1857, contributed to the advent of the hot air engine by way of their open cycle devices?
+Right Answer:George Cayley
+不进行反思
+ George Cayley
+原始EM：7, 总数：8, 网络错误：0, 当前原始EM分数：87.5%, 增强EM答对：8, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:309
+Question:Which dog is considered a giant dog breed, the  Leonberger or the Basset Hound?
+Right Answer:The Leonberger is a giant dog breed.
+进行反思
+ The previous reasoning was correct in identifying the Leonberger as a giant dog breed based on the context provided. However, the reasoning could be improved by explicitly stating that the Basset Hound is not considered a giant dog breed, which is implied by the context. To mitigate similar failures, it's important to clearly state the reasoning for both options provided in the question. A high-level plan would include explicitly addressing both options in the question to ensure a comprehensive answer.
+ Leonberger
+原始EM：7, 总数：9, 网络错误：0, 当前原始EM分数：77.77777777777779%, 增强EM答对：8, 当前增强EM分数：88.88888888888889%, 当前F1分数：92.59259259259261%
+##########
+##########
+ID:310
+Question:Are Staten Island Catapult and This Is Elvis both documentaries?
+Right Answer:yes
+进行反思
+ The previous reasoning failed because the claim is not supported by the provided contexts. None of the contexts explicitly state that both "Staten Island Catapult" and "This Is Elvis" are documentaries. The failure occurred because there was an assumption that the claim was true based on the mention of these films in the contexts, without confirming if they are indeed documentaries. To mitigate similar failures, the plan is to carefully read and analyze the supporting contexts to ensure that they explicitly provide the necessary information for the claim. It is important to not make assumptions and rely solely on the information present in the contexts.
+ Yes
+原始EM：8, 总数：10, 网络错误：0, 当前原始EM分数：80.0%, 增强EM答对：9, 当前增强EM分数：90.0%, 当前F1分数：93.33333333333333%
+##########
+##########
+ID:311
+Question:What is the year of the event that occured first, Making Today a Perfect Day was produced, or Frozen was produced?
+Right Answer:2013
+进行反思
+ The previous reasoning failed because it did not clearly state the years of production for both "Frozen" and "Making Today a Perfect Day" in the answer. To mitigate similar failures, it's important to explicitly mention the years of production for both events in the answer. A high-level plan would include double-checking the years mentioned in the contexts and ensuring they are clearly stated in the answer.
+ 2013
+原始EM：9, 总数：11, 网络错误：0, 当前原始EM分数：81.81818181818183%, 增强EM答对：10, 当前增强EM分数：90.9090909090909%, 当前F1分数：93.93939393939394%
+##########
+##########
+ID:312
+Question:Which magazine is published more often, Shonen Jump or Rolling Stone?
+Right Answer:Rolling Stone
+进行反思
+ The previous reasoning failed because it did not correctly identify the publication frequency of Rolling Stone magazine. The context clearly states that Rolling Stone is a biweekly magazine, which means it is published every two weeks. To mitigate similar failures, it is important to carefully read and extract the relevant information from the provided contexts. A high-level plan would include double-checking the publication frequency of both magazines mentioned in the contexts.
+ Rolling Stone
+原始EM：10, 总数：12, 网络错误：0, 当前原始EM分数：83.33333333333334%, 增强EM答对：11, 当前增强EM分数：91.66666666666666%, 当前F1分数：94.44444444444446%
+##########
+##########
+ID:313
+Question:Where is the Cocoa Krispies and former Superman sponsor located?
+Right Answer:Battle Creek, Michigan
+不进行反思
+ Battle Creek, Michigan
+原始EM：11, 总数：13, 网络错误：0, 当前原始EM分数：84.61538461538461%, 增强EM答对：12, 当前增强EM分数：92.3076923076923%, 当前F1分数：94.87179487179488%
+##########
+##########
+ID:314
+Question:Who was born first Am Rong or Ava DuVernay ?
+Right Answer:Am Rong
+不进行反思
+ Am Rong
+原始EM：12, 总数：14, 网络错误：0, 当前原始EM分数：85.71428571428571%, 增强EM答对：13, 当前增强EM分数：92.85714285714286%, 当前F1分数：95.23809523809524%
+##########
+##########
+ID:315
+Question:How many days did it take the Best New Artist of 2009 to sell 2 million copies of an album in the UK and break a twenty year old record?
+Right Answer:29
+进行反思
+ The previous reasoning failed because it did not correctly identify the Best New Artist of 2009. The error occurred due to a misunderstanding of the context, which mentioned Adele's achievement but did not directly link it to the Best New Artist of 2009. To mitigate similar failures, it's important to ensure accurate identification of the subject in the question and cross-reference it with the provided contexts. A high-level plan would include double-checking the subject's identity and their achievements within the context provided.
+ 42 days
+原始EM：12, 总数：15, 网络错误：0, 当前原始EM分数：80.0%, 增强EM答对：13, 当前增强EM分数：86.66666666666667%, 当前F1分数：88.8888888888889%
+##########
+##########
+ID:316
+Question:"Ew!" is a song by a television host born where?
+Right Answer:Bay Ridge, Brooklyn
+不进行反思
+ Bay Ridge, Brooklyn
+原始EM：13, 总数：16, 网络错误：0, 当前原始EM分数：81.25%, 增强EM答对：14, 当前增强EM分数：87.5%, 当前F1分数：89.58333333333334%
+##########
+##########
+ID:317
+Question:The northern English anglian Kingdom in the Humber estuary spoke what dialect of english?
+Right Answer:Northumbrian
+不进行反思
+ Northumbrian
+原始EM：14, 总数：17, 网络错误：0, 当前原始EM分数：82.35294117647058%, 增强EM答对：15, 当前增强EM分数：88.23529411764706%, 当前F1分数：90.19607843137256%
+##########
+##########
+ID:318
+Question:What Kentucky county has a population of 60,316 and features the Lake Louisvilla neighborhood?
+Right Answer:Oldham County
+不进行反思
+ Oldham County
+原始EM：15, 总数：18, 网络错误：0, 当前原始EM分数：83.33333333333334%, 增强EM答对：16, 当前增强EM分数：88.88888888888889%, 当前F1分数：90.74074074074076%
+##########
+##########
+ID:319
+Question:Are both Duke Energy and Affiliated Managers Group based in Massachusetts?
+Right Answer:no
+不进行反思
+ No
+原始EM：16, 总数：19, 网络错误：0, 当前原始EM分数：84.21052631578947%, 增强EM答对：17, 当前增强EM分数：89.47368421052632%, 当前F1分数：91.22807017543862%
+##########
+##########
+ID:320
+Question:Two positions were filled in The Voice of Ireland b which British-Irish girl group based in London, England?
+Right Answer:The Saturdays
+不进行反思
+ The Saturdays
+原始EM：17, 总数：20, 网络错误：0, 当前原始EM分数：85.0%, 增强EM答对：18, 当前增强EM分数：90.0%, 当前F1分数：91.66666666666667%
+##########
+##########
+ID:321
+Question:Who was also an actor, Serri or John Fogerty?
+Right Answer:Serri
+进行反思
+ The previous reasoning failed because it did not correctly identify the golden answer. The error occurred due to a misunderstanding of the context provided. The context clearly states that Serri is an actress, while John Fogerty is not mentioned as an actor. To mitigate similar failures, it's important to ensure accurate identification of roles and professions within the context provided. A high-level plan would include double-checking the roles and professions mentioned in the context to ensure accuracy.
+ Serri
+原始EM：18, 总数：21, 网络错误：0, 当前原始EM分数：85.71428571428571%, 增强EM答对：19, 当前增强EM分数：90.47619047619048%, 当前F1分数：92.06349206349206%
+##########
+##########
+ID:322
+Question:What is the international football competition for women that Liu Ailing played in the 1991,1995, 1999 editions?
+Right Answer:international football competition
+进行反思
+ The previous reasoning failed because the answer provided was not an exact match to the golden answer. The question asks for the international football competition for women that Liu Ailing played in the 1991, 1995, and 1999 editions, and the context indicates that she played in the FIFA Women's World Cup in those editions. To mitigate similar failures, it is important to ensure that the phrasing of the answer matches the exact wording of the golden answer. A high-level plan would be to carefully analyze the question and the context to identify any specific language used and to use that exact language in the answer.
+ The FIFA Women's World Cup
+原始EM：18, 总数：22, 网络错误：0, 当前原始EM分数：81.81818181818183%, 增强EM答对：19, 当前增强EM分数：86.36363636363636%, 当前F1分数：87.87878787878789%
+##########
+##########
+ID:323
+Question:Rock Springs is a collection of short stories by an author born in what year?
+Right Answer:1944
+不进行反思
+ 1944
+原始EM：19, 总数：23, 网络错误：0, 当前原始EM分数：82.6086956521739%, 增强EM答对：20, 当前增强EM分数：86.95652173913044%, 当前F1分数：88.4057971014493%
+##########
+##########
+ID:324
+Question:Folie à Deux is a studio album by the American rock band formed in which city?
+Right Answer:Wilmette
+进行反思
+ The previous reasoning failed because it did not correctly identify the specific city where the band was formed. The context mentioned both Wilmette, Illinois, and Chicago, but the exact formation city was Wilmette, a suburb of Chicago. To mitigate similar failures, it's important to pay close attention to specific details and distinctions within the context provided. A high-level plan would include verifying the exact location mentioned and ensuring it matches the question's requirements.
+ Wilmette
+原始EM：20, 总数：24, 网络错误：0, 当前原始EM分数：83.33333333333334%, 增强EM答对：21, 当前增强EM分数：87.5%, 当前F1分数：88.8888888888889%
+##########
+##########
+ID:325
+Question:This work of literature _______ , known by its Greek title Oedipus Tyrannus was argued by Sigmund Freud to be one of the greatest works of world literature in his 1928 article. 
+Right Answer:Oedipus Rex
+不进行反思
+ Oedipus Rex
+原始EM：21, 总数：25, 网络错误：0, 当前原始EM分数：84.0%, 增强EM答对：22, 当前增强EM分数：88.0%, 当前F1分数：89.33333333333334%
+##########
+##########
+ID:326
+Question:Katherine Waterston and Chrisann Brennan has what in common?
+Right Answer:Steve Jobs
+不进行反思
+ Steve Jobs
+原始EM：22, 总数：26, 网络错误：0, 当前原始EM分数：84.61538461538461%, 增强EM答对：23, 当前增强EM分数：88.46153846153845%, 当前F1分数：89.74358974358975%
+##########
+##########
+ID:327
+Question:The voice of Homer Simpson also voices what alien character in the television series "The Simpsons"?
+Right Answer:Kodos
+进行反思
+ The previous reasoning failed because the answer provided was the name of the voice actor (Dan Castellaneta) instead of the alien character (Kodos) he voices. The error occurred due to a misunderstanding of the question, which asked for the character, not the actor. To mitigate similar failures, it's important to ensure accurate identification of the specific information requested in the question. A high-level plan would include double-checking the question's requirements and ensuring the answer directly addresses the question.
+ Kodos
+原始EM：23, 总数：27, 网络错误：0, 当前原始EM分数：85.18518518518519%, 增强EM答对：24, 当前增强EM分数：88.88888888888889%, 当前F1分数：90.12345679012347%
+##########
+##########
+ID:328
+Question:What studio album did Kanye West record with Roc-A-Fella Records and soul singer Dwele?
+Right Answer:My Beautiful Dark Twisted Fantasy
+进行反思
+ The previous reasoning correctly identified the album "Graduation" as the studio album recorded by Kanye West with Roc-A-Fella Records and soul singer Dwele. However, the reasoning could be improved by explicitly mentioning the connection between the album "Graduation" and the song "Flashing Lights," which features Dwele. To mitigate similar failures, it's important to ensure that all relevant connections and details are explicitly mentioned in the reasoning process. A high-level plan would include cross-referencing all contexts to ensure comprehensive coverage of the evidence.
+ Graduation
+原始EM：23, 总数：28, 网络错误：0, 当前原始EM分数：82.14285714285714%, 增强EM答对：24, 当前增强EM分数：85.71428571428571%, 当前F1分数：86.90476190476191%
+##########
+##########
+ID:329
+Question:Were Enrique Carreras and Lionel Ngakane both filmakers during the 20th century? 
+Right Answer:yes
+不进行反思
+ Yes
+原始EM：24, 总数：29, 网络错误：0, 当前原始EM分数：82.75862068965517%, 增强EM答对：25, 当前增强EM分数：86.20689655172413%, 当前F1分数：87.35632183908046%
+##########
+##########
+ID:330
+Question:The city that contains the Yunnan Provincial Museum is also known by what nickname?
+Right Answer:Spring city
+不进行反思
+ Spring city
+原始EM：25, 总数：30, 网络错误：0, 当前原始EM分数：83.33333333333334%, 增强EM答对：26, 当前增强EM分数：86.66666666666667%, 当前F1分数：87.77777777777779%
+##########
+##########
+ID:331
+Question:Where is the singer of "B Boy" raised?
+Right Answer:Philadelphia
+不进行反思
+ Philadelphia
+原始EM：26, 总数：31, 网络错误：0, 当前原始EM分数：83.87096774193549%, 增强EM答对：27, 当前增强EM分数：87.09677419354838%, 当前F1分数：88.1720430107527%
+##########
+##########
+ID:332
+Question:The Column of Saint Zanobi  is a monumental marble column located just north of religious building with the status of what?
+Right Answer:a minor basilica
+不进行反思
+ a minor basilica
+原始EM：27, 总数：32, 网络错误：0, 当前原始EM分数：84.375%, 增强EM答对：28, 当前增强EM分数：87.5%, 当前F1分数：88.54166666666667%
+##########
+##########
+ID:333
+Question:The Ingerophrynus gollum is named after a character in a book that sold how many copies?
+Right Answer:150 million copies
+不进行反思
+ 150 million copies
+原始EM：28, 总数：33, 网络错误：0, 当前原始EM分数：84.84848484848484%, 增强EM答对：29, 当前增强EM分数：87.87878787878788%, 当前F1分数：88.8888888888889%
+##########
+##########
+ID:334
+Question:What Danish eurodance group had a single called "Barbie Girl" which resulted in a lawsuit in 2002?
+Right Answer:Aqua
+不进行反思
+ Aqua
+原始EM：29, 总数：34, 网络错误：0, 当前原始EM分数：85.29411764705883%, 增强EM答对：30, 当前增强EM分数：88.23529411764706%, 当前F1分数：89.2156862745098%
+##########
+##########
+ID:335
+Question:Which case was decided first, Selle v. Gibb or Reynolds v. Sims?
+Right Answer:1964
+进行反思
+ The previous reasoning was correct in identifying the years in which the cases were decided, but there was a phrasing discrepancy in the answer. The answer should have been more concise and directly stated the case that was decided first. To mitigate similar failures, it's important to ensure that the answer is concise and directly addresses the question. A high-level plan would include double-checking the phrasing of the answer to ensure it directly matches the question asked.
+ Reynolds v. Sims
+原始EM：29, 总数：35, 网络错误：0, 当前原始EM分数：82.85714285714286%, 增强EM答对：30, 当前增强EM分数：85.71428571428571%, 当前F1分数：86.66666666666667%
+##########
+##########
+ID:336
+Question:Mamie Gummer played the role of Nancy Crozier on the TV series airing on what network?
+Right Answer:CBS
+不进行反思
+ CBS
+原始EM：30, 总数：36, 网络错误：0, 当前原始EM分数：83.33333333333334%, 增强EM答对：31, 当前增强EM分数：86.11111111111111%, 当前F1分数：87.03703703703705%
+##########
+##########
+ID:337
+Question:What country do both Adnan Akmal and Kamran Akmal represent in cricket?
+Right Answer:Pakistani
+进行反思
+ The previous reasoning was correct in identifying that both Adnan Akmal and Kamran Akmal represent Pakistan in cricket. However, the phrasing of the answer could be more concise. To mitigate similar failures, it's important to ensure that the answer is directly extracted from the context and is as concise as possible. A high-level plan would include focusing on extracting the exact phrase or word from the context that directly answers the question.
+ Pakistan
+原始EM：30, 总数：37, 网络错误：0, 当前原始EM分数：81.08108108108108%, 增强EM答对：31, 当前增强EM分数：83.78378378378379%, 当前F1分数：84.68468468468468%
+##########
+##########
+ID:338
+Question:Did Franki Valli sing with Hellogoodbye or The Four Seasons?
+Right Answer:The Four Seasons
+不进行反思
+ The Four Seasons
+原始EM：31, 总数：38, 网络错误：0, 当前原始EM分数：81.57894736842105%, 增强EM答对：32, 当前增强EM分数：84.21052631578947%, 当前F1分数：85.08771929824562%
+##########
+##########
+ID:339
+Question:Both Sorbaria and Goldenrod are a genus of more than 50 flowering plants?
+Right Answer:no
+不进行反思
+ no
+原始EM：32, 总数：39, 网络错误：0, 当前原始EM分数：82.05128205128204%, 增强EM答对：33, 当前增强EM分数：84.61538461538461%, 当前F1分数：85.47008547008548%
+##########
+##########
+ID:340
+Question:What is the capacity of the Stadium, other than Kauffman Stadium, designed by Charles Deaton ? 
+Right Answer:76,416
+不进行反思
+ 76,416
+原始EM：33, 总数：40, 网络错误：0, 当前原始EM分数：82.5%, 增强EM答对：34, 当前增强EM分数：85.0%, 当前F1分数：85.83333333333334%
+##########
+##########
+ID:341
+Question:Who is the current drummer of the band who did the song "What Lovers Do"?
+Right Answer:Matt Flynn
+不进行反思
+ Matt Flynn
+原始EM：34, 总数：41, 网络错误：0, 当前原始EM分数：82.92682926829268%, 增强EM答对：35, 当前增强EM分数：85.36585365853658%, 当前F1分数：86.1788617886179%
+##########
+##########
+ID:342
+Question:What 2017 Christopher B. Landon directed American slasher film is Jessica Rothe starring in?
+Right Answer:Happy Death Day
+不进行反思
+ Happy Death Day
+原始EM：35, 总数：42, 网络错误：0, 当前原始EM分数：83.33333333333334%, 增强EM答对：36, 当前增强EM分数：85.71428571428571%, 当前F1分数：86.5079365079365%
+##########
+##########
+ID:343
+Question:Who was the president of the Sinn Fein political party during the Hume-Adams Dialogue?
+Right Answer:Gerard "Gerry" Adams
+进行反思
+ The previous reasoning failed due to not correctly identifying the Golden Answer. The failure occurred because the previous answer, "Gerry Adams," did not match the phrasing of the Golden Answer, "the president of the Sinn Féin political party." To mitigate similar failures, it's important to pay attention to the specific phrasing of the question and provide an answer that matches that phrasing exactly. A high-level plan would include double-checking the question and providing an answer that directly corresponds to the phrasing used.
+ Gerry Adams
+原始EM：35, 总数：43, 网络错误：0, 当前原始EM分数：81.3953488372093%, 增强EM答对：36, 当前增强EM分数：83.72093023255815%, 当前F1分数：86.35658914728683%
+##########
+##########
+ID:344
+Question:Which of these battles occurred earlier--the Battle of Peleliu or the Battle of Belleau Wood?
+Right Answer:The Battle of Belleau Wood
+不进行反思
+ The Battle of Belleau Wood
+原始EM：36, 总数：44, 网络错误：0, 当前原始EM分数：81.81818181818183%, 增强EM答对：37, 当前增强EM分数：84.0909090909091%, 当前F1分数：86.66666666666667%
+##########
+##########
+ID:345
+Question:Garden Island Naval Chapel is the oldest Chistian chapel of a naval branch of what defence force?
+Right Answer:Australian Defence Force
+进行反思
+ The previous reasoning was correct in identifying the Royal Australian Navy (RAN) as the naval branch associated with the Garden Island Naval Chapel. However, the phrasing discrepancy occurred because the answer should have explicitly mentioned the "Australian Defence Force" as the overarching defense force. To mitigate similar failures, it's important to ensure that the answer aligns precisely with the question's phrasing. A high-level plan would include double-checking the specific terms used in the question and ensuring the answer matches those terms accurately.
+ Australian Defence Force
+原始EM：37, 总数：45, 网络错误：0, 当前原始EM分数：82.22222222222221%, 增强EM答对：38, 当前增强EM分数：84.44444444444444%, 当前F1分数：86.96296296296296%
+##########
+##########
+ID:346
+Question:Július Satinský was born in a city that has a current population of what?
+Right Answer:about 450,000
+不进行反思
+ about 450,000
+原始EM：38, 总数：46, 网络错误：0, 当前原始EM分数：82.6086956521739%, 增强EM答对：39, 当前增强EM分数：84.78260869565217%, 当前F1分数：87.2463768115942%
+##########
+##########
+ID:347
+Question:What was the name of the 19th century foundry which was located in a village directly across the Hudson River from Westpoint in Putnam County, New York?
+Right Answer:West Point Iron and Cannon Foundry
+不进行反思
+ West Point Iron and Cannon Foundry
+原始EM：39, 总数：47, 网络错误：0, 当前原始EM分数：82.97872340425532%, 增强EM答对：40, 当前增强EM分数：85.1063829787234%, 当前F1分数：87.51773049645391%
+##########
+##########
+ID:348
+Question:What fictional character created by Tom Clancy was turned into a film in 2002?
+Right Answer:Jack Ryan
+不进行反思
+ Jack Ryan
+原始EM：40, 总数：48, 网络错误：0, 当前原始EM分数：83.33333333333334%, 增强EM答对：41, 当前增强EM分数：85.41666666666666%, 当前F1分数：87.77777777777777%
+##########
+##########
+ID:349
+Question:Wheat salad is composed typically of what red fruit?
+Right Answer:tomato
+不进行反思
+ tomato
+原始EM：41, 总数：49, 网络错误：0, 当前原始EM分数：83.6734693877551%, 增强EM答对：42, 当前增强EM分数：85.71428571428571%, 当前F1分数：88.02721088435375%
+##########
+##########
+ID:350
+Question:What year did the biographical-comedy-crime film directed by Steven Soderbergh about the highest-level corporate executive whistleblower come out?
+Right Answer:2009
+不进行反思
+ 2009
+原始EM：42, 总数：50, 网络错误：0, 当前原始EM分数：84.0%, 增强EM答对：43, 当前增强EM分数：86.0%, 当前F1分数：88.26666666666667%
+##########
+##########
+ID:351
+Question:when was the album that includes the song by Dustin Lynch released to country radio on February 17, 2017?
+Right Answer:September 8, 2017
+不进行反思
+ September 8, 2017
+原始EM：43, 总数：51, 网络错误：0, 当前原始EM分数：84.31372549019608%, 增强EM答对：44, 当前增强EM分数：86.27450980392157%, 当前F1分数：88.49673202614379%
+##########
+##########
+ID:352
+Question:Which playwright lived a longer life, Edward Albee or J. M. Barrie?
+Right Answer:Edward Franklin Albee III
+进行反思
+ The previous reasoning failed because it incorrectly concluded that J. M. Barrie lived a longer life than Edward Albee. The error occurred due to a miscalculation of the lifespans. To mitigate similar failures, it's important to carefully verify the calculations and ensure the correct interpretation of the data. A high-level plan would include double-checking the lifespan calculations and comparing them accurately.
+ Edward Albee
+原始EM：43, 总数：52, 网络错误：0, 当前原始EM分数：82.6923076923077%, 增强EM答对：44, 当前增强EM分数：84.61538461538461%, 当前F1分数：88.07692307692308%
+##########
+##########
+ID:353
+Question:Are both Rutgers University and Carnegie Mellon University located in America?
+Right Answer:yes
+不进行反思
+ Yes
+原始EM：44, 总数：53, 网络错误：0, 当前原始EM分数：83.01886792452831%, 增强EM答对：45, 当前增强EM分数：84.90566037735849%, 当前F1分数：88.30188679245282%
+##########
+##########
+ID:354
+Question:Vanessa Bley is what person who organizes and often finances concerts, plays, or operas, performing a role?
+Right Answer:impresario
+进行反思
+ The previous reasoning failed because it did not correctly identify the term "impresario" as the role being described. Instead, it incorrectly concluded that Vanessa Bley was the answer without linking her to the specific role mentioned in the context. To mitigate similar failures, it's important to ensure accurate identification of roles and terms within the context provided. A high-level plan would include double-checking the definitions and roles mentioned in the context to ensure they match the claim.
+ impresario
+原始EM：45, 总数：54, 网络错误：0, 当前原始EM分数：83.33333333333334%, 增强EM答对：46, 当前增强EM分数：85.18518518518519%, 当前F1分数：88.51851851851852%
+##########
+##########
+ID:355
+Question:Were Thomas H. Ince and Joseph McGrath of the same nationality?
+Right Answer:no
+不进行反思
+ No
+原始EM：46, 总数：55, 网络错误：0, 当前原始EM分数：83.63636363636363%, 增强EM答对：47, 当前增强EM分数：85.45454545454545%, 当前F1分数：88.72727272727272%
+##########
+##########
+ID:356
+Question:Are Phlebodium and Pieris both species of ferns?
+Right Answer:no
+不进行反思
+ No
+原始EM：47, 总数：56, 网络错误：0, 当前原始EM分数：83.92857142857143%, 增强EM答对：48, 当前增强EM分数：85.71428571428571%, 当前F1分数：88.92857142857142%
+##########
+##########
+ID:357
+Question:Bartlett's Bridge was built by the engineer who worked for the county seat of which Massachusetts county?
+Right Answer:Worcester County
+不进行反思
+ Worcester County
+原始EM：48, 总数：57, 网络错误：0, 当前原始EM分数：84.21052631578947%, 增强EM答对：49, 当前增强EM分数：85.96491228070175%, 当前F1分数：89.12280701754386%
+##########
+##########
+ID:358
+Question:Which novelist, J. G. Farrell or Louis Aragon, wrote of the political and human consequences of his country's colonial rule?
+Right Answer:Farrell
+进行反思
+ The previous reasoning was correct in identifying J. G. Farrell as the novelist who wrote about the political and human consequences of his country's colonial rule. However, the phrasing discrepancy might have been due to not explicitly mentioning the "Empire Trilogy" as the series of novels dealing with this theme. To mitigate similar failures, it is important to explicitly mention the relevant works or series when providing evidence. A high-level plan would include ensuring that the specific works or series are clearly identified and mentioned in the answer.
+ J. G. Farrell
+原始EM：48, 总数：58, 网络错误：0, 当前原始EM分数：82.75862068965517%, 增强EM答对：50, 当前增强EM分数：86.20689655172413%, 当前F1分数：89.31034482758619%
+##########
+##########
+ID:359
+Question:What city did the characters from Gargoyles the Movie: The Heroes Awaken wake up in after being in an enchantedly petrified state for a thousand years?
+Right Answer:modern-day New York City
+进行反思
+ The previous reasoning failed because the answer provided was "New York City," which is incorrect. The correct answer is "modern-day New York City." There was a phrasing discrepancy between the answer provided and the golden answer, which led to the failure. To mitigate similar failures, it's important to pay attention to the specific details and phrasing used in the question and supporting contexts. A high-level plan would include carefully analyzing the question and supporting contexts to accurately identify the specific information being asked for, and then providing the answer in the same phrasing as the golden answer.
+ modern-day New York City
+原始EM：49, 总数：59, 网络错误：0, 当前原始EM分数：83.05084745762711%, 增强EM答对：51, 当前增强EM分数：86.4406779661017%, 当前F1分数：89.49152542372882%
+##########
+##########
+ID:360
+Question:Who were the producers of the show for which Chris McKay made his feature film directorial debut?
+Right Answer:Dan Lin, Roy Lee, Phil Lord and Christopher Miller
+不进行反思
+ Dan Lin, Roy Lee, Phil Lord, Christopher Miller
+原始EM：50, 总数：60, 网络错误：0, 当前原始EM分数：83.33333333333334%, 增强EM答对：52, 当前增强EM分数：86.66666666666667%, 当前F1分数：89.66666666666666%
+##########
+##########
+ID:361
+Question:The Waterloo Vase has been used as a garden ornament at whose residence and administrative headquarters?
+Right Answer:reigning monarch of the United Kingdom
+进行反思
+ The previous reasoning failed because the answer "Buckingham Palace" did not explicitly mention that it is the residence and administrative headquarters of the reigning monarch of the United Kingdom. To mitigate similar failures, it is important to ensure that the answer directly addresses the specific details asked in the question. A high-level plan would include verifying that the answer explicitly matches the details in the question.
+ Buckingham Palace, the London residence and administrative headquarters of the reigning monarch of the United Kingdom
+原始EM：50, 总数：61, 网络错误：0, 当前原始EM分数：81.9672131147541%, 增强EM答对：53, 当前增强EM分数：86.88524590163934%, 当前F1分数：89.83606557377048%
+##########
+##########
+ID:362
+Question:Scott Sandelin grew up in a town in what Minnesota county?
+Right Answer:Saint Louis County
+不进行反思
+ Saint Louis County
+原始EM：51, 总数：62, 网络错误：0, 当前原始EM分数：82.25806451612904%, 增强EM答对：54, 当前增强EM分数：87.09677419354838%, 当前F1分数：89.99999999999999%
+##########
+##########
+ID:363
+Question:The 37th Disney animated feature film Tarzan features You'll be in my heart by which artist?
+Right Answer:Phil Collins
+不进行反思
+ Phil Collins
+原始EM：52, 总数：63, 网络错误：0, 当前原始EM分数：82.53968253968253%, 增强EM答对：55, 当前增强EM分数：87.3015873015873%, 当前F1分数：90.15873015873015%
+##########
+##########
+ID:364
+Question:What type of media does J. T. Petty and Outlast have in common?
+Right Answer:video game
+进行反思
+ The previous reasoning failed because it did not explicitly identify the type of media that J. T. Petty and Outlast have in common. The error occurred due to a lack of specificity in the answer. To mitigate similar failures, it's important to ensure that the answer directly addresses the type of media in question. A high-level plan would include explicitly stating the type of media when it is asked for in the question.
+ Video games
+原始EM：52, 总数：64, 网络错误：0, 当前原始EM分数：81.25%, 增强EM答对：56, 当前增强EM分数：87.5%, 当前F1分数：90.3125%
+##########
+##########
+ID:365
+Question:Where did the architect of the Governor's House, located in Knutsford, graduate from college?
+Right Answer:Cambridge University
+不进行反思
+ Cambridge University
+原始EM：53, 总数：65, 网络错误：0, 当前原始EM分数：81.53846153846153%, 增强EM答对：57, 当前增强EM分数：87.6923076923077%, 当前F1分数：90.46153846153845%
+##########
+##########
+ID:366
+Question: What is the latest album of Tim Hecker, the Canadian electronic music maker?
+Right Answer:Love Streams
+不进行反思
+ Love Streams
+原始EM：54, 总数：66, 网络错误：0, 当前原始EM分数：81.81818181818183%, 增强EM答对：58, 当前增强EM分数：87.87878787878788%, 当前F1分数：90.6060606060606%
+##########
+##########
+ID:367
+Question:What is the name of this Fortune 500 American company that operates a chain of retail home improvement stores that sponsored House Rules?
+Right Answer:Lowe's
+不进行反思
+ Lowe's
+原始EM：55, 总数：67, 网络错误：0, 当前原始EM分数：82.08955223880598%, 增强EM答对：59, 当前增强EM分数：88.05970149253731%, 当前F1分数：90.74626865671641%
+##########
+##########
+ID:368
+Question:For what "first" was Ivory Lee Brown's nephew credited for in Heisman Trophy balloting?
+Right Answer:first freshman to finish as the runner-up
+不进行反思
+ first freshman to finish as the runner-up
+原始EM：56, 总数：68, 网络错误：0, 当前原始EM分数：82.35294117647058%, 增强EM答对：60, 当前增强EM分数：88.23529411764706%, 当前F1分数：90.88235294117646%
+##########
+##########
+ID:369
+Question:Haruki Murakami said that writing "Dance Dance Dance" had been a healing act after his unexpected fame following the publication of a novel published in which year ?
+Right Answer:1987
+不进行反思
+ 1987
+原始EM：57, 总数：69, 网络错误：0, 当前原始EM分数：82.6086956521739%, 增强EM答对：61, 当前增强EM分数：88.40579710144928%, 当前F1分数：91.01449275362319%
+##########
+##########
+ID:370
+Question:Erica Packer was the second wife of what Australian businessman?
+Right Answer:James Packer
+不进行反思
+ James Packer
+原始EM：58, 总数：70, 网络错误：0, 当前原始EM分数：82.85714285714286%, 增强EM答对：62, 当前增强EM分数：88.57142857142857%, 当前F1分数：91.14285714285714%
+##########
+##########
+ID:371
+Question:What type of media does Bitter Jester and Sicko have in common?
+Right Answer:documentary
+不进行反思
+ documentary
+原始EM：59, 总数：71, 网络错误：0, 当前原始EM分数：83.09859154929578%, 增强EM答对：63, 当前增强EM分数：88.73239436619718%, 当前F1分数：91.26760563380282%
+##########
+##########
+ID:372
+Question:What country does Eric A. Sykes and Eccles, Greater Manchester have ion common?
+Right Answer:England
+不进行反思
+ England
+原始EM：60, 总数：72, 网络错误：0, 当前原始EM分数：83.33333333333334%, 增强EM答对：64, 当前增强EM分数：88.88888888888889%, 当前F1分数：91.38888888888889%
+##########
+##########
+ID:373
+Question:What South Korean actor was a member of the pop duo TVXQ and stared in Heading to the Ground, a 2009 MBC television series?
+Right Answer:Jung Yun-ho
+不进行反思
+ Jung Yun-ho
+原始EM：61, 总数：73, 网络错误：0, 当前原始EM分数：83.56164383561644%, 增强EM答对：65, 当前增强EM分数：89.04109589041096%, 当前F1分数：91.5068493150685%
+##########
+##########
+ID:374
+Question:which is traditionally drunk before retiring to bed, Hot toddy or Kir?
+Right Answer:Hot toddy
+不进行反思
+ Hot toddy
+原始EM：62, 总数：74, 网络错误：0, 当前原始EM分数：83.78378378378379%, 增强EM答对：66, 当前增强EM分数：89.1891891891892%, 当前F1分数：91.62162162162161%
+##########
+##########
+ID:375
+Question:What year was the film "Mom" released, starring the voice of Shashaa Tirupati?
+Right Answer:2017
+不进行反思
+ 2017
+原始EM：63, 总数：75, 网络错误：0, 当前原始EM分数：84.0%, 增强EM答对：67, 当前增强EM分数：89.33333333333333%, 当前F1分数：91.73333333333333%
+##########
+##########
+ID:376
+Question:For One Night Only was hosted by the man most well-known for hosting what show from 1962 until 1999?
+Right Answer:The Late Late Show
+不进行反思
+ The Late Late Show
+原始EM：64, 总数：76, 网络错误：0, 当前原始EM分数：84.21052631578947%, 增强EM答对：68, 当前增强EM分数：89.47368421052632%, 当前F1分数：91.84210526315789%
+##########
+##########
+ID:377
+Question:What company did Roscoe Channing form with the owner of a leading stable of thoroughbred racehorses?
+Right Answer:Hudson Bay Mining and Smelting Company
+不进行反思
+ Hudson Bay Mining and Smelting Company
+原始EM：65, 总数：77, 网络错误：0, 当前原始EM分数：84.4155844155844%, 增强EM答对：69, 当前增强EM分数：89.6103896103896%, 当前F1分数：91.94805194805194%
+##########
+##########
+ID:378
+Question:Jens Risom introduced what type of design, characterized by minimalism and functionality?
+Right Answer:Scandinavian design
+不进行反思
+ Scandinavian design
+原始EM：66, 总数：78, 网络错误：0, 当前原始EM分数：84.61538461538461%, 增强EM答对：70, 当前增强EM分数：89.74358974358975%, 当前F1分数：92.05128205128204%
+##########
+##########
+ID:379
+Question:Which of the movie which has Rich Lee 3-D previsualizations was directed by Francis Lawrence?
+Right Answer:Constantine
+不进行反思
+ Constantine
+原始EM：67, 总数：79, 网络错误：0, 当前原始EM分数：84.81012658227847%, 增强EM答对：71, 当前增强EM分数：89.87341772151899%, 当前F1分数：92.15189873417721%
+##########
+##########
+ID:380
+Question:What criteria subjectively qualifies the Houston Astrodome to be called the Eighth Wonder of the World?
+Right Answer:comparable to the seven Wonders of the World
+不进行反思
+ comparable to the seven Wonders of the World
+原始EM：68, 总数：80, 网络错误：0, 当前原始EM分数：85.0%, 增强EM答对：72, 当前增强EM分数：90.0%, 当前F1分数：92.25%
+##########
+##########
+ID:381
+Question:Who was born first, José Echegaray y Eizaguirre or P. J. O'Rourke?
+Right Answer:José Echegaray y Eizaguirre
+不进行反思
+ José Echegaray y Eizaguirre
+原始EM：69, 总数：81, 网络错误：0, 当前原始EM分数：85.18518518518519%, 增强EM答对：73, 当前增强EM分数：90.12345679012346%, 当前F1分数：92.34567901234567%
+##########
+##########
+ID:382
+Question:Who did the Doncaster Belles play in the 1994 FA Women's Cup Final held at Glanford Park? 
+Right Answer:Knowsley United Women
+不进行反思
+ Knowsley United Women
+原始EM：70, 总数：82, 网络错误：0, 当前原始EM分数：85.36585365853658%, 增强EM答对：74, 当前增强EM分数：90.2439024390244%, 当前F1分数：92.4390243902439%
+##########
+##########
+ID:383
+Question:What act for Innocent Records achieved Platinum sales and shares its name with a primary color in the RGB color model?
+Right Answer:Blue
+不进行反思
+ Blue
+原始EM：71, 总数：83, 网络错误：0, 当前原始EM分数：85.54216867469879%, 增强EM答对：75, 当前增强EM分数：90.36144578313254%, 当前F1分数：92.5301204819277%
+##########
+##########
+ID:384
+Question:What national historic district is located near a village in the town of Philipstown, New York?
+Right Answer:Valhalla Highlands Historic District
+不进行反思
+ Valhalla Highlands Historic District
+原始EM：72, 总数：84, 网络错误：0, 当前原始EM分数：85.71428571428571%, 增强EM答对：76, 当前增强EM分数：90.47619047619048%, 当前F1分数：92.6190476190476%
+##########
+##########
+ID:385
+Question:Which American writer wrote both The Ganymede Takeover (1967) and The Man in the High Castle (1962)?
+Right Answer:Philip K. Dick
+不进行反思
+ Philip K. Dick
+原始EM：73, 总数：85, 网络错误：0, 当前原始EM分数：85.88235294117646%, 增强EM答对：77, 当前增强EM分数：90.58823529411765%, 当前F1分数：92.70588235294117%
+##########
+##########
+ID:386
+Question:Curt Menefee is the host of the Fox network's NFL show with co-host Michael Anthony Strahan who spent his entire 15-year career with what team?
+Right Answer:New York Giants
+不进行反思
+ New York Giants
+原始EM：74, 总数：86, 网络错误：0, 当前原始EM分数：86.04651162790698%, 增强EM答对：78, 当前增强EM分数：90.69767441860465%, 当前F1分数：92.7906976744186%
+##########
+##########
+ID:387
+Question:Francisco Jose Hernandez was a participant in an invasion that took place in what year?
+Right Answer:1961
+不进行反思
+ 1961
+原始EM：75, 总数：87, 网络错误：0, 当前原始EM分数：86.20689655172413%, 增强EM答对：79, 当前增强EM分数：90.80459770114942%, 当前F1分数：92.8735632183908%
+##########
+##########
+ID:388
+Question:Dead but Rising was a song by the Danish band fomed in what city in 2001?
+Right Answer:Copenhagen
+不进行反思
+ Copenhagen
+原始EM：76, 总数：88, 网络错误：0, 当前原始EM分数：86.36363636363636%, 增强EM答对：80, 当前增强EM分数：90.9090909090909%, 当前F1分数：92.95454545454545%
+##########
+##########
+ID:389
+Question:The man, who the award in which "Summer of the Monkeys" won, was a spokesman for white sector of America?
+Right Answer:middle America
+进行反思
+ The previous reasoning failed because it incorrectly identified William Allen White as a spokesman for the white sector of America. The error occurred due to a misunderstanding of the context provided. William Allen White was a spokesman for middle America, not specifically the white sector. To mitigate similar failures, it's important to ensure accurate identification of the specific groups or sectors mentioned in the context. A high-level plan would include double-checking the specific descriptions and roles provided in the context.
+ Horace Bumstead
+原始EM：76, 总数：89, 网络错误：0, 当前原始EM分数：85.39325842696628%, 增强EM答对：80, 当前增强EM分数：89.8876404494382%, 当前F1分数：91.91011235955055%
+##########
+##########
+ID:390
+Question:Which lead actor/actress in War Chhod Na Yaar has also acted in Bengali and English-language films?
+Right Answer:Soha Ali Khan
+不进行反思
+ Soha Ali Khan
+原始EM：77, 总数：90, 网络错误：0, 当前原始EM分数：85.55555555555556%, 增强EM答对：81, 当前增强EM分数：90.0%, 当前F1分数：92.0%
+##########
+##########
+ID:391
+Question:What type of movie are Wishing Stairs and Voice?
+Right Answer:South Korean horror film
+不进行反思
+ South Korean horror film
+原始EM：78, 总数：91, 网络错误：0, 当前原始EM分数：85.71428571428571%, 增强EM答对：82, 当前增强EM分数：90.10989010989012%, 当前F1分数：92.08791208791209%
+##########
+##########
+ID:392
+Question:Which cast member of Alice Upside Down also stars in the ABC Family/Freeform drama "Switched at Birth?"
+Right Answer:Lucas Stephen Grabeel
+不进行反思
+ Lucas Stephen Grabeel
+原始EM：79, 总数：92, 网络错误：0, 当前原始EM分数：85.86956521739131%, 增强EM答对：83, 当前增强EM分数：90.21739130434783%, 当前F1分数：92.17391304347827%
+##########
+##########
+ID:393
+Question:What kind of movie directed by F. Javier gutierrez did an Italian model and actress star in?
+Right Answer:American supernatural psychological horror film
+不进行反思
+ American supernatural psychological horror film
+原始EM：80, 总数：93, 网络错误：0, 当前原始EM分数：86.02150537634408%, 增强EM答对：84, 当前增强EM分数：90.32258064516128%, 当前F1分数：92.25806451612904%
+##########
+##########
+ID:394
+Question:In which county is the English king Harold Godwinson buried?
+Right Answer:Essex
+进行反思
+ The previous reasoning failed because it identified the location (Waltham Abbey) but did not specify the county (Essex). The error occurred due to not explicitly stating the county in the answer. To mitigate similar failures, it's important to ensure that the answer directly addresses the specific question asked. A high-level plan would include double-checking that the answer matches the exact requirement of the question.
+ Essex
+原始EM：81, 总数：94, 网络错误：0, 当前原始EM分数：86.17021276595744%, 增强EM答对：85, 当前增强EM分数：90.42553191489363%, 当前F1分数：92.34042553191489%
+##########
+##########
+ID:395
+Question:Who wrote The Devils, and was an eninent English theater, opera and film director?
+Right Answer:Peter Hall
+不进行反思
+ Peter Hall
+原始EM：82, 总数：95, 网络错误：0, 当前原始EM分数：86.31578947368422%, 增强EM答对：86, 当前增强EM分数：90.52631578947368%, 当前F1分数：92.42105263157895%
+##########
+##########
+ID:396
+Question:Which Grand Slam singles tournament have Francesca Schiavone and Olga Morozova both been finalists in?
+Right Answer:French Open
+不进行反思
+ French Open
+原始EM：83, 总数：96, 网络错误：0, 当前原始EM分数：86.45833333333334%, 增强EM答对：87, 当前增强EM分数：90.625%, 当前F1分数：92.5%
+##########
+##########
+ID:397
+Question:"Kapitän zur See" Ernst Lindemann was the commander of which one of two battleships built for Nazi Germany's "Kriegsmarine"?
+Right Answer:Bismarck
+不进行反思
+ Bismarck
+原始EM：84, 总数：97, 网络错误：0, 当前原始EM分数：86.5979381443299%, 增强EM答对：88, 当前增强EM分数：90.72164948453609%, 当前F1分数：92.57731958762886%
+##########
+##########
+ID:398
+Question:Which football team does Lewis Young's older brother, Ashley Young, play for?
+Right Answer:Premier League club Manchester United and the England national team
+进行反思
+ The previous reasoning was correct in identifying that Ashley Young plays for Manchester United. However, the phrasing discrepancy might have occurred due to not explicitly mentioning the exact team name as it appears in the context. To mitigate similar failures, it's important to ensure that the answer is phrased exactly as it appears in the supporting context. A high-level plan would include double-checking the exact wording in the context provided.
+ Manchester United
+原始EM：84, 总数：98, 网络错误：0, 当前原始EM分数：85.71428571428571%, 增强EM答对：88, 当前增强EM分数：89.79591836734694%, 当前F1分数：92.04081632653062%
+##########
+##########
+ID:399
+Question:Snowdrop is a proprietary game engine first revealed with an online-only action role-playing video game developed by who?
+Right Answer:Massive Entertainment
+不进行反思
+ Massive Entertainment
+原始EM：85, 总数：99, 网络错误：0, 当前原始EM分数：85.85858585858585%, 增强EM答对：89, 当前增强EM分数：89.8989898989899%, 当前F1分数：92.12121212121212%
+##########
+##########
+ID:400
+Question:Wendy Ayche was featured in 2016 in an annual production created by Youtube and what other organization?
+Right Answer:Portal A Interactive
+进行反思
+ The previous reasoning failed because it incorrectly identified Google as the organization involved in the annual production. The error occurred due to misinterpretation of the context mentioning Google in relation to Wendy Ayche's achievements, rather than the production itself. To mitigate similar failures, it's important to carefully distinguish between different pieces of information and ensure accurate identification of the organizations involved in the production. A high-level plan would include cross-referencing multiple contexts to confirm the correct answer.
+ Portal A Interactive
+原始EM：86, 总数：100, 网络错误：0, 当前原始EM分数：86.0%, 增强EM答对：90, 当前增强EM分数：90.0%, 当前F1分数：92.2%
+##########
+
+准确率：90.0%
+网络错误：0

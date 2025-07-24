@@ -1,0 +1,266 @@
+##########
+ID:201
+Question:Who voices the character in Spongebob Squarepants who is named after a glowing species found in some beaches in Portugal?
+golden idx: [3, 11]
+ [0, 6, 3, 1, 7, 4, 8, 2, 9, 12, 13, 14, 15, 10, 11, 5]
+
+ [0, 6, 3, 1, 10, 13, 12, 15]
+
+ [0, 6, 3, 12]
+
+ [0, 3, 12]
+
+成功的数量为：1总数：2当前回溯率：50.0%
+第1轮错误：0，第2轮错误：1，第3轮错误：0
+##########
+##########
+ID:202
+Question:What administrative territorial entity does Heinrich Gross's birth place located?
+golden idx: [1, 14]
+ [1, 2, 6, 8, 12, 9, 16, 19, 11, 13, 0, 4, 3, 7, 18, 5]
+
+ [1, 19, 16, 9, 18, 11, 3, 5]
+
+ [1, 19, 16, 9]
+
+ [1, 19, 16]
+
+成功的数量为：2总数：4当前回溯率：50.0%
+第1轮错误：1，第2轮错误：1，第3轮错误：0
+##########
+##########
+ID:203
+Question:In what year did the founder of the Presbyterian Church die?
+golden idx: [7, 15]
+ [15, 7, 0, 2, 5, 18, 9, 1]
+
+ [15, 7, 11, 3, 0, 2, 4, 8, 1, 6, 10, 12, 13, 14, 16, 17]
+
+ [15, 11, 3, 4]
+
+ [15, 11, 4]
+
+成功的数量为：3总数：6当前回溯率：50.0%
+第1轮错误：1，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:204
+Question:What year did the author of History of the Reformation in Scotland die?
+golden idx: [2, 14]
+ [2, 4, 3, 0, 1, 8, 15, 5, 12, 9, 13, 10, 11, 6, 7, 16]
+
+ [2, 4, 3, 0, 1, 8, 15, 5]
+
+ [2, 4, 3, 0]
+
+ [2,4,3]
+
+成功的数量为：4总数：8当前回溯率：50.0%
+第1轮错误：2，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:205
+Question:What year did the author of The First Blast of the Trumpet Against the Monstruous Regiment of Women die?
+golden idx: [7, 19]
+ [19, 7, 0, 2, 4, 1, 3, 6, 5, 8, 9, 10, 11, 12, 13, 14]
+
+ [19, 7, 2, 4, 1, 10, 5, 3]
+
+ [19, 7, 2, 4]
+
+ [19, 7]
+
+成功的数量为：6总数：10当前回溯率：60.0%
+第1轮错误：2，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:206
+Question:What month did the person with whom Henry fought a short war in 1183 go away from the holy land?
+golden idx: [0, 19]
+ [0, 4, 6, 16, 1, 3, 5, 7, 12, 13, 14, 15, 2, 8, 9, 10]
+
+ [0, 16, 4, 6, 1, 3, 5, 7]
+
+ [0, 4, 6, 1]
+
+ [0, 4, 6]
+
+成功的数量为：7总数：12当前回溯率：58.333333333333336%
+第1轮错误：3，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:207
+Question:In what year did Margaret Knox's spouse pass away?
+golden idx: [3, 10]
+ [10, 3, 0, 12, 14, 9, 1, 2, 6, 11, 16, 7, 4, 15, 18, 19]
+
+ [10, 3, 0, 12, 14, 9, 1, 2]
+
+ [10, 3, 1, 0]
+
+ [10, 3, 1]
+
+成功的数量为：9总数：14当前回溯率：64.28571428571429%
+第1轮错误：3，第2轮错误：1，第3轮错误：1
+##########
+##########
+ID:208
+Question:What year did the storm hit the fleet of the person that Henry fought a short war with in 1183?
+golden idx: [7, 10]
+ [10, 7, 0, 2, 1, 4, 6, 3, 8, 5, 9, 11, 12, 13, 14, 15]
+
+ [10, 7, 9, 2, 4, 6, 3, 1]
+
+ [7, 9, 2, 6]
+
+ [7, 9, 2]
+
+成功的数量为：10总数：16当前回溯率：62.5%
+第1轮错误：3，第2轮错误：1，第3轮错误：2
+##########
+##########
+ID:209
+Question:In True Grit, who did the star play?
+golden idx: [1, 10]
+ [1, 18, 7, 19, 2, 0, 3, 17, 8, 9, 6, 11, 12, 13, 14, 15]
+
+ [1, 18, 7, 19, 2, 0, 3, 17]
+
+ [1,7,2,18]
+
+ [1,7,18]
+
+成功的数量为：11总数：18当前回溯率：61.111111111111114%
+第1轮错误：4，第2轮错误：1，第3轮错误：2
+##########
+##########
+ID:210
+Question:Who did the producer of Big Jim McLain play in True Grit?
+golden idx: [2, 10]
+ [2, 6, 10, 0, 1, 4, 3, 9, 11, 12, 13, 14, 15, 16, 17, 18]
+
+ [2, 6, 10, 0, 1, 4, 3, 9]
+
+ [2, 6, 10, 0]
+
+ [10, 2, 6]
+
+成功的数量为：13总数：20当前回溯率：65.0%
+第1轮错误：4，第2轮错误：1，第3轮错误：2
+##########
+##########
+ID:211
+Question:Who did the cast member of Rooster Cogburn play in True Grit?
+golden idx: [11, 17]
+ [2, 4, 17, 0, 12, 19, 1, 9, 5, 7, 6, 8, 10, 11, 13, 15]
+
+ [2, 4, 17, 11, 1, 9, 5, 7]
+
+ [2, 4, 17, 1]
+
+ [2, 4, 17]
+
+成功的数量为：14总数：22当前回溯率：63.63636363636363%
+第1轮错误：4，第2轮错误：1，第3轮错误：3
+##########
+##########
+ID:212
+Question:Who did the actor in Advernture's End play in True Grit?
+golden idx: [7, 18]
+ [18, 7, 8, 11, 2, 0, 1, 3, 5, 6, 9, 12, 13, 14, 15]
+
+ [18, 1, 9, 3, 4, 6, 0, 12, 2, 5, 15, 16, 17, 19, 8, 11]
+
+ [18, 1, 9, 3]
+
+ [18, 1, 9]
+
+成功的数量为：15总数：24当前回溯率：62.5%
+第1轮错误：4，第2轮错误：2，第3轮错误：3
+##########
+##########
+ID:213
+Question:Which is the body of water by Leo Bennett's place of death?
+golden idx: [3, 5]
+ [5, 3, 0, 1, 2, 6, 4, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+
+ [5, 3, 0, 1, 2, 4, 6, 7]
+
+ [5, 3, 0, 1]
+
+ [3, 5, 0]
+
+成功的数量为：17总数：26当前回溯率：65.38461538461539%
+第1轮错误：4，第2轮错误：2，第3轮错误：3
+##########
+##########
+ID:214
+Question:What is the body of water by the area where Athlete was formed?
+golden idx: [7, 15]
+ [7, 15, 1, 5, 2, 4, 8, 0, 9, 3, 6, 10, 11, 12, 13, 14]
+
+ [7, 15, 1, 5, 2, 4, 8, 0]
+
+ [7, 15, 2, 4]
+
+ [7, 15, 2]
+
+成功的数量为：19总数：28当前回溯率：67.85714285714286%
+第1轮错误：4，第2轮错误：2，第3轮错误：3
+##########
+##########
+ID:215
+Question:Which is the body of water by the village which borders Long Ditton?
+golden idx: [13, 15]
+ [13, 15, 0, 2, 6, 10, 1, 3, 4, 5, 7, 8, 9, 11, 12, 14]
+
+ [15, 13, 0, 2, 6, 10, 1, 3]
+
+ [15, 13, 2, 6]
+
+ [15, 13, 2]
+
+成功的数量为：21总数：30当前回溯率：70.0%
+第1轮错误：4，第2轮错误：2，第3轮错误：3
+##########
+##########
+ID:216
+Question:Which is the body of water near George Mills' place of birth?
+golden idx: [8, 14]
+ [9, 14, 0, 2, 1, 10, 4, 3, 11, 6, 8, 12, 13, 15, 16, 5]
+
+ [14, 9, 2, 1, 4, 3, 11, 8]
+
+ [14, 9, 2, 1]
+
+ [14, 9, 2]
+
+成功的数量为：22总数：32当前回溯率：68.75%
+第1轮错误：4，第2轮错误：2，第3轮错误：4
+##########
+##########
+ID:217
+Question:When was the celestial body that transforms nuclear potential energy to other forms of energy discovered to be the center of the solar system?
+golden idx: [7, 18]
+ [7, 0, 12, 11, 15, 4, 3, 13, 10, 14, 5, 8, 18, 1, 9, 2]
+
+ [7, 18, 0, 15, 14, 12, 11, 3]
+
+ [7, 18, 14, 12]
+
+ [7, 18, 14]
+
+成功的数量为：24总数：34当前回溯率：70.58823529411765%
+第1轮错误：4，第2轮错误：2，第3轮错误：4
+##########
+##########
+ID:218
+Question:When was the star to which Solgränd is named after discovered to be the center of the solar system?
+golden idx: [12, 14]
+ [2, 0, 6, 9, 1, 3, 10, 7, 11, 12, 13, 14, 15, 16, 17, 18]
+
+ [14, 2, 9, 0, 12, 15, 11, 6]
+
+ [14,2,0,12]
+
+ [14, 0, 12]

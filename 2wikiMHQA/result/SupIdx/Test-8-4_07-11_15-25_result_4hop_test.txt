@@ -1,0 +1,1102 @@
+##########
+ID:1
+Question:Which film has the director who was born later, El Extraño Viaje or Love In Pawn?
+golden idx: [1, 4, 7, 9]
+ [1,7,4,9,5,8,3,2]
+
+ [7, 1, 9, 4]
+
+成功的数量为：4总数：4当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:2
+Question:Which film has the director died first, Crimen A Las Tres or The Working Class Goes To Heaven?
+golden idx: [3, 4, 5, 6]
+ [4, 6, 7, 5, 3, 0, 1, 2]
+
+ [6, 4, 5, 3]
+
+成功的数量为：8总数：8当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:3
+Question:Which film has the director born first, Once A Gentleman or The Girl In White?
+golden idx: [0, 5, 6, 8]
+ [5, 6, 0, 8, 1, 2, 3, 4]
+
+ [5, 6, 0, 8]
+
+成功的数量为：12总数：12当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:4
+Question:Which film has the director who died earlier, Il Seduttore or The Trial Of Joan Of Arc?
+golden idx: [0, 3, 6, 9]
+ [0,9,3,6,1,7,2,5]
+
+ [0, 9, 3, 6]
+
+成功的数量为：16总数：16当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:5
+Question:Which film has the director born first, The Raven'S Dance or Keïta! L'Héritage Du Griot?
+golden idx: [0, 1, 2, 8]
+ [1, 0, 2, 8, 9, 4, 5, 3]
+
+ [1, 0, 2, 8]
+
+成功的数量为：20总数：20当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:6
+Question:Which film has the director who died earlier, Tangled Destinies or The Daltons' Women?
+golden idx: [0, 1, 3, 7]
+ [0,3,1,7,5,6,8,2]
+
+ [0, 3, 1, 7]
+
+成功的数量为：24总数：24当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:7
+Question:Which film has the director died earlier, Poker In Bed or The Machine To Kill Bad People?
+golden idx: [0, 3, 6, 9]
+ [9, 6, 3, 0, 4, 8, 7, 1]
+
+ [6, 9, 3, 0]
+
+成功的数量为：28总数：28当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:8
+Question:Which film whose director is younger, Heads I Win, Tails You Lose or The Incredible Sarah?
+golden idx: [1, 2, 5, 6]
+ [6, 5, 1, 2, 4, 7, 0, 3]
+
+ [6, 5, 1, 2]
+
+成功的数量为：32总数：32当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:9
+Question:Which film has the director died earlier, Condemned Women or Faces In The Dark?
+golden idx: [1, 2, 4, 7]
+ [7,1,2,4,3,0,8,9]
+
+ [7, 1, 2, 4]
+
+成功的数量为：36总数：36当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:10
+Question:Which film has the director born later, Bhoomiyude Avakashikal or The Majesty Of The Law?
+golden idx: [1, 2, 3, 6]
+ [3, 2, 6, 1, 0, 4, 7, 9]
+
+ [3, 6, 2, 1]
+
+成功的数量为：40总数：40当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:11
+Question:Do both films Payment On Demand and My Cousin From Warsaw have the directors from the same country?
+golden idx: [0, 1, 3, 5]
+ [0, 3, 1, 5, 4, 6, 9, 2]
+
+ [0, 3, 1, 5]
+
+成功的数量为：44总数：44当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:12
+Question:Which film whose director was born first, 45 Fathers or The Intended?
+golden idx: [3, 5, 7, 8]
+ [8,7,3,5,0,1,2,4]
+
+ [8, 7, 3, 5]
+
+成功的数量为：48总数：48当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:13
+Question:Which film has the director who was born later, A Quiet Place In The Country or When Were You Born?
+golden idx: [0, 4, 6, 9]
+ [4, 6, 9, 0, 1, 2, 3, 5]
+
+ [9, 6, 4, 0]
+
+成功的数量为：52总数：52当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:14
+Question:Which film has the director born earlier, The House By The Cemetery or Charlie Chan In Honolulu?
+golden idx: [0, 5, 6, 8]
+ [6, 8, 0, 5, 1, 2, 3, 4]
+
+ [6, 5, 8, 0]
+
+成功的数量为：56总数：56当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:15
+Question:Are director of film Nights On The Road and director of film Swann In Love (Film) from the same country?
+golden idx: [1, 6, 7, 8]
+ [1, 8, 6, 7, 0, 2, 3, 4]
+
+ [1, 8, 6, 7]
+
+成功的数量为：60总数：60当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:16
+Question:Which film has the director who died earlier, Toen 'T Licht Verdween or Boum Sur Paris?
+golden idx: [2, 3, 5, 6]
+ [2, 3, 5, 6, 0, 1, 4, 7]
+
+ [3, 6, 2, 5]
+
+成功的数量为：64总数：64当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:17
+Question:Which film has the director born first, Antonieta or Dodging The Dole?
+golden idx: [3, 5, 6, 7]
+ [7, 6, 5, 3, 0, 1, 2, 4]
+
+ [3, 6, 7, 5]
+
+成功的数量为：68总数：68当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:18
+Question:Do both films, Dial M For Murder and Marius (1931 Film), have the directors who are from the same country?
+golden idx: [0, 1, 2, 4]
+ [0, 4, 1, 2, 7, 3, 8, 5]
+
+ [0, 4, 1, 2]
+
+成功的数量为：72总数：72当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:19
+Question:Are both directors of films The Princess Bride (Film) and I Never Sang For My Father from the same country?
+golden idx: [3, 6, 7, 8]
+ [7, 8, 6, 3, 0, 1, 4, 9]
+
+ [6, 3, 7, 8]
+
+成功的数量为：76总数：76当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:20
+Question:Which film has the director who died earlier, Captain Kidd And The Slave Girl or Relax Freddie?
+golden idx: [1, 5, 6, 9]
+ [1, 6, 5, 9, 8, 2, 7, 0]
+
+ [1, 6, 5, 9]
+
+成功的数量为：80总数：80当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:21
+Question:Which film has the director who died later, The Fatal Mistake or The Devil'S Hairpin?
+golden idx: [0, 2, 4, 5]
+ [4, 5, 0, 2, 1, 3, 6, 7]
+
+ [4, 5, 0, 2]
+
+成功的数量为：84总数：84当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:22
+Question:Which film has the director who was born earlier, It'S A Joke, Son! or The Thirty Nine Steps (1978 Film)?
+golden idx: [0, 4, 5, 6]
+ [5, 4, 0, 6, 1, 2, 7, 3]
+
+ [5, 4, 0, 6]
+
+成功的数量为：88总数：88当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:23
+Question:Are both directors of films The Slayer (Film) and Moscow Heat from the same country?
+golden idx: [3, 4, 6, 7]
+ [4, 3, 6, 1, 0, 2, 5, 7]
+
+ [6, 7, 4, 3]
+
+成功的数量为：92总数：92当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:24
+Question:Which film has the director born first, Leave It To Henry or The Last Night Of Scheherazade?
+golden idx: [3, 4, 8, 9]
+ [3, 9, 8, 4, 0, 1, 2, 5]
+
+ [8, 4, 3, 9]
+
+成功的数量为：96总数：96当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:25
+Question:Which film has the director born earlier, Santa Fe Uprising or Trainer And Temptress?
+golden idx: [0, 2, 4, 8]
+ [0, 2, 4, 8, 5, 1, 3, 6]
+
+ [0, 2, 4, 8]
+
+成功的数量为：100总数：100当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:26
+Question:Which film has the director who was born earlier, Adam'S Rib or Thendral Veesum?
+golden idx: [0, 1, 5, 9]
+ [1, 9, 0, 5, 2, 3, 4, 6]
+
+ [1, 9, 0, 5]
+
+成功的数量为：104总数：104当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:27
+Question:Which film whose director is younger, Joe Palooka In Fighting Mad or Figaro-Ci, Figaro-Là?
+golden idx: [0, 2, 3, 9]
+ [2, 9, 3, 0, 1, 5, 7, 4]
+
+ [2, 9, 3, 0]
+
+成功的数量为：108总数：108当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:28
+Question:Do both films: Gammat Jammat and Ready (2011 Film) have the directors from the same country?
+golden idx: [0, 3, 5, 7]
+ [3,0,7,5,4,1,2,6]
+
+ [3, 0, 7, 5]
+
+成功的数量为：112总数：112当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:29
+Question:Which film has the director who died first, The Crime Doctor'S Courage or Vasantha Sena (1967 Film)?
+golden idx: [1, 2, 7, 8]
+ [1,7,8,2,3,0,5,9]
+
+ [1, 7, 8, 2]
+
+成功的数量为：116总数：116当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:30
+Question:Which film has the director died first, Le Guignolo or Knights Of The Range?
+golden idx: [0, 3, 5, 6]
+ [6, 3, 5, 0, 1, 2, 4, 7]
+
+ [3, 6, 0, 5]
+
+成功的数量为：120总数：120当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:31
+Question:Which film whose director is younger, Kalippava or A Couch In New York?
+golden idx: [0, 2, 6, 8]
+ [0, 8, 6, 2, 1, 3, 4, 5]
+
+ [0, 6, 2, 8]
+
+成功的数量为：124总数：124当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:32
+Question:Which film has the director who died earlier, The Love Charm or The Constant Woman?
+golden idx: [1, 3, 4, 7]
+ [3,7,1,4,0,2,5,6]
+
+ [3, 7, 1, 4]
+
+成功的数量为：128总数：128当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:33
+Question:Which film has the director who died earlier, Guns And Guitars or To The Victor?
+golden idx: [1, 2, 3, 4]
+ [4, 3, 1, 2, 0, 5, 6, 7]
+
+ [4, 3, 1, 2]
+
+成功的数量为：132总数：132当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:34
+Question:Which film has the director who died later, His Last Haul or The Falcon In San Francisco?
+golden idx: [2, 3, 6, 9]
+ [2, 3, 6, 9, 0, 1, 4, 5]
+
+ [2, 3, 6, 9]
+
+成功的数量为：136总数：136当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:35
+Question:Which film has the director born earlier, Jayam Manade or Bulldog Drummond'S Revenge?
+golden idx: [0, 5, 7, 8]
+ [7, 5, 8, 0, 1, 2, 3, 4]
+
+ [7, 5, 8, 0]
+
+成功的数量为：140总数：140当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:36
+Question:Which film has the director who is older, The Gamecock (Film) or Monster A Go-Go?
+golden idx: [1, 4, 5, 6]
+ [5,4,6,1,0,2,7,3]
+
+ [5, 4, 6, 1]
+
+成功的数量为：144总数：144当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:37
+Question:Are both directors of films 16 To Life and Saved By The Belles from the same country?
+golden idx: [0, 2, 3, 8]
+ [2, 8, 0, 3, 1, 4, 6, 9]
+
+ [0, 2, 8, 3]
+
+成功的数量为：148总数：148当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:38
+Question:Which film has the director born later, Jesse James' Women or Ride Lonesome?
+golden idx: [2, 4, 7, 9]
+ [4, 7, 2, 9, 3, 5, 6, 8]
+
+ [7, 2, 9, 4]
+
+成功的数量为：152总数：152当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:39
+Question:Which film has the director died first, Edge Of Doom or A Mother'S Secret?
+golden idx: [0, 1, 6, 8]
+ [1, 8, 0, 6, 2, 3, 4, 5]
+
+ [1, 8, 0, 6]
+
+成功的数量为：156总数：156当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:40
+Question:Which film has the director died earlier, Lemonade Joe or Bountiful Summer?
+golden idx: [2, 6, 7, 8]
+ [7,2,6,8,0,1,4,3]
+
+ [2, 7, 8, 6]
+
+成功的数量为：160总数：160当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:41
+Question:Which film has the director died first, Two For Tonight or Light Over Russia?
+golden idx: [0, 4, 6, 8]
+ [4, 8, 0, 6, 1, 2, 3, 5]
+
+ [4, 8, 0, 6]
+
+成功的数量为：164总数：164当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:42
+Question:Which film whose director is younger, Jeedar or The Rebel Set?
+golden idx: [0, 2, 4, 7]
+ [4, 0, 2, 7, 1, 3, 5, 6]
+
+ [4, 0, 2, 7]
+
+成功的数量为：168总数：168当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:43
+Question:Which film has the director who died first, The Face Of Fu Manchu or The Hidden One?
+golden idx: [0, 2, 4, 5]
+ [4, 2, 5, 0, 3, 1, 7, 6]
+
+ [4, 2, 5, 0]
+
+成功的数量为：172总数：172当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:44
+Question:Which film whose director was born first, The Great Flamarion or The Hollars?
+golden idx: [2, 3, 4, 7]
+ [3, 2, 4, 7, 1, 5, 6, 0]
+
+ [3, 2, 4, 7]
+
+成功的数量为：176总数：176当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:45
+Question:Do both directors of films Dangerous To Know and Les Côtelettes have the same nationality?
+golden idx: [1, 3, 5, 9]
+ [1, 9, 5, 3, 0, 7, 2, 4]
+
+ [1, 9, 5, 3]
+
+成功的数量为：180总数：180当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:46
+Question:Which film has the director born later, Befikre or American Sniper?
+golden idx: [2, 3, 4, 7]
+ [4, 7, 2, 3, 6, 9, 0, 1]
+
+ [7, 3, 4, 2]
+
+成功的数量为：184总数：184当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:47
+Question:Which film has the director died earlier, Youngblood Hawke (Film) or Crook'S Tour?
+golden idx: [2, 3, 4, 7]
+ [2, 3, 4, 7, 0, 1, 5, 6]
+
+ [4, 7, 3, 2]
+
+成功的数量为：188总数：188当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:48
+Question:Which film has the director who was born earlier, Circus Beely or Tom, Dick And Harry 2?
+golden idx: [1, 2, 4, 5]
+ [5, 4, 2, 1, 6, 9, 0, 3]
+
+ [5, 4, 2, 1]
+
+成功的数量为：192总数：192当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:49
+Question:Are the directors of both films The Fall Of A Saint and Fighting Through from the same country?
+golden idx: [2, 3, 5, 6]
+ [2, 5, 6, 3, 1, 4, 9, 0]
+
+ [2, 5, 6, 3]
+
+成功的数量为：196总数：196当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:50
+Question:Which film has the director born earlier, Mister Scarface or Waking Sleeping Beauty?
+golden idx: [2, 3, 5, 7]
+ [3,7,5,2]
+
+ [3, 7, 5, 2, 1, 4, 6, 0]
+
+成功的数量为：200总数：200当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:51
+Question:Which film has the director born later, Diary Of A Maniac or Return Of The Hero?
+golden idx: [1, 3, 4, 7]
+ [1, 3, 7, 4, 2, 5, 6, 8]
+
+ [1, 4, 3, 7]
+
+成功的数量为：204总数：204当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:52
+Question:Which film has the director who died earlier, Deuce High or The King Is The Best Mayor?
+golden idx: [1, 2, 4, 8]
+ [4, 8, 1, 2, 0, 3, 5, 6]
+
+ [4, 8, 1, 2]
+
+成功的数量为：208总数：208当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:53
+Question:Which film has the director who died earlier, 11 Harrowhouse or A Little Sister Of Everybody?
+golden idx: [0, 1, 3, 9]
+ [0, 3, 1, 9, 2, 4, 5, 6]
+
+ [0, 3, 1, 9]
+
+成功的数量为：212总数：212当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:54
+Question:Which film has the director who is older, The Woman In The Fifth or End Of Winter?
+golden idx: [0, 1, 6, 8]
+ [6, 8, 1, 2, 0, 3, 4, 5]
+
+ [6, 0, 1, 8]
+
+成功的数量为：216总数：216当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:55
+Question:Which film has the director who is older, The Girl King or Happy As The Grass Was Green?
+golden idx: [0, 1, 5, 9]
+ [1, 9, 0, 5, 2, 3, 4, 6]
+
+ [1, 9, 0, 5]
+
+成功的数量为：220总数：220当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:56
+Question:Which film has the director who was born later, All The Gold In The World or The Crowning Touch?
+golden idx: [0, 1, 2, 9]
+ [9, 2, 1, 0, 3, 4, 5, 6]
+
+ [9, 2, 1, 0]
+
+成功的数量为：224总数：224当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:57
+Question:Do director of film Winter Meeting and director of film Year Of The Horse have the same nationality?
+golden idx: [2, 3, 8, 9]
+ [9, 2, 8, 3, 0, 1, 4, 5]
+
+ [9, 2, 8, 3]
+
+成功的数量为：228总数：228当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:58
+Question:Which film whose director is younger, Dallas 362 or Revenge Of The Barbarians?
+golden idx: [1, 2, 3, 4]
+ [2, 1, 4, 3, 0, 9, 6, 7]
+
+ [4, 3, 2, 1]
+
+成功的数量为：232总数：232当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:59
+Question:Which film has the director born earlier, Spring Storms or Fun In The Barracks?
+golden idx: [1, 7, 8, 9]
+ [7, 9, 8, 1, 0, 2, 3, 4]
+
+ [7, 9, 8, 1]
+
+成功的数量为：236总数：236当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:60
+Question:Which film whose director is younger, Uncharted Seas or Something Of Value?
+golden idx: [0, 4, 6, 8]
+ [4, 8, 0, 6, 1, 2, 3, 5]
+
+ [8, 4, 6, 0]
+
+成功的数量为：240总数：240当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:61
+Question:Which film has the director born later, My Own Private Idaho or Lucignolo?
+golden idx: [2, 3, 5, 7]
+ [3,7,2,5,1,8,0,4]
+
+ [7, 3, 5, 2]
+
+成功的数量为：244总数：244当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:62
+Question:Are the directors of films The Swordsman (Upcoming Film) and Shopworn both from the same country?
+golden idx: [3, 4, 8, 9]
+ [8, 9, 3, 4, 2, 0, 1, 6]
+
+ [9, 4, 8, 3]
+
+成功的数量为：248总数：248当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:63
+Question:Which film has the director who died later, Say It With Flowers or Boot Hill Bandits?
+golden idx: [0, 2, 6, 7]
+ [2,6,7,0,5,3,1,4]
+
+ [2, 6, 7, 0]
+
+成功的数量为：252总数：252当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:64
+Question:Which film has the director who is older than the other, Judy Berlin or Tonight At Twelve? 
+golden idx: [0, 3, 5, 9]
+ [0,3,5,9,1,2,4,6]
+
+ [3, 0, 9, 5]
+
+成功的数量为：256总数：256当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:65
+Question:Are both director of film Germany, Year Zero and director of film Cross Shot from the same country?
+golden idx: [1, 2, 5, 8]
+ [5, 2, 8, 1, 0, 3, 6, 7]
+
+ [5, 2, 8, 1]
+
+成功的数量为：260总数：260当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:66
+Question:Which film has the director who was born first, Ghost-Town Gold or The Musician Killer?
+golden idx: [2, 4, 5, 8]
+ [8, 4, 2, 5, 0, 1, 3, 6]
+
+ [8, 4, 2, 5]
+
+成功的数量为：264总数：264当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:67
+Question:Which film has the director who was born first, The Ballad Of Gregorio Cortez or Naiyya?
+golden idx: [1, 2, 3, 7]
+ [7, 3, 2, 1, 6, 0, 4, 5]
+
+ [7, 3, 2, 1]
+
+成功的数量为：268总数：268当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:68
+Question:Which film has the director who is older, The Boy Turns Man or A Strange Adventure?
+golden idx: [1, 2, 5, 9]
+ [5, 9, 2, 1, 0, 3, 4, 6]
+
+ [5,9,2,1]
+
+成功的数量为：272总数：272当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:69
+Question:Which film has the director who is older than the other, One Down, Two To Go or Andrei Svislotskiy? 
+golden idx: [1, 3, 7, 9]
+ [1, 7, 3, 9, 2, 4, 5, 6]
+
+ [1, 7, 3, 9]
+
+成功的数量为：276总数：276当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:70
+Question:Which film has the director born later, Under The Lantern or Darling Of The Gods?
+golden idx: [1, 2, 5, 6]
+ [2, 1, 6, 5, 0, 3, 4, 7]
+
+ [2, 1, 6, 5]
+
+成功的数量为：280总数：280当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:71
+Question:Which film has the director who was born first, Slim Carter or Thendral Veesum?
+golden idx: [0, 3, 4, 7]
+ [0, 3, 4, 7, 1, 2, 5, 6]
+
+ [0, 4, 3, 7]
+
+成功的数量为：284总数：284当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:72
+Question:Which film has the director who died first, A Dream Or Two Ago or Why Leave Home??
+golden idx: [0, 4, 8, 9]
+ [4, 9, 0, 8, 5, 7, 3, 6]
+
+ [9, 8, 4, 0]
+
+成功的数量为：288总数：288当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:73
+Question:Which film has the director died earlier, John Jaffer Janardhanan or Kamakalawa?
+golden idx: [0, 1, 3, 6]
+ [1, 3, 0, 6]
+
+ [1, 3, 0, 6, 7, 8, 2, 9]
+
+成功的数量为：292总数：292当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:74
+Question:Which film has the director died earlier, The Story Of Anastasia or A Mother Of Men?
+golden idx: [2, 6, 8, 9]
+ [2, 8, 9, 6, 0, 1, 3, 4]
+
+ [2, 8, 9, 6]
+
+成功的数量为：296总数：296当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:75
+Question:Which film has the director born first, Spione or Five Million Look For An Heir?
+golden idx: [2, 4, 5, 8]
+ [4, 5, 2, 8, 0, 1, 3, 6]
+
+ [4, 5, 2, 8]
+
+成功的数量为：300总数：300当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:76
+Question:Which film has the director born first, La Mazurka Del Barone, Della Santa E Del Fico Fiorone or Safe (2012 Film)?
+golden idx: [2, 4, 7, 8]
+ [4, 8, 2, 7, 0, 1, 3, 5]
+
+ [4, 8, 2, 7]
+
+成功的数量为：304总数：304当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:77
+Question:Which film has the director who was born earlier, Retalhos Da Vida De Um Médico or The Shooting?
+golden idx: [0, 1, 2, 9]
+ [0,1,9,2,3,4,5,6]
+
+ [0, 1, 9, 2]
+
+成功的数量为：308总数：308当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:78
+Question:Which film has the director who was born earlier, Buffet Froid or Lost In Africa?
+golden idx: [5, 6, 7, 8]
+ [8, 5, 6, 7]
+
+ [8, 6, 5, 7, 4, 1, 9, 2]
+
+成功的数量为：312总数：312当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:79
+Question:Which film has the director who died earlier, Gold For The Caesars or Heinz In The Moon?
+golden idx: [1, 2, 3, 4]
+ [2, 3, 1, 4, 0, 5, 6, 7]
+
+ [2, 3, 1, 4]
+
+成功的数量为：316总数：316当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:80
+Question:Which film has the director born later, Monsieur Taxi or A Yiddish World Remembered?
+golden idx: [2, 3, 5, 7]
+ [3,2,5,7,1,4,6,0]
+
+ [3, 2, 5, 7]
+
+成功的数量为：320总数：320当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:81
+Question:Which film has the director born first, Trouble With Jolanthe or Children Of Fortune?
+golden idx: [1, 4, 5, 7]
+ [7, 5, 1, 4, 0, 2, 3, 6]
+
+ [1, 4, 7, 5]
+
+成功的数量为：324总数：324当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:82
+Question:Which film whose director is younger, Roland The Mighty or Graves Without A Name?
+golden idx: [4, 5, 7, 9]
+ [7,9,4,5,0,3,6,2]
+
+ [9, 7, 5, 4]
+
+成功的数量为：328总数：328当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:83
+Question:Which film has the director who is older, When You'Re Strange or Vzdušné Torpédo 48?
+golden idx: [2, 3, 5, 7]
+ [5, 2, 7, 3, 8, 0, 1, 4]
+
+ [5, 2, 7, 3]
+
+成功的数量为：332总数：332当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:84
+Question:Which film has the director born first, Şaban, Son Of Şaban or East/West?
+golden idx: [1, 2, 3, 6]
+ [6, 2, 3, 1, 4, 0, 5, 7]
+
+ [6, 2, 3, 1]
+
+成功的数量为：336总数：336当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:85
+Question:Which film has the director born first, Stella'S Oorlog or Don Juan In A Girls' School?
+golden idx: [2, 4, 8, 9]
+ [8, 4, 9, 2, 5, 0, 3, 6]
+
+ [8, 4, 9, 2]
+
+成功的数量为：340总数：340当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:86
+Question:Which film has the director died earlier, Dialogues Of Exiles or Rhythm And Weep?
+golden idx: [0, 1, 4, 5]
+ [0, 1, 4, 5, 3, 2, 6, 9]
+
+ [0, 1, 4, 5]
+
+成功的数量为：344总数：344当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:87
+Question:Which film has the director born later, Allos Gia To Ekatommyrio or Elvira'S Haunted Hills?
+golden idx: [5, 7, 8, 9]
+ [5, 7, 8, 9, 2, 1, 3, 6]
+
+ [5, 7, 8, 9]
+
+成功的数量为：348总数：348当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:88
+Question:Which film has the director born earlier, Idols Of The Radio or Solos En La Madrugada?
+golden idx: [2, 4, 5, 8]
+ [5, 4, 8, 2, 0, 1, 3, 6]
+
+ [8, 2, 4, 5]
+
+成功的数量为：352总数：352当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:89
+Question:Are the directors of films Scuola Di Ladri and Pensione Paura both from the same country?
+golden idx: [4, 5, 6, 9]
+ [5, 6, 9, 4, 2, 8, 1, 7]
+
+ [9, 4, 5, 6]
+
+成功的数量为：356总数：356当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:90
+Question:Are the directors of films The Edifying And Joyous Story Of Colinot and Cold Moon both from the same country?
+golden idx: [0, 1, 3, 7]
+ [1, 0, 7, 3, 5, 2, 8, 4]
+
+ [1, 0, 7, 3]
+
+成功的数量为：360总数：360当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:91
+Question:Do director of film Jerry And Tom and director of film Kansas City Princess share the same nationality?
+golden idx: [3, 5, 6, 7]
+ [3, 6, 7, 5, 0, 1, 2, 9]
+
+ [3, 6, 5, 7]
+
+成功的数量为：364总数：364当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:92
+Question:Which film has the director died first, Resan Till Dej or Rocking Moon?
+golden idx: [2, 5, 6, 8]
+ [2,8,6,5,0,1,3,4]
+
+ [2, 8, 6, 5]
+
+成功的数量为：368总数：368当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:93
+Question:Which film has the director born later, Christ Walking On The Water or 45 Fathers?
+golden idx: [2, 6, 8, 9]
+ [6, 2, 9, 8, 3, 5, 4, 0]
+
+ [9, 8, 6, 2]
+
+成功的数量为：372总数：372当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:94
+Question:Are both directors of films Breslin And Hamill: Deadline Artists and Jean The Tenant from the same country?
+golden idx: [0, 1, 4, 6]
+ [0, 1, 4, 6, 3, 7, 2, 8]
+
+ [1, 4, 0, 6]
+
+成功的数量为：376总数：376当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:95
+Question:Which film has the director died later, Excursion Train or Bad Day At Black Rock?
+golden idx: [0, 1, 4, 6]
+ [0, 4, 6, 1, 7, 2, 3, 5]
+
+ [0, 4, 6, 1]
+
+成功的数量为：380总数：380当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:96
+Question:Which film has the director who died later, Emanuelle And The Last Cannibals or Hostile Country?
+golden idx: [3, 4, 5, 9]
+ [9, 5, 3, 4, 8, 6, 0, 1]
+
+ [9, 5, 3, 4]
+
+成功的数量为：384总数：384当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:97
+Question:Which film has the director died later, Just Like A Woman (1939 Film) or Madigan'S Millions?
+golden idx: [1, 3, 5, 9]
+ [9, 3, 5, 1, 8, 7, 2, 0]
+
+ [9, 3, 5, 1]
+
+成功的数量为：388总数：388当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:98
+Question:Which film has the director who died later, Cooee And The Echo or Sweepings?
+golden idx: [1, 2, 3, 5]
+ [2, 1, 5, 3, 0, 4, 6, 7]
+
+ [2, 1, 5, 3]
+
+成功的数量为：392总数：392当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:99
+Question:Which film has the director born earlier, The Newest Pledge or Más Allá De La Aventura?
+golden idx: [1, 4, 6, 7]
+ [7, 4, 1, 6, 0, 2, 3, 5]
+
+ [7, 4, 1, 6]
+
+成功的数量为：396总数：396当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:100
+Question:Which film has the director who was born first, I Come With The Rain or A Question Of Attribution?
+golden idx: [1, 2, 6, 7]
+ [6, 2, 1, 7, 0, 3, 4, 5]
+
+ [6, 2, 1, 7]
+
+成功的数量为：400总数：400当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+
+回溯率：100.0%

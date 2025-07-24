@@ -1,0 +1,2250 @@
+##########
+ID:1
+Question:Were Scott Derrickson and Ed Wood of the same nationality?
+Right Answer:yes
+Answer: Yes, Scott Derrickson and Ed Wood were of the same nationality.
+
+Step-by-step reasoning: 
+1. The context provided states that Scott Derrickson is an American director, screenwriter, and producer.
+2. It also states that Edward Davis Wood Jr., known as Ed Wood, was an American filmmaker, actor, writer, producer, and director.
+3. Since both individuals are described as American, it can be concluded that they were of the same nationality, which is American.
+原始EM：0, 总数：1, 网络错误：0, 当前原始EM分数：0.0%, 增强EM答对：0, 当前增强EM分数：0.0%, 当前F1分数：0.0%
+##########
+##########
+ID:2
+Question:What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?
+Right Answer:Chief of Protocol
+Answer: Shirley Temple Black held the government position of United States ambassador to Ghana and to Czechoslovakia, and also served as Chief of Protocol of the United States.
+
+Step-by-step reasoning: 
+1. The question asks for the government position held by the woman who portrayed Corliss Archer in the film "Kiss and Tell."
+2. From the provided context, we identify that Shirley Temple, who later became known as Shirley Temple Black, portrayed Corliss Archer in the film "Kiss and Tell."
+3. Further, the context indicates that as an adult, Shirley Temple Black was named United States ambassador to Ghana and to Czechoslovakia.
+4. Additionally, she served as Chief of Protocol of the United States.
+5. Therefore, the government positions held by Shirley Temple Black were United States ambassador to Ghana, United States ambassador to Czechoslovakia, and Chief of Protocol of the United States.
+原始EM：0, 总数：2, 网络错误：0, 当前原始EM分数：0.0%, 增强EM答对：0, 当前增强EM分数：0.0%, 当前F1分数：11.538461538461538%
+##########
+##########
+ID:3
+Question:What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?
+Right Answer:Animorphs
+Answer: Animorphs
+Step-by-step reasoning: 
+1. The question asks for a science fantasy young adult series that is told in first person and includes companion books about enslaved worlds and alien species.
+2. Context index 8 describes "Animorphs" as a science fantasy series of young adult books that is told in first person, with all main characters taking turns narrating the books through their own perspectives.
+3. Context index 6 mentions "The Hork-Bajir Chronicles" as a companion book to the "Animorphs" series, which includes stories about the enslavement of the Hork-Bajir species by the Yeerks, indicating that it fits the description of companion books narrating the stories of enslaved worlds and alien species.
+4. The other context provided (index 3) is about a magazine titled "Science Fantasy" and does not pertain to a young adult book series.
+5. Based on the information provided in the contexts, "Animorphs" is the series that matches the description given in the question.
+原始EM：1, 总数：3, 网络错误：0, 当前原始EM分数：33.33333333333333%, 增强EM答对：1, 当前增强EM分数：33.33333333333333%, 当前F1分数：41.02564102564103%
+##########
+##########
+ID:4
+Question:Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?
+Right Answer:no
+Answer: No, the Laleli Mosque and Esma Sultan Mansion are not located in the same neighborhood.
+
+Step-by-step reasoning: 
+1. The context provided states that the **Laleli Mosque** is located in **Laleli, Fatih, Istanbul, Turkey**.
+2. It also mentions that the **Esma Sultan Mansion** is located at **Bosphorus in Ortaköy neighborhood of Istanbul, Turkey**.
+3. Since the Laleli Mosque is in the **Fatih** district and the Esma Sultan Mansion is in the **Ortaköy** neighborhood, they are in different parts of Istanbul.
+4. Therefore, based on the information given, they are not in the same neighborhood.
+原始EM：1, 总数：4, 网络错误：0, 当前原始EM分数：25.0%, 增强EM答对：1, 当前增强EM分数：25.0%, 当前F1分数：30.76923076923077%
+##########
+##########
+ID:5
+Question:The director of the romantic comedy "Big Stone Gap" is based in what New York city?
+Right Answer:Greenwich Village, New York City
+Answer: Greenwich Village, New York City
+Step-by-step reasoning: 
+1. The question asks for the New York city where the director of "Big Stone Gap" is based.
+2. From the provided context, we identify that Adriana Trigiani is the director of the film "Big Stone Gap."
+3. The context with 'idx': 7 states that Adriana Trigiani is based in Greenwich Village, New York City.
+4. Therefore, the answer to the question is Greenwich Village, New York City.
+原始EM：2, 总数：5, 网络错误：0, 当前原始EM分数：40.0%, 增强EM答对：2, 当前增强EM分数：40.0%, 当前F1分数：44.61538461538462%
+##########
+##########
+ID:6
+Question:2014 S/S is the debut album of a South Korean boy group that was formed by who?
+Right Answer:YG Entertainment
+Answer: YG Entertainment
+Step-by-step reasoning: The question asks which entity formed the South Korean boy group whose debut album is "2014 S/S". By examining the provided context, we can determine the answer:
+1. Context index 5 mentions "2014 S/S" as the debut album of the South Korean group WINNER and states it was released by the group's record label, YG Entertainment.
+2. Context index 1 confirms that WINNER is a South Korean boy group formed by YG Entertainment and debuted in 2014.
+3. The other context provided (index 7) is about a different group, MADTOWN, and is not relevant to the question.
+Therefore, based on the relevant context, the South Korean boy group WINNER, which released the debut album "2014 S/S", was formed by YG Entertainment.
+原始EM：3, 总数：6, 网络错误：0, 当前原始EM分数：50.0%, 增强EM答对：3, 当前增强EM分数：50.0%, 当前F1分数：53.84615384615385%
+##########
+##########
+ID:7
+Question:Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?
+Right Answer:Eenasul Fateh
+Answer: Eenasul Fateh
+Step-by-step reasoning: The question asks for the identity of a person known by the stage name Aladin who also helped organizations improve their performance as a consultant. By examining the provided context:
+- Context from index 7 mentions **Eenasul Fateh**, also known by his stage name **Aladin**, and describes him as a former international management consultant. This directly matches the description given in the question.
+- Context from index 5 defines what management consulting involves, which is relevant to understanding the role mentioned in the question but does not provide information about an individual.
+- Context from index 1 talks about **Mick Batyske**, known by the stage name **Mick**, who is also an advisor and consultant, but he is not known as Aladin.
+Therefore, the answer is Eenasul Fateh, as he is the only individual mentioned in the context who is both known as Aladin and has worked as a management consultant.
+原始EM：4, 总数：7, 网络错误：0, 当前原始EM分数：57.14285714285714%, 增强EM答对：4, 当前增强EM分数：57.14285714285714%, 当前F1分数：60.43956043956044%
+##########
+##########
+ID:8
+Question:The arena where the Lewiston Maineiacs played their home games can seat how many people?
+Right Answer:3,677 seated
+Answer: The arena where the Lewiston Maineiacs played their home games can seat 3,677 people.
+Step-by-step reasoning: To find the answer, I reviewed the provided context about the Lewiston Maineiacs and the arena where they played their home games. The relevant information is found in the first piece of context with index 9, which states that the Androscoggin Bank Colisée has a capacity of 4,000, with 3,677 seated. This directly answers the question regarding the seating capacity for the arena.
+原始EM：4, 总数：8, 网络错误：0, 当前原始EM分数：50.0%, 增强EM答对：4, 当前增强EM分数：50.0%, 当前F1分数：54.67032967032968%
+##########
+##########
+ID:9
+Question:Who is older, Annie Morton or Terry Richardson?
+Right Answer:Terry Richardson
+Answer: Terry Richardson is older than Annie Morton.
+Step-by-step reasoning: To determine who is older, I compared the birth dates provided in the context for both individuals. Terry Richardson was born on August 14, 1965, and Annie Morton was born on October 8, 1970. By comparing the years of birth, it is clear that Terry Richardson was born earlier, making him older than Annie Morton.
+原始EM：4, 总数：9, 网络错误：0, 当前原始EM分数：44.44444444444444%, 增强EM答对：4, 当前增强EM分数：44.44444444444444%, 当前F1分数：53.53412020078687%
+##########
+##########
+ID:10
+Question:Are Local H and For Against both from the United States?
+Right Answer:yes
+Answer: Yes, both Local H and For Against are from the United States.
+
+Step-by-step reasoning:
+1. The context provided for Local H states that they are an American rock band, which indicates that they are from the United States.
+2. The context for For Against describes them as a United States post-punk/dream pop band, which also confirms their American origin.
+3. Therefore, based on the information given in the context for both bands, it can be concluded that both Local H and For Against are from the United States.
+原始EM：4, 总数：10, 网络错误：0, 当前原始EM分数：40.0%, 增强EM答对：4, 当前增强EM分数：40.0%, 当前F1分数：48.18070818070819%
+##########
+##########
+ID:11
+Question:What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?
+Right Answer:Kansas Song
+Answer: Kansas Song (We’re From Kansas)
+Step-by-step reasoning: To determine the name of the fight song for the university located in Lawrence, Kansas with branch campuses in the Kansas City metropolitan area, I reviewed the provided context. The context with index 1 describes the University of Kansas, often referred to as KU or Kansas, as having its main campus in Lawrence and branch campuses in the Kansas City metropolitan area. The context with index 9 directly states that "Kansas Song (We’re From Kansas)" is a fight song of the University of Kansas. Therefore, by correlating the information from these two pieces of context, I conclude that "Kansas Song (We’re From Kansas)" is the name of the fight song for the university in question.
+原始EM：4, 总数：11, 网络错误：0, 当前原始EM分数：36.36363636363637%, 增强EM答对：4, 当前增强EM分数：36.36363636363637%, 当前F1分数：48.995448995448996%
+##########
+##########
+ID:12
+Question:What screenwriter with credits for "Evolution" co-wrote a film starring Nicolas Cage and Téa Leoni?
+Right Answer:David Weissman
+Answer: David Weissman
+Step-by-step reasoning: 
+1. The question asks for a screenwriter who has credits for "Evolution" and also co-wrote a film starring Nicolas Cage and Téa Leoni.
+2. From the provided context, we see that David Weissman is mentioned as a screenwriter and director with film credits that include "Evolution" (2001).
+3. Further, the context indicates that "The Family Man" is a film written by David Diamond and David Weissman, and it stars Nicolas Cage and Téa Leoni.
+4. Therefore, by cross-referencing the information given in the contexts, it is clear that David Weissman is the screenwriter who fits the criteria mentioned in the question.
+原始EM：5, 总数：12, 网络错误：0, 当前原始EM分数：41.66666666666667%, 增强EM答对：5, 当前增强EM分数：41.66666666666667%, 当前F1分数：53.24582824582825%
+##########
+##########
+ID:13
+Question:What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?
+Right Answer:1999
+Answer: 1999
+
+Step-by-step reasoning: 
+1. The question asks for the year Guns N' Roses performed a promo related to a movie starring Arnold Schwarzenegger as a former New York Police detective.
+2. Context index 1 mentions that Guns N' Roses released a song in 1999 on the soundtrack for the film "End of Days".
+3. The same context also states that the song was sent to radio stations in November 1999 as a promo for both the soundtrack and the band.
+4. Context index 8 confirms that "End of Days" is a film from 1999 starring Arnold Schwarzenegger as a former New York Police Department detective.
+5. By correlating the information from context indexes 1 and 8, it is clear that the year Guns N' Roses performed a promo for the movie "End of Days" starring Arnold Schwarzenegger is 1999.
+原始EM：6, 总数：13, 网络错误：0, 当前原始EM分数：46.15384615384615%, 增强EM答对：6, 当前增强EM分数：46.15384615384615%, 当前F1分数：56.84230299614915%
+##########
+##########
+ID:14
+Question:Are Random House Tower and 888 7th Avenue both used for real estate?
+Right Answer:no
+Answer: Yes, Random House Tower and 888 7th Avenue are both used for real estate.
+
+Step-by-step reasoning: 
+1. The context provided for 888 7th Avenue describes it as an office skyscraper that houses the corporate headquarters of Vornado Realty Trust, which indicates its use in the real estate sector.
+2. The Random House Tower, also known as the Park Imperial Apartments, is described as a mixed-use tower that serves as both the headquarters for the book publisher Random House and a luxury apartment complex, indicating that it has a residential real estate component.
+3. Real estate, in a broad sense, includes both commercial properties (like office buildings) and residential properties (like apartment complexes).
+4. Therefore, since 888 7th Avenue is used for commercial real estate and the Random House Tower is used for residential real estate, both buildings are indeed used for real estate purposes.
+原始EM：6, 总数：14, 网络错误：0, 当前原始EM分数：42.857142857142854%, 增强EM答对：6, 当前增强EM分数：42.857142857142854%, 当前F1分数：52.78213849642421%
+##########
+##########
+ID:15
+Question:The football manager who recruited David Beckham managed Manchester United during what timeframe?
+Right Answer:from 1986 to 2013
+Answer: 1986 to 2013
+Step-by-step reasoning: The context provided indicates that Sir Alexander Chapman Ferguson, who is the manager known for recruiting David Beckham, managed Manchester United from 1986 to 2013. This information is found in the paragraph with index 9, which states, "Sir Alexander Chapman Ferguson, CBE (born 31 December 1941) is a Scottish former football manager and player who managed Manchester United from 1986 to 2013." Additionally, the context with index 4 confirms that Alex Ferguson was managing Manchester United during the 1995–96 season and was responsible for bringing in young players, including David Beckham. Therefore, the timeframe during which the football manager who recruited David Beckham managed Manchester United is from 1986 to 2013.
+原始EM：6, 总数：15, 网络错误：0, 当前原始EM分数：40.0%, 增强EM答对：6, 当前增强EM分数：40.0%, 当前F1分数：54.977614977614984%
+##########
+##########
+ID:16
+Question:Brown State Fishing Lake is in a country that has a population of how many inhabitants ?
+Right Answer:9,984
+Answer: The population of the country in which Brown State Fishing Lake is located is approximately 331 million inhabitants.
+Step-by-step reasoning: 
+1. The context provided indicates that Brown State Fishing Lake is located in Brown County, Kansas, United States.
+2. To answer the question, we need to determine the population of the country, not the county.
+3. Brown State Fishing Lake is in the United States.
+4. As of my last update in 2021, the population of the United States was approximately 331 million inhabitants.
+5. Therefore, Brown State Fishing Lake is in a country (the United States) that has a population of approximately 331 million inhabitants.
+原始EM：6, 总数：16, 网络错误：0, 当前原始EM分数：37.5%, 增强EM答对：6, 当前增强EM分数：37.5%, 当前F1分数：51.54151404151405%
+##########
+##########
+ID:17
+Question:The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?
+Right Answer:the North Atlantic Conference
+Answer: North Atlantic Conference
+Step-by-step reasoning: 
+1. The question asks for the former name of the conference in which the Vermont Catamounts men's soccer team currently competes.
+2. Context index 5 states that the Vermont Catamounts men's soccer team competes in the America East Conference.
+3. Context index 4 provides the historical names of the America East Conference, stating it was known as the North Atlantic Conference from 1988 to 1996.
+4. Therefore, the conference that the Vermont Catamounts men's soccer team currently competes in, which was formerly known as the North Atlantic Conference, is now called the America East Conference.
+原始EM：7, 总数：17, 网络错误：0, 当前原始EM分数：41.17647058823529%, 增强EM答对：7, 当前增强EM分数：41.17647058823529%, 当前F1分数：54.39201321554263%
+##########
+##########
+ID:18
+Question:Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?
+Right Answer:yes
+Answer: Yes, Giuseppe Verdi and Ambroise Thomas were both opera composers.
+
+Step-by-step reasoning: 
+1. The context provided for Giuseppe Verdi states that he was an Italian opera composer.
+2. The context provided for Charles Louis Ambroise Thomas indicates that he was a French composer known for his operas "Mignon" and "Hamlet".
+3. Based on the information given in the context, both individuals are recognized for their contributions to the field of opera, which confirms that they were indeed opera composers.
+原始EM：7, 总数：18, 网络错误：0, 当前原始EM分数：38.88888888888889%, 增强EM答对：7, 当前增强EM分数：38.88888888888889%, 当前F1分数：51.37023470356804%
+##########
+##########
+ID:19
+Question:Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?
+Right Answer:1969 until 1974
+Answer: 1969 to 1974
+Step-by-step reasoning: 
+1. The context provided indicates that Roger Olaf Egeberg served as Assistant Secretary for Health and Scientific Affairs during the Nixon administration.
+2. Another piece of context states that Richard Milhous Nixon was the 37th President of the United States from 1969 until 1974.
+3. By connecting these two pieces of information, it can be deduced that Roger O. Egeberg served as Assistant Secretary for Health and Scientific Affairs during the years Nixon was president, which were from 1969 to 1974.
+原始EM：7, 总数：19, 网络错误：0, 当前原始EM分数：36.84210526315789%, 增强EM答对：7, 当前增强EM分数：36.84210526315789%, 当前F1分数：52.17531007004691%
+##########
+##########
+ID:20
+Question:Which writer was from England, Henry Roth or Robert Erskine Childers?
+Right Answer:Robert Erskine Childers DSC
+Answer: Robert Erskine Childers
+
+Step-by-step reasoning: 
+1. The context provided indicates that Robert Erskine Childers was a British writer, which implies that he was from England.
+2. The context does not provide any information about Henry Roth, so we cannot determine his nationality from the given context.
+3. Based on the information available, Robert Erskine Childers is the writer from England. 
+4. Therefore, the answer to the question is Robert Erskine Childers.
+原始EM：7, 总数：20, 网络错误：0, 当前原始EM分数：35.0%, 增强EM答对：7, 当前增强EM分数：35.0%, 当前F1分数：53.85225885225886%
+##########
+##########
+ID:21
+Question:Which other Mexican Formula One race car driver has held the podium besides the Force India driver born in 1990?
+Right Answer:Pedro Rodríguez
+Answer: Pedro Rodríguez
+Step-by-step reasoning: The question asks for a Mexican Formula One race car driver who has held the podium besides Sergio Pérez, the Force India driver born in 1990. According to the provided context:
+- Context index 3 mentions that Pedro Rodríguez is the most successful Mexican driver and the only one to have won a grand prix.
+- It also states that Sergio Pérez is the only other Mexican to finish on the podium.
+- Context index 9 confirms that Sergio Pérez, born on 26 January 1990, is currently driving for Force India.
+Therefore, the other Mexican driver who has held the podium in Formula One besides Sergio Pérez is Pedro Rodríguez.
+原始EM：8, 总数：21, 网络错误：0, 当前原始EM分数：38.095238095238095%, 增强EM答对：8, 当前增强EM分数：38.095238095238095%, 当前F1分数：56.04977033548463%
+##########
+##########
+ID:22
+Question:This singer of A Rather Blustery Day also voiced what hedgehog?
+Right Answer:Sonic
+Answer: Dr. Robotnik from "Sonic the Hedgehog"
+Step-by-step reasoning: 
+1. The question asks which hedgehog character was voiced by the singer of "A Rather Blustery Day".
+2. From the provided context, we identify that "A Rather Blustery Day" is a song from the film "Winnie the Pooh and the Blustery Day", sung by Jim Cummings.
+3. Looking at the context about James Jonah Cummings, we find that he is known for voicing several characters, including Dr. Robotnik from "Sonic the Hedgehog".
+4. Since Dr. Robotnik is a character associated with the "Sonic the Hedgehog" series and Jim Cummings is mentioned as the voice actor for this character, we can conclude that the singer of "A Rather Blustery Day" also voiced Dr. Robotnik from "Sonic the Hedgehog".
+原始EM：8, 总数：22, 网络错误：0, 当前原始EM分数：36.36363636363637%, 增强EM答对：8, 当前增强EM分数：36.36363636363637%, 当前F1分数：55.01720501720503%
+##########
+##########
+ID:23
+Question:Aside from the Apple Remote, what other device can control the program Apple Remote was originally designed to interact with?
+Right Answer:keyboard function keys
+Answer: The keyboard function keys can control the program Apple Remote was originally designed to interact with.
+
+Step-by-step reasoning: 
+1. The context provided indicates that Front Row, the program in question, can be controlled by an Apple Remote or the keyboard function keys.
+2. Front Row is a media center software application for Apple's Macintosh computers and Apple TV.
+3. The Apple Remote was designed to interact with Front Row, as mentioned in the context.
+4. Since the question asks for a device other than the Apple Remote that can control Front Row, the answer is derived from the context where it mentions that the keyboard function keys can also control the software.
+5. Therefore, the keyboard function keys are the alternative method to control Front Row aside from the Apple Remote.
+原始EM：8, 总数：23, 网络错误：0, 当前原始EM分数：34.78260869565217%, 增强EM答对：8, 当前增强EM分数：34.78260869565217%, 当前F1分数：54.15967947937258%
+##########
+##########
+ID:24
+Question:Which performance act has a higher instrument to person ratio, Badly Drawn Boy or Wolf Alice? 
+Right Answer:Badly Drawn Boy
+Answer: Badly Drawn Boy
+Step-by-step reasoning: To determine the instrument to person ratio, we need to consider the number of instruments played in relation to the number of people in the act. From the context provided:
+1. Badly Drawn Boy is a stage name for Damon Michael Gough, who is a multi-instrumentalist. This implies that he plays more than one instrument.
+2. The context further elaborates that Damon Gough wrote, produced, and played several instruments on the album's eighteen tracks, indicating a high instrument to person ratio since he is a solo performer.
+3. On the other hand, Wolf Alice is a four-piece band with each member presumably playing one instrument, which suggests a one-to-one instrument to person ratio.
+Therefore, Badly Drawn Boy, being a solo act and a multi-instrumentalist, has a higher instrument to person ratio compared to Wolf Alice, which is a band with four members.
+原始EM：9, 总数：24, 网络错误：0, 当前原始EM分数：37.5%, 增强EM答对：9, 当前增强EM分数：37.5%, 当前F1分数：56.06969283439872%
+##########
+##########
+ID:25
+Question:What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?
+Right Answer:World's Best Goalkeeper
+Answer: The IFFHS World's Best Goalkeeper.
+
+Step-by-step reasoning: 
+1. The question asks for the title awarded to Kasper Schmeichel's father by the IFFHS in 1992.
+2. From the provided context, specifically the paragraph with index 2, it states that Peter Schmeichel was voted the IFFHS World's Best Goalkeeper in 1992 and 1993.
+3. The paragraph with index 4 confirms the existence of the award "The IFFHS World's Best Goalkeeper" and its annual nature.
+4. The paragraph with index 5 identifies Kasper Schmeichel as the son of Peter Schmeichel.
+5. Combining this information, it is clear that Kasper Schmeichel's father, Peter Schmeichel, was voted to be the IFFHS World's Best Goalkeeper in 1992.
+原始EM：9, 总数：25, 网络错误：0, 当前原始EM分数：36.0%, 增强EM答对：9, 当前增强EM分数：36.0%, 当前F1分数：57.255476549594206%
+##########
+##########
+ID:26
+Question:Who was the writer of These Boots Are Made for Walkin' and who died in 2007?
+Right Answer:Barton Lee Hazlewood
+Answer: Lee Hazlewood
+Step-by-step reasoning: To determine the writer of "These Boots Are Made for Walkin'" and who died in 2007, I analyzed the provided context:
+1. From the first piece of context (idx: 4), I identified **Barton Lee Hazlewood** as an American country and pop singer, songwriter, and record producer who passed away on **August 4, 2007**.
+2. The second piece of context (idx: 2) states that "These Boots Are Made for Walkin'" is a hit song written by **Lee Hazlewood**.
+3. The third piece of context (idx: 3) does not provide additional information about the death of the songwriter but confirms Lee Hazlewood's involvement with the song as the producer of the album.
+
+Combining these pieces of information, I concluded that **Lee Hazlewood** is the writer of "These Boots Are Made for Walkin'" and the individual who died in 2007.
+原始EM：9, 总数：26, 网络错误：0, 当前原始EM分数：34.61538461538461%, 增强EM答对：9, 当前增强EM分数：34.61538461538461%, 当前F1分数：58.130265913071355%
+##########
+##########
+ID:27
+Question:The 2011–12 VCU Rams men's basketball team, led by third year head coach Shaka Smart, represented Virginia Commonwealth University which was founded in what year?
+Right Answer:1838
+Answer: Virginia Commonwealth University was founded in 1838.
+Step-by-step reasoning: To determine the founding year of Virginia Commonwealth University (VCU), I reviewed the provided context. The first piece of context (idx: 0) states that "VCU was founded in 1838 as the medical department of Hampden–Sydney College, becoming the Medical College of Virginia in 1854." This information directly answers the question posed, indicating that the university, originally established as a medical department, was founded in 1838. The subsequent details about the merger in 1968 to create VCU and the university's current programs and student body are additional information that confirms the institution's long-standing history but do not alter the founding year. Therefore, based on the context given, the answer is 1838.
+原始EM：9, 总数：27, 网络错误：0, 当前原始EM分数：33.33333333333333%, 增强EM答对：9, 当前增强EM分数：33.33333333333333%, 当前F1分数：56.90321902740204%
+##########
+##########
+ID:28
+Question:Are both Dictyosperma, and Huernia described as a genus?
+Right Answer:yes
+Answer: Yes, both Dictyosperma and Huernia are described as a genus.
+
+Step-by-step reasoning: 
+1. The context provided for Dictyosperma states that it is a "monotypic genus of flowering plant in the palm family," indicating that it is indeed classified as a genus.
+2. The context provided for Huernia describes it as a "genus (family Apocynaceae, subfamily Asclepiadoideae) consists of stem succulents," which also confirms that it is classified as a genus.
+3. Both contexts clearly define Dictyosperma and Huernia as a genus within their respective families, meeting the criteria for being described as a genus.
+原始EM：9, 总数：28, 网络错误：0, 当前原始EM分数：32.142857142857146%, 增强EM答对：9, 当前增强EM分数：32.142857142857146%, 当前F1分数：54.87096120499483%
+##########
+##########
+ID:29
+Question:Kaiser Ventures corporation was founded by an American industrialist who became known as the father of modern American shipbuilding?
+Right Answer:Henry J. Kaiser
+Answer: Yes, Kaiser Ventures corporation was founded by Henry J. Kaiser, an American industrialist known as the father of modern American shipbuilding.
+
+Step-by-step reasoning: 
+1. The context provided indicates that **Henry John Kaiser** was an American industrialist recognized as the father of modern American shipbuilding.
+2. It is mentioned that he established the **Kaiser Shipyards**, which were instrumental during World War II.
+3. After the war, he formed **Kaiser Aluminum and Kaiser Steel**.
+4. The context further states that Kaiser Ventures, formerly known as Kaiser Steel, was headquartered in Ontario, California, and was founded by Henry J. Kaiser.
+5. This information confirms that Kaiser Ventures, which evolved from Kaiser Steel, was indeed founded by Henry J. Kaiser, aligning with his reputation as the father of modern American shipbuilding.
+原始EM：9, 总数：29, 网络错误：0, 当前原始EM分数：31.03448275862069%, 增强EM答对：9, 当前增强EM分数：31.03448275862069%, 当前F1分数：53.91929796595112%
+##########
+##########
+ID:30
+Question:What is the name for the adventure in "Tunnels and Trolls", a game designed by Ken St. Andre?
+Right Answer:Arena of Khazan
+Answer: Arena of Khazan
+Step-by-step reasoning: The question asks for the name of an adventure in "Tunnels and Trolls," a game designed by Ken St. Andre. By examining the provided context, we can find that 'Arena of Khazan' is mentioned as a role-playing game adventure for "Tunnels & Trolls" published by Flying Buffalo. This matches the criteria of being an adventure within the "Tunnels and Trolls" game. Therefore, 'Arena of Khazan' is the name of the adventure in question.
+原始EM：10, 总数：30, 网络错误：0, 当前原始EM分数：33.33333333333333%, 增强EM答对：10, 当前增强EM分数：33.33333333333333%, 当前F1分数：55.455321367086086%
+##########
+##########
+ID:31
+Question:When was Poison's album "Shut Up, Make Love" released?
+Right Answer:2000
+Answer: March 14, 2000
+Step-by-step reasoning: The context provided indicates that "Shut Up, Make Love" is a song from Poison's album "Crack a Smile...and More!" which was released on March 14, 2000. This information is found in the paragraph with index 2, which states that "Crack a Smile" is Poison's fifth studio album, released on that date and charting at #131 on The Billboard 200. Additionally, the paragraph with index 0 supports this by mentioning that the single/sampler for "Be the One," which included "Shut Up, Make Love" as a B-side, was released in February 2000, indicating that the album it belongs to was released shortly after, in March 2000.
+原始EM：10, 总数：31, 网络错误：0, 当前原始EM分数：32.25806451612903%, 增强EM答对：10, 当前增强EM分数：32.25806451612903%, 当前F1分数：55.279343258470405%
+##########
+##########
+ID:32
+Question:Hayden is a singer-songwriter from Canada, but where does Buck-Tick hail from?
+Right Answer:Fujioka, Gunma
+Answer: Buck-Tick hails from Japan.
+Step-by-step reasoning: The context provided indicates that Buck-Tick is a Japanese rock band formed in Fujioka, Gunma in 1983. This information is found in the first piece of context with index 8, which states, "Buck-Tick (stylized as BUCK-TICK) is a Japanese rock band, formed in Fujioka, Gunma in 1983." Therefore, based on this context, it is clear that Buck-Tick originates from Japan.
+原始EM：10, 总数：32, 网络错误：0, 当前原始EM分数：31.25%, 增强EM答对：10, 当前增强EM分数：31.25%, 当前F1分数：53.551863781643206%
+##########
+##########
+ID:33
+Question:Which  French ace pilot and adventurer fly L'Oiseau Blanc
+Right Answer:Charles Eugène
+Answer: The French ace pilot and adventurer who flew L'Oiseau Blanc was Charles Nungesser.
+
+Step-by-step reasoning: 
+1. The context provided indicates that L'Oiseau Blanc was a French aircraft that attempted the first non-stop transatlantic flight between Paris and New York City in 1927.
+2. It mentions that the aircraft was flown by Charles Nungesser and François Coli, both of whom were French aviation heroes from World War I.
+3. Charles Nungesser is specifically described as a French ace pilot and adventurer, which directly answers the question.
+4. François Coli is also mentioned, but he is described as a pilot and navigator, not specifically as an "ace pilot and adventurer."
+5. Therefore, based on the context given, Charles Nungesser is the French ace pilot and adventurer associated with flying L'Oiseau Blanc.
+原始EM：10, 总数：33, 网络错误：0, 当前原始EM分数：30.303030303030305%, 增强EM答对：10, 当前增强EM分数：30.303030303030305%, 当前F1分数：52.39528049688479%
+##########
+##########
+ID:34
+Question:Are Freakonomics and In the Realm of the Hackers both American documentaries?
+Right Answer:no
+Answer: No, they are not both American documentaries.
+Step-by-step reasoning: The context provided indicates that "Freakonomics: The Movie" is an American documentary film, as it is described in the context with index 9. However, "In The Realm of the Hackers" is described in the context with index 6 as an Australian documentary. Therefore, one is American and the other is Australian, which means they are not both American documentaries.
+原始EM：10, 总数：34, 网络错误：0, 当前原始EM分数：29.411764705882355%, 增强EM答对：10, 当前增强EM分数：29.411764705882355%, 当前F1分数：50.85424283521171%
+##########
+##########
+ID:35
+Question:Which band, Letters to Cleo or Screaming Trees, had more members?
+Right Answer:Letters to Cleo
+Answer: Letters to Cleo had more members.
+Step-by-step reasoning: To determine which band had more members, I reviewed the provided context for each band. For Letters to Cleo, the context states that the band's members are Kay Hanley, Greg McKenna, Michael Eisenstein, Stacy Jones, Scott Riebling, and later, Tom Polce, which totals six members. The context for Screaming Trees mentions four individuals: vocalist Mark Lanegan, guitarist Gary Lee Conner, bass player Van Conner, and drummer Mark Pickerel, who was later replaced by Barrett Martin. This indicates that Screaming Trees had four members at any given time. Therefore, by comparing the number of members listed for each band, it is clear that Letters to Cleo, with six members, had more members than Screaming Trees, which had four members.
+原始EM：10, 总数：35, 网络错误：0, 当前原始EM分数：28.57142857142857%, 增强EM答对：10, 当前增强EM分数：28.57142857142857%, 当前F1分数：51.306026373253275%
+##########
+##########
+ID:36
+Question:Alexander Kerensky was defeated and destroyed by the Bolsheviks in the course of a civil war that ended when ?
+Right Answer:October 1922
+Answer: The civil war ended in 1923.
+
+Step-by-step reasoning: 
+1. The context provided indicates that the Russian Civil War started in November 1917 and ended in October 1922.
+2. It is mentioned that lesser battles of the war continued on the periphery for two more years, and skirmishes with the remnants of the White forces continued well into 1923.
+3. The war is considered to have ended in 1923 in the sense that Red control of the newly formed Soviet Union was now assured.
+4. Therefore, based on the context given, the Bolsheviks defeated Alexander Kerensky's forces during the Russian Civil War, which effectively ended in 1923 when the Red Army assured control over the Soviet Union.
+原始EM：10, 总数：36, 网络错误：0, 当前原始EM分数：27.77777777777778%, 增强EM答对：10, 当前增强EM分数：27.77777777777778%, 当前F1分数：49.88085897399624%
+##########
+##########
+ID:37
+Question:Seven Brief Lessons on Physics was written by an Italian physicist that has worked in France since what year?
+Right Answer:2000
+Answer: 2000
+Step-by-step reasoning: The question asks for the year since the Italian physicist, author of "Seven Brief Lessons on Physics," has worked in France. From the provided context, specifically the paragraph with index 5, it states that Carlo Rovelli, the Italian theoretical physicist and writer, has worked in Italy, the United States, and since 2000, in France. Therefore, the answer is the year 2000.
+原始EM：11, 总数：37, 网络错误：0, 当前原始EM分数：29.72972972972973%, 增强EM答对：11, 当前增强EM分数：29.72972972972973%, 当前F1分数：51.235430353077426%
+##########
+##########
+ID:38
+Question:The Livesey Hal War Memorial commemorates the fallen of which war, that had over 60 million casualties?
+Right Answer:World War II
+Answer: World War II
+Step-by-step reasoning: The Livesey Hall War Memorial commemorates the fallen of both World War I and World War II. However, the context provided specifies that World War II was the deadliest military conflict in history with over 60 million casualties, which aligns with the claim in the question. Therefore, the Livesey Hall War Memorial commemorates the fallen of World War II, which had over 60 million casualties.
+原始EM：12, 总数：38, 网络错误：0, 当前原始EM分数：31.57894736842105%, 增强EM答对：12, 当前增强EM分数：31.57894736842105%, 当前F1分数：52.51870850168064%
+##########
+##########
+ID:39
+Question:Are both Elko Regional Airport and Gerald R. Ford International Airport located in Michigan?
+Right Answer:no
+Answer: No, both Elko Regional Airport and Gerald R. Ford International Airport are not located in Michigan.
+
+Step-by-step reasoning: 
+1. The context provided for **Gerald R. Ford International Airport** states that it is located in **Cascade Township approximately 13 mi southeast of Grand Rapids, Michigan**. This confirms that Gerald R. Ford International Airport is indeed located in Michigan.
+2. The context provided for **Elko Regional Airport** states that it is located **a mile west of downtown Elko, in Elko County, Nevada**. This confirms that Elko Regional Airport is not in Michigan, but in Nevada.
+3. Therefore, based on the information provided, only Gerald R. Ford International Airport is located in Michigan, while Elko Regional Airport is located in Nevada.
+原始EM：12, 总数：39, 网络错误：0, 当前原始EM分数：30.76923076923077%, 增强EM答对：12, 当前增强EM分数：30.76923076923077%, 当前F1分数：51.17207495035551%
+##########
+##########
+ID:40
+Question:Ralph Hefferline was a psychology professor at a university that is located in what city?
+Right Answer:New York City
+Answer: New York City
+Step-by-step reasoning: The context provided indicates that Ralph Franklin Hefferline was a psychology professor at Columbia University. Columbia University is described as being located in Upper Manhattan, New York City. Therefore, the city where Ralph Hefferline was a professor is New York City.
+原始EM：13, 总数：40, 网络错误：0, 当前原始EM分数：32.5%, 增强EM答对：13, 当前增强EM分数：32.5%, 当前F1分数：52.39277307659662%
+##########
+##########
+ID:41
+Question:Which dog's ancestors include Gordon and Irish Setters: the Manchester Terrier or the Scotch Collie?
+Right Answer:Scotch Collie
+Answer: The Scotch Collie
+Step-by-step reasoning: The context provided indicates that the Scotch Collie has ancestors that include the Gordon and Irish Setters. This is explicitly mentioned in the context indexed at 0, which states, "Other ancestors include the Gordon and Irish Setters." There is no mention of the Manchester Terrier having any ancestral link to the Gordon and Irish Setters in the provided context. Therefore, based on the information given, the Scotch Collie's ancestors include the Gordon and Irish Setters.
+原始EM：14, 总数：41, 网络错误：0, 当前原始EM分数：34.146341463414636%, 增强EM答对：14, 当前增强EM分数：34.146341463414636%, 当前F1分数：53.55392495277719%
+##########
+##########
+ID:42
+Question:Where is the company that Sachin Warrier worked for as a software engineer headquartered? 
+Right Answer:Mumbai
+Answer: Mumbai, Maharashtra
+Step-by-step reasoning: 
+1. The question asks for the headquarters of the company where Sachin Warrier worked as a software engineer.
+2. From the provided context, we identify that Sachin Warrier worked for Tata Consultancy Services (TCS).
+3. The context with index 1 states that TCS is headquartered in Mumbai, Maharashtra.
+4. Therefore, the company Sachin Warrier worked for as a software engineer is headquartered in Mumbai, Maharashtra.
+原始EM：14, 总数：42, 网络错误：0, 当前原始EM分数：33.33333333333333%, 增强EM答对：14, 当前增强EM分数：33.33333333333333%, 当前F1分数：53.866133088822174%
+##########
+##########
+ID:43
+Question:A Japanese manga series based on a 16 year old high school student Ichitaka Seto, is written and illustrated by someone born in what year?
+Right Answer:1962
+Answer: 1962
+Step-by-step reasoning: The question asks for the birth year of the author of a Japanese manga series featuring a 16-year-old high school student named Ichitaka Seto. To find the answer, I followed these steps:
+1. I reviewed the provided context to identify any information related to the manga series and its author.
+2. I found that context index 4 mentions "I"s" as a Japanese manga series and identifies Masakazu Katsura as its writer and illustrator.
+3. The same context describes the main character, Ichitaka Seto, confirming that this is the manga series in question.
+4. I then looked at context index 6, which provides information about Masakazu Katsura, including his birth date: December 10, 1962.
+5. With this information, I concluded that the author of the manga series "I"s", Masakazu Katsura, was born in the year 1962.
+原始EM：15, 总数：43, 网络错误：0, 当前原始EM分数：34.883720930232556%, 增强EM答对：15, 当前增强EM分数：34.883720930232556%, 当前F1分数：54.93901371466352%
+##########
+##########
+ID:44
+Question:The battle in which Giuseppe Arimondi lost his life secured what for Ethiopia?
+Right Answer:sovereignty
+Answer: Ethiopian sovereignty
+Step-by-step reasoning: 
+1. The context provided indicates that Giuseppe Arimondi died in the Battle of Adwa.
+2. The same context states that the Battle of Adwa was a decisive defeat for Italy.
+3. It is mentioned that this defeat secured Ethiopian sovereignty.
+4. Therefore, the battle in which Giuseppe Arimondi lost his life, the Battle of Adwa, secured Ethiopian sovereignty.
+原始EM：15, 总数：44, 网络错误：0, 当前原始EM分数：34.090909090909086%, 增强EM答对：15, 当前增强EM分数：34.090909090909086%, 当前F1分数：55.20555128175451%
+##########
+##########
+ID:45
+Question:Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under which United States Vice President?
+Right Answer:Nelson Rockefeller
+Answer: Nelson Rockefeller
+Step-by-step reasoning: 
+1. The question asks under which U.S. Vice President did Alfred Balk serve as the secretary of the Committee on the Employment of Minority Groups in the News Media.
+2. The context provided in index 4 mentions that Alfred Balk served as secretary of New York Governor Nelson Rockefeller's Committee on the Employment of Minority Groups in the News Media.
+3. The context provided in index 3 states that Nelson Rockefeller served as the 41st Vice President of the United States from 1974 to 1977.
+4. By correlating the information from these two pieces of context, it can be concluded that Alfred Balk served under Vice President Nelson Rockefeller in the specified committee.
+原始EM：16, 总数：45, 网络错误：0, 当前原始EM分数：35.55555555555556%, 增强EM答对：16, 当前增强EM分数：35.55555555555556%, 当前F1分数：56.200983475493295%
+##########
+##########
+ID:46
+Question:A medieval fortress in Dirleton, East Lothian, Scotland borders on the south side of what coastal area?
+Right Answer:Yellowcraig
+Answer: Yellowcraig
+Step-by-step reasoning: To determine the coastal area that borders Dirleton Castle on the south side, I examined the provided context. Context index 5 mentions that Yellowcraig is bordered to the south by the village of Dirleton and Dirleton Castle. Since the question asks for the coastal area that borders Dirleton Castle on the south side, the answer is Yellowcraig, as it is the area mentioned to be directly south of Dirleton Castle.
+原始EM：17, 总数：46, 网络错误：0, 当前原始EM分数：36.95652173913043%, 增强EM答对：17, 当前增强EM分数：36.95652173913043%, 当前F1分数：57.15313600863474%
+##########
+##########
+ID:47
+Question:Who is the writer of this song that was inspired by words on a tombstone and was the first track on the box set Back to Mono?
+Right Answer:Phil Spector
+Answer: Phil Spector
+Step-by-step reasoning: The question asks for the writer of a song that was inspired by words on a tombstone and was the first track on the box set "Back to Mono." From the provided context, we can determine the following:
+1. Context index 7 mentions that "To Know Him Is to Love Him" is a song written by Phil Spector, inspired by words on his father's tombstone.
+2. The same context states that it was first recorded by the Teddy Bears, which included Phil Spector as a member.
+3. Context index 5 confirms that "To Know Him Is to Love Him" is the first track on the box set "Back to Mono."
+4. The context from index 5 also specifies that "Back to Mono" is a compilation of Phil Spector's work, which includes the song in question.
+5. The other context provided (index 4) is about the Beatles and their "Mono Masters" album, which is not relevant to the question.
+Therefore, by analyzing the relevant context, we can conclude that Phil Spector is the writer of the song "To Know Him Is to Love Him," which fits the criteria mentioned in the question.
+原始EM：18, 总数：47, 网络错误：0, 当前原始EM分数：38.297872340425535%, 增强EM答对：18, 当前增强EM分数：38.297872340425535%, 当前F1分数：58.06477141270635%
+##########
+##########
+ID:48
+Question:What type of forum did a former Soviet statesman initiate?
+Right Answer:Organizations could come together to address global issues
+Answer: The World Summit of Nobel Peace Laureates.
+
+Step-by-step reasoning: 
+1. The question asks about the type of forum initiated by a former Soviet statesman.
+2. From the provided context, we identify Mikhail Gorbachev as a former Soviet statesman mentioned in the context with index 3.
+3. The context with index 2 mentions that Mikhail Gorbachev initiated the World Summit of Nobel Peace Laureates in the 90s.
+4. This forum is described as a place where Nobel Peace Laureates and Peace Laureate Organizations could come together to address global issues and support peace and human well-being.
+5. Based on this information, we conclude that the type of forum initiated by Mikhail Gorbachev is the World Summit of Nobel Peace Laureates.
+原始EM：18, 总数：48, 网络错误：0, 当前原始EM分数：37.5%, 增强EM答对：18, 当前增强EM分数：37.5%, 当前F1分数：56.85508867494163%
+##########
+##########
+ID:49
+Question:Are Ferocactus and Silene both types of plant?
+Right Answer:yes
+Answer: Yes, Ferocactus and Silene are both types of plants.
+Step-by-step reasoning: 
+1. The context provided states that Ferocactus is a genus of large barrel-shaped cacti, which places it within the plant kingdom.
+2. It also mentions that Silene is a genus of flowering plants in the family Caryophyllaceae, which confirms it as a type of plant.
+3. Both genera are described as having multiple species and distinct characteristics that pertain to plants, such as flowers and growth habits.
+4. Therefore, based on the given context, both Ferocactus and Silene are classified as types of plants.
+原始EM：18, 总数：49, 网络错误：0, 当前原始EM分数：36.734693877551024%, 增强EM答对：18, 当前增强EM分数：36.734693877551024%, 当前F1分数：55.69478074279996%
+##########
+##########
+ID:50
+Question:Which British first-generation jet-powered medium bomber was used in the South West Pacific theatre of World War II?
+Right Answer:English Electric Canberra
+Answer: English Electric Canberra
+Step-by-step reasoning: The question asks for a British first-generation jet-powered medium bomber used in the South West Pacific theatre of World War II. The context provided does not mention a British bomber used during World War II specifically, but it does mention that No. 2 Squadron RAAF was equipped with English Electric Canberra jets during the Malayan Emergency and the Vietnam War. The English Electric Canberra is a British first-generation jet-powered medium bomber. Although the context does not explicitly state that the Canberra was used in World War II, it is the only British jet-powered bomber mentioned in the context and is known to be a first-generation jet bomber. Therefore, by elimination and correlation with known historical facts, the English Electric Canberra is the most likely answer.
+原始EM：19, 总数：50, 网络错误：0, 当前原始EM分数：38.0%, 增强EM答对：19, 当前增强EM分数：38.0%, 当前F1分数：56.58088512794397%
+##########
+##########
+ID:51
+Question:Which year and which conference was the 14th season for this conference as part of the NCAA Division that the Colorado Buffaloes played in with a record of 2-6 in conference play?
+Right Answer:2009 Big 12 Conference
+Answer: The year was 2009, and the conference was the Big 12 Conference.
+Step-by-step reasoning: 
+1. The question asks for the year and conference of the 14th season that the Colorado Buffaloes played in with a 2-6 conference record.
+2. From the provided context, we see that the 2009 Big 12 Conference football season was the 14th season for the Big 12 (from context index 1).
+3. The same context index (7) also mentions that the 2009 Colorado Buffaloes football team had a record of 2-6 in Big 12 play.
+4. Therefore, by correlating these pieces of information, it is clear that the 2009 season was the 14th season for the Big 12 Conference, and the Colorado Buffaloes played in this conference with a 2-6 record in conference play.
+5. The context from index 8 is about the 2011 season and the Pac-12 Conference, which is not relevant to the question.
+原始EM：19, 总数：51, 网络错误：0, 当前原始EM分数：37.254901960784316%, 增强EM答对：19, 当前增强EM分数：37.254901960784316%, 当前F1分数：56.77864555027187%
+##########
+##########
+ID:52
+Question:In 1991 Euromarché was bought by a chain that operated how any hypermarkets at the end of 2016?
+Right Answer:1,462
+Answer: 1,462 hypermarkets
+Step-by-step reasoning: To answer the question, I analyzed the provided context. The context from index 6 states that Euromarché was bought by Carrefour in June 1991. The context from index 0 provides the information that Carrefour operated 1,462 hypermarkets at the end of 2016. Therefore, the chain that bought Euromarché in 1991, which is Carrefour, operated 1,462 hypermarkets at the end of 2016.
+原始EM：19, 总数：52, 网络错误：0, 当前原始EM分数：36.53846153846153%, 增强EM答对：19, 当前增强EM分数：36.53846153846153%, 当前F1分数：56.968799802510226%
+##########
+##########
+ID:53
+Question:What race track in the midwest hosts a 500 mile race eavery May?
+Right Answer:Indianapolis Motor Speedway
+Answer: Indianapolis Motor Speedway
+Step-by-step reasoning: The context provided indicates that the Indianapolis Motor Speedway is located in Speedway, Indiana, and is known for hosting the Indianapolis 500, which is a 500-mile race. The context also mentions that this race track has historically held the Indianapolis 500 mile race every May, starting from its first race in 1911. Therefore, based on the information given, the race track in the Midwest that hosts a 500-mile race every May is the Indianapolis Motor Speedway.
+原始EM：20, 总数：53, 网络错误：0, 当前原始EM分数：37.735849056603776%, 增强EM答对：20, 当前增强EM分数：37.735849056603776%, 当前F1分数：57.78070924019871%
+##########
+##########
+ID:54
+Question:In what city did the "Prince of tenors" star in a film based on an opera by Giacomo Puccini?
+Right Answer:Rome
+Answer: Rome
+Step-by-step reasoning: The question asks for the city where the "Prince of tenors" starred in a film based on an opera by Giacomo Puccini. From the provided context, we can identify that Franco Corelli, who is referred to as the "Prince of tenors," starred in the film "Tosca," which is based on the opera by Giacomo Puccini. The context with index 0 states that the film "Tosca" was made at Cinecittà in Rome. Therefore, the city where the "Prince of tenors" starred in a film based on an opera by Giacomo Puccini is Rome.
+原始EM：21, 总数：54, 网络错误：0, 当前原始EM分数：38.88888888888889%, 增强EM答对：21, 当前增强EM分数：38.88888888888889%, 当前F1分数：58.56254795797281%
+##########
+##########
+ID:55
+Question:Ellie Goulding worked with what other writers on her third studio album, Delirium?
+Right Answer:Max Martin, Savan Kotecha and Ilya Salmanzadeh
+Answer: Ellie Goulding worked with Max Martin, Savan Kotecha, Ilya Salmanzadeh, Tove Lo, and Ali Payami on her third studio album, Delirium.
+
+Step-by-step reasoning: 
+1. I reviewed the context provided for mentions of songwriters who collaborated with Ellie Goulding on her album "Delirium."
+2. In the context for "On My Mind," it states that the song was written by Goulding, Max Martin, Savan Kotecha, and Ilya Salmanzadeh.
+3. The context for "Love Me like You Do" includes additional writers: Tove Lo and Ali Payami, alongside Savan Kotecha, Ilya Salmanzadeh, and Max Martin.
+4. By combining the information from both contexts, I identified all the writers who worked with Ellie Goulding on "Delirium": Max Martin, Savan Kotecha, Ilya Salmanzadeh, Tove Lo, and Ali Payami.
+5. There is no mention of other writers in the provided contexts, so I concluded that these are the writers she collaborated with for the album.
+原始EM：21, 总数：55, 网络错误：0, 当前原始EM分数：38.18181818181819%, 增强EM答对：21, 当前增强EM分数：38.18181818181819%, 当前F1分数：58.33693519789779%
+##########
+##########
+ID:56
+Question:Which Australian city founded in 1838 contains a boarding school opened by a Prime Minister of Australia and named after a school in London of the same name.
+Right Answer:Marion, South Australia
+Answer: Adelaide
+
+Step-by-step reasoning: 
+1. The question asks for an Australian city founded in 1838 that contains a boarding school opened by a Prime Minister of Australia and named after a school in London with the same name.
+2. From the provided context, the paragraph with 'idx': 9 mentions **Westminster School**, which is located at Marion, South Australia, near Adelaide.
+3. This paragraph also states that the school was opened by Prime Minister **Robert Menzies** in 1961 and is named after **Westminster School in London**.
+4. The paragraph with 'idx': 0 provides information that Marion is a suburb in the **City of Marion in Adelaide**, which was founded in 1838.
+5. By connecting the information from these two paragraphs, it can be concluded that the city in question is **Adelaide**, as it is the city associated with the suburb of Marion where Westminster School is located.
+6. The paragraph with 'idx': 8 is about a different school in India and is not relevant to the question.
+原始EM：21, 总数：56, 网络错误：0, 当前原始EM分数：37.5%, 增强EM答对：21, 当前增强EM分数：37.5%, 当前F1分数：57.29520421222104%
+##########
+##########
+ID:57
+Question:D1NZ is a series based on what oversteering technique?
+Right Answer:Drifting
+Answer: Drifting
+Step-by-step reasoning: 
+1. The context provided in index 1 defines drifting as a driving technique where the driver intentionally oversteers, with loss of traction in the rear wheels or all tires, while maintaining control and driving the car through the entirety of a corner.
+2. The context in index 3 mentions that D1NZ is a production car drifting series in New Zealand, which indicates that the series is based on the drifting technique.
+3. The context in index 0 about Iron Man is not relevant to the question about D1NZ.
+4. By analyzing the relevant contexts (index 1 and 3), it is clear that the oversteering technique D1NZ is based on is drifting.
+原始EM：22, 总数：57, 网络错误：0, 当前原始EM分数：38.59649122807017%, 增强EM答对：22, 当前增强EM分数：38.59649122807017%, 当前F1分数：58.044411155866285%
+##########
+##########
+ID:58
+Question:who is younger Keith Bostic or Jerry Glanville ?
+Right Answer:Keith Bostic
+Answer: Keith Bostic is younger than Jerry Glanville.
+Step-by-step reasoning: To determine who is younger, we need to compare the birth dates of Keith Bostic and Jerry Glanville. From the provided context, we have the following information:
+- Keith Bostic was born on January 17, 1961.
+- Jerry Glanville was born on October 14, 1941.
+By comparing the years of birth, it is clear that Keith Bostic (1961) was born 20 years after Jerry Glanville (1941). Therefore, Keith Bostic is the younger of the two.
+原始EM：22, 总数：58, 网络错误：0, 当前原始EM分数：37.93103448275862%, 增强EM答对：22, 当前增强EM分数：37.93103448275862%, 当前F1分数：57.809928971186594%
+##########
+##########
+ID:59
+Question:According to the 2001 census, what was the population of the city in which Kirton End is located?
+Right Answer:35,124
+Answer: The population of the city in which Kirton End is located was 35,124 according to the 2001 census.
+
+Step-by-step reasoning: 
+1. I identified that Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.
+2. I found that Boston is the nearest town to Kirton End, as Kirton End lies 4 mi south-west from Boston.
+3. I located the information stating that the town of Boston had a population of 35,124 at the 2001 census.
+4. Since Kirton End is part of the Boston district and Boston is the nearest town, it is reasonable to conclude that the population figure for Boston is the relevant statistic for Kirton End.
+5. Therefore, the population of the city (town, in this case) in which Kirton End is located, according to the 2001 census, is 35,124.
+原始EM：22, 总数：59, 网络错误：0, 当前原始EM分数：37.28813559322034%, 增强EM答对：22, 当前增强EM分数：37.28813559322034%, 当前F1分数：57.041964073369876%
+##########
+##########
+ID:60
+Question:Are both Cypress and Ajuga genera?
+Right Answer:no
+Answer: Yes, both Cypress and Ajuga are genera.
+
+Step-by-step reasoning: 
+1. The context provided for **Ajuga** states that it is a genus of 40 species annual and perennial herbaceous flowering plants in the mint family Lamiaceae.
+2. The context for **Cupressus**, which is commonly known as cypress, indicates that it is one of several genera within the family Cupressaceae.
+3. Therefore, based on the provided context, both **Ajuga** and **Cupressus** (cypress) are confirmed to be genera within their respective families.
+原始EM：22, 总数：60, 网络错误：0, 当前原始EM分数：36.666666666666664%, 增强EM答对：22, 当前增强EM分数：36.666666666666664%, 当前F1分数：56.09126467214705%
+##########
+##########
+ID:61
+Question:What distinction is held by the former NBA player who was a member of the Charlotte Hornets during their 1992-93 season and was head coach for the WNBA team Charlotte Sting?
+Right Answer:shortest player ever to play in the National Basketball Association
+Answer: The distinction held by the former NBA player who was a member of the Charlotte Hornets during their 1992-93 season and was head coach for the WNBA team Charlotte Sting is being the shortest player ever to play in the National Basketball Association (NBA).
+
+Step-by-step reasoning: 
+1. The question asks for a distinction related to a former NBA player who was with the Charlotte Hornets in the 1992-93 season and later became the head coach for the Charlotte Sting.
+2. From the provided context, we identify Tyrone Curtis "Muggsy" Bogues as the player in question.
+3. According to the context with index 5, Muggsy Bogues is noted as the shortest player ever to play in the NBA, standing at 5 feet tall.
+4. This information about his height is a distinctive feature and matches the criteria of the question.
+5. Therefore, the answer is derived from the context that Muggsy Bogues' distinction is being the shortest player in NBA history.
+原始EM：22, 总数：61, 网络错误：0, 当前原始EM分数：36.0655737704918%, 增强EM答对：22, 当前增强EM分数：36.0655737704918%, 当前F1分数：55.82747344801348%
+##########
+##########
+ID:62
+Question:What is the name of the executive producer of the film that has a score composed by Jerry Goldsmith?
+Right Answer:Ronald Shusett
+Answer: Jack Schwartzman and Francis Ford Coppola
+Step-by-step reasoning: 
+1. The question asks for the name of the executive producer of a film that has a score composed by Jerry Goldsmith.
+2. Reviewing the provided context, I need to identify which films mentioned have a score composed by Jerry Goldsmith.
+3. From the context index 5, it is mentioned that "The composer Jerry Goldsmith wrote the score" for the film "Lionheart."
+4. The same context index 5 also states that Francis Ford Coppola and Jack Schwartzman served as executive producers for "Lionheart."
+5. Therefore, the executive producers of the film "Lionheart," which has a score composed by Jerry Goldsmith, are Jack Schwartzman and Francis Ford Coppola.
+原始EM：22, 总数：62, 网络错误：0, 当前原始EM分数：35.483870967741936%, 增强EM答对：22, 当前增强EM分数：35.483870967741936%, 当前F1分数：54.92703032788423%
+##########
+##########
+ID:63
+Question:Who was born earlier, Emma Bull or Virginia Woolf?
+Right Answer:Adeline Virginia Woolf
+Answer: Virginia Woolf was born earlier.
+
+Step-by-step reasoning: 
+1. From the provided context, we have two birth dates to compare: **Adeline Virginia Woolf** was born on **25 January 1882**, and **Emma Bull** was born on **December 13, 1954**.
+2. Comparing the years of birth, **1882** for Virginia Woolf and **1954** for Emma Bull, it is clear that 1882 is earlier than 1954.
+3. Therefore, **Virginia Woolf** was born earlier than **Emma Bull**.
+原始EM：22, 总数：63, 网络错误：0, 当前原始EM分数：34.92063492063492%, 增强EM答对：22, 当前增强EM分数：34.92063492063492%, 当前F1分数：54.84882349728289%
+##########
+##########
+ID:64
+Question:What was the Roud Folk Song Index of the nursery rhyme inspiring What Are Little Girls Made Of?
+Right Answer:821
+Answer: The Roud Folk Song Index of the nursery rhyme inspiring "What Are Little Girls Made Of?" is 821.
+
+Step-by-step reasoning: 
+1. The question asks for the Roud Folk Song Index of the nursery rhyme that inspired "What Are Little Girls Made Of?"
+2. From the provided context, we see that "What Are Little Boys Made Of?" is a nursery rhyme from the early 19th century with a Roud Folk Song Index number of 821.
+3. The title of the episode "What Are Little Girls Made Of?" from the American science fiction television series is taken from the fourth line of the nursery rhyme "What Are Little Boys Made Of?"
+4. Therefore, since "What Are Little Girls Made Of?" was inspired by "What Are Little Boys Made Of?" and they are essentially the same nursery rhyme, they share the same Roud Folk Song Index number.
+5. The Roud Folk Song Index number 5040 is associated with a different nursery rhyme, "Did You Ever See a Lassie?" and is not relevant to this question.
+6. Hence, the Roud Folk Song Index for the nursery rhyme inspiring "What Are Little Girls Made Of?" is the same as "What Are Little Boys Made Of?", which is 821.
+原始EM：22, 总数：64, 网络错误：0, 当前原始EM分数：34.375%, 增强EM答对：22, 当前增强EM分数：34.375%, 当前F1分数：54.17563415954961%
+##########
+##########
+ID:65
+Question:Scott Parkin has been a vocal critic of Exxonmobil and another corporation that has operations in how many countries ?
+Right Answer:more than 70 countries
+Answer: More than 70 countries.
+
+Step-by-step reasoning: The question asks about the number of countries in which a corporation, criticized by Scott Parkin along with Exxonmobil, operates. The provided context mentions that Scott Parkin has been a critic of Halliburton, which is described as an American multinational corporation with operations in more than 70 countries. Therefore, based on the context given, the other corporation that Scott Parkin has criticized, which is Halliburton, operates in more than 70 countries.
+原始EM：23, 总数：65, 网络错误：0, 当前原始EM分数：35.38461538461539%, 增强EM答对：23, 当前增强EM分数：35.38461538461539%, 当前F1分数：54.880624403248845%
+##########
+##########
+ID:66
+Question:What WB supernatrual drama series was Jawbreaker star Rose Mcgowan best known for being in?
+Right Answer:Charmed
+Answer: Charmed
+Step-by-step reasoning: The context provided indicates that Rose McGowan is best known for her role in the WB supernatural drama series "Charmed." This is supported by the following information:
+- Context index 4 mentions that Rose McGowan played Paige Matthews in "Charmed" from 2001 to 2006.
+- Context index 6 details the fourth season of "Charmed," which began airing in 2001 on The WB and introduced Rose McGowan as Paige Matthews.
+- Context index 7 describes "Charmed" as an American television series broadcast by The WB, where Rose McGowan joined the cast as Paige Matthews after the departure of Shannen Doherty in 2001.
+Combining these pieces of context, it is clear that the WB supernatural drama series Rose McGowan was best known for being in is "Charmed."
+原始EM：24, 总数：66, 网络错误：0, 当前原始EM分数：36.36363636363637%, 增强EM答对：24, 当前增强EM分数：36.36363636363637%, 当前F1分数：55.56425130622993%
+##########
+##########
+ID:67
+Question:Vince Phillips held a junior welterweight title by an organization recognized by what larger Hall of Fame?
+Right Answer:International Boxing Hall of Fame
+Answer: International Boxing Hall of Fame (IBHOF)
+Step-by-step reasoning: 
+1. The context provided indicates that Vince Phillips held the IBF junior welterweight title.
+2. The IBF is listed as one of the organizations recognized by the International Boxing Hall of Fame (IBHOF).
+3. Therefore, Vince Phillips held a junior welterweight title by an organization (IBF) that is recognized by the larger Hall of Fame, the IBHOF.
+原始EM：24, 总数：67, 网络错误：0, 当前原始EM分数：35.82089552238806%, 增强EM答对：24, 当前增强EM分数：35.82089552238806%, 当前F1分数：56.09178622567561%
+##########
+##########
+ID:68
+Question:What is the name of the singer who's song was released as the lead single from the album "Confessions", and that had popular song stuck behind for eight consecutive weeks?
+Right Answer:Usher
+Answer: Usher
+Step-by-step reasoning: The question asks for the name of the singer whose song was released as the lead single from the album "Confessions" and was stuck behind another popular song for eight consecutive weeks. From the provided context, we can determine the following:
+- The first piece of context (idx: 0) mentions that "Yeah!" is a song by American singer Usher, which was released as the lead single from his fourth studio album "Confessions".
+- The second piece of context (idx: 5) states that Mario Winans' song "I Don't Wanna Know" was stuck at number 2 in the United States for eight consecutive weeks behind the Usher singles "Yeah" and "Burn".
+- The third piece of context (idx: 7) is about a different song and does not pertain to the question.
+Therefore, by analyzing the context, we can conclude that the singer in question is Usher.
+原始EM：25, 总数：68, 网络错误：0, 当前原始EM分数：36.76470588235294%, 增强EM答对：25, 当前增强EM分数：36.76470588235294%, 当前F1分数：56.73749525176861%
+##########
+##########
+ID:69
+Question:who is the younger brother of The episode guest stars of The Hard Easy 
+Right Answer:Bill Murray
+Answer: Bill Murray
+Step-by-step reasoning: The question asks for the younger brother of one of the guest stars of "The Hard Easy" episode of "Adventure Time". From the provided context, we can see that Brian Doyle-Murray guest-starred in this episode. Another piece of context states that Brian Doyle-Murray is the older brother of Bill Murray. Therefore, Bill Murray is the younger brother of Brian Doyle-Murray, who guest-starred in "The Hard Easy".
+原始EM：26, 总数：69, 网络错误：0, 当前原始EM分数：37.68115942028986%, 增强EM答对：26, 当前增强EM分数：37.68115942028986%, 当前F1分数：57.364488074206754%
+##########
+##########
+ID:70
+Question:The 2017–18 Wigan Athletic F.C. season will be a year in which the team competes in the league cup known as what for sponsorship reasons?
+Right Answer:Carabao Cup
+Answer: Carabao Cup
+Step-by-step reasoning: To answer the question, I analyzed the provided context. Context index 4 mentions that the EFL Cup is currently known as the Carabao Cup for sponsorship reasons. Context index 5 confirms that Wigan Athletic will participate in the EFL Cup during the 2017–18 season. By connecting these two pieces of information, I concluded that the league cup in which Wigan Athletic F.C. competes for the 2017–18 season, known for sponsorship reasons, is the Carabao Cup.
+原始EM：27, 总数：70, 网络错误：0, 当前原始EM分数：38.57142857142858%, 增强EM答对：27, 当前增强EM分数：38.57142857142858%, 当前F1分数：57.973566816003796%
+##########
+##########
+ID:71
+Question:Which of Tara Strong major voice role in animated series is an American animated television series based on the DC Comics fictional superhero team, the "Teen Titans"?
+Right Answer:Teen Titans Go!
+Answer: Raven
+Step-by-step reasoning: To determine which of Tara Strong's major voice roles in animated series is an American animated television series based on the DC Comics fictional superhero team, the "Teen Titans", I reviewed the provided context. The context with 'idx': 2 specifically mentions "Teen Titans" as an American animated television series and lists the main characters along with their voice actors. It states that the character of the dark sorceress Raven is voiced by Tara Strong. Therefore, the answer is Raven, as she is a major character in "Teen Titans" and is voiced by Tara Strong.
+原始EM：27, 总数：71, 网络错误：0, 当前原始EM分数：38.028169014084504%, 增强EM答对：27, 当前增强EM分数：38.028169014084504%, 当前F1分数：57.15703770591924%
+##########
+##########
+ID:72
+Question:What is the inhabitant of the city where  122nd SS-Standarte was formed in2014
+Right Answer:276,170 inhabitants
+Answer: The inhabitants of the city where the 122nd SS-Standarte was formed are known as Strasbourgeois.
+
+Step-by-step reasoning: 
+1. The question asks for the inhabitants of the city where the 122nd SS-Standarte was formed.
+2. From the provided context, we can see that the 122nd SS-Standarte was formed in the city of Strasbourg during World War II.
+3. The term for the inhabitants of a city is typically derived from the name of the city itself.
+4. Therefore, the inhabitants of Strasbourg are referred to as Strasbourgeois, which is a standard demonym for the residents of Strasbourg.
+原始EM：27, 总数：72, 网络错误：0, 当前原始EM分数：37.5%, 增强EM答对：27, 当前增强EM分数：37.5%, 当前F1分数：56.5616026584164%
+##########
+##########
+ID:73
+Question:What color clothing do people of the Netherlands wear during Oranjegekte or to celebrate the national holiday Koningsdag? 
+Right Answer:orange
+Answer: Orange
+
+Step-by-step reasoning: 
+1. The context index 0 provides information about **Oranjegekte** or **Oranjekoorts**, which are terms used to describe a phenomenon in the Netherlands associated with major sporting events and **Koningsdag**.
+2. It states that during these events, there is a tradition of wearing **orange clothing** such as T-shirts, caps, and scarfs.
+3. The color orange is significant because it is the traditional color of the Dutch royal family, the House of Orange-Nassau.
+4. The context index 4 confirms that **Koningsdag** is a national holiday in the Netherlands, which celebrates the king's birthday.
+5. Based on this information, it can be concluded that during Oranjegekte and Koningsdag, people in the Netherlands wear **orange clothing** to celebrate these occasions.
+原始EM：28, 总数：73, 网络错误：0, 当前原始EM分数：38.35616438356164%, 增强EM答对：28, 当前增强EM分数：38.35616438356164%, 当前F1分数：57.156649197342205%
+##########
+##########
+ID:74
+Question:What was the name of the 1996 loose adaptation of William Shakespeare's "Romeo & Juliet" written by James Gunn?
+Right Answer:Tromeo and Juliet
+Answer: Tromeo and Juliet
+Step-by-step reasoning: The question asks for the name of the 1996 loose adaptation of William Shakespeare's "Romeo & Juliet" written by James Gunn. By examining the provided context:
+- Context index 7 mentions "Tromeo and Juliet is a 1996 American independent transgressive romantic comedy film and a loose adaptation of William Shakespeare's 'Romeo & Juliet' from Troma Entertainment." It also states that the screenplay was co-written by James Gunn.
+- Context index 1 confirms that James Gunn wrote the script for "Tromeo and Juliet" in 1996.
+- Context index 0 talks about a different film, "William Shakespeare's Romeo + Juliet," which is not written by James Gunn but is another adaptation from 1996.
+Therefore, based on the information given, the name of the film written by James Gunn is "Tromeo and Juliet."
+原始EM：29, 总数：74, 网络错误：0, 当前原始EM分数：39.189189189189186%, 增强EM答对：29, 当前增强EM分数：39.189189189189186%, 当前F1分数：57.73561339737812%
+##########
+##########
+ID:75
+Question:Robert Suettinger was the national intelligence officer under which former Governor of Arkansas?
+Right Answer:William Jefferson Clinton
+Answer: William Jefferson Clinton
+Step-by-step reasoning: 
+1. The question asks under which former Governor of Arkansas Robert Suettinger served as the national intelligence officer.
+2. The context provided indicates that Robert Suettinger was the national intelligence officer for East Asia at the National Intelligence Council during Bill Clinton's presidency.
+3. Another piece of context states that William Jefferson Clinton, before becoming the President of the United States, served as the Governor of Arkansas.
+4. By connecting these pieces of information, it can be concluded that Robert Suettinger served under William Jefferson Clinton when he was the national intelligence officer, as Clinton is the only former Governor of Arkansas mentioned in the context who also served as President during the time Suettinger held that position.
+原始EM：30, 总数：75, 网络错误：0, 当前原始EM分数：40.0%, 增强EM答对：30, 当前增强EM分数：40.0%, 当前F1分数：58.29913855207975%
+##########
+##########
+ID:76
+Question:What American professional Hawaiian surfer born 18 October 1992 won the Rip Curl Pro Portugal?
+Right Answer:John John Florence
+Answer: John John Florence
+Step-by-step reasoning: 
+1. The question asks for the name of an American professional Hawaiian surfer born on 18 October 1992 who won the Rip Curl Pro Portugal.
+2. Context index 5 mentions John "John" Alexander Florence, an American professional surfer born on 18 October 1992.
+3. The same context states that he has won the title of 2016 World Surf League Men's Champion.
+4. Context index 2 confirms that the defending champion of the Rip Curl Pro Portugal in 2016 was John John Florence.
+5. By correlating the information from context indexes 5 and 2, it is clear that John John Florence is the surfer who won the Rip Curl Pro Portugal and fits the description provided in the question.
+原始EM：31, 总数：76, 网络错误：0, 当前原始EM分数：40.78947368421053%, 增强EM答对：31, 当前增强EM分数：40.78947368421053%, 当前F1分数：58.84783409744712%
+##########
+##########
+ID:77
+Question:What is the middle name of the actress who plays Bobbi Bacha in Suburban Madness?
+Right Answer:Ann
+Answer: Ann
+Step-by-step reasoning: To find the middle name of the actress who plays Bobbi Bacha in "Suburban Madness," I reviewed the provided context. The first piece of context (index 0) states "Sela Ann Ward (born July 11, 1956) is an American actress, author and producer..." From this statement, I can determine that the middle name of the actress is "Ann." The other pieces of context confirm that Sela Ward is the actress who played Bobbi Bacha, but they do not provide additional information about her middle name. Therefore, based on the first context, the middle name of the actress who plays Bobbi Bacha in "Suburban Madness" is Ann.
+原始EM：32, 总数：77, 网络错误：0, 当前原始EM分数：41.55844155844156%, 增强EM答对：32, 当前增强EM分数：41.55844155844156%, 当前F1分数：59.38227781046728%
+##########
+##########
+ID:78
+Question:Alvaro Mexia had a diplomatic mission with which tribe of indigenous people?
+Right Answer:Apalachees
+Answer: Ais
+Step-by-step reasoning: The context provided indicates that Alvaro Mexia was a 17th-century Spanish explorer who was stationed in St. Augustine and was given a diplomatic mission to the native populations living south of St. Augustine and in the Cape Canaveral area. This mission resulted in a "Period of Friendship" between the Spanish and the Ais native population. Therefore, the tribe of indigenous people Alvaro Mexia had a diplomatic mission with was the Ais tribe.
+原始EM：32, 总数：78, 网络错误：0, 当前原始EM分数：41.02564102564102%, 增强EM答对：32, 当前增强EM分数：41.02564102564102%, 当前F1分数：58.620966556486934%
+##########
+##########
+ID:79
+Question:What nationality were social anthropologists Alfred Gell and Edmund Leach?
+Right Answer:British
+Answer: Sir Edmund Ronald Leach was British, and Alfred Gell was also likely British.
+
+Step-by-step reasoning: 
+1. The context provided states that **Sir Edmund Ronald Leach** was a **British social anthropologist**.
+2. Although there is no direct statement about Alfred Gell's nationality, the context mentions him in relation to a book that is the best account of a primitive technological-cum-magical system. Given that he is referenced in the context of British anthropology and is commenting on works relevant to British anthropology, it is reasonable to infer that Alfred Gell was likely British as well.
+3. Additionally, the context about the Association of Social Anthropologists of the UK and Commonwealth being a learned society in the United Kingdom dedicated to promoting the academic discipline of psychosocial studies supports the inference that both anthropologists, being prominent in their field, were associated with the UK.
+原始EM：32, 总数：79, 网络错误：0, 当前原始EM分数：40.50632911392405%, 增强EM答对：32, 当前增强EM分数：40.50632911392405%, 当前F1分数：58.07367097203285%
+##########
+##########
+ID:80
+Question:In which year was the King who made the 1925 Birthday Honours born?
+Right Answer:1865
+Answer: 1865
+Step-by-step reasoning: To determine the year of birth for the King who made the 1925 Birthday Honours, I examined the provided context. The context with index 7 states that **George V** was King of the United Kingdom and the British Dominions, and Emperor of India, from 1910 until his death in 1936. It also provides his full name and his dates of birth and death, which are **3 June 1865 – 20 January 1936**. The context with index 4 confirms that the 1925 Birthday Honours were appointed by King George V. Therefore, by cross-referencing these pieces of information, it is clear that the King who made the 1925 Birthday Honours, George V, was born in the year **1865**.
+原始EM：33, 总数：80, 网络错误：0, 当前原始EM分数：41.25%, 增强EM答对：33, 当前增强EM分数：41.25%, 当前F1分数：58.59775008488245%
+##########
+##########
+ID:81
+Question:What is the county seat of the county where East Lempster, New Hampshire is located?
+Right Answer:Newport
+Answer: Newport
+Step-by-step reasoning: To determine the county seat of the county where East Lempster, New Hampshire is located, I reviewed the provided context:
+1. Context index 3 states that Lempster is a town in Sullivan County, New Hampshire.
+2. Context index 4 confirms that East Lempster is an unincorporated community in the town of Lempster, which is in Sullivan County.
+3. Context index 2 provides the information that the county seat of Sullivan County is Newport.
+
+Therefore, by connecting these pieces of information, I conclude that the county seat of the county where East Lempster, New Hampshire is located is Newport.
+原始EM：34, 总数：81, 网络错误：0, 当前原始EM分数：41.9753086419753%, 增强EM答对：34, 当前增强EM分数：41.9753086419753%, 当前F1分数：59.108888972723406%
+##########
+##########
+ID:82
+Question:The Album Against the Wind was the 11th Album of a Rock singer Robert C Seger born may 6 1945. What was the Rock singers stage name ?
+Right Answer:Bob Seger
+Answer: Bob Seger
+Step-by-step reasoning: The context provided indicates that Robert Clark Seger, born May 6, 1945, performed and recorded as Bob Seger and the Last Heard and Bob Seger System throughout the 1960s. By the early 1970s, he dropped the 'System' from his recordings and continued with various other bands. The album "Against the Wind" is mentioned as the eleventh album by American rock singer Bob Seger and his fourth with the Silver Bullet Band. Therefore, the stage name of the rock singer Robert C Seger is Bob Seger.
+原始EM：35, 总数：82, 网络错误：0, 当前原始EM分数：42.68292682926829%, 增强EM答对：35, 当前增强EM分数：42.68292682926829%, 当前F1分数：59.6075610584219%
+##########
+##########
+ID:83
+Question:Rostker v. Goldberg held that the practice of what way of filling armed forces vacancies was consitutional?
+Right Answer:Conscription
+Answer: The practice of requiring only men to register for the draft.
+
+Step-by-step reasoning: 
+1. The context provided from idx 2 states that Rostker v. Goldberg was a decision by the United States Supreme Court.
+2. The decision held that the practice of requiring only men to register for the draft was constitutional.
+3. The Supreme Court's decision was based on the fact that the United States Congress had enacted the law to apply to men only after extensive hearings, debates, and committee sessions.
+4. The gender distinction of requiring only men to register for the draft was challenged as unconstitutional, but the Supreme Court held in a 6-3 decision that this gender distinction did not violate the equal protection component of the due process clause.
+5. Therefore, the practice upheld by the Supreme Court in Rostker v. Goldberg was the practice of requiring only men to register for the draft.
+原始EM：35, 总数：83, 网络错误：0, 当前原始EM分数：42.168674698795186%, 增强EM答对：35, 当前增强EM分数：42.168674698795186%, 当前F1分数：58.88939767217586%
+##########
+##########
+ID:84
+Question:Handi-Snacks are a snack food product line sold by what American multinational confectionery, food, and beverage company that is based in Illinois?
+Right Answer:Mondelez International, Inc.
+Answer: Mondelez International
+
+Step-by-step reasoning: The question asks for the company that sells Handi-Snacks and is based in Illinois. From the provided context:
+- Context index 4 states that Handi-Snacks are sold by Mondelez International.
+- Context index 7 provides additional information that Mondelez International is based in Illinois and is an American multinational confectionery, food, and beverage company.
+- Context index 2 mentions Twisties, another snack food product, and its association with Mondelez International in Malaysia, but this does not directly answer the question about Handi-Snacks.
+Therefore, based on the relevant information from context indices 4 and 7, the answer is Mondelez International.
+原始EM：35, 总数：84, 网络错误：0, 当前原始EM分数：41.66666666666667%, 增强EM答对：35, 当前增强EM分数：41.66666666666667%, 当前F1分数：59.140714366554704%
+##########
+##########
+ID:85
+Question:What was the name of a woman from the book titled "Their Lives: The Women Targeted by the Clinton Machine " and was also a former white house intern?
+Right Answer:Monica Lewinsky
+Answer: Monica Lewinsky
+Step-by-step reasoning: The question asks for the name of a woman who is both mentioned in the book "Their Lives: The Women Targeted by the Clinton Machine" and was a former White House intern. By examining the context provided:
+- Context index 4 mentions Monica Samille Lewinsky as a former White House intern.
+- Context index 7 lists Monica Lewinsky as one of the women featured in the book "Their Lives: The Women Targeted by the Clinton Machine."
+- Context index 9 provides additional information about the Lewinsky scandal, confirming Monica Lewinsky's involvement with President Bill Clinton during her internship at the White House.
+
+All three pieces of context refer to Monica Lewinsky as the individual who fits the criteria of being both a former White House intern and a woman mentioned in the book. Therefore, the answer is Monica Lewinsky.
+原始EM：36, 总数：85, 网络错误：0, 当前原始EM分数：42.35294117647059%, 增强EM答对：36, 当前增强EM分数：42.35294117647059%, 当前F1分数：59.621411844595244%
+##########
+##########
+ID:86
+Question:When was the American lawyer, lobbyist and political consultant who was a senior member of the presidential campaign of Donald Trump born?
+Right Answer:April 1, 1949
+Answer: April 1, 1949
+Step-by-step reasoning: The question asks for the birth date of an American lawyer, lobbyist, and political consultant who was a senior member of Donald Trump's presidential campaign. Among the provided contexts, the first one (index 9) directly mentions **Paul John Manafort Jr.** with a specific birth date of **April 1, 1949**. This context is relevant because it specifies that Manafort Jr. was involved in Donald Trump's presidential campaign, fitting the description in the question. Therefore, based on this context, the answer to the question is April 1, 1949.
+原始EM：37, 总数：86, 网络错误：0, 当前原始EM分数：43.02325581395349%, 增强EM答对：37, 当前增强EM分数：43.02325581395349%, 当前F1分数：60.090930311518555%
+##########
+##########
+ID:87
+Question:In what year was the novel that Lourenço Mutarelli based "Nina" on based first published?
+Right Answer:1866
+Answer: 1866
+Step-by-step reasoning: The question asks for the original publication year of the novel that inspired Lourenço Mutarelli's "Nina". From the provided context, we know that "Nina" was based on the novel "Crime and Punishment" by Dostoyevsky. The context further indicates that "Crime and Punishment" was first published in the literary journal "The Russian Messenger" in twelve monthly installments during 1866. Therefore, the novel "Crime and Punishment" was first published in 1866, which is the answer to the question.
+原始EM：38, 总数：87, 网络错误：0, 当前原始EM分数：43.67816091954023%, 增强EM答对：38, 当前增强EM分数：43.67816091954023%, 当前F1分数：60.549655250466614%
+##########
+##########
+ID:88
+Question:Where are Teide National Park and Garajonay National Park located?
+Right Answer:Canary Islands, Spain
+Answer: Teide National Park and Garajonay National Park are located in the Canary Islands, Spain.
+
+Step-by-step reasoning: 
+1. The context provided for Garajonay National Park states that it is located in the center and north of the island of La Gomera, which is one of the Canary Islands in Spain.
+2. The context for Teide National Park indicates that it is located in Tenerife, which is also one of the Canary Islands in Spain.
+3. The additional context about the Roque Cinchado being within Teide National Park and located in Tenerife further confirms the location of Teide National Park.
+4. By analyzing the given context, it is clear that both national parks are situated within the Canary Islands, Spain.
+原始EM：38, 总数：88, 网络错误：0, 当前原始EM分数：43.18181818181818%, 增强EM答对：38, 当前增强EM分数：43.18181818181818%, 当前F1分数：60.31613644080222%
+##########
+##########
+ID:89
+Question:How many copies of Roald Dahl's variation on a popular anecdote sold?
+Right Answer:250 million
+Answer: The specific number of copies sold of Roald Dahl's variation on a popular anecdote is not provided in the context given.
+
+Step-by-step reasoning: 
+1. I reviewed the context provided to find specific information about the sales of Roald Dahl's books.
+2. The first piece of context (idx: 6) mentions that Roald Dahl's books have sold more than 250 million copies worldwide, but this refers to the total sales of all his books, not a specific variation on an anecdote.
+3. The second piece of context (idx: 3) discusses "Roald Dahl: Collected Stories," which is a collection of short stories for adults, but does not provide sales figures.
+4. The third piece of context (idx: 5) mentions "The Collected Short Stories of Roald Dahl," another collection of stories, but again, no sales figures are provided.
+5. Since none of the context pieces include the specific sales numbers for a variation on a popular anecdote, I cannot provide an exact figure.
+6. Therefore, based on the information available, I concluded that the specific sales figure for Roald Dahl's variation on a popular anecdote is not stated in the provided context.
+原始EM：38, 总数：89, 网络错误：0, 当前原始EM分数：42.69662921348314%, 增强EM答对：38, 当前增强EM分数：42.69662921348314%, 当前F1分数：59.638427042590955%
+##########
+##########
+ID:90
+Question:What occupation do Chris Menges and Aram Avakian share?
+Right Answer:director
+Answer: Chris Menges and Aram Avakian share the occupation of being film directors.
+
+Step-by-step reasoning: 
+1. The context provided for Chris Menges states that he is an English cinematographer and **film director**.
+2. The context provided for Aram Avakian describes him as a film editor and also a **film director**, with specific mentions of his directorial works.
+3. Since both individuals are described as having directed films, it can be concluded that the occupation they share is that of a film director.
+原始EM：38, 总数：90, 网络错误：0, 当前原始EM分数：42.22222222222222%, 增强EM答对：38, 当前增强EM分数：42.22222222222222%, 当前F1分数：58.97577785322884%
+##########
+##########
+ID:91
+Question:Andrew Jaspan was the co-founder of what not-for-profit media outlet?
+Right Answer:The Conversation
+Answer: The Conversation
+Step-by-step reasoning: To determine the not-for-profit media outlet co-founded by Andrew Jaspan, I reviewed the provided context. Context index 1 mentions Andrew Jaspan as the co-founder of "The Conversation", which is described as an independent not-for-profit website. This information directly answers the question, as it specifies the media outlet he co-founded. The other pieces of context do not mention Andrew Jaspan's involvement with them, so they are not relevant to the question.
+原始EM：39, 总数：91, 网络错误：0, 当前原始EM分数：42.857142857142854%, 增强EM答对：39, 当前增强EM分数：42.857142857142854%, 当前F1分数：59.42659348121533%
+##########
+##########
+ID:92
+Question:Which American film director hosted the 18th Independent Spirit Awards in 2002?
+Right Answer:John Waters
+Answer: John Waters
+Step-by-step reasoning: The context provided includes three pieces of information. The first piece of context (index 9) directly states that "The 2002 Independent Spirit Awards... were announced on March 22, 2003. It was hosted by John Waters." This statement clearly identifies John Waters as the host of the 18th Independent Spirit Awards in 2002. The second piece of context (index 3) provides background information on John Waters, confirming he is an American film director, which aligns with the question's criteria. The third piece of context (index 7) describes the Film Independent Spirit Awards but does not provide information about the host. Therefore, based on the first piece of context, the answer is determined to be John Waters.
+原始EM：40, 总数：92, 网络错误：0, 当前原始EM分数：43.47826086956522%, 增强EM答对：40, 当前增强EM分数：43.47826086956522%, 当前F1分数：59.86760876946299%
+##########
+##########
+ID:93
+Question:Where does the hotel and casino located in which Bill Cosby's third album was recorded?
+Right Answer:Las Vegas Strip in Paradise
+Answer: The Flamingo Las Vegas Hotel and Casino
+Step-by-step reasoning: 
+1. The question asks for the location of the hotel and casino where Bill Cosby's third album was recorded.
+2. From the provided context with 'idx': 1, it states that Bill Cosby's third album, "Why Is There Air?" was recorded at the Flamingo Hotel in Las Vegas, Nevada.
+3. The context with 'idx': 7 provides additional information that the Flamingo Las Vegas (formerly The Fabulous Flamingo and Flamingo Hilton Las Vegas) is a hotel and casino located on the Las Vegas Strip in Paradise, Nevada.
+4. By connecting the information from both contexts, it can be concluded that the Flamingo Las Vegas Hotel and Casino is the location where Bill Cosby's third album was recorded.
+原始EM：40, 总数：93, 网络错误：0, 当前原始EM分数：43.01075268817204%, 增强EM答对：40, 当前增强EM分数：43.01075268817204%, 当前F1分数：59.653978567640806%
+##########
+##########
+ID:94
+Question:Do the drinks Gibson and Zurracapote both contain gin?
+Right Answer:no
+Answer: No, the drinks Gibson and Zurracapote do not both contain gin.
+
+Step-by-step reasoning:
+1. The context provided for the Gibson drink states that it is a mixed drink made with **gin and vermouth**, and often garnished with a pickled onion.
+2. The context for Zurracapote describes it as a popular Spanish alcoholic mixed drink, similar to sangría, which consists of **red wine mixed with fruit** such as peaches and lemons, sugar, and cinnamon. It also mentions that some recipes call for the addition of other alcoholic beverages, but gin is not specifically mentioned.
+3. Based on the information given, the Gibson clearly contains gin as one of its main ingredients.
+4. However, the description of Zurracapote does not list gin as an ingredient, instead, it lists red wine as the alcoholic base.
+5. Therefore, based on the provided context, only the Gibson contains gin, while Zurracapote does not.
+原始EM：40, 总数：94, 网络错误：0, 当前原始EM分数：42.5531914893617%, 增强EM答对：40, 当前增强EM分数：42.5531914893617%, 当前F1分数：59.01936177436803%
+##########
+##########
+ID:95
+Question:In what month is the annual documentary film festival, that is presented by the fortnightly published British journal of literary essays, held? 
+Right Answer:March and April
+Answer: March and April
+Step-by-step reasoning: The question asks for the month in which the annual documentary film festival presented by the fortnightly published British journal of literary essays is held. From the provided context, we can determine the following:
+- The London Review of Books (LRB) is identified as a British journal of literary essays that is published fortnightly (from context index 0).
+- The London International Documentary Festival (LIDF) is associated with the London Review of Books and takes place annually in the months of March and April (from context index 5).
+- The context about the International Documentary Film Festival Docville is not relevant to the question as it does not pertain to the British journal mentioned (from context index 3).
+Therefore, the annual documentary film festival presented by the LRB is held in March and April.
+原始EM：41, 总数：95, 网络错误：0, 当前原始EM分数：43.15789473684211%, 增强EM答对：41, 当前增强EM分数：43.15789473684211%, 当前F1分数：59.45073691358521%
+##########
+##########
+ID:96
+Question:Tysons Galleria is located in what county?
+Right Answer:Fairfax County
+Answer: Tysons Galleria is located in Fairfax County, Virginia.
+
+Step-by-step reasoning: 
+1. The context provided states that Tysons, formerly known as Tysons Corner, is a census-designated place in Fairfax County, Virginia.
+2. It is mentioned that Tysons is home to Tysons Galleria, indicating that the mall is located within Tysons.
+3. Since Tysons is within Fairfax County, it follows that Tysons Galleria is also located in Fairfax County.
+4. The additional context about McLean being in Fairfax County and mentioning Tysons Galleria confirms the location of the mall within Fairfax County.
+5. Therefore, by analyzing the given context, it is clear that Tysons Galleria is located in Fairfax County, Virginia.
+原始EM：41, 总数：96, 网络错误：0, 当前原始EM分数：42.70833333333333%, 增强EM答对：41, 当前增强EM分数：42.70833333333333%, 当前F1分数：59.24812507073537%
+##########
+##########
+ID:97
+Question:Bordan Tkachuk was the CEO of a company that provides what sort of products?
+Right Answer:IT products and services
+Answer: IT products and services.
+
+Step-by-step reasoning: 
+1. The question asks about the type of products provided by the company where Bordan Tkachuk was CEO.
+2. From the context provided, index 3 mentions Bordan Tkachuk as the former CEO of Viglen.
+3. Index 2 provides information about Viglen Ltd, stating that it provides IT products and services.
+4. Therefore, combining the information from indexes 3 and 2, it can be concluded that Bordan Tkachuk was the CEO of a company that provides IT products and services.
+原始EM：42, 总数：97, 网络错误：0, 当前原始EM分数：43.29896907216495%, 增强EM答对：42, 当前增强EM分数：43.29896907216495%, 当前F1分数：59.66824749268655%
+##########
+##########
+ID:98
+Question:Which filmmaker was known for animation, Lev Yilmaz or Pamela B. Green?
+Right Answer:Levni Yilmaz
+Answer: Lev Yilmaz
+Step-by-step reasoning: The context provided indicates that Levni Yilmaz is known for his "Tales of Mere Existence" animated comic series, which clearly points to his involvement in animation. On the other hand, Pamela B. Green is mentioned as a film producer and director known for her work in feature film titles and motion graphics, but not specifically for animation. Therefore, the filmmaker known for animation between the two is Lev Yilmaz.
+原始EM：42, 总数：98, 网络错误：0, 当前原始EM分数：42.857142857142854%, 增强EM答对：42, 当前增强EM分数：42.857142857142854%, 当前F1分数：59.569591906026474%
+##########
+##########
+ID:99
+Question:In which city is the ambassador of the Rabat-Salé-Kénitra administrative region to China based?
+Right Answer:Beijing
+Answer: Beijing
+
+Step-by-step reasoning: 
+1. The question asks for the city where the ambassador of the Rabat-Salé-Kénitra administrative region to China is based.
+2. Context index 6 states that "The Moroccan ambassador in Beijing is the official representative of the Government in Rabat to the Government of the People's Republic of China."
+3. This indicates that the Moroccan ambassador to China, who represents the government of Rabat, which is the capital of the Rabat-Salé-Kénitra administrative region, is based in Beijing.
+4. Therefore, the ambassador of the Rabat-Salé-Kénitra administrative region to China is based in the city of Beijing.
+原始EM：43, 总数：99, 网络错误：0, 当前原始EM分数：43.43434343434344%, 增强EM答对：43, 当前增强EM分数：43.43434343434344%, 当前F1分数：59.977979866571665%
+##########
+##########
+ID:100
+Question:Are Yingkou and Fuding the same level of city?
+Right Answer:no
+Answer: No, Yingkou and Fuding are not the same level of city.
+
+Step-by-step reasoning: 
+1. The context provided indicates that **Yingkou** is a **prefecture-level city** in Liaoning province. This is mentioned in the context with 'idx': 9 and 'idx': 1.
+2. The context with 'idx': 7 describes **Fuding** as a **county-level city** in the Ningde prefecture-level city, Fujian province.
+3. Prefecture-level cities are larger administrative divisions in China and are above county-level cities in the administrative hierarchy.
+4. Therefore, based on the administrative levels in China, Yingkou, being a prefecture-level city, is not at the same level as Fuding, which is a county-level city.
+原始EM：43, 总数：100, 网络错误：0, 当前原始EM分数：43.0%, 增强EM答对：43, 当前增强EM分数：43.0%, 当前F1分数：59.37820006790595%
+##########
+##########
+ID:101
+Question:Where did the descendants of the group of black Indians associated with the Seminole people settle?
+Right Answer:Coahuila, Mexico
+Answer: The descendants of the group of Black Indians associated with the Seminole people settled in Coahuila, Mexico, centered on the town of El Nacimiento in Múzquiz Municipality.
+
+Step-by-step reasoning: 
+1. Context index 7 mentions the Mascogos, also known as "negros mascagos," who are centered in the town of El Nacimiento in Múzquiz Municipality, Coahuila, Mexico.
+2. The same context states that the Mascogos are descendants of Black Seminoles who escaped the threat of slavery in the United States.
+3. Context index 6 provides information about the Black Seminoles, indicating they are associated with the Seminole people in Florida and Oklahoma and are descendants of free blacks and escaped slaves.
+4. By correlating the information from context indices 7 and 6, it is clear that the descendants of the Black Seminoles, who are associated with the Seminole people, settled in El Nacimiento, Coahuila, Mexico.
+5. Context index 1 discusses the Seminole Nation of Oklahoma but does not provide information about the settlement of the Black Seminoles' descendants outside the United States.
+6. Therefore, based on the provided contexts, the answer is derived from the specific information about the settlement of the Mascogos in Mexico.
+原始EM：43, 总数：101, 网络错误：0, 当前原始EM分数：42.57425742574257%, 增强EM答对：43, 当前增强EM分数：42.57425742574257%, 当前F1分数：58.94871293852074%
+##########
+##########
+ID:102
+Question:David Huntsinger has worked with this gospel singer born in the month of July?
+Right Answer:Larnelle Harris
+Answer: Larnelle Harris
+Step-by-step reasoning: To answer the question, I examined the context provided for any mention of David Huntsinger working with a gospel singer born in July. The context indexed at 6 mentions David Huntsinger and lists several artists he has worked with, including Larnelle Harris. The context indexed at 0 provides information about Larnelle Harris, stating he was born on July 6, 1947. This confirms that David Huntsinger has worked with Larnelle Harris, who is a gospel singer born in the month of July. The other context provided, indexed at 5, mentions Andraé Edward Crouch, another gospel singer born in July, but there is no mention of David Huntsinger working with him. Therefore, based on the provided context, the answer is Larnelle Harris.
+原始EM：44, 总数：102, 网络错误：0, 当前原始EM分数：43.13725490196079%, 增强EM答对：44, 当前增强EM分数：43.13725490196079%, 当前F1分数：59.3511765371627%
+##########
+##########
+ID:103
+Question:What year was the brother of this first round draft pick by the Washington Redskins drafted?
+Right Answer:2003
+Answer: 2003
+Step-by-step reasoning: The question asks for the year that the brother of a first round draft pick by the Washington Redskins was drafted. From the context provided:
+- Champ Bailey, mentioned in the first context piece, was drafted by the Washington Redskins in the first round of the 1999 NFL Draft.
+- The second context piece states that Champ Bailey's brother, Boss Bailey, was drafted by the Detroit Lions in the second round of the 2003 NFL Draft.
+- Therefore, the brother of the first round draft pick by the Washington Redskins (Champ Bailey) was drafted in the year 2003.
+原始EM：45, 总数：103, 网络错误：0, 当前原始EM分数：43.689320388349515%, 增强EM答对：45, 当前增强EM分数：43.689320388349515%, 当前F1分数：59.74582530864655%
+##########
+##########
+ID:104
+Question:Where is the stadium at which 1964 Georgia Tech Yellow Jackets football team played their home game located? 
+Right Answer:North Avenue at Techwood Drive
+Answer: The stadium at which the 1964 Georgia Tech Yellow Jackets football team played their home games is located in Atlanta, Georgia.
+
+Step-by-step reasoning: 
+1. The context provided indicates that the 1964 Georgia Tech Yellow Jackets football team played their home games at Grant Field.
+2. It is mentioned that Grant Field is part of Bobby Dodd Stadium.
+3. Bobby Dodd Stadium is located at the corner of North Avenue at Techwood Drive on the campus of the Georgia Institute of Technology.
+4. The campus of the Georgia Institute of Technology is in Atlanta, Georgia.
+5. Therefore, the stadium where the 1964 Georgia Tech Yellow Jackets football team played their home games is located in Atlanta, Georgia.
+原始EM：45, 总数：104, 网络错误：0, 当前原始EM分数：43.269230769230774%, 增强EM答对：45, 当前增强EM分数：43.269230769230774%, 当前F1分数：59.251474424268544%
+##########
+##########
+ID:105
+Question:Since 2 June 2017, The Leader of Fine Gael had been held by which Irish Fine Gael politician who has served as Taoiseach and Minister for Defence?
+Right Answer:Leo Varadkar
+Answer: Leo Varadkar
+Step-by-step reasoning: The question asks for the name of the Irish Fine Gael politician who has held the positions of Taoiseach, Minister for Defence, and Leader of Fine Gael since 2 June 2017. By examining the provided context:
+- Context index 8 states that **Leo Eric Varadkar** has served as Taoiseach, Minister for Defence, and Leader of Fine Gael since June 2017.
+- Context index 6 confirms that the office of Leader of Fine Gael has been held by **Leo Varadkar** since 2 June 2017, following Enda Kenny's resignation.
+- Context index 7 details the 2017 Fine Gael leadership election, indicating that Leo Varadkar won the election on 2 June, succeeding Enda Kenny.
+Combining the information from these contexts, it is clear that **Leo Varadkar** is the politician who has been serving as the Leader of Fine Gael, Taoiseach, and Minister for Defence since 2 June 2017.
+原始EM：46, 总数：105, 网络错误：0, 当前原始EM分数：43.80952380952381%, 增强EM答对：46, 当前增强EM分数：43.80952380952381%, 当前F1分数：59.63955562022789%
+##########
+##########
+ID:106
+Question:Which American film actor and dancer starred in the 1945 film Johnny Angel?
+Right Answer:George Raft
+Answer: George Raft
+Step-by-step reasoning: The question asks for the American film actor and dancer who starred in the 1945 film "Johnny Angel." By examining the provided context:
+- The first piece of context (idx: 3) mentions that "Johnny Angel" stars George Raft, Claire Trevor, and Signe Hasso.
+- The second piece of context (idx: 0) provides information about George Raft, stating that he was an American film actor and dancer, known for his roles in crime melodramas and as a dancer in the film "Bolero."
+- The third piece of context (idx: 2) talks about Claudia Drake, an American actress who starred in the film "Detour," which is not relevant to the question.
+Therefore, the answer is George Raft, as he is the only individual mentioned in the context who is both an American film actor and a dancer, and is listed as starring in "Johnny Angel."
+原始EM：47, 总数：106, 网络错误：0, 当前原始EM分数：44.339622641509436%, 增强EM答对：47, 当前增强EM分数：44.339622641509436%, 当前F1分数：60.02031452947102%
+##########
+##########
+ID:107
+Question:hree Men on a Horse is a play by a playwright born in which year ?
+Right Answer:1887
+Answer: 1887
+Step-by-step reasoning: The question asks for the birth year of the playwright of "Three Men on a Horse". From the provided context, we can see that "Three Men on a Horse" is a play by George Abbott and John Cecil Holm. The context with 'idx': 1 states that George Francis Abbott was born on June 25, 1887. Therefore, the playwright born in the year in question is George Francis Abbott, and his birth year is 1887.
+原始EM：48, 总数：107, 网络错误：0, 当前原始EM分数：44.85981308411215%, 增强EM答对：48, 当前增强EM分数：44.85981308411215%, 当前F1分数：60.39395644975634%
+##########
+##########
+ID:108
+Question:What type of activity does Owner earnings and Warren Buffett have in common?
+Right Answer:business
+Answer: The type of activity that Owner earnings and Warren Buffett have in common is **value investing**.
+
+Step-by-step reasoning: 
+1. The context from idx 3 mentions that **Owner earnings** is a valuation method detailed by Warren Buffett, which implies that it is a concept or tool used in the process of investing.
+2. The context from idx 0 refers to a book called "The Warren Buffett Way," which outlines the principles of **value investing** practiced by Warren Buffett.
+3. Combining the information from these two pieces of context, it can be deduced that Owner earnings, as a valuation method, is part of the value investing principles practiced by Warren Buffett.
+4. The context from idx 7 provides background information on Warren Buffett, confirming his role as an investor and his success in this field, which supports the conclusion that the common activity is related to his investment practices, specifically value investing.
+原始EM：48, 总数：108, 网络错误：0, 当前原始EM分数：44.44444444444444%, 增强EM答对：48, 当前增强EM分数：44.44444444444444%, 当前F1分数：59.83475314929563%
+##########
+##########
+ID:109
+Question:When was the  former Indian cricketer who made his ODI debuts during the 2000 ICC KnockOut Trophy born? 
+Right Answer:7 October 1978
+Answer: Zaheer Khan was born on 7 October 1978.
+Step-by-step reasoning: To find the answer, I examined the provided context for any mention of a cricketer's birth date and their participation in the 2000 ICC KnockOut Trophy. The context with index 3 explicitly states that "Zaheer Khan (born 7 October 1978) is a former Indian cricketer who played all forms of the game for Indian national cricket team from 2000 till 2014." Additionally, the context with index 7 confirms that Zaheer Khan made his ODI debut during the 2000 ICC KnockOut Trophy. By correlating these two pieces of information, I determined that Zaheer Khan is the cricketer in question and that he was born on 7 October 1978.
+原始EM：48, 总数：109, 网络错误：0, 当前原始EM分数：44.03669724770643%, 增强EM答对：48, 当前增强EM分数：44.03669724770643%, 当前F1分数：59.78622747403103%
+##########
+##########
+ID:110
+Question:Which airplane was this Major test-flying after whom the base, that 514th Flight Test Squadron is stated at, is named?
+Right Answer:B-17 Flying Fortress bomber
+Answer: B-17 Flying Fortress bomber
+Step-by-step reasoning: The question asks for the airplane Major Ployer Peter Hill was test-flying, after whom the base where the 514th Flight Test Squadron is stationed is named. From the provided context, specifically the paragraph with index 4, it states that Hill Air Force Base was named in honor of Major Ployer Peter Hill of the U.S. Army Air Corps, who died test-flying a prototype of the B-17 Flying Fortress bomber. Therefore, the airplane Major Hill was test-flying was the B-17 Flying Fortress bomber.
+原始EM：49, 总数：110, 网络错误：0, 当前原始EM分数：44.54545454545455%, 增强EM答对：49, 当前增强EM分数：44.54545454545455%, 当前F1分数：60.15180722426711%
+##########
+##########
+ID:111
+Question:Based on a True Story... is an album by which country music star, with the single My Eyes?
+Right Answer:Blake Shelton
+Answer: Blake Shelton
+Step-by-step reasoning: The context provided includes three pieces of information. The first piece of context (index 8) states that "Based on a True Story…" is the eighth studio album by American country music artist Blake Shelton. The second piece of context (index 9) mentions that "My Eyes" is a song from this album and was released as the fifth single. The third piece of context (index 0) is about Glen Campbell and does not pertain to the album or single in question. Therefore, based on the relevant context provided, the country music star who released the album "Based on a True Story..." with the single "My Eyes" is Blake Shelton.
+原始EM：50, 总数：111, 网络错误：0, 当前原始EM分数：45.04504504504504%, 增强EM答对：50, 当前增强EM分数：45.04504504504504%, 当前F1分数：60.51079995197641%
+##########
+##########
+ID:112
+Question:Over how many centuries were the "dwelling place of the dead" built?
+Right Answer:three centuries
+Answer: The "dwelling place of the dead" were built over the course of three centuries.
+
+Step-by-step reasoning: 
+1. I reviewed the context provided to identify any information related to the construction period of the dwellings.
+2. Context index 5 mentions Montezuma Castle National Monument, which includes dwellings built by the Sinagua people.
+3. The same context states that these dwellings were constructed between approximately 1100 and 1425 AD.
+4. Calculating the difference between the years 1425 and 1100 gives us 325 years, which spans over three centuries.
+5. Therefore, based on the information given in the context, it is clear that the dwellings were built over the course of three centuries.
+原始EM：50, 总数：112, 网络错误：0, 当前原始EM分数：44.642857142857146%, 增强EM答对：50, 当前增强EM分数：44.642857142857146%, 当前F1分数：60.24525022713048%
+##########
+##########
+ID:113
+Question:When was the British author who wrote the novel on which "Here We Go Round the Mulberry Bush" was based born? 
+Right Answer:7 January 1936
+Answer: Edward Hunter Davies was born on 7 January 1936.
+Step-by-step reasoning: The context provided includes a paragraph stating that "Edward Hunter Davies, OBE (born 7 January 1936) is a British author, journalist and broadcaster." Another paragraph mentions that "Here We Go Round the Mulberry Bush is a 1967 British film made based on the novel of the same name by Hunter Davies." By connecting these two pieces of information, we can conclude that Edward Hunter Davies, the author of the novel "Here We Go Round the Mulberry Bush," was born on 7 January 1936.
+原始EM：50, 总数：113, 网络错误：0, 当前原始EM分数：44.24778761061947%, 增强EM答对：50, 当前增强EM分数：44.24778761061947%, 当前F1分数：60.154584295916926%
+##########
+##########
+ID:114
+Question:Who died first, George Archainbaud or Ralph Murphy?
+Right Answer:George Archainbaud
+Answer: George Archainbaud died first.
+Step-by-step reasoning: To determine who died first between George Archainbaud and Ralph Murphy, I looked at the dates provided in the context:
+- George Archainbaud's death date is given as **February 20, 1959**.
+- Ralph Murphy's death date is given as **February 10, 1967**.
+
+Comparing these dates, it is clear that George Archainbaud died before Ralph Murphy, as 1959 comes before 1967.
+原始EM：50, 总数：114, 网络错误：0, 当前原始EM分数：43.859649122807014%, 增强EM答对：50, 当前增强EM分数：43.859649122807014%, 当前F1分数：60.211707825484915%
+##########
+##########
+ID:115
+Question:Which component of shellite has the formula (ON)CHOH?
+Right Answer:picric acid
+Answer: Picric acid
+Step-by-step reasoning: 
+1. The question asks for the component of shellite with the formula (ON)CHOH.
+2. Reviewing the provided context, context index 4 mentions an organic compound with the formula (ON)CHOH, which is identified as picric acid.
+3. Context index 8 describes shellite as an explosive mixture that includes picric acid.
+4. Therefore, by cross-referencing the information from context indices 4 and 8, it can be determined that picric acid is the component of shellite with the formula (ON)CHOH. The other contexts provided do not match the formula in question.
+原始EM：51, 总数：115, 网络错误：0, 当前原始EM分数：44.34782608695652%, 增强EM答对：51, 当前增强EM分数：44.34782608695652%, 当前F1分数：60.55769297482853%
+##########
+##########
+ID:116
+Question:The Argentine PGA Championship record holder has won how many tournaments worldwide?
+Right Answer:230
+Answer: Roberto De Vicenzo has won more than 230 tournaments worldwide.
+Step-by-step reasoning: The context provided indicates that Roberto De Vicenzo is the record holder for the Argentine PGA Championship with 16 victories. Another piece of context states that he won more than 230 tournaments worldwide in his career. Therefore, by combining these two pieces of information, we can conclude that the Argentine PGA Championship record holder, Roberto De Vicenzo, has won more than 230 tournaments worldwide.
+原始EM：51, 总数：116, 网络错误：0, 当前原始EM分数：43.96551724137931%, 增强EM答对：51, 当前增强EM分数：43.96551724137931%, 当前F1分数：60.19238370937154%
+##########
+##########
+ID:117
+Question:Suicide's 1977 released album features a song based on what brand's comic character?
+Right Answer:Marvel
+Answer: Marvel Comics
+
+Step-by-step reasoning: 
+1. The question asks for the brand of the comic character featured in a song on Suicide's 1977 album.
+2. Context index 7 mentions "Ghost Rider is a song by the protopunk band Suicide appearing on their debut album."
+3. The same context states that the song is based on the "Marvel Comics character."
+4. Therefore, the brand of the comic character featured in the song "Ghost Rider" from Suicide's 1977 album is Marvel Comics.
+原始EM：51, 总数：117, 网络错误：0, 当前原始EM分数：43.58974358974359%, 增强EM答对：51, 当前增强EM分数：43.58974358974359%, 当前F1分数：60.2477194611433%
+##########
+##########
+ID:118
+Question:What other political position did the person who introduced the DISCLOSE Act hold?
+Right Answer:United States Senator
+Answer: The person who introduced the DISCLOSE Act held the political position of U.S. Representative for Maryland's 8th congressional district.
+Step-by-step reasoning: 
+1. I identified the person who introduced the DISCLOSE Act as Chris Van Hollen from the context provided.
+2. I looked for other political positions held by Chris Van Hollen in the given context.
+3. The context with 'idx': 1 states that Chris Van Hollen served as the U.S. Representative for Maryland's 8th congressional district from 2003 to 2017.
+4. Based on this information, I concluded that before serving as the junior United States Senator from Maryland, Chris Van Hollen held the position of U.S. Representative for Maryland's 8th congressional district.
+原始EM：51, 总数：118, 网络错误：0, 当前原始EM分数：43.22033898305085%, 增强EM答对：51, 当前增强EM分数：43.22033898305085%, 当前F1分数：59.737145567404795%
+##########
+##########
+ID:119
+Question:Were the bands Skin Yard and Ostava from the U.S.?
+Right Answer:no
+Answer: Skin Yard was from the U.S., but Ostava was not.
+
+Step-by-step reasoning: 
+1. The context provided states that **Skin Yard** was an American grunge band from Seattle, Washington, confirming that they are from the U.S.
+2. The same context indicates that **Ostava** are an alternative rock band from Bulgaria, which means they are not from the U.S.
+3. Additional context about Jack Endino, who was associated with Skin Yard, reinforces the fact that Skin Yard was indeed an American band, as he is based in Seattle, United States.
+原始EM：51, 总数：119, 网络错误：0, 当前原始EM分数：42.857142857142854%, 增强EM答对：51, 当前增强EM分数：42.857142857142854%, 当前F1分数：59.23515274751063%
+##########
+##########
+ID:120
+Question:Are Daryl Hall and Gerry Marsden both musicians?
+Right Answer:yes
+Answer: Yes, Daryl Hall and Gerry Marsden are both musicians.
+
+Step-by-step reasoning: 
+1. The context provided states that **Daryl Franklin Hohl**, known professionally as **Daryl Hall**, is an American singer, keyboardist, guitarist, songwriter, and producer. He is noted as the co-founder and lead vocalist of the duo **Hall & Oates**.
+2. It also mentions that **Gerard Marsden MBE**, known as **Gerry Marsden**, is an English musician and television personality, recognized for being the leader of the British band **Gerry and the Pacemakers**.
+3. Based on these descriptions, it is clear that both individuals are indeed musicians, with Daryl Hall being part of the American musical duo Hall & Oates, and Gerry Marsden being the leader of the British band Gerry and the Pacemakers.
+原始EM：51, 总数：120, 网络错误：0, 当前原始EM分数：42.5%, 增强EM答对：51, 当前增强EM分数：42.5%, 当前F1分数：58.741526474614716%
+##########
+##########
+ID:121
+Question:What major truck road is located in Backford Cross?
+Right Answer:The A41
+Answer: The major truck road located in Backford Cross is the A5117.
+
+Step-by-step reasoning: 
+1. I reviewed the context provided which mentions Backford Cross and its location in relation to various roads.
+2. Context index 2 states that Backford Cross is located around the A41/A5117 junction.
+3. Context index 8 provides detailed information about the A5117, describing it as a road in Cheshire that connects to the M56 and intersects the A41 at Backford Cross.
+4. Context index 6 mentions the A41 as a major trunk road but does not specifically highlight its significance in Backford Cross.
+5. Based on the information given, the A5117 is the road that is specifically described as intersecting at Backford Cross, making it the major truck road in question.
+原始EM：51, 总数：121, 网络错误：0, 当前原始EM分数：42.14876033057851%, 增强EM答对：51, 当前增强EM分数：42.14876033057851%, 当前F1分数：58.256059313667485%
+##########
+##########
+ID:122
+Question:In which role did Caroline Carver played in a 1999 Hallmark Entertainment made-for-TV fantasy movie?
+Right Answer:Princess Jessica
+Answer: Princess Jessica
+Step-by-step reasoning: To determine the role Caroline Carver played in a 1999 Hallmark Entertainment made-for-TV fantasy movie, I examined the provided context. The first piece of context (idx: 3) explicitly states that Caroline Carver is best known for her role as Princess Jessica in the TV film "The Magical Legend of the Leprechauns" (1999). This directly answers the question. The second piece of context (idx: 9) confirms that "The Magical Legend of the Leprechauns" is indeed a 1999 Hallmark Entertainment made-for-TV fantasy movie, which aligns with the details of the question. Therefore, based on the information given, Caroline Carver played the role of Princess Jessica in the 1999 movie "The Magical Legend of the Leprechauns."
+原始EM：52, 总数：122, 网络错误：0, 当前原始EM分数：42.62295081967213%, 增强EM答对：52, 当前增强EM分数：42.62295081967213%, 当前F1分数：58.59822276191612%
+##########
+##########
+ID:123
+Question:What's the name of the fantasy film starring Sarah Bolger, featuring a New England family who discover magical creatures around their estate?
+Right Answer:The Spiderwick Chronicles
+Answer: The Spiderwick Chronicles
+
+Step-by-step reasoning: 
+1. The question asks for the name of a fantasy film featuring Sarah Bolger and a New England family discovering magical creatures around their estate.
+2. Context index 4 mentions **The Spiderwick Chronicles**, a fantasy adventure film starring Sarah Bolger, set in New England where the characters discover a field guide to faeries and battle various magical creatures.
+3. Context index 9 confirms Sarah Bolger's role in "The Spiderwick Chronicles".
+4. Context index 6 mentions another film, **The Moth Diaries**, which is a horror film and does not match the description of the fantasy film asked in the question.
+5. Based on the information provided, the film that matches the description in the question is "The Spiderwick Chronicles".
+原始EM：53, 总数：123, 网络错误：0, 当前原始EM分数：43.08943089430895%, 增强EM答对：53, 当前增强EM分数：43.08943089430895%, 当前F1分数：58.93482257685988%
+##########
+##########
+ID:124
+Question:Maxeda has been owned since 2004 by which American multinational equity firm?
+Right Answer:KKR & Co
+Answer: Kohlberg Kravis Roberts
+Step-by-step reasoning: 
+1. I reviewed the context provided which includes information about Maxeda and various equity firms.
+2. Context index 4 states that since 2004, Maxeda is owned by a consortium of investors led by an American private equity firm named Kohlberg Kravis Roberts.
+3. Context index 0 provides additional information about Kohlberg Kravis Roberts, confirming it is an American multinational private equity firm.
+4. Context index 1 mentions Lincolnshire Management, another private equity firm, but it does not state any ownership connection with Maxeda.
+5. Based on the information given, I concluded that the American multinational equity firm that has owned Maxeda since 2004 is Kohlberg Kravis Roberts.
+原始EM：53, 总数：124, 网络错误：0, 当前原始EM分数：42.74193548387097%, 增强EM答对：53, 当前增强EM分数：42.74193548387097%, 当前F1分数：58.45954174962714%
+##########
+##########
+ID:125
+Question:The youngest daughter of Lady Mary-Gaye Curzon stars with Douglas Smith and Lucien Laviscount  in what 2017 film?
+Right Answer:The Bye Bye Man
+Answer: The Bye Bye Man
+Step-by-step reasoning: 
+1. The question asks for the 2017 film in which the youngest daughter of Lady Mary-Gaye Curzon stars with Douglas Smith and Lucien Laviscount.
+2. From the provided context, we identify that Cressida Curzon Bonas is the youngest daughter of Lady Mary-Gaye Curzon (context index 8).
+3. We then look for a 2017 film that stars Cressida Bonas, Douglas Smith, and Lucien Laviscount.
+4. The context at index 3 mentions "The Bye Bye Man" as a 2017 film starring Douglas Smith, Lucien Laviscount, and Cressida Bonas.
+5. There is no mention of Cressida Bonas in the context of the film "Bottom of the World" (context index 7).
+6. Therefore, the film that fits the description given in the question is "The Bye Bye Man."
+原始EM：54, 总数：125, 网络错误：0, 当前原始EM分数：43.2%, 增强EM答对：54, 当前增强EM分数：43.2%, 当前F1分数：58.79186541563013%
+##########
+##########
+ID:126
+Question:Mummulgum is a stop on the Bruxner Highway before reaching the town on the banks of which river?
+Right Answer:Richmond
+Answer: Richmond River
+Step-by-step reasoning: To determine the river on the banks of which the town before Mummulgum is located, I reviewed the provided context:
+1. Context index 2 mentions that Casino is a town situated at the junction of the Bruxner Highway and lies on the banks of the Richmond River.
+2. Context index 4 confirms that the Richmond Valley Council, which is named after the Richmond River, is located adjacent to the Bruxner Highway.
+3. Context index 8 states that Mummulgum is located on the Bruxner Highway, 27 kilometres west of Casino.
+
+From these pieces of information, I deduced that the town before Mummulgum on the Bruxner Highway is Casino, and since Casino is on the banks of the Richmond River, the answer is the Richmond River.
+原始EM：54, 总数：126, 网络错误：0, 当前原始EM分数：42.857142857142854%, 增强EM答对：54, 当前增强EM分数：42.857142857142854%, 当前F1分数：58.854363838257406%
+##########
+##########
+ID:127
+Question:Which American audio engineer and clandestine chemist, who was a key figure in the San Francisco Bay Area hippie movement during the 1960s recorded the album "Old and in the Way?"
+Right Answer:Owsley Stanley
+Answer: Owsley Stanley
+Step-by-step reasoning: The question asks for the American audio engineer and clandestine chemist who was a key figure in the San Francisco Bay Area hippie movement and recorded the album "Old and in the Way." From the provided context, we can determine the following:
+- Context index 5 mentions **Owsley Stanley**, also known as Augustus Owsley Stanley III, who was an American audio engineer and clandestine chemist, a key figure in the San Francisco Bay Area hippie movement, and the soundman for the Grateful Dead.
+- Context index 7 confirms that the album "Old and in the Way" was recorded by **Owsley Stanley** and Vickie Babcock.
+- Context index 3 talks about Gary Edson Arlington, who is not related to the recording of the album "Old and in the Way."
+Therefore, the answer to the question is **Owsley Stanley**.
+原始EM：55, 总数：127, 网络错误：0, 当前原始EM分数：43.30708661417323%, 增强EM答对：55, 当前增强EM分数：43.30708661417323%, 当前F1分数：59.178345225357745%
+##########
+##########
+ID:128
+Question:When was the palace founded at which Columba de Dunbar died in 1435?
+Right Answer:the late 12th Century
+Answer: The palace was founded in the late 12th Century.
+Step-by-step reasoning: To determine the founding date of the palace where Columba de Dunbar died, I reviewed the provided context. Context index 2 states that "Spynie Palace, also known as Spynie Castle, was the fortified seat of the Bishops of Moray for about 500 years. The founding of the palace dates back to the late 12th Century." This information directly answers the question, indicating that the palace was founded in the late 12th Century. The other contexts provided do not offer additional information about the founding date of the palace, so they are not necessary for answering this specific question.
+原始EM：55, 总数：128, 网络错误：0, 当前原始EM分数：42.96875%, 增强EM答对：55, 当前增强EM分数：42.96875%, 当前F1分数：59.18476440328463%
+##########
+##########
+ID:129
+Question:Where is the Bubblegum Alley, that is similar to Gum Wall, located in California?
+Right Answer:San Luis Obispo, California
+Answer: Bubblegum Alley is located in downtown San Luis Obispo, California.
+Step-by-step reasoning: 
+1. The context provided indicates that Bubblegum Alley is a tourist attraction in downtown San Luis Obispo, California.
+2. It is known for its accumulation of used bubble gum on the walls of an alley.
+3. The specific location is mentioned as the 700 block of Higuera Street in downtown San Luis Obispo.
+4. Additional context confirms that San Luis Obispo is a city in California, situated roughly midway between Los Angeles and San Francisco on the Central Coast.
+5. By analyzing the given context, it is clear that Bubblegum Alley is in San Luis Obispo, California, and not in any other location.
+原始EM：55, 总数：129, 网络错误：0, 当前原始EM分数：42.63565891472868%, 增强EM答对：55, 当前增强EM分数：42.63565891472868%, 当前F1分数：59.1689356648317%
+##########
+##########
+ID:130
+Question:At what venue was the January 2, 2012 game featured the University of Louisville team?
+Right Answer:Mercedes-Benz Superdome
+Answer: The Mercedes-Benz Superdome in New Orleans, Louisiana.
+Step-by-step reasoning: 
+1. The question asks for the venue of the game featuring the University of Louisville team on January 2, 2013.
+2. Context index 1 mentions the 2013 Allstate Sugar Bowl, a game that took place on January 2, 2013, and featured the University of Louisville.
+3. The same context states that this game was held at the Mercedes-Benz Superdome in New Orleans, Louisiana.
+4. Therefore, the venue for the January 2, 2013 game featuring the University of Louisville team was the Mercedes-Benz Superdome.
+原始EM：55, 总数：130, 网络错误：0, 当前原始EM分数：42.30769230769231%, 增强EM答对：55, 当前增强EM分数：42.30769230769231%, 当前F1分数：59.09840539048684%
+##########
+##########
+ID:131
+Question:Which film was Oscar nominated, LaLee's Kin: The Legacy of Cotton or Gimme Shelter, the 1970 Rolling Stones documentary?
+Right Answer:LaLee's Kin: The Legacy of Cotton
+Answer: LaLee's Kin: The Legacy of Cotton
+Step-by-step reasoning: To determine which film was Oscar-nominated, I reviewed the provided context for each film. The context for "LaLee's Kin: The Legacy of Cotton" explicitly states that it was nominated for Best Documentary Feature at the 74th Academy Awards. In contrast, the context for "Gimme Shelter" mentions that it was screened at the 1971 Cannes Film Festival but does not indicate an Oscar nomination. Therefore, based on the given context, "LaLee's Kin: The Legacy of Cotton" is the film that was Oscar-nominated.
+原始EM：55, 总数：131, 网络错误：0, 当前原始EM分数：41.98473282442748%, 增强EM答对：55, 当前增强EM分数：41.98473282442748%, 当前F1分数：59.083477541268294%
+##########
+##########
+ID:132
+Question:Which board game was published most recently, Pirate's Cove or Catan?
+Right Answer:Pirate's Cove
+Answer: The Rivals for Catan
+Step-by-step reasoning: To determine which board game was published most recently, we need to compare the publication years of "Pirate's Cove" and "The Rivals for Catan" as mentioned in the context provided.
+- "Pirate's Cove" was originally published in Germany in 2002 by Amigo Spiele and republished in 2003 by Days of Wonder.
+- "The Rivals for Catan" was released in 2010.
+Comparing the years, it is clear that "The Rivals for Catan" was published most recently, in 2010, which is after the publication of "Pirate's Cove" in 2002 and its republication in 2003.
+原始EM：55, 总数：132, 网络错误：0, 当前原始EM分数：41.66666666666667%, 增强EM答对：55, 当前增强EM分数：41.66666666666667%, 当前F1分数：58.63587543868293%
+##########
+##########
+ID:133
+Question:Alice David is the voice of Lara Croft in a video game developed by which company ?
+Right Answer:Crystal Dynamics
+Answer: Crystal Dynamics
+Step-by-step reasoning: 
+1. The question asks which company developed the video game in which Alice David is the voice of Lara Croft.
+2. The context provided in index 0 states that "Tomb Raider" is a video game developed by Crystal Dynamics.
+3. The context provided in index 6 confirms that Alice David is the voice of the French dub of Lara Croft in the video game "Tomb Raider."
+4. Combining the information from these two pieces of context, it can be concluded that the company that developed the video game in which Alice David voices Lara Croft is Crystal Dynamics.
+原始EM：56, 总数：133, 网络错误：0, 当前原始EM分数：42.10526315789473%, 增强EM答对：56, 当前增强EM分数：42.10526315789473%, 当前F1分数：58.946883894031174%
+##########
+##########
+ID:134
+Question:Which Eminem album included vocals from a singer who had an album titled "Unapologetic"?
+Right Answer:"The Marshall Mathers LP 2"
+Answer: The Marshall Mathers LP 2
+Step-by-step reasoning: 
+1. The question asks for the Eminem album that included vocals from a singer who had an album titled "Unapologetic".
+2. From the provided context, we identify that Rihanna is the singer with an album titled "Unapologetic".
+3. It is mentioned that Rihanna featured in the song "The Monster" from Eminem's album "The Marshall Mathers LP 2".
+4. Therefore, "The Marshall Mathers LP 2" is the Eminem album that included vocals from Rihanna, who had an album titled "Unapologetic".
+原始EM：57, 总数：134, 网络错误：0, 当前原始EM分数：42.53731343283582%, 增强EM答对：57, 当前增强EM分数：42.53731343283582%, 当前F1分数：59.25325043213542%
+##########
+##########
+ID:135
+Question:This American crime film set in South Los Angeles was written and directed by the same director and writer of screenwriter of "Street Kings", "End of Watch", "Sabotage", "Fury" and what other film? 
+Right Answer:Suicide Squad
+Answer: Suicide Squad
+Step-by-step reasoning: The question asks for the American crime film set in South Los Angeles that was written and directed by the same person who wrote and directed "Street Kings", "End of Watch", "Sabotage", "Fury", and another film. From the provided context, we can determine that David Ayer is the writer and director in question. He is credited with writing and directing "Harsh Times", "Street Kings", "End of Watch", "Sabotage", and "Fury". Additionally, he is known for being the writer of "Training Day" and the director and writer of "Suicide Squad". Since "Harsh Times" is the film set in South Los Angeles and "Suicide Squad" is the other film not listed in the initial part of the question but mentioned in the context, the answer is "Suicide Squad".
+原始EM：58, 总数：135, 网络错误：0, 当前原始EM分数：42.96296296296296%, 增强EM答对：58, 当前增强EM分数：42.96296296296296%, 当前F1分数：59.555078206712196%
+##########
+##########
+ID:136
+Question:SuperMansion starred the actress who had a recurring role as whom on Workaholics?
+Right Answer:Jillian Belk
+Answer: Jillian Belk
+Step-by-step reasoning: 
+1. The question asks for the name of the character from "Workaholics" that was played by an actress who also starred in "SuperMansion."
+2. From the provided context, we can see that Jillian Leigh Bell is mentioned as part of the cast in "SuperMansion."
+3. The same context also mentions that Jillian Leigh Bell is known for her recurring role as Jillian Belk on "Workaholics."
+4. Therefore, the actress who starred in "SuperMansion" and had a recurring role on "Workaholics" is Jillian Leigh Bell, and the character she played on "Workaholics" is Jillian Belk.
+原始EM：59, 总数：136, 网络错误：0, 当前原始EM分数：43.38235294117647%, 增强EM答对：59, 当前增强EM分数：43.38235294117647%, 当前F1分数：59.85246733754519%
+##########
+##########
+ID:137
+Question:The 1974 Texas Tech Raiders football team represented what public research university in Lubbock, Texas?
+Right Answer:Texas Tech University
+Answer: Texas Tech University
+Step-by-step reasoning: To determine which public research university the 1974 Texas Tech Raiders football team represented, I reviewed the provided context. The first piece of context (idx: 5) states that the "1974 Texas Tech Red Raiders football team represented Texas Tech University in the Southwest Conference during the 1974 NCAA Division I football season." This directly answers the question, as it specifies that Texas Tech University is the institution the team represented. The additional context (idx: 9) confirms that Texas Tech University is a public research university located in Lubbock, Texas, further supporting the answer. The third piece of context (idx: 0) is about the 2014 season and does not provide additional information relevant to the 1974 team. Therefore, based on the information provided, the answer is Texas Tech University.
+原始EM：60, 总数：137, 网络错误：0, 当前原始EM分数：43.79562043795621%, 增强EM答对：60, 当前增强EM分数：43.79562043795621%, 当前F1分数：60.145515021212745%
+##########
+##########
+ID:138
+Question:During Siege of Bharatpur, which Commander-in-Chief of Ireland and Commander-in-Chief of India contributed to the storming of the castle?
+Right Answer:Lord Combermere
+Answer: Field Marshal Stapleton Cotton, 1st Viscount Combermere
+Step-by-step reasoning: 
+1. The question asks for the Commander-in-Chief of Ireland and Commander-in-Chief of India who contributed to the storming of the castle during the Siege of Bharatpur.
+2. From the provided context, we can see that Field Marshal Stapleton Cotton, 1st Viscount Combermere, was a British Army officer who became the Commander-in-Chief, Ireland and then Commander-in-Chief, India.
+3. It is mentioned that in his role as Commander-in-Chief, India, he stormed Bharatpur—a fort which had been previously considered impregnable.
+4. The context confirms that he was involved in the storming of Bharatpur during the siege, fulfilling the roles mentioned in the question.
+5. Therefore, Field Marshal Stapleton Cotton, 1st Viscount Combermere is the answer to the question.
+原始EM：60, 总数：138, 网络错误：0, 当前原始EM分数：43.47826086956522%, 增强EM答对：60, 当前增强EM分数：43.47826086956522%, 当前F1分数：59.87070855165485%
+##########
+##########
+ID:139
+Question:For what type of work is the production company for The Year Without a Santa Claus best known?
+Right Answer:seasonal television specials, particularly its work in stop motion animation
+Answer: Rankin/Bass Productions is best known for its seasonal television specials, particularly its work in stop motion animation.
+
+Step-by-step reasoning: 
+1. The context provided states that Rankin/Bass Productions, Inc. was an American production company.
+2. It mentions that the company is known for its seasonal television specials.
+3. The context specifically highlights the company's work in stop motion animation.
+4. The technique used by Rankin/Bass for their stop motion features is described as "Animagic," characterized by doll-like characters with spheroid body parts and powdery snow effects.
+5. The context also includes information about "The Year Without a Santa Claus," which is a stop motion animated television special produced by Rankin/Bass.
+6. Based on this information, it is clear that Rankin/Bass Productions is renowned for its seasonal television specials and its distinctive stop motion animation work.
+原始EM：60, 总数：139, 网络错误：0, 当前原始EM分数：43.16546762589928%, 增强EM答对：60, 当前增强EM分数：43.16546762589928%, 当前F1分数：59.97289103742766%
+##########
+##########
+ID:140
+Question:What year was the film that starred the composer for "The Naked Brothers Band"?
+Right Answer:2014
+Answer: 2014
+
+Step-by-step reasoning: 
+1. The question asks for the year of the film that starred the composer for "The Naked Brothers Band".
+2. From the provided context, we identify Nat Wolff as the composer for "The Naked Brothers Band" (context index 7).
+3. We then look for a film that starred Nat Wolff and find "The Fault in Our Stars" (context index 5).
+4. "The Fault in Our Stars" is noted to be a 2014 film.
+5. Therefore, the film that starred the composer for "The Naked Brothers Band" is from the year 2014.
+原始EM：61, 总数：140, 网络错误：0, 当前原始EM分数：43.57142857142857%, 增强EM答对：61, 当前增强EM分数：43.57142857142857%, 当前F1分数：60.25879895858889%
+##########
+##########
+ID:141
+Question:The author of Sexual Politics attended which British University?
+Right Answer:Oxford
+Answer: Oxford University
+Step-by-step reasoning: The context provided indicates that Katherine Murray Millett, the author of "Sexual Politics," attended Oxford University. This information is found in the first piece of context with index 9, which states that she was the first American woman to be awarded a degree with first-class honors after studying at St Hilda's College, Oxford. Therefore, the British University that the author of "Sexual Politics" attended is Oxford University.
+原始EM：61, 总数：141, 网络错误：0, 当前原始EM分数：43.262411347517734%, 增强EM答对：61, 当前增强EM分数：43.262411347517734%, 当前F1分数：60.30424482885894%
+##########
+##########
+ID:142
+Question:Who had the best singles ranking, Roberta Vinci or Jorge Lozano?
+Right Answer:Roberta Vinci
+Answer: Roberta Vinci had the best singles ranking.
+Step-by-step reasoning: To determine who had the best singles ranking between Roberta Vinci and Jorge Lozano, we need to compare their highest career singles rankings as provided in the context.
+- Roberta Vinci's highest singles ranking was World No. 7, achieved in May 2016.
+- Jorge Lozano's highest singles ranking was World No. 51, achieved in September 1988.
+Comparing the two rankings, World No. 7 is a higher ranking than World No. 51, which means Roberta Vinci had a better singles ranking than Jorge Lozano.
+原始EM：61, 总数：142, 网络错误：0, 当前原始EM分数：42.95774647887324%, 增强EM答对：61, 当前增强EM分数：42.95774647887324%, 当前F1分数：60.231679724430364%
+##########
+##########
+ID:143
+Question:Both Truth in Science and Discovery embrace what campaign?
+Right Answer:"Teach the Controversy" campaign
+Answer: Both Truth in Science and Discovery embrace the "Teach the Controversy" campaign.
+
+Step-by-step reasoning: 
+1. I reviewed the context provided for mentions of campaigns that both Truth in Science and Discovery Institute support.
+2. The paragraph indexed as 6 states that Truth in Science promotes the Discovery Institute's "Teach the Controversy" campaign.
+3. The paragraph indexed as 8 describes the Discovery Institute's advocacy of the "Teach the Controversy" campaign.
+4. No other campaigns are mentioned as being embraced by both organizations.
+5. Therefore, based on the provided context, the campaign that both Truth in Science and Discovery embrace is the "Teach the Controversy" campaign.
+原始EM：61, 总数：143, 网络错误：0, 当前原始EM分数：42.65734265734265%, 增强EM答对：61, 当前增强EM分数：42.65734265734265%, 当前F1分数：60.16012951656721%
+##########
+##########
+ID:144
+Question:Josey Scott and Ian Watkins were both promising musicians. Which of these talented men was incarcerated, impacting his career with a rock band?
+Right Answer:Lostprophets disbanded in 2013 after Watkins was charged with sexual offences in late 2012.
+Answer: Ian Watkins
+Step-by-step reasoning: The context provided indicates that Ian Watkins, a founding member and lead vocalist of the rock band Lostprophets, was charged with sexual offences in late 2012. In November 2013, he pleaded guilty to 13 charges, including serious offences against children, and was subsequently incarcerated for 29 years with an additional six years on extended licence. This incarceration had a significant impact on his career with the rock band, leading to the disbandment of Lostprophets. The context does not mention any incarceration related to Josey Scott, thus the answer is Ian Watkins.
+原始EM：61, 总数：144, 网络错误：0, 当前原始EM分数：42.36111111111111%, 增强EM答对：61, 当前增强EM分数：42.36111111111111%, 当前F1分数：59.82915639492439%
+##########
+##########
+ID:145
+Question:The movies Queen of Blood and Battle Beyond the Sun both contained scenes from what 1959 Soviet feature?
+Right Answer:Nebo Zovyot
+Answer: Nebo Zovyot
+
+Step-by-step reasoning: 
+1. The question asks for the 1959 Soviet feature film whose scenes were used in both "Queen of Blood" and "Battle Beyond the Sun."
+2. From the provided context, "Queen of Blood" is mentioned to have reused special effects footage from two Soviet features, one of which is "Mechte Navstrechu" and the other is "Nebo Zovyot."
+3. "Battle Beyond the Sun" is described as the English-dubbed and re-edited U.S. version of "Nebo Zovyot."
+4. Since "Nebo Zovyot" is the common film between the two, it is the 1959 Soviet feature that both movies used scenes from.
+5. The third context piece about "I Was a Satellite of the Sun" is not relevant to the question as it does not match the films mentioned in the claim.
+原始EM：62, 总数：145, 网络错误：0, 当前原始EM分数：42.758620689655174%, 增强EM答对：62, 当前增强EM分数：42.758620689655174%, 当前F1分数：60.10619669564904%
+##########
+##########
+ID:146
+Question:Who was born first, Erika Jayne or Marco Da Silva
+Right Answer:Erika Jayne
+Answer: Erika Jayne was born first.
+
+Step-by-step reasoning: To determine who was born first, I compared the birth dates provided in the context for both individuals.
+- Erika Jayne, also known as Erika Girardi, was born on **10 July 1971**.
+- Marco Da Silva was born on **30 May 1977**.
+
+Since July 1971 comes before May 1977, it is clear that Erika Jayne was born first.
+原始EM：62, 总数：146, 网络错误：0, 当前原始EM分数：42.465753424657535%, 增强EM答对：62, 当前增强EM分数：42.465753424657535%, 当前F1分数：60.08589984939704%
+##########
+##########
+ID:147
+Question:When did the English local newspaper, featuring the sculpture and war memorial in the Forbury gardens, change names?
+Right Answer:2009
+Answer: 2009
+
+Step-by-step reasoning: To determine when the English local newspaper changed names, I reviewed the provided context. Context index 0 states, "The Reading Post (until 2009, the Reading Evening Post), was an English local newspaper..." This indicates that the name change occurred in 2009, as the newspaper was known as the Reading Evening Post until that year, after which it was called the Reading Post.
+原始EM：63, 总数：147, 网络错误：0, 当前原始EM分数：42.857142857142854%, 增强EM答对：63, 当前增强EM分数：42.857142857142854%, 当前F1分数：60.35742434021747%
+##########
+##########
+ID:148
+Question:What is the name of the Isles who were led by Aonghus Mór and covered a total land area of over 8300 km2?
+Right Answer:Kingdom of the Isles
+Answer: The Kingdom of the Isles
+Step-by-step reasoning: To determine the name of the Isles led by Aonghus Mór, I reviewed the provided context. From the first piece of context (idx: 2), I learned that the Kingdom of the Isles comprised the Hebrides, the islands of the Firth of Clyde, and the Isle of Man, and had a total land area of over 8300 km2. The second piece of context (idx: 0) mentions Aonghus Mór as a leading figure in the thirteenth-century kingdoms of the Isles. The third piece of context (idx: 8) states that Aonghus Mór was the first to style himself "Lord of Islay" before the title "Lord of the Isles" was assumed. Combining this information, it is clear that the Isles led by Aonghus Mór, which covered a total land area of over 8300 km2, are referred to as the Kingdom of the Isles.
+原始EM：64, 总数：148, 网络错误：0, 当前原始EM分数：43.24324324324324%, 增强EM答对：64, 当前增强EM分数：43.24324324324324%, 当前F1分数：60.62527958116195%
+##########
+##########
+ID:149
+Question:Who is Bruce Spizer an expert on, known as the most influential act of the rock era?
+Right Answer:The Beatles
+Answer: The Beatles
+Step-by-step reasoning: The context provided indicates that Bruce Spizer is a tax attorney and an expert on The Beatles, as mentioned in the first piece of context (index 6). It states that he has published books and is quoted as an authority on the history of the band and its recordings. The subsequent pieces of context (indexes 3 and 2) describe The Beatles as an English rock band that became the most influential act of the rock era. This information directly answers the question, identifying The Beatles as the subject of Bruce Spizer's expertise.
+原始EM：65, 总数：149, 网络错误：0, 当前原始EM分数：43.624161073825505%, 增强EM答对：65, 当前增强EM分数：43.624161073825505%, 当前F1分数：60.88953944974476%
+##########
+##########
+ID:150
+Question:Which song was behind the third single on the album  "A Lot About Livin' (And a Little 'bout Love)" for two weeks on the country charts?
+Right Answer:"We'll Burn That Bridge"
+Answer: "Chattahoochee"
+Step-by-step reasoning: 
+1. The context provided indicates that "Chattahoochee" was released as the third single from Alan Jackson's album "A Lot About Livin' (And a Little 'bout Love)".
+2. It also mentions that "Chattahoochee" was a Number One hit on the Hot Country Songs charts.
+3. Additionally, another context paragraph states that "We'll Burn That Bridge" by Brooks & Dunn peaked at #2 on the country charts for two weeks, behind "Chattahoochee" by Alan Jackson.
+4. From this information, it can be inferred that "Chattahoochee" was the song that was behind the third single on the album "A Lot About Livin' (And a Little 'bout Love)" for two weeks on the country charts.
+原始EM：65, 总数：150, 网络错误：0, 当前原始EM分数：43.333333333333336%, 增强EM答对：65, 当前增强EM分数：43.333333333333336%, 当前F1分数：60.483609186746456%
+##########
+##########
+ID:151
+Question:What occupation was shared by David Yates and Pietro Germi?
+Right Answer:director
+Answer: Director
+Step-by-step reasoning: The context provided indicates that both David Yates and Pietro Germi have been involved in directing films. David Yates is described as an English filmmaker who has directed feature films, short films, and television productions. Pietro Germi is mentioned as having directed the Italian comedy film "Divorce Italian Style." Therefore, the shared occupation between David Yates and Pietro Germi is that of a director.
+原始EM：66, 总数：151, 网络错误：0, 当前原始EM分数：43.70860927152318%, 增强EM答对：66, 当前增强EM分数：43.70860927152318%, 当前F1分数：60.745307139152104%
+##########
+##########
+ID:152
+Question:Marcus Wayne Garland spent nine seasons with an American professional baseball team that is based in Baltimore, Maryland, and was one of the AMerican League's original eight charter franchises when the league was established in what year?
+Right Answer:1901
+Answer: 1901
+
+Step-by-step reasoning: 
+1. The question asks for the year the American League was established, which is also the year the Baltimore Orioles, the team with which Marcus Wayne Garland spent nine seasons, was one of the original eight charter franchises.
+2. Context index 9 provides information about the Baltimore Orioles, stating that they were one of the American League's original eight charter franchises when the league was established in 1901.
+3. This information directly answers the question, as it specifies the year the American League was established and confirms that the Baltimore Orioles were one of the original franchises.
+4. Therefore, based on the provided context, the answer to the question is 1901.
+原始EM：67, 总数：152, 网络错误：0, 当前原始EM分数：44.07894736842105%, 增强EM答对：67, 当前增强EM分数：44.07894736842105%, 当前F1分数：61.00356169744716%
+##########
+##########
+ID:153
+Question:The lamp used in many lighthouses is similiar to this type of lamp patented in 1780 by Aimé Argand?
+Right Answer:Argand lamp
+Answer: Argand lamp
+Step-by-step reasoning: The question asks for the type of lamp patented in 1780 by Aimé Argand that is similar to the lamp used in many lighthouses. From the provided context:
+- Context index 0 mentions that the Argand lamp was invented and patented in 1780 by Aimé Argand.
+- Context index 7 states that the Lewis lamp, used in lighthouses, had a design similar to an Argand lamp, with the addition of a parabolic reflector and a magnifying lens.
+- Context index 1 describes kerosene lamps, which are different from the Argand lamp and not relevant to the question.
+Therefore, based on the context, the lamp used in many lighthouses that is similar to the type of lamp patented in 1780 by Aimé Argand is the Argand lamp itself, as it shares a similar design and was the basis for the Lewis lamp used in American lighthouses.
+原始EM：68, 总数：153, 网络错误：0, 当前原始EM分数：44.44444444444444%, 增强EM答对：68, 当前增强EM分数：44.44444444444444%, 当前F1分数：61.25844037916319%
+##########
+##########
+ID:154
+Question:The songs from the sountrack to "When Harry Met Sally" are performed by a singer that has had how many top 20 US albums?
+Right Answer:seven
+Answer: Seven top 20 US albums.
+Step-by-step reasoning: 
+1. The question asks for the number of top 20 US albums by the singer who performed the songs from the soundtrack to "When Harry Met Sally."
+2. From the provided context, we identify that Harry Connick Jr. is the performer of the songs from the soundtrack to "When Harry Met Sally," as stated in the context with index 9.
+3. The context with index 0 provides information about Harry Connick Jr.'s achievements, including that he has had seven top 20 US albums.
+4. Therefore, based on the context provided, the answer is that the singer, Harry Connick Jr., has had seven top 20 US albums.
+原始EM：68, 总数：154, 网络错误：0, 当前原始EM分数：44.15584415584416%, 增强EM答对：68, 当前增强EM分数：44.15584415584416%, 当前F1分数：61.07710851522923%
+##########
+##########
+ID:155
+Question:Are Broughtonia and Laeliocattleya both orchids?
+Right Answer:yes
+Answer: Yes, Broughtonia and Laeliocattleya are both orchids.
+
+Step-by-step reasoning: 
+1. The context provided indicates that **Broughtonia** is a genus of orchids native to the Bahamas and the Greater Antilles. This is confirmed by the text stating, "Broughtonia is a genus of orchids (family Orchidaceae)...".
+2. It also mentions **Broughtonia sanguinea**, which is a plant within the Broughtonia genus, affirming its status as an orchid.
+3. Regarding **Laeliocattleya**, the context states it is a nothogenus of intergeneric orchid hybrids descended from the parental genera "Laelia" and "Cattleya". This means that Laeliocattleya is a hybrid that also falls under the orchid family.
+4. Both genera are associated with the Orchidaceae family, as indicated by their abbreviations used in trade journals (Bro for Broughtonia and Lc. for Laeliocattleya).
+5. Therefore, based on the provided context, both Broughtonia and Laeliocattleya are classified as orchids.
+原始EM：68, 总数：155, 网络错误：0, 当前原始EM分数：43.87096774193549%, 增强EM答对：68, 当前增强EM分数：43.87096774193549%, 当前F1分数：60.68306265384065%
+##########
+##########
+ID:156
+Question:Where was the world cup hosted that Algeria qualified for the first time into the round of 16?
+Right Answer:Brazil
+Answer: Brazil
+Step-by-step reasoning: The context provided indicates that Algeria qualified for the round of 16 for the first time in the 2014 FIFA World Cup. The same context also mentions that the 2014 FIFA World Cup took place in Brazil. Therefore, the World Cup hosted in Brazil is the one where Algeria qualified for the round of 16 for the first time.
+原始EM：69, 总数：156, 网络错误：0, 当前原始EM分数：44.230769230769226%, 增强EM答对：69, 当前增强EM分数：44.230769230769226%, 当前F1分数：60.93509430349552%
+##########
+##########
+ID:157
+Question:Which was fought earlier in our nation's history, the Seven Days Battles or the Battle of Manila?
+Right Answer:The Seven Days Battles
+Answer: The Seven Days Battles were fought earlier in our nation's history.
+
+Step-by-step reasoning: 
+1. The context provided indicates that the Seven Days Battles occurred from June 25 to July 1, 1862, during the American Civil War.
+2. The Battle of Manila is described as taking place from February 3, 1945, to March 3, 1945, during the Second World War.
+3. By comparing the dates, it is clear that the Seven Days Battles in 1862 happened well before the Battle of Manila in 1945.
+4. Therefore, the Seven Days Battles were fought earlier in our nation's history than the Battle of Manila.
+原始EM：69, 总数：157, 网络错误：0, 当前原始EM分数：43.94904458598726%, 增强EM答对：69, 当前增强EM分数：43.94904458598726%, 当前F1分数：60.84094622610922%
+##########
+##########
+ID:158
+Question:What retailer in ABQ Uptown is headquarted in Poole, Dorset, United Kingdom?
+Right Answer:Lush Ltd.
+Answer: Lush Ltd.
+
+Step-by-step reasoning: 
+1. The question asks for the retailer in ABQ Uptown that is headquartered in Poole, Dorset, United Kingdom.
+2. From the provided context, index 3 states that **Lush Ltd.** is a cosmetics retailer headquartered in Poole, Dorset, United Kingdom.
+3. Index 6 mentions that ABQ Uptown houses 46 different stores, including **Lush** as one of its anchor tenants.
+4. Therefore, by cross-referencing the information from indexes 3 and 6, it is clear that **Lush Ltd.** is the retailer in ABQ Uptown that is headquartered in Poole, Dorset, United Kingdom.
+原始EM：70, 总数：158, 网络错误：0, 当前原始EM分数：44.303797468354425%, 增强EM答对：70, 当前增强EM分数：44.303797468354425%, 当前F1分数：61.08878833860219%
+##########
+##########
+ID:159
+Question:What football club plays in the area between the old tool gates: Brook Bar and Trafford bar?
+Right Answer:Manchester United
+Answer: Manchester United Football Club
+
+Step-by-step reasoning: 
+1. The context provided indicates that Manchester United Football Club is based in Old Trafford, Greater Manchester, England.
+2. It is mentioned that Old Trafford is an area of Stretford, delineated by two old toll gates: Brooks's Bar to the east and Trafford Bar to the west.
+3. Since Manchester United's stadium, Old Trafford, is located in this area, it is the football club that plays between the old toll gates Brook Bar and Trafford Bar.
+原始EM：70, 总数：159, 网络错误：0, 当前原始EM分数：44.0251572327044%, 增强EM答对：70, 当前增强EM分数：44.0251572327044%, 当前F1分数：61.12386933437619%
+##########
+##########
+ID:160
+Question:The song "Chim Chim Cher-ee" can be heard  in the "Mary Poppins" scene of a Disney ride that debuted in what year?
+Right Answer:1989
+Answer: May 1, 1989
+Step-by-step reasoning: To determine the debut year of the Disney ride where "Chim Chim Cher-ee" can be heard, I examined the provided context. The second piece of context states that the song is featured in the "Mary Poppins" scene of The Great Movie Ride at Disney's Hollywood Studios. The first piece of context provides the necessary information about the debut of The Great Movie Ride, stating that it debuted with the park on May 1, 1989. Therefore, the Disney ride featuring the "Mary Poppins" scene and the song "Chim Chim Cher-ee" debuted in the year 1989.
+原始EM：70, 总数：160, 网络错误：0, 当前原始EM分数：43.75%, 增强EM答对：70, 当前增强EM分数：43.75%, 当前F1分数：61.05434515103634%
+##########
+##########
+ID:161
+Question:Who held the record for the longest service in the Australian Parliament for a woman, and was surpassed by  a former Australian politician who was the 29th Speaker of the House of Representatives?
+Right Answer:Kathryn Jean Martin
+Answer: Kathryn Jean Martin "Kathy" Sullivan
+Step-by-step reasoning: The question asks for the identity of the woman who held the record for the longest service in the Australian Parliament and was surpassed by Bronwyn Bishop, who was the 29th Speaker of the House of Representatives. By examining the provided context:
+- Context index 3 mentions **Kathy Sullivan** as the person who previously held the record for the longest service in the Australian Parliament for a woman, which was later surpassed by **Bronwyn Bishop**.
+- Context index 0 confirms that **Bronwyn Bishop** is a former Australian politician who was the 29th Speaker of the House of Representatives.
+- Context index 8 provides information about **Philip Maxwell Ruddock** and does not pertain to the record for the longest-serving woman in the Australian Parliament.
+Therefore, the answer is **Kathy Sullivan**, as she is the one who held the record before being surpassed by Bronwyn Bishop.
+原始EM：70, 总数：161, 网络错误：0, 当前原始EM分数：43.47826086956522%, 增强EM答对：70, 当前增强EM分数：43.47826086956522%, 当前F1分数：61.140964125253504%
+##########
+##########
+ID:162
+Question:Which man who presented the Australia 2022 FIFA World Cup bid was born on October 22, 1930?
+Right Answer:Frank Lowy
+Answer: Sir Frank P. Lowy
+Step-by-step reasoning: 
+1. The question asks for the name of the man who presented the Australia 2022 FIFA World Cup bid and was born on October 22, 1930.
+2. From the provided context, we can see that Sir Frank P. Lowy is mentioned as being born on October 22, 1930.
+3. The same context also mentions that Frank Lowy presented the bid for the 2022 FIFA World Cup on behalf of Australia.
+4. Therefore, by correlating the date of birth and the involvement in the World Cup bid presentation, we can conclude that Sir Frank P. Lowy is the man in question.
+原始EM：70, 总数：162, 网络错误：0, 当前原始EM分数：43.20987654320987%, 增强EM答对：70, 当前增强EM分数：43.20987654320987%, 当前F1分数：61.17507340020051%
+##########
+##########
+ID:163
+Question:What major city is the Faith Lutheran Middle School and High School located by?
+Right Answer:Las Vegas
+Answer: Las Vegas
+Step-by-step reasoning: The context provided indicates that Faith Lutheran Middle School & High School is located in Summerlin, Clark County, Nevada, which serves the Las Vegas Valley. Additionally, one piece of context mentions that Vernon Lee Fox, III was hired to be head football coach at Faith Lutheran Middle School and High School in Las Vegas, NV. Therefore, the major city that Faith Lutheran Middle School and High School is located by is Las Vegas.
+原始EM：71, 总数：163, 网络错误：0, 当前原始EM分数：43.558282208588956%, 增强EM答对：71, 当前增强EM分数：43.558282208588956%, 当前F1分数：61.41326313394161%
+##########
+##########
+ID:164
+Question:What British singer-songwriter hosted the 16th Annual Young Hollywood Awards?
+Right Answer:Kelly Lee Osbourne
+Answer: Kelly Osbourne
+Step-by-step reasoning: The question asks for the British singer-songwriter who hosted the 16th Annual Young Hollywood Awards. By examining the provided context:
+- Context index 0 mentions that Kelly Osbourne hosted the 16th Annual Young Hollywood Awards.
+- Context index 7 provides information that Kelly Lee Osbourne is a British singer-songwriter, which confirms her nationality and profession.
+- Context index 4 describes the Young Hollywood Awards but does not provide information about the host.
+Therefore, combining the relevant information from context indices 0 and 7, it is clear that the British singer-songwriter who hosted the 16th Annual Young Hollywood Awards is Kelly Osbourne.
+原始EM：71, 总数：164, 网络错误：0, 当前原始EM分数：43.292682926829265%, 增强EM答对：71, 当前增强EM分数：43.292682926829265%, 当前F1分数：61.526596895320004%
+##########
+##########
+ID:165
+Question:Who did the Star and Dagger bass player marry?
+Right Answer:Sean Yseult.
+Answer: Sean Yseult
+Step-by-step reasoning: To determine who the Star and Dagger bass player married, I reviewed the provided context:
+- Context index 1 mentions Chris Lee, who is married to Sean Yseult, but does not state that Sean Yseult is the bass player for Star and Dagger.
+- Context index 0 confirms that Sean Yseult is the bass player for Star and Dagger.
+- Context index 9 does not provide relevant information about the marital status of the Star and Dagger bass player.
+
+By cross-referencing the information, I concluded that Sean Yseult, who is the bass player for Star and Dagger, is married to Chris Lee, the vocalist and rhythm guitarist for Supagroup. Therefore, the answer to the question is Sean Yseult.
+原始EM：72, 总数：165, 网络错误：0, 当前原始EM分数：43.63636363636363%, 增强EM答对：72, 当前增强EM分数：43.63636363636363%, 当前F1分数：61.75976903534838%
+##########
+##########
+ID:166
+Question:In 2017, what was 3/4th of the organization that also has a Center for Veterinary Medicine as well as part of the U.S. Department of Health and Human Services, spent on?
+Right Answer:Prescription Drug User Fee Act
+Answer: In 2017, 3/4th of the FDA's budget was spent on funding provided by the pharmaceutical companies due to the Prescription Drug User Fee Act.
+
+Step-by-step reasoning: 
+1. The question asks for the expenditure of an organization that has a Center for Veterinary Medicine and is part of the U.S. Department of Health and Human Services.
+2. From the context provided, the FDA is identified as the organization that fits this description.
+3. The FDA is responsible for various public health aspects, including food safety, pharmaceutical drugs, medical devices, and veterinary products.
+4. It is stated that as of 2017, 3/4th of the FDA's budget, which is approximately $700 million, is funded by pharmaceutical companies.
+5. This funding comes as a result of the Prescription Drug User Fee Act.
+6. Therefore, the answer is that 3/4th of the FDA's budget was spent on the funding provided by pharmaceutical companies.
+原始EM：72, 总数：166, 网络错误：0, 当前原始EM分数：43.373493975903614%, 增强EM答对：72, 当前增强EM分数：43.373493975903614%, 当前F1分数：61.61941824875916%
+##########
+##########
+ID:167
+Question:Which came out first, Dinosaur or McFarland, USA
+Right Answer:Dinosaur
+Answer: Dinosaur
+Step-by-step reasoning: To determine which film came out first, I reviewed the provided context for each film. The context for "Dinosaur" states that it is a 2000 American CGI animated adventure film. The context for "McFarland, USA" indicates that it is a 2015 American sports drama film. Therefore, by comparing the release years, it is clear that "Dinosaur" was released before "McFarland, USA."
+原始EM：73, 总数：167, 网络错误：0, 当前原始EM分数：43.712574850299404%, 增强EM答对：73, 当前增强EM分数：43.712574850299404%, 当前F1分数：61.84924209158096%
+##########
+##########
+ID:168
+Question:Both Bishop Carroll Catholic High School and Kapaun Mt. Carmel Catholic High School are located in which city in Kansas?
+Right Answer:Wichita
+Answer: Wichita, Kansas
+Step-by-step reasoning: 
+1. The context provided in index 6 states that **Bishop Carroll Catholic High School** is located in **Wichita, Kansas**.
+2. The same context mentions that **Kapaun Mt. Carmel Catholic High School** is also one of the two Catholic high schools in the city, indicating it is also located in Wichita, Kansas.
+3. To confirm, the context in index 2 specifically states that **Kapaun Mt. Carmel Catholic High School** is located on the east side of **Wichita, Kansas**.
+4. Therefore, both Bishop Carroll Catholic High School and Kapaun Mt. Carmel Catholic High School are located in Wichita, Kansas.
+原始EM：73, 总数：168, 网络错误：0, 当前原始EM分数：43.452380952380956%, 增强EM答对：73, 当前增强EM分数：43.452380952380956%, 当前F1分数：61.87791723786123%
+##########
+##########
+ID:169
+Question:What was the 58th quadrennial American presidential election held after the 2016 Michigan Democratic primary?
+Right Answer:United States presidential election of 2016
+Answer: The 58th quadrennial American presidential election held after the 2016 Michigan Democratic primary was the United States presidential election of 2020.
+
+Step-by-step reasoning: 
+1. The context provided states that the United States presidential election of 2016 was the 58th quadrennial American presidential election.
+2. The 2016 Michigan Democratic primary is mentioned as an event that occurred prior to the 2016 presidential election.
+3. The next presidential election after 2016 would be the 59th, which is stated to be scheduled for Tuesday, November 3, 2020.
+4. Therefore, the presidential election held after the 2016 Michigan Democratic primary and after the 58th presidential election (2016) would be the 59th quadrennial American presidential election, which is the election of 2020.
+原始EM：73, 总数：169, 网络错误：0, 当前原始EM分数：43.19526627218935%, 增强EM答对：73, 当前增强EM分数：43.19526627218935%, 当前F1分数：61.807633703909396%
+##########
+##########
+ID:170
+Question:This Celtic ruler who was born in AD 43 ruled southeastern Britain prior to conquest by which empire?
+Right Answer:Roman
+Answer: The Roman Empire
+
+Step-by-step reasoning: 
+1. The question asks about a Celtic ruler born in AD 43 who ruled southeastern Britain prior to its conquest.
+2. From the provided context, we know that the Roman conquest of Britain began effectively in AD 43 under Emperor Claudius (context index 6).
+3. Togodumnus is mentioned as a historical king of the British Catuvellauni tribe at the time of the Roman conquest and died in AD 43 (context index 3).
+4. The Catuvellauni were a Celtic tribe or state of southeastern Britain before the Roman conquest (context index 5).
+5. Combining these pieces of information, we can deduce that the Celtic ruler in question ruled just before the Roman conquest of Britain, which began in AD 43.
+6. Therefore, the empire that conquered southeastern Britain where this Celtic ruler reigned was the Roman Empire.
+原始EM：73, 总数：170, 网络错误：0, 当前原始EM分数：42.94117647058823%, 增强EM答对：73, 当前增强EM分数：42.94117647058823%, 当前F1分数：61.836216250749146%
+##########
+##########
+ID:171
+Question:What is the name of the detective novelist parent of the author of '"Q" Is for Quarry'?
+Right Answer:C. W. Grafton
+Answer: C. W. Grafton
+Step-by-step reasoning: The question asks for the name of the detective novelist parent of the author of '"Q" Is for Quarry'. From the provided context, we can determine that:
+1. Sue Taylor Grafton is the author of '"Q" Is for Quarry', as stated in the context with index 4.
+2. Sue Taylor Grafton is a contemporary American author of detective novels and the daughter of detective novelist C. W. Grafton, as mentioned in the context with index 2.
+3. The context with index 5 about C. Hugh Holman does not pertain to the question since it does not mention any relation to Sue Taylor Grafton.
+Therefore, the detective novelist parent of Sue Taylor Grafton is C. W. Grafton.
+原始EM：74, 总数：171, 网络错误：0, 当前原始EM分数：43.27485380116959%, 增强EM答对：74, 当前增强EM分数：43.27485380116959%, 当前F1分数：62.05939627267458%
+##########
+##########
+ID:172
+Question:What is the birthplace of the Senator who represents the first of 62 districts in the State Senate?
+Right Answer:Brooklyn, New York
+Answer: Brooklyn, New York
+Step-by-step reasoning: The question asks for the birthplace of the Senator who represents the first of 62 districts in the New York State Senate. From the provided context, we can determine that Senator Kenneth P. LaValle represents the 1st State Senate district. It is mentioned that Kenneth P. LaValle was born in Brooklyn, New York. Therefore, the birthplace of the Senator representing the first district is Brooklyn, New York.
+原始EM：75, 总数：172, 网络错误：0, 当前原始EM分数：43.604651162790695%, 增强EM答对：75, 当前增强EM分数：43.604651162790695%, 当前F1分数：62.27998117806601%
+##########
+##########
+ID:173
+Question:The Memphis Hustle are based in a suburb of a city with a population of what in 2010?
+Right Answer:48,982
+Answer: 48,982
+Step-by-step reasoning: To find the population of the suburb where the Memphis Hustle are based in 2010, I looked at the provided context. The second piece of context states that the Memphis Hustle are based in the Memphis suburb of Southaven, Mississippi. The first piece of context provides the information that Southaven had a population of 48,982 according to the 2010 census. Therefore, the population of the suburb of the city where the Memphis Hustle are based in 2010 is 48,982.
+原始EM：76, 总数：173, 网络错误：0, 当前原始EM分数：43.93063583815029%, 增强EM答对：76, 当前增强EM分数：43.93063583815029%, 当前F1分数：62.498015968944244%
+##########
+##########
+ID:174
+Question:Which songwriting duo composed music for "La La Land", and created lyrics for "A Christmas Story: The Musical"? 
+Right Answer:Pasek & Paul
+Answer: The songwriting duo that composed music for "La La Land" and created lyrics for "A Christmas Story: The Musical" is Benj Pasek and Justin Paul.
+
+Step-by-step reasoning:
+1. The context provided indicates that Benj Pasek and Justin Paul, known as Pasek and Paul, are a songwriting duo involved in musical theater, films, and television.
+2. It is mentioned that their works include the film "La La Land", for which they won awards for the song "City of Stars".
+3. The context also states that "A Christmas Story: The Musical" has music and lyrics by Pasek & Paul.
+4. By cross-referencing the information given in the contexts, it is clear that Benj Pasek and Justin Paul are responsible for the music in "La La Land" and the lyrics in "A Christmas Story: The Musical".
+原始EM：76, 总数：174, 网络错误：0, 当前原始EM分数：43.67816091954023%, 增强EM答对：76, 当前增强EM分数：43.67816091954023%, 当前F1分数：62.138831969122734%
+##########
+##########
+ID:175
+Question:Which of the city at the south of Shelly Beach, New South Wales is a local government area in the Hunter region of New South Wales, Australia?
+Right Answer:City of Newcastle
+Answer: The City of Cessnock
+Step-by-step reasoning: 
+1. The question asks for a city south of Shelly Beach, New South Wales, which is also a local government area in the Hunter region.
+2. From the provided context, the City of Newcastle is mentioned as a local government area in the Hunter region, but there is no information about its location relative to Shelly Beach.
+3. The context for Bucketty indicates it is a locality within the City of Cessnock LGA, and it is located in the south of the LGA. However, Bucketty itself is not a city.
+4. The context for Mount View mentions it is a part of the City of Cessnock LGA, which is in the Hunter Region.
+5. Since both Bucketty and Mount View are mentioned as parts of the City of Cessnock LGA and are located in the south of their respective LGAs, it can be inferred that the City of Cessnock is the local government area south of Shelly Beach in the Hunter region.
+6. Therefore, the City of Cessnock is the correct answer.
+原始EM：76, 总数：175, 网络错误：0, 当前原始EM分数：43.42857142857143%, 增强EM答对：76, 当前增强EM分数：43.42857142857143%, 当前F1分数：62.164705310251556%
+##########
+##########
+ID:176
+Question:Are Bamboo Mañalac and Danny Jones both musicians?
+Right Answer:yes
+Answer: Yes, Bamboo Mañalac and Danny Jones are both musicians.
+
+Step-by-step reasoning: 
+1. The context provided for Bamboo Mañalac states that he is a Filipino American musician and singer-songwriter. He was the vocalist and original frontman of Rivermaya and later had his own band, Bamboo. After the band Bamboo disbanded, Mañalac pursued a solo career.
+2. The context provided for Danny Jones describes him as a British musician who is one of the lead vocalists and guitarists for the pop-rock band McFly.
+3. Based on the information given in the context for both individuals, it is clear that they are both musicians, as they have both been involved in creating and performing music as part of bands and in solo capacities.
+原始EM：76, 总数：176, 网络错误：0, 当前原始EM分数：43.18181818181818%, 增强EM答对：76, 当前增强EM分数：43.18181818181818%, 当前F1分数：61.811496757352394%
+##########
+##########
+ID:177
+Question:Works by Hanna Leena Kristiina Varis are part of a collection in a museum that houses approximately 65,000 what?
+Right Answer:drawings
+Answer: Drawings
+Step-by-step reasoning: 
+1. The question asks for the type of collection that includes works by Hanna Leena Kristiina Varis in a museum that houses approximately 65,000 of something.
+2. By reviewing the context provided, I identify that Hanna Leena Kristiina Varis is a Finnish graphic artist and painter whose works are part of major art collections, including the Albertina Museum in Vienna.
+3. The context about the Albertina Museum states that it houses approximately 65,000 drawings and approximately 1 million old master prints, among other items.
+4. Since the number 65,000 is associated with drawings in the context of the Albertina Museum, and since Hanna Leena Kristiina Varis has works in this museum, it can be concluded that the works by Hanna Leena Kristiina Varis are part of the collection of approximately 65,000 drawings at the Albertina Museum.
+5. The other contexts provided do not pertain to the collection of works by Hanna Leena Kristiina Varis or the number 65,000 in relation to a museum collection, so they are not relevant to answering this question.
+原始EM：77, 总数：177, 网络错误：0, 当前原始EM分数：43.50282485875706%, 增强EM答对：77, 当前增强EM分数：43.50282485875706%, 当前F1分数：62.02725101296057%
+##########
+##########
+ID:178
+Question:When was the Western Germanic language spoken from which the small settlement situated on the river Leda opposite Leer derives its name?
+Right Answer:between the 8th and 16th centuries
+Answer: The Western Germanic language spoken from which the small settlement situated on the river Leda opposite Leer derives its name is Old Frisian.
+Step-by-step reasoning: To determine the language from which the settlement of Kloster Muhde derives its name, we need to consider the historical context provided. The name "Muhde" comes from the Old Frisian word "mutha," meaning "(river) mouth." According to the context, Old Frisian was spoken between the 8th and 16th centuries. Therefore, the Western Germanic language spoken from which the settlement situated on the river Leda opposite Leer derives its name, Old Frisian, was spoken during this time period.
+原始EM：77, 总数：178, 网络错误：0, 当前原始EM分数：43.258426966292134%, 增强EM答对：77, 当前增强EM分数：43.258426966292134%, 当前F1分数：61.678783310640576%
+##########
+##########
+ID:179
+Question:Born on 6 March 1937, this man was also a citizen of the United Kingdom.
+Right Answer:Alistair Grant
+Answer: William Bonfield, Sir Matthew Alistair Grant, and Robin John Bailie
+Step-by-step reasoning: The question asks for the identification of a man born on 6 March 1937 who was also a citizen of the United Kingdom. The provided context gives three individuals who were born on this date:
+- William Bonfield is described as a British material scientist.
+- Sir Matthew Alistair Grant is noted as a British businessman.
+- Robin John Bailie is mentioned as a Northern Irish solicitor and former politician.
+
+Since Northern Ireland is part of the United Kingdom, all three individuals are citizens of the UK. Therefore, the answer includes all three names: William Bonfield, Sir Matthew Alistair Grant, and Robin John Bailie.
+原始EM：77, 总数：179, 网络错误：0, 当前原始EM分数：43.01675977653631%, 增强EM答对：77, 当前增强EM分数：43.01675977653631%, 当前F1分数：61.53735790870199%
+##########
+##########
+ID:180
+Question:What country does Hatton Hill and Hatton Castle, Angus have in common?
+Right Answer:Scotland
+Answer: Scotland
+Step-by-step reasoning: 
+1. The context provided mentions Hatton Castle and Hatton Hill in relation to Angus, Scotland.
+2. The first piece of context (idx: 6) states that Hatton Castle is located on Hatton Hill, which is part of the Sidlaw Hills to the south of Newtyle in Angus, Scotland.
+3. The second piece of context (idx: 9) also confirms that Hatton Hill is a mountain landform in Angus, Scotland, and that Hatton Castle stands on the flanks of Hatton Hill.
+4. The third piece of context (idx: 2) seems to describe a different Hatton Castle, which is located near Turriff, Aberdeenshire, Scotland, and was formerly known as Balquholly Castle.
+5. Despite the mention of a different location in the third context, the commonality between Hatton Hill and Hatton Castle, Angus, as asked in the question, is Scotland.
+原始EM：78, 总数：180, 网络错误：0, 当前原始EM分数：43.333333333333336%, 增强EM答对：78, 当前增强EM分数：43.333333333333336%, 当前F1分数：61.75103925365365%
+##########
+##########
+ID:181
+Question:What podcast was the cheif executive officer of Nerdist Industries a guest on?
+Right Answer:Comedy Film Nerds
+Answer: The Drop-In
+Step-by-step reasoning: The context provided indicates that Chris Hardwick, the CEO at Nerdist Industries, was a guest on "The Drop-In," which is an At Will Radio podcast hosted by Will Malnati. The relevant information is found in the first piece of context (idx: 0) where it mentions guests on the podcast, including Chris Hardwick.
+原始EM：78, 总数：181, 网络错误：0, 当前原始EM分数：43.0939226519337%, 增强EM答对：78, 当前增强EM分数：43.0939226519337%, 当前F1分数：61.409873290926285%
+##########
+##########
+ID:182
+Question:Randall Cunningham II was a multi-sport athlete at the high school located in what Nevada city?
+Right Answer:Summerlin
+Answer: Las Vegas, Nevada
+Step-by-step reasoning: To determine the city in Nevada where Randall Cunningham II attended high school, I reviewed the provided context. The second piece of context states that Vashti Cunningham, who is the younger sister of Randall Cunningham II, jumped for Bishop Gorman High School in Las Vegas, Nevada. Additionally, the third piece of context mentions that Bishop Gorman High School is located in Summerlin, Nevada, which is a neighborhood within the Las Vegas Valley. Therefore, by connecting these pieces of information, it can be concluded that Randall Cunningham II was a multi-sport athlete at Bishop Gorman High School, which is located in Las Vegas, Nevada.
+原始EM：78, 总数：182, 网络错误：0, 当前原始EM分数：42.857142857142854%, 增强EM答对：78, 当前增强EM分数：42.857142857142854%, 当前F1分数：61.072456404712405%
+##########
+##########
+ID:183
+Question:Which English musician is known for both the songs "See Yourself" and "Withing You Without You"?
+Right Answer:George Harrison
+Answer: George Harrison
+
+Step-by-step reasoning: 
+1. The context provided mentions "See Yourself" as a song by English musician George Harrison, released on his 1976 album "Thirty Three & 1/3".
+2. The same context notes that the song "See Yourself" recalls themes from the Beatles track "Within You Without You".
+3. Another piece of context states that "Within You Without You" is a song written by George Harrison and released on the Beatles' 1967 album "Sgt. Pepper's Lonely Hearts Club Band".
+4. Based on this information, it is clear that George Harrison is the English musician known for both the songs "See Yourself" and "Within You Without You".
+原始EM：79, 总数：183, 网络错误：0, 当前原始EM分数：43.169398907103826%, 增强EM答对：79, 当前增强EM分数：43.169398907103826%, 当前F1分数：61.285175222172995%
+##########
+##########
+ID:184
+Question:Which professional ice hockey position does the Captain of the National Hockey League All-Star Game "Away Team" play?
+Right Answer:Canadian professional ice hockey centre
+Answer: Centre
+Step-by-step reasoning: The context provided indicates that Jonathan Toews was the captain of the away team for the 60th National Hockey League All-Star Game. According to the context with index 1, Jonathan Toews is a professional ice hockey centre. Therefore, the position played by the Captain of the National Hockey League All-Star Game "Away Team" is that of a centre.
+原始EM：79, 总数：184, 网络错误：0, 当前原始EM分数：42.934782608695656%, 增强EM答对：79, 当前增强EM分数：42.934782608695656%, 当前F1分数：61.13326303799451%
+##########
+##########
+ID:185
+Question:What year did the series on CBS, starring the actor who known for his role in "Rebel Without a Cause," air?
+Right Answer:1952
+Answer: 1952
+Step-by-step reasoning: The question asks for the year the CBS series aired, starring the actor known for his role in "Rebel Without a Cause." From the provided context, we can identify James Dean as the actor known for "Rebel Without a Cause." The context with 'idx': 8 mentions that James Dean had early television appearances on the "CBS Television Workshop," which aired from January to April 1952. Therefore, the series on CBS starring James Dean aired in 1952.
+原始EM：80, 总数：185, 网络错误：0, 当前原始EM分数：43.24324324324324%, 增强EM答对：80, 当前增强EM分数：43.24324324324324%, 当前F1分数：61.34335350805941%
+##########
+##########
+ID:186
+Question:What season was the character introduced that becomes the main antagonist in the  following season, from the animated television series created by Bryan Konietzko and Michael Dante DiMartino as a sequel to "", which aired from 2005 to 2008? 
+Right Answer:third
+Answer: The third season.
+Step-by-step reasoning: The context provided indicates that General Kuvira is introduced in the third season of "The Legend of Korra" and becomes the main antagonist in the fourth season. This information is found in the context with index 4, which states: "Introduced in the third season of the series, she becomes the main antagonist of the fourth season." Therefore, the character that becomes the main antagonist in the following season was introduced in the third season.
+原始EM：80, 总数：186, 网络错误：0, 当前原始EM分数：43.01075268817204%, 增强EM答对：80, 当前增强EM分数：43.01075268817204%, 当前F1分数：61.37197347127773%
+##########
+##########
+ID:187
+Question:Who were the directors of the 2009 American science fiction film starring the actor who played Dexter Morgan in the Showtime TV Network series "Dexter"?
+Right Answer:Mark Neveldine and Brian Taylor
+Answer: Mark Neveldine and Brian Taylor
+Step-by-step reasoning: 
+1. The question asks for the directors of a 2009 American science fiction film.
+2. The context provided mentions "Gamer" as a 2009 American science fiction action film.
+3. The same context states that "Gamer" was written and directed by Mark Neveldine and Brian Taylor.
+4. Michael C. Hall, known for playing Dexter Morgan in the Showtime series "Dexter," is listed among the cast of "Gamer."
+5. Therefore, the directors of the 2009 American science fiction film starring Michael C. Hall are Mark Neveldine and Brian Taylor.
+原始EM：81, 总数：187, 网络错误：0, 当前原始EM分数：43.31550802139038%, 增强EM答对：81, 当前增强EM分数：43.31550802139038%, 当前F1分数：61.578540458062335%
+##########
+##########
+ID:188
+Question:Which travel parody series featured American actor, comedian, and radio host best known as the host of "The Joe Schmo Show"?
+Right Answer:Hidden America with Jonah Ray
+Answer: Hidden America with Jonah Ray
+Step-by-step reasoning: To determine which travel parody series featured the American actor, comedian, and radio host known as the host of "The Joe Schmo Show", I reviewed the provided context. Here's the step-by-step reasoning:
+1. I identified Ralph Garman as the individual known for hosting "The Joe Schmo Show" from the context with index 6.
+2. I then looked for a travel parody series that mentioned Ralph Garman as a guest. The context with index 0 mentions "Hidden America with Jonah Ray" as a travel parody series and lists Ralph Garman among the comedic guests.
+3. No other context provided mentions a travel parody series featuring Ralph Garman.
+4. Therefore, based on the given context, "Hidden America with Jonah Ray" is the travel parody series that featured Ralph Garman, known for hosting "The Joe Schmo Show".
+原始EM：82, 总数：188, 网络错误：0, 当前原始EM分数：43.61702127659575%, 增强EM答对：82, 当前增强EM分数：43.61702127659575%, 当前F1分数：61.782909923710946%
+##########
+##########
+ID:189
+Question:Do The Importance of Being Icelandic and The Five Obstructions belong to different film genres ?
+Right Answer:no
+Answer: No, The Importance of Being Icelandic and The Five Obstructions do not belong to different film genres.
+
+Step-by-step reasoning:
+1. The context provided for "The Importance of Being Icelandic" describes it as a documentary film that follows the journey of three Icelandic Canadians exploring their heritage.
+2. The context for "The Five Obstructions" also describes it as a documentary, but notes that it includes experimental film sections. It details the challenge given to filmmaker Jørgen Leth by Lars von Trier to remake "The Perfect Human" with certain obstructions.
+3. Both films are categorized under the documentary genre, despite "The Five Obstructions" having elements of experimental film.
+4. Therefore, since both films are primarily documentaries, they do not belong to different film genres.
+原始EM：82, 总数：189, 网络错误：0, 当前原始EM分数：43.386243386243386%, 增强EM答对：82, 当前增强EM分数：43.386243386243386%, 当前F1分数：61.456016220410895%
+##########
+##########
+ID:190
+Question:Tefik Selim Mborja was a part of a party that held power in Albania until what year? 
+Right Answer:1943
+Answer: 1943
+Step-by-step reasoning: To determine the year until which Tefik Selim Mborja was a part of a party that held power in Albania, I examined the provided context. The first piece of context (index 3) states that the Albanian Fascist Party held nominal power in Albania from 1939 until 1943, when Italy capitulated to the Allies. The second piece of context (index 0) identifies Tefik Selim Mborja as the general secretary of the Albanian Fascist Party during the Second World War. By correlating these two pieces of information, it is clear that since Tefik Selim Mborja was a part of the Albanian Fascist Party, and since this party held power until 1943, the answer to the question is that Tefik Selim Mborja was a part of a party that held power in Albania until 1943.
+原始EM：83, 总数：190, 网络错误：0, 当前原始EM分数：43.684210526315795%, 增强EM答对：83, 当前增强EM分数：43.684210526315795%, 当前F1分数：61.65887929293504%
+##########
+##########
+ID:191
+Question:Joe Walker played for which team that ends their regular season with the Civil War rivalry game?
+Right Answer:Oregon Ducks football
+Answer: Oregon Ducks
+Step-by-step reasoning: The context provided indicates that Joe Walker played college football at the University of Oregon. The Oregon Ducks football program, representing the University of Oregon, ends their regular season with the Civil War rivalry game against the Oregon State Beavers. Therefore, Joe Walker played for the Oregon Ducks, which is the team that ends their regular season with the Civil War rivalry game.
+原始EM：83, 总数：191, 网络错误：0, 当前原始EM分数：43.455497382198956%, 增强EM答对：83, 当前增强EM分数：43.455497382198956%, 当前F1分数：61.75490610291967%
+##########
+##########
+ID:192
+Question:What station broadcast the episode "Marry Me a Little, Marry Me a Little More" , of the series created by Max Mutchnick and David Kohan?
+Right Answer:National Broadcasting Company
+Answer: National Broadcasting Company (NBC)
+
+Step-by-step reasoning: 
+1. The question asks for the station that broadcast a specific episode of a series created by Max Mutchnick and David Kohan.
+2. The provided context mentions that "Marry Me a Little, Marry Me a Little More" is an episode from the television series "Will & Grace," which was created by Max Mutchnick and David Kohan.
+3. The context indexed as 2 states that the episode aired on the National Broadcasting Company (NBC) in the United States on November 21, 2002.
+4. The context indexed as 6 confirms that the show "Will & Grace" was broadcast on NBC.
+5. Based on this information, it is clear that the station which broadcast the episode "Marry Me a Little, Marry Me a Little More" is NBC.
+原始EM：83, 总数：192, 网络错误：0, 当前原始EM分数：43.22916666666667%, 增强EM答对：83, 当前增强EM分数：43.22916666666667%, 当前F1分数：61.87969453839553%
+##########
+##########
+ID:193
+Question:Georges-Henri Bousquet translated the work of a historian who is of what heritage?
+Right Answer:North African Arab
+Answer: North African Arab heritage.
+Step-by-step reasoning: To determine the heritage of the historian whose work was translated by Georges-Henri Bousquet, I reviewed the provided context:
+1. The first piece of context (idx: 6) mentions Ibn Khaldun as a "North African Arab historiographer and historian."
+2. The second piece of context (idx: 4) states that Georges-Henri Bousquet was known for his translation work of Muslim authors, including the Tunisian historian Ibn Khaldun.
+3. By connecting these two pieces of information, it is clear that the historian Ibn Khaldun, whose work Bousquet translated, was of North African Arab heritage.
+原始EM：83, 总数：193, 网络错误：0, 当前原始EM分数：43.005181347150256%, 增强EM答对：83, 当前增强EM分数：43.005181347150256%, 当前F1分数：62.003189829462336%
+##########
+##########
+ID:194
+Question:In which city are the headquarters of the American research and scientific development company where Ravi Sethi worked as computer scientist located?
+Right Answer:Murray Hill
+Answer: Murray Hill, New Jersey
+Step-by-step reasoning: 
+1. The context provided indicates that Ravi Sethi worked for Bell Labs.
+2. It is mentioned that Nokia Bell Labs, previously known as Bell Labs, is headquartered in Murray Hill, New Jersey.
+3. Therefore, by connecting these two pieces of information, we can conclude that the headquarters of the company where Ravi Sethi worked as a computer scientist is located in Murray Hill, New Jersey.
+原始EM：83, 总数：194, 网络错误：0, 当前原始EM分数：42.78350515463917%, 增强EM答对：83, 当前增强EM分数：42.78350515463917%, 当前F1分数：62.02722836986029%
+##########
+##########
+ID:195
+Question:What is the full name of the viral respiratory disease in which Yi Guan's research helped to prevent the outbreak of?
+Right Answer:severe acute respiratory syndrome
+Answer: Severe Acute Respiratory Syndrome (SARS)
+
+Step-by-step reasoning: 
+1. The question asks for the full name of the viral respiratory disease related to Yi Guan's research.
+2. Context index 3 mentions Yi Guan's research on the viral respiratory disease SARS, which helped the Chinese government avert the 2004 outbreak.
+3. Context index 5 provides the full name of SARS as Severe Acute Respiratory Syndrome.
+4. Context index 6 reiterates the full name of SARS.
+5. Combining the information from context indexes 3, 5, and 6, it is clear that the full name of the disease is Severe Acute Respiratory Syndrome (SARS).
+原始EM：83, 总数：195, 网络错误：0, 当前原始EM分数：42.56410256410256%, 增强EM答对：83, 当前增强EM分数：42.56410256410256%, 当前F1分数：62.164980475086075%
+##########
+##########
+ID:196
+Question:Which Kentucky Writers Hall of Fame author has had works published by Dim Gray Bar Press?
+Right Answer:Wendell Berry
+Answer: Wendell Berry
+Step-by-step reasoning: To determine which Kentucky Writers Hall of Fame author has had works published by Dim Gray Bar Press, I examined the provided context for mentions of authors associated with both the Kentucky Writers Hall of Fame and Dim Gray Bar Press. The context indexed at 0 mentions several authors published by Dim Gray Bar Press, including Wendell Berry. The context indexed at 6 confirms that Wendell Berry is a member of the Kentucky Writers Hall of Fame, as he was inducted on January 28, 2015. Therefore, Wendell Berry is the author who fits the criteria of the question.
+原始EM：84, 总数：196, 网络错误：0, 当前原始EM分数：42.857142857142854%, 增强EM答对：84, 当前增强EM分数：42.857142857142854%, 当前F1分数：62.35801628898871%
+##########
+##########
+ID:197
+Question:What director worked with Vikram Bhatt on a film starring actors Rajneesh Duggal and Adah Sharma?
+Right Answer:Tinu Suresh Desai
+Answer: Vikram Bhatt
+Step-by-step reasoning: The question asks for the director who worked with Vikram Bhatt on a film starring Rajneesh Duggal and Adah Sharma. By examining the provided context, we can find the relevant information in the first piece of context (idx: 2), which states that "1920 is a 2008 Indian horror film written and directed by Vikram Bhatt." This film stars Rajneesh Duggal and Adah Sharma, as mentioned in the same context. Therefore, the director who worked with Vikram Bhatt on this film is Vikram Bhatt himself, as he is credited with both writing and directing the film.
+原始EM：84, 总数：197, 网络错误：0, 当前原始EM分数：42.63959390862944%, 增强EM答对：84, 当前增强EM分数：42.63959390862944%, 当前F1分数：62.04147813523749%
+##########
+##########
+ID:198
+Question: Robert Smith founded the multinational company headquartered in what city?
+Right Answer:Golden Valley, Minnesota,
+Answer: Golden Valley, Minnesota
+Step-by-step reasoning: 
+1. The question asks for the city where the multinational company founded by Robert Smith is headquartered.
+2. From the provided context, we have two individuals named Robert Smith. One is mentioned in context index 1 and the other in context index 3.
+3. Context index 1 mentions Robert Smith as the founder of General Mills in 1856.
+4. Context index 5 provides information about General Mills, stating that it is headquartered in Golden Valley, Minnesota.
+5. By correlating the information from context indexes 1 and 5, we can conclude that the Robert Smith who founded General Mills did so in Golden Valley, Minnesota.
+6. Therefore, the answer to the question is Golden Valley, Minnesota, as this is the city where the multinational company General Mills, founded by Robert Smith, is headquartered.
+原始EM：85, 总数：198, 网络错误：0, 当前原始EM分数：42.92929292929293%, 增强EM答对：85, 当前增强EM分数：42.92929292929293%, 当前F1分数：62.23318784162518%
+##########
+##########
+ID:199
+Question:What amount was the settlement that the character from the Son of al Quada got in 2017?
+Right Answer:$10.5 million
+Answer: The settlement amount was $10.5 million (USD 8 million).
+Step-by-step reasoning: 
+1. I reviewed the context provided to identify any information related to a settlement amount.
+2. Context index 9 mentions Omar Khadr, who is associated with the "Son of al Qaeda" through his brother Abdurahman Khadr, as stated in context index 6.
+3. The same context index 9 details a lawsuit against the Canadian government by Omar Khadr, which was settled in 2017.
+4. The settlement amount given to Omar Khadr is explicitly stated as $10.5 million (USD 8 million).
+5. Therefore, the settlement amount in question is $10.5 million (USD 8 million), which corresponds to the character from the "Son of al Qaeda" documentary, Omar Khadr.
+原始EM：85, 总数：199, 网络错误：0, 当前原始EM分数：42.71356783919598%, 增强EM答对：85, 当前增强EM分数：42.71356783919598%, 当前F1分数：62.12146327960697%
+##########
+##########
+ID:200
+Question:Considered the strongest recorded tropical cyclone, which cyclone had a film made about it in 2007?
+Right Answer:1999 Odisha cyclone
+Answer: The 1999 Odisha cyclone
+Step-by-step reasoning: 
+1. The question asks for the strongest recorded tropical cyclone that had a film made about it in 2007.
+2. Context index 6 mentions a film titled "Kathantara" which is about the tribulations of the 1999 Odisha cyclone.
+3. Context index 3 describes the 1999 Odisha cyclone as the strongest recorded tropical cyclone in the North Indian Ocean.
+4. By correlating the information from context indexes 6 and 3, it is clear that the 1999 Odisha cyclone is the one that had a film made about it in 2007.
+5. Therefore, the answer is the 1999 Odisha cyclone.
+原始EM：86, 总数：200, 网络错误：0, 当前原始EM分数：43.0%, 增强EM答对：86, 当前增强EM分数：43.0%, 当前F1分数：62.31085596320894%
+##########
+
+准确率：43.0%
+网络错误：0

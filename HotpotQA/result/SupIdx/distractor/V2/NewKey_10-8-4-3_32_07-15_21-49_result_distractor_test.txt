@@ -1,0 +1,15 @@
+##########
+ID:32
+Question:Hayden is a singer-songwriter from Canada, but where does Buck-Tick hail from?
+golden idx: [5, 8]
+ [8, 7, 3, 6, 1, 4, 5, 0]
+
+ [8, 7, 3, 6]
+
+ [8, 7, 3]
+
+成功的数量为：1总数：2当前回溯率：50.0%
+第1轮错误：0，第2轮错误：1，第3轮错误：0
+##########
+
+回溯率：50.0%

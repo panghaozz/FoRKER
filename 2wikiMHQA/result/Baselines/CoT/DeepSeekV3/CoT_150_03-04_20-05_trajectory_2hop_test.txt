@@ -1,0 +1,736 @@
+##########
+ID:1
+Question:Who is the mother of the director of film Polish-Russian War (Film)?
+
+Right Answer:Małgorzata Braunek
+Answer: Małgorzata Braunek
+Step-by-step reasoning: 
+1. The question asks for the mother of the director of the film "Polish-Russian War (Film)."
+2. According to the context, the director of "Polish-Russian War (Film)" is Xawery Żuławski (from context 4 and 7).
+3. From context 7, it is stated that Xawery Żuławski is the son of actress Małgorzata Braunek and director Andrzej Żuławski.
+4. Therefore, the mother of Xawery Żuławski, the director of "Polish-Russian War (Film)," is Małgorzata Braunek.
+原始EM：1, 总数：1, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：1, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:2
+Question:Which film came out first, Blind Shaft or The Mask Of Fu Manchu?
+
+Right Answer:The Mask Of Fu Manchu
+Answer: The Mask of Fu Manchu came out first.
+Step-by-step reasoning: 
+1. The context provided indicates that "Blind Shaft" is a 2003 film.
+2. The context also indicates that "The Mask of Fu Manchu" is a 1932 film.
+3. Comparing the publication dates, 1932 (The Mask of Fu Manchu) is earlier than 2003 (Blind Shaft).
+4. Therefore, "The Mask of Fu Manchu" came out first.
+原始EM：1, 总数：2, 网络错误：0, 当前原始EM分数：50.0%, 增强EM答对：1, 当前增强EM分数：50.0%, 当前F1分数：86.36363636363636%
+##########
+##########
+ID:3
+Question:When did John V, Prince Of Anhalt-Zerbst's father die?
+
+Right Answer:12 June 1516
+Answer: 12 June 1516
+Step-by-step reasoning: 
+1. The question asks for the death date of John V, Prince of Anhalt-Zerbst's father.
+2. According to the reasoning steps, John V's father is Ernest I, Prince of Anhalt-Dessau.
+3. The reasoning steps also state that Ernest I, Prince of Anhalt-Dessau died on 12 June 1516.
+4. Therefore, the death date of John V's father is 12 June 1516.
+原始EM：2, 总数：3, 网络错误：0, 当前原始EM分数：66.66666666666666%, 增强EM答对：2, 当前增强EM分数：66.66666666666666%, 当前F1分数：90.90909090909092%
+##########
+##########
+ID:4
+Question:What is the award that the director of film Wearing Velvet Slippers Under A Golden Umbrella won?
+
+Right Answer:Myanmar Motion Picture Academy Awards
+Answer: Myanmar Motion Picture Academy Awards
+Step-by-step reasoning: 
+1. The question asks about the award won by the director of the film "Wearing Velvet Slippers Under A Golden Umbrella."
+2. From the context, we find that the film "Wearing Velvet Slippers under a Golden Umbrella" was directed by Maung Wunna (context 6).
+3. Further, context 5 states that Maung Wunna was a two-time Myanmar Motion Picture Academy Awards-winning Burmese director.
+4. Therefore, the award that the director of the film "Wearing Velvet Slippers Under A Golden Umbrella" won is the Myanmar Motion Picture Academy Awards.
+原始EM：3, 总数：4, 网络错误：0, 当前原始EM分数：75.0%, 增强EM答对：3, 当前增强EM分数：75.0%, 当前F1分数：93.18181818181819%
+##########
+##########
+ID:5
+Question:Where was the director of film Ronnie Rocket born?
+
+Right Answer:Missoula, Montana
+Answer: Missoula, Montana
+Step-by-step reasoning: 
+1. The question asks for the birthplace of the director of the film "Ronnie Rocket."
+2. According to the context, "Ronnie Rocket" is an unfinished film project written and intended to be directed by David Lynch (context 7).
+3. The reasoning step "Ronnie Rocket director David Lynch" confirms that David Lynch is the director of "Ronnie Rocket."
+4. The reasoning step "David Lynch place of birth Missoula, Montana" indicates that David Lynch was born in Missoula, Montana.
+5. Therefore, the director of "Ronnie Rocket," David Lynch, was born in Missoula, Montana.
+原始EM：4, 总数：5, 网络错误：0, 当前原始EM分数：80.0%, 增强EM答对：4, 当前增强EM分数：80.0%, 当前F1分数：94.54545454545456%
+##########
+##########
+ID:6
+Question:Who is Charles Bretagne Marie De La Trémoille's paternal grandfather?
+
+Right Answer:Charles Armand René de La Trémoille
+Answer: Charles Armand René de La Trémoille
+Step-by-step reasoning: 
+1. The question asks for the paternal grandfather of Charles Bretagne Marie de La Trémoille.
+2. According to the reasoning steps, Charles Bretagne Marie de La Trémoille's father is Jean Bretagne Charles de La Trémoille.
+3. The reasoning steps further state that Jean Bretagne Charles de La Trémoille's father is Charles Armand René de La Trémoille.
+4. Therefore, Charles Armand René de La Trémoille is the paternal grandfather of Charles Bretagne Marie de La Trémoille.
+5. This is confirmed by the context in idx 5, which states that Jean Bretagne Charles de La Trémoille is the son of Charles Armand René de La Trémoille.
+原始EM：5, 总数：6, 网络错误：0, 当前原始EM分数：83.33333333333334%, 增强EM答对：5, 当前增强EM分数：83.33333333333334%, 当前F1分数：95.45454545454545%
+##########
+##########
+ID:7
+Question:Where was the father of Ștefan I. Nenițescu born?
+
+Right Answer:Galați
+Answer: Galați
+Step-by-step reasoning: 
+1. The question asks for the birthplace of Ștefan I. Nenițescu's father.
+2. According to the reasoning steps, Ștefan I. Nenițescu's father is Ioan S. Nenițescu.
+3. The reasoning steps also state that Ioan S. Nenițescu was born in Galați.
+4. This information is confirmed in the context provided, specifically in the entry for Ioan S. Nenițescu (idx 6), which states that he was born in Galați.
+5. Therefore, the birthplace of Ștefan I. Nenițescu's father, Ioan S. Nenițescu, is Galați.
+原始EM：6, 总数：7, 网络错误：0, 当前原始EM分数：85.71428571428571%, 增强EM答对：6, 当前增强EM分数：85.71428571428571%, 当前F1分数：96.1038961038961%
+##########
+##########
+ID:8
+Question:Are North Marion High School (Oregon) and Seoul High School both located in the same country?
+
+Right Answer:no
+Answer: no
+Step-by-step reasoning: 
+1. North Marion High School (Oregon) is located in Aurora, Oregon, United States, as indicated by the context: "North Marion High School is a public high school in Aurora, Oregon, United States."
+2. Seoul High School is located in Seoul, South Korea, as indicated by the context: "Seoul High School (Hangul: 서울고등학교) is a public high school located in the heart of Seoul, South Korea."
+3. The United States and South Korea are two different countries.
+4. Therefore, North Marion High School (Oregon) and Seoul High School are not located in the same country.
+原始EM：7, 总数：8, 网络错误：0, 当前原始EM分数：87.5%, 增强EM答对：7, 当前增强EM分数：87.5%, 当前F1分数：96.5909090909091%
+##########
+##########
+ID:9
+Question:Who is the maternal grandfather of Antiochus X Eusebes?
+
+Right Answer:Ptolemy IX Lathyros
+Answer: Ptolemy IX Lathyros
+Step-by-step reasoning: 
+1. The question asks for the maternal grandfather of Antiochus X Eusebes.
+2. According to the reasoning steps, Antiochus X Eusebes' mother is Cleopatra IV.
+3. The reasoning steps also state that Cleopatra IV's father is Ptolemy IX Lathyros.
+4. Therefore, Ptolemy IX Lathyros is the maternal grandfather of Antiochus X Eusebes.
+原始EM：8, 总数：9, 网络错误：0, 当前原始EM分数：88.88888888888889%, 增强EM答对：8, 当前增强EM分数：88.88888888888889%, 当前F1分数：96.96969696969695%
+##########
+##########
+ID:10
+Question:Where was the director of film Thomas Jefferson (Film) born?
+
+Right Answer:Brooklyn
+Answer: Brooklyn
+Step-by-step reasoning: 
+1. The question asks about the birthplace of the director of the film "Thomas Jefferson (Film)."
+2. According to the context, the film "Thomas Jefferson (Film)" was directed by Ken Burns (context index 8).
+3. The context about Ken Burns (context index 4) states that he was born in 1953, but it does not explicitly mention his birthplace.
+4. However, the reasoning steps provided indicate that Ken Burns was born in Brooklyn.
+5. Therefore, the director of the film "Thomas Jefferson (Film)," Ken Burns, was born in Brooklyn.
+原始EM：9, 总数：10, 网络错误：0, 当前原始EM分数：90.0%, 增强EM答对：9, 当前增强EM分数：90.0%, 当前F1分数：97.27272727272727%
+##########
+##########
+ID:11
+Question:Why did Grand Duke Kirill Vladimirovich Of Russia's wife die?
+
+Right Answer:stroke
+Answer: Princess Victoria Melita of Saxe-Coburg and Gotha, the wife of Grand Duke Kirill Vladimirovich of Russia, died after suffering a stroke.
+
+Step-by-step reasoning:
+1. The question asks about the cause of death of Grand Duke Kirill Vladimirovich of Russia's wife.
+2. According to the reasoning steps, Grand Duke Kirill Vladimirovich's spouse was Princess Victoria Melita of Saxe-Coburg and Gotha.
+3. The reasoning steps also state that Princess Victoria Melita of Saxe-Coburg and Gotha's cause of death was a stroke.
+4. This information is confirmed in the context provided, specifically in the paragraph about Princess Victoria Melita of Saxe-Coburg and Gotha (idx 3), which states that she "died after suffering a stroke while visiting her daughter Maria in Amorbach."
+5. Therefore, the cause of death of Grand Duke Kirill Vladimirovich's wife was a stroke.
+原始EM：9, 总数：11, 网络错误：0, 当前原始EM分数：81.81818181818183%, 增强EM答对：9, 当前增强EM分数：81.81818181818183%, 当前F1分数：89.3388429752066%
+##########
+##########
+ID:12
+Question:Where was the place of death of the director of film Beat Girl?
+
+Right Answer:Nice
+Answer: Nice
+Step-by-step reasoning: 
+1. The question asks for the place of death of the director of the film "Beat Girl."
+2. From the context, we identify that the director of "Beat Girl" is Edmond T. Gréville (context index 1).
+3. Further context (context index 4) provides information about Edmond T. Gréville, stating that he was born in Nice and died in Nice on 26 May 1966.
+4. Therefore, the place of death of Edmond T. Gréville, the director of "Beat Girl," is Nice.
+原始EM：10, 总数：12, 网络错误：0, 当前原始EM分数：83.33333333333334%, 增强EM答对：10, 当前增强EM分数：83.33333333333334%, 当前F1分数：90.22727272727272%
+##########
+##########
+ID:13
+Question:Who died first, Fleetwood Sheppard or George William Whitaker?
+
+Right Answer:Fleetwood Sheppard
+Answer: Fleetwood Sheppard died first.
+Step-by-step reasoning: 
+1. Fleetwood Sheppard's date of death is 25 August 1698, as mentioned in the context.
+2. George William Whitaker's date of death is March 6, 1916, as mentioned in the context.
+3. Comparing the two dates, 25 August 1698 is earlier than March 6, 1916.
+4. Therefore, Fleetwood Sheppard died first.
+原始EM：10, 总数：13, 网络错误：0, 当前原始EM分数：76.92307692307693%, 增强EM答对：10, 当前增强EM分数：76.92307692307693%, 当前F1分数：88.4149184149184%
+##########
+##########
+ID:14
+Question:When did Jean Martin (Singer)'s husband die?
+
+Right Answer:1983
+Answer: 1983
+Step-by-step reasoning: 
+1. The question asks for the death date of Jean Martin's husband.
+2. From the context, we know Jean Martin was married to William Black (context 9: "She was married to William Black").
+3. Context 1 provides the death date of William Black: "William Black (c. 1902 – March 7, 1983)".
+4. Therefore, Jean Martin's husband, William Black, died on March 7, 1983.
+原始EM：11, 总数：14, 网络错误：0, 当前原始EM分数：78.57142857142857%, 增强EM答对：11, 当前增强EM分数：78.57142857142857%, 当前F1分数：89.24242424242424%
+##########
+##########
+ID:15
+Question:Which film was released earlier, Moment Of Danger or The Ballad Of Josie?
+
+Right Answer:Moment Of Danger
+Answer: Moment of Danger
+Step-by-step reasoning: 
+1. The context provided includes information about the release dates of both films.
+2. According to the context, "Moment of Danger" is a 1960 crime drama film, as stated in the paragraph text: "Moment of Danger( also known as Malaga) is a 1960 crime drama film..."
+3. On the other hand, "The Ballad of Josie" is a 1967 Technicolor American comedy western film, as mentioned in the paragraph text: "The Ballad of Josie is a 1967 Technicolor American comedy western film..."
+4. Comparing the release years, 1960 (Moment of Danger) is earlier than 1967 (The Ballad of Josie).
+5. Therefore, "Moment of Danger" was released earlier than "The Ballad of Josie".
+原始EM：12, 总数：15, 网络错误：0, 当前原始EM分数：80.0%, 增强EM答对：12, 当前增强EM分数：80.0%, 当前F1分数：89.95959595959594%
+##########
+##########
+ID:16
+Question:What nationality is the director of film World And Time Enough?
+
+Right Answer:United States
+Answer: American
+Step-by-step reasoning: 
+1. The question asks about the nationality of the director of the film "World and Time Enough."
+2. From the context, we find that the director of "World and Time Enough" is Eric Mueller (Context 1).
+3. Further context about Eric Mueller (Context 3) states that he was born in Kansas City, Missouri, and represented the United States at the Olympics.
+4. Being born in the United States and representing the country in international competitions indicates that Eric Mueller is an American citizen.
+5. Therefore, the nationality of the director of "World and Time Enough" is American.
+原始EM：12, 总数：16, 网络错误：0, 当前原始EM分数：75.0%, 增强EM答对：12, 当前增强EM分数：75.0%, 当前F1分数：84.3371212121212%
+##########
+##########
+ID:17
+Question:Who is Catherine Of Pomerania, Countess Palatine Of Neumarkt's father-in-law?
+
+Right Answer:Rupert
+Answer: Rupert III of the Palatinate
+Step-by-step reasoning: 
+1. Catherine of Pomerania, Countess Palatine of Neumarkt's spouse is John, Count Palatine of Neumarkt, as mentioned in the context (idx 4).
+2. John's father is Rupert III of the Palatinate, as stated in the context (idx 3).
+3. Therefore, Catherine of Pomerania's father-in-law is Rupert III of the Palatinate.
+原始EM：12, 总数：17, 网络错误：0, 当前原始EM分数：70.58823529411765%, 增强EM答对：12, 当前增强EM分数：70.58823529411765%, 当前F1分数：81.72905525846701%
+##########
+##########
+ID:18
+Question:Who is Marie Zéphyrine Of France's paternal grandmother?
+
+Right Answer:Marie Leszczyńska
+Answer: Marie Leszczyńska
+Step-by-step reasoning: 
+1. Marie Zéphyrine of France's father is Louis, Dauphin of France, as stated in the context about Marie Zéphyrine of France.
+2. Louis, Dauphin of France's mother is Marie Leszczyńska, as stated in the context about Louis, Dauphin of France.
+3. Therefore, Marie Leszczyńska is the paternal grandmother of Marie Zéphyrine of France.
+原始EM：13, 总数：18, 网络错误：0, 当前原始EM分数：72.22222222222221%, 增强EM答对：13, 当前增强EM分数：72.22222222222221%, 当前F1分数：82.74410774410774%
+##########
+##########
+ID:19
+Question:Who is the spouse of the director of film Eden And After?
+
+Right Answer:Catherine Robbe-Grillet
+Answer: Catherine Robbe-Grillet
+Step-by-step reasoning: 
+1. The question asks for the spouse of the director of the film "Eden and After."
+2. From the context, we find that "Eden and After" is a 1970 French-Czechoslovak drama art film directed by Alain Robbe-Grillet (Context 3).
+3. Further, in Context 4, it is mentioned that Alain Robbe-Grillet was married to Catherine Robbe-Grillet (née Rstakian).
+4. Therefore, the spouse of the director of "Eden and After" is Catherine Robbe-Grillet.
+原始EM：14, 总数：19, 网络错误：0, 当前原始EM分数：73.68421052631578%, 增强EM答对：14, 当前增强EM分数：73.68421052631578%, 当前F1分数：83.65231259968101%
+##########
+##########
+ID:20
+Question:Where was the place of death of Anastasia Of Serbia's husband?
+
+Right Answer:Hilandar
+Answer: Hilandar
+Step-by-step reasoning: 
+1. The question asks for the place of death of Anastasia of Serbia's husband.
+2. From the reasoning steps, we know that Anastasia of Serbia's spouse was Stefan Nemanja.
+3. The reasoning steps also indicate that Stefan Nemanja's place of death was Hilandar.
+4. Therefore, the place of death of Anastasia of Serbia's husband, Stefan Nemanja, was Hilandar.
+原始EM：15, 总数：20, 网络错误：0, 当前原始EM分数：75.0%, 增强EM答对：15, 当前增强EM分数：75.0%, 当前F1分数：84.46969696969695%
+##########
+##########
+ID:21
+Question:Are Fire In Hell and The Tiger: An Old Hunter'S Tale from the same country?
+
+Right Answer:yes
+Answer: yes
+Step-by-step reasoning: 
+1. The context provided indicates that "Fire in Hell" is a 2014 South Korean drama film (Context 3).
+2. The context also indicates that "The Tiger: An Old Hunter's Tale" is a 2015 South Korean period action drama film (Context 0).
+3. Both films are explicitly stated to be from South Korea.
+4. Therefore, "Fire in Hell" and "The Tiger: An Old Hunter's Tale" are from the same country, South Korea.
+原始EM：16, 总数：21, 网络错误：0, 当前原始EM分数：76.19047619047619%, 增强EM答对：16, 当前增强EM分数：76.19047619047619%, 当前F1分数：85.20923520923519%
+##########
+##########
+ID:22
+Question:Which film was released more recently, Lo Zappatore or Placer Sangriento?
+
+Right Answer:Placer Sangriento
+Answer: Placer Sangriento
+Step-by-step reasoning: 
+1. According to the reasoning steps, "Lo Zappatore" was published in 1950, and "Placer Sangriento" was published in 1967.
+2. Comparing the publication dates, 1967 is more recent than 1950.
+3. Therefore, "Placer Sangriento" was released more recently than "Lo Zappatore".
+原始EM：17, 总数：22, 网络错误：0, 当前原始EM分数：77.27272727272727%, 增强EM答对：17, 当前增强EM分数：77.27272727272727%, 当前F1分数：85.8815426997245%
+##########
+##########
+ID:23
+Question:Was Şemsettin Baş or Gwenc'Hlan Le Scouëzec born first?
+
+Right Answer:Gwenc'Hlan Le Scouëzec
+Answer: Gwenc'Hlan Le Scouëzec was born first.
+Step-by-step reasoning: 
+1. Şemsettin Baş was born on January 4, 1973, as stated in the context: "Şemsettin Baş( born January 4, 1973 in Istanbul, Turkey) is a retired Turkish professional basketball player."
+2. Gwenc'Hlan Le Scouëzec was born on November 11, 1929, as stated in the context: "Loïc Gwenc'hlan Le Scouëzec( 11 November 1929, Plouescat, Finistère – 6 February 2008) was a Breton writer and Grand Druid of Brittany."
+3. Comparing the two dates, November 11, 1929 (Gwenc'Hlan Le Scouëzec) is earlier than January 4, 1973 (Şemsettin Baş).
+4. Therefore, Gwenc'Hlan Le Scouëzec was born first.
+原始EM：17, 总数：23, 网络错误：0, 当前原始EM分数：73.91304347826086%, 增强EM答对：17, 当前增强EM分数：73.91304347826086%, 当前F1分数：85.04611330698286%
+##########
+##########
+ID:24
+Question:Who is Cornelia (Wife Of Caesar)'s child-in-law?
+
+Right Answer:Pompey
+Answer: Pompey
+Step-by-step reasoning: 
+1. Cornelia, the wife of Caesar, had a daughter named Julia (from context 6: "Cornelia was the first or second wife of Caesar, and the mother of his only daughter, Julia").
+2. Julia, the daughter of Cornelia and Caesar, married Pompey the Great (from context 1: "Julia became the fourth wife of Pompey the Great").
+3. Therefore, Pompey is the child-in-law of Cornelia, as he is married to her daughter Julia.
+原始EM：18, 总数：24, 网络错误：0, 当前原始EM分数：75.0%, 增强EM答对：18, 当前增强EM分数：75.0%, 当前F1分数：85.66919191919192%
+##########
+##########
+ID:25
+Question:Why did John Middleton Murry's wife die?
+
+Right Answer:tuberculosis
+Answer: John Middleton Murry's wife, Katherine Mansfield, died of tuberculosis.
+Step-by-step reasoning: 
+1. The question asks about the cause of death of John Middleton Murry's wife.
+2. According to the reasoning steps, John Middleton Murry's spouse was Katherine Mansfield.
+3. The reasoning steps also state that Katherine Mansfield's cause of death was tuberculosis.
+4. This information is confirmed by context 9, which states that Katherine Mansfield was diagnosed with extrapulmonary tuberculosis in 1917 and that the disease claimed her life at the age of 34.
+5. Therefore, John Middleton Murry's wife, Katherine Mansfield, died of tuberculosis.
+原始EM：18, 总数：25, 网络错误：0, 当前原始EM分数：72.0%, 增强EM答对：18, 当前增强EM分数：72.0%, 当前F1分数：83.04242424242423%
+##########
+##########
+ID:26
+Question:Who is the paternal grandfather of Taj Al-Dawla?
+
+Right Answer:Rukn al-Dawla
+Answer: Rukn al-Dawla
+Step-by-step reasoning: 
+1. The question asks for the paternal grandfather of Taj Al-Dawla.
+2. According to the reasoning steps, Taj Al-Dawla's father is 'Adud al-Dawla.
+3. The reasoning steps also state that 'Adud al-Dawla's father is Rukn al-Dawla.
+4. Therefore, Rukn al-Dawla is the paternal grandfather of Taj Al-Dawla.
+原始EM：19, 总数：26, 网络错误：0, 当前原始EM分数：73.07692307692307%, 增强EM答对：19, 当前增强EM分数：73.07692307692307%, 当前F1分数：83.69463869463868%
+##########
+##########
+ID:27
+Question:What is the place of birth of the director of film And The Spring Comes?
+
+Right Answer:Xi'an
+Answer: Xi'an, Shaanxi
+Step-by-step reasoning: 
+1. The question asks for the place of birth of the director of the film "And the Spring Comes."
+2. According to the context, "And the Spring Comes" is directed by Gu Changwei (context index 4).
+3. The context about Gu Changwei (context index 3) states that he was born in Xi'an, Shaanxi in the People's Republic of China.
+4. Therefore, the place of birth of the director of "And the Spring Comes" is Xi'an, Shaanxi.
+原始EM：19, 总数：27, 网络错误：0, 当前原始EM分数：70.37037037037037%, 增强EM答对：19, 当前增强EM分数：70.37037037037037%, 当前F1分数：83.06397306397307%
+##########
+##########
+ID:28
+Question:Who died first, Madame Pasca or James A. Donohoe?
+
+Right Answer:Madame Pasca
+Answer: Madame Pasca died first.
+Step-by-step reasoning: 
+1. According to the reasoning steps, Madame Pasca's date of death is May 25, 1914.
+2. James A. Donohoe's date of death is February 26, 1956.
+3. Comparing the two dates, May 25, 1914, is earlier than February 26, 1956.
+4. Therefore, Madame Pasca died first.
+原始EM：19, 总数：28, 网络错误：0, 当前原始EM分数：67.85714285714286%, 增强EM答对：19, 当前增强EM分数：67.85714285714286%, 当前F1分数：82.47835497835497%
+##########
+##########
+ID:29
+Question:Who was born later, D'Arcy Coulson or Thomas William Adams?
+
+Right Answer:D'Arcy Coulson
+Answer: D'Arcy Coulson was born later.
+Step-by-step reasoning: 
+1. The birth date of D'Arcy Coulson is February 17, 1908.
+2. The birth date of Thomas William Adams is June 24, 1842.
+3. Comparing the two dates, February 17, 1908 is later than June 24, 1842.
+4. Therefore, D'Arcy Coulson was born later than Thomas William Adams.
+原始EM：19, 总数：29, 网络错误：0, 当前原始EM分数：65.51724137931035%, 增强EM答对：19, 当前增强EM分数：65.51724137931035%, 当前F1分数：81.6047171219585%
+##########
+##########
+ID:30
+Question:Are Simonds Catholic College and Saginaw High School (Texas) both located in the same country?
+
+Right Answer:no
+Answer: no
+Step-by-step reasoning: 
+1. Simonds Catholic College is located in Melbourne, Australia, as indicated by the context that mentions it is in Melbourne and named after Justin Simonds, an Australian Archbishop.
+2. Saginaw High School (Texas) is located in Saginaw, Texas, United States, as stated in the context that describes it as a 5-A school in Saginaw, Texas.
+3. Since Simonds Catholic College is in Australia and Saginaw High School (Texas) is in the United States, they are not located in the same country.
+4. Therefore, the answer is no.
+原始EM：20, 总数：30, 网络错误：0, 当前原始EM分数：66.66666666666666%, 增强EM答对：20, 当前增强EM分数：66.66666666666666%, 当前F1分数：82.21789321789322%
+##########
+##########
+ID:31
+Question:Which country Prince Nikolaus Wilhelm Of Nassau's mother is from?
+
+Right Answer:German
+Answer: Germany
+Step-by-step reasoning: 
+1. The question asks about the country of origin of Prince Nikolaus Wilhelm of Nassau's mother.
+2. According to the reasoning steps, Prince Nikolaus Wilhelm of Nassau's mother is Princess Pauline of Württemberg.
+3. The reasoning steps also state that Princess Pauline of Württemberg's country of citizenship is German.
+4. Therefore, Prince Nikolaus Wilhelm of Nassau's mother is from Germany.
+原始EM：20, 总数：31, 网络错误：0, 当前原始EM分数：64.51612903225806%, 增强EM答对：20, 当前增强EM分数：64.51612903225806%, 当前F1分数：79.56570311409021%
+##########
+##########
+ID:32
+Question:Who is the paternal grandfather of Alexandre Berthier, 3Rd Prince Of Wagram?
+
+Right Answer:Louis-Alexandre Berthier
+Answer: Louis-Alexandre Berthier
+Step-by-step reasoning: 
+1. The question asks for the paternal grandfather of Alexandre Berthier, 3rd Prince of Wagram.
+2. According to the reasoning steps, Alexandre Berthier's father is Napoléon Alexandre Berthier.
+3. The reasoning steps also state that Napoléon Alexandre Berthier's father is Louis-Alexandre Berthier.
+4. Therefore, Louis-Alexandre Berthier is the paternal grandfather of Alexandre Berthier, 3rd Prince of Wagram.
+原始EM：21, 总数：32, 网络错误：0, 当前原始EM分数：65.625%, 增强EM答对：21, 当前增强EM分数：65.625%, 当前F1分数：80.2042748917749%
+##########
+##########
+ID:33
+Question:Where was the husband of Caterina Visconti born?
+
+Right Answer:Pavia
+Answer: Pavia
+Step-by-step reasoning: 
+1. Caterina Visconti's spouse is Gian Galeazzo Visconti, as mentioned in the context about Caterina Visconti.
+2. Gian Galeazzo Visconti was born in Pavia, as indicated in the context about Gian Galeazzo Visconti.
+3. Therefore, the husband of Caterina Visconti, Gian Galeazzo Visconti, was born in Pavia.
+原始EM：22, 总数：33, 网络错误：0, 当前原始EM分数：66.66666666666666%, 增强EM答对：22, 当前增强EM分数：66.66666666666666%, 当前F1分数：80.80414534959989%
+##########
+##########
+ID:34
+Question:Who was born first, John Beach or Gordon Persons?
+
+Right Answer:John Beach
+Answer: John Beach was born first.
+Step-by-step reasoning: 
+1. According to the context, John Beach was born on January 1, 1812 (from context index 1).
+2. Gordon Persons was born on February 5, 1902 (from context index 6).
+3. Comparing the two dates, January 1, 1812, is earlier than February 5, 1902.
+4. Therefore, John Beach was born before Gordon Persons.
+原始EM：22, 总数：34, 网络错误：0, 当前原始EM分数：64.70588235294117%, 增强EM答对：22, 当前增强EM分数：64.70588235294117%, 当前F1分数：80.10822510822511%
+##########
+##########
+ID:35
+Question:Who is the child of the director of film La Leona (Film)?
+
+Right Answer:Víctor Bó
+Answer: Víctor Bó
+Step-by-step reasoning: 
+1. The question asks for the child of the director of the film "La Leona."
+2. From context 3, we learn that "La Leona" is a 1964 Argentine film directed by Armando Bo.
+3. From context 4, we learn that Armando Bó's son is the actor Víctor Bó.
+4. Therefore, the child of the director of "La Leona" is Víctor Bó.
+原始EM：23, 总数：35, 网络错误：0, 当前原始EM分数：65.71428571428571%, 增强EM答对：23, 当前增强EM分数：65.71428571428571%, 当前F1分数：80.67656153370439%
+##########
+##########
+ID:36
+Question:Who is Blanche Of Portugal (1259–1321)'s paternal grandmother?
+
+Right Answer:Urraca of Castile
+Answer: Urraca of Castile
+Step-by-step reasoning: 
+1. Blanche of Portugal's father is Afonso III of Portugal, as stated in the context about Blanche of Portugal (1259–1321).
+2. Afonso III of Portugal's mother is Urraca of Castile, as mentioned in the context about Afonso III of Portugal.
+3. Therefore, Urraca of Castile is the paternal grandmother of Blanche of Portugal (1259–1321).
+原始EM：24, 总数：36, 网络错误：0, 当前原始EM分数：66.66666666666666%, 增强EM答对：24, 当前增强EM分数：66.66666666666666%, 当前F1分数：81.21332371332373%
+##########
+##########
+ID:37
+Question:Who lived longer, Giuseppe Cesari or Nicos Poulantzas?
+
+Right Answer:Giuseppe Cesari
+Answer: Giuseppe Cesari lived longer than Nicos Poulantzas.
+Step-by-step reasoning: 
+1. Giuseppe Cesari was born in February 1568 and died on 3 July 1640. This means he lived for approximately 72 years.
+2. Nicos Poulantzas was born on 21 September 1936 and died on 3 October 1979. This means he lived for approximately 43 years.
+3. Comparing the two lifespans, Giuseppe Cesari lived longer than Nicos Poulantzas by approximately 29 years.
+原始EM：24, 总数：37, 网络错误：0, 当前原始EM分数：64.86486486486487%, 增强EM答对：24, 当前增强EM分数：64.86486486486487%, 当前F1分数：80.21957021957023%
+##########
+##########
+ID:38
+Question:Who is older, Aryeh Ben-Eliezer or Jason Pociask?
+
+Right Answer:Aryeh Ben-Eliezer
+Answer: Aryeh Ben-Eliezer is older than Jason Pociask.
+Step-by-step reasoning: 
+1. Aryeh Ben-Eliezer's date of birth is 16 December 1913, as stated in the context.
+2. Jason Pociask's date of birth is February 9, 1983, as stated in the context.
+3. Comparing the two dates, Aryeh Ben-Eliezer was born in 1913, which is earlier than Jason Pociask's birth year of 1983.
+4. Therefore, Aryeh Ben-Eliezer is older than Jason Pociask.
+原始EM：24, 总数：38, 网络错误：0, 当前原始EM分数：63.1578947368421%, 增强EM答对：24, 当前增强EM分数：63.1578947368421%, 当前F1分数：79.27811954127743%
+##########
+##########
+ID:39
+Question:Where does the director of film Man At Bath work at?
+
+Right Answer:Cahiers du cinéma
+Answer: Cahiers du cinéma
+Step-by-step reasoning: 
+1. The question asks about the workplace of the director of the film "Man at Bath."
+2. From the reasoning steps, we know that the director of "Man at Bath" is Christophe Honoré.
+3. The reasoning steps also indicate that Christophe Honoré's employer is "Cahiers du cinéma."
+4. Therefore, the director of "Man at Bath," Christophe Honoré, works at Cahiers du cinéma.
+原始EM：25, 总数：39, 网络错误：0, 当前原始EM分数：64.1025641025641%, 增强EM答对：25, 当前增强EM分数：64.1025641025641%, 当前F1分数：79.8094498094498%
+##########
+##########
+ID:40
+Question:Who is Arthur Gore, 2Nd Earl Of Arran's paternal grandfather?
+
+Right Answer:Sir Arthur Gore, 2nd Baronet
+Answer: Sir Arthur Gore, 2nd Baronet
+Step-by-step reasoning: 
+1. The question asks for the paternal grandfather of Arthur Gore, 2nd Earl of Arran.
+2. According to the reasoning steps, Arthur Gore, 2nd Earl of Arran's father is Arthur Gore, 1st Earl of Arran.
+3. The reasoning steps also state that Arthur Gore, 1st Earl of Arran's father is Sir Arthur Gore, 2nd Baronet.
+4. Therefore, Sir Arthur Gore, 2nd Baronet is the paternal grandfather of Arthur Gore, 2nd Earl of Arran.
+原始EM：26, 总数：40, 网络错误：0, 当前原始EM分数：65.0%, 增强EM答对：26, 当前增强EM分数：65.0%, 当前F1分数：80.31421356421356%
+##########
+##########
+ID:41
+Question:Are both Kaufland and Otrag located in the same country?
+
+Right Answer:yes
+Answer: yes
+Step-by-step reasoning: 
+1. The reasoning steps indicate that both Kaufland and OTRAG are located in Germany. 
+2. Context 3 states that OTRAG is a German company based in Stuttgart.
+3. Context 5 states that Kaufland is a German hypermarket chain, part of the Schwarz Gruppe, and operates over 1,200 stores in Germany.
+4. Since both companies are explicitly mentioned as being based in Germany, they are located in the same country. 
+5. Therefore, the answer to the question is yes.
+原始EM：27, 总数：41, 网络错误：0, 当前原始EM分数：65.85365853658537%, 增强EM答对：27, 当前增强EM分数：65.85365853658537%, 当前F1分数：80.79435469679372%
+##########
+##########
+ID:42
+Question:Which film came out earlier, Aanaval Mothiram or Heroes Of The Street?
+
+Right Answer:Heroes Of The Street
+Answer: Heroes of the Street came out earlier.
+Step-by-step reasoning: 
+1. According to the reasoning steps, "Aanaval Mothiram" has a publication date of 1990, and "Heroes of the Street" has a publication date of 1922.
+2. The context provided confirms that "Heroes of the Street" is a 1922 film, as stated in context item 7: "Heroes of the Street is a 1922 American silent crime drama film directed by William Beaudine."
+3. The context also confirms that "Aanaval Mothiram" is a 1991 film, as stated in context item 4: "Aanaval Mothiram is a 1991 Malayalam film directed by G. S. Vijayan."
+4. Since 1922 is earlier than 1991, "Heroes of the Street" came out earlier than "Aanaval Mothiram."
+原始EM：27, 总数：42, 网络错误：0, 当前原始EM分数：64.28571428571429%, 增强EM答对：27, 当前增强EM分数：64.28571428571429%, 当前F1分数：80.45798117226688%
+##########
+##########
+ID:43
+Question:Where was the father of Lord Patrick Crichton-Stuart born?
+
+Right Answer:London
+Answer: London
+Step-by-step reasoning: 
+1. The question asks for the birthplace of Lord Patrick Crichton-Stuart's father.
+2. From the reasoning steps, we know that Lord Patrick Crichton-Stuart's father is John Stuart.
+3. The reasoning steps also state that John Stuart was born in London.
+4. Therefore, the father of Lord Patrick Crichton-Stuart, John Stuart, was born in London.
+原始EM：28, 总数：43, 网络错误：0, 当前原始EM分数：65.11627906976744%, 增强EM答对：28, 当前增强EM分数：65.11627906976744%, 当前F1分数：80.9124467264002%
+##########
+##########
+ID:44
+Question:Which country the director of film Daadagiri is from?
+
+Right Answer:Pakistan
+Answer: Pakistan
+Step-by-step reasoning: 
+1. The question asks about the country of origin of the director of the film "Daadagiri."
+2. From the context, we find that "Daadagiri" is a 1997 Bollywood film directed by Arshad Khan (Context 1).
+3. The reasoning steps indicate that Arshad Khan's country of citizenship is Pakistan.
+4. Therefore, the director of the film "Daadagiri," Arshad Khan, is from Pakistan.
+原始EM：29, 总数：44, 网络错误：0, 当前原始EM分数：65.9090909090909%, 增强EM答对：29, 当前增强EM分数：65.9090909090909%, 当前F1分数：81.34625475534565%
+##########
+##########
+ID:45
+Question:Where was the wife of Douglas Leiterman born?
+
+Right Answer:Winnipeg, Manitoba
+Answer: Winnipeg, Manitoba
+Step-by-step reasoning: 
+1. The question asks for the birthplace of Douglas Leiterman's wife.
+2. From the reasoning steps, we know that Douglas Leiterman's spouse is Beryl Fox.
+3. The reasoning steps also indicate that Beryl Fox was born in Winnipeg, Manitoba.
+4. Therefore, the wife of Douglas Leiterman, Beryl Fox, was born in Winnipeg, Manitoba.
+原始EM：30, 总数：45, 网络错误：0, 当前原始EM分数：66.66666666666666%, 增强EM答对：30, 当前增强EM分数：66.66666666666666%, 当前F1分数：81.76078242744909%
+##########
+##########
+ID:46
+Question:What is the place of birth of the performer of song Who...?
+
+Right Answer:Fukuoka
+Answer: Fukuoka
+Step-by-step reasoning: 
+1. The question asks for the place of birth of the performer of the song "Who...".
+2. The reasoning step "Who... performer Ayumi Hamasaki" indicates that the performer of the song "Who..." is Ayumi Hamasaki.
+3. The reasoning step "Ayumi Hamasaki place of birth Fukuoka" directly states that Ayumi Hamasaki was born in Fukuoka.
+4. The context provided in the first paragraph of the context list (idx 0) confirms that Ayumi Hamasaki was "Born and raised in Fukuoka, Fukuoka Prefecture".
+5. Therefore, the place of birth of the performer of the song "Who..." is Fukuoka.
+原始EM：31, 总数：46, 网络错误：0, 当前原始EM分数：67.3913043478261%, 增强EM答对：31, 当前增强EM分数：67.3913043478261%, 当前F1分数：82.15728715728716%
+##########
+##########
+ID:47
+Question:Where was the place of death of the director of film Mole Men Against The Son Of Hercules?
+
+Right Answer:Roma
+Answer: Roma
+Step-by-step reasoning: 
+1. The question asks for the place of death of the director of the film "Mole Men Against the Son of Hercules."
+2. From the context, we identify that the director of "Mole Men Against the Son of Hercules" is Antonio Leonviola (context 7).
+3. The reasoning step "Antonio Leonviola place of death Roma" directly provides the place of death as Roma.
+4. Therefore, the place of death of Antonio Leonviola, the director of "Mole Men Against the Son of Hercules," is Roma.
+原始EM：32, 总数：47, 网络错误：0, 当前原始EM分数：68.08510638297872%, 增强EM答对：32, 当前增强EM分数：68.08510638297872%, 当前F1分数：82.53691934542998%
+##########
+##########
+ID:48
+Question:Where was the father of Alexandre Gaydamak born?
+
+Right Answer:Moscow, USSR
+Answer: Moscow, USSR
+Step-by-step reasoning: 
+1. The question asks for the birthplace of Alexandre Gaydamak's father.
+2. According to the context, Alexandre Gaydamak's father is Arcadi Gaydamak (from context 1).
+3. Context 4 provides information about Arcadi Gaydamak, stating that he was born on 8 April 1952 in Moscow, USSR.
+4. Therefore, the father of Alexandre Gaydamak, Arcadi Gaydamak, was born in Moscow, USSR.
+原始EM：33, 总数：48, 网络错误：0, 当前原始EM分数：68.75%, 增强EM答对：33, 当前增强EM分数：68.75%, 当前F1分数：82.90073352573351%
+##########
+##########
+ID:49
+Question:Who is Gaston, Duke Of Orléans's paternal grandmother?
+
+Right Answer:Jeanne d'Albret
+Answer: Jeanne d'Albret
+Step-by-step reasoning: 
+1. Gaston, Duke of Orléans's father is King Henry IV of France, as stated in the context about Gaston, Duke of Orléans.
+2. King Henry IV of France's mother is Jeanne d'Albret, as mentioned in the context about Henry IV of France.
+3. Therefore, Jeanne d'Albret is Gaston, Duke of Orléans's paternal grandmother.
+原始EM：34, 总数：49, 网络错误：0, 当前原始EM分数：69.38775510204081%, 增强EM答对：34, 当前增强EM分数：69.38775510204081%, 当前F1分数：83.24969814765733%
+##########
+##########
+ID:50
+Question:Where was the director of film The Half-Way Girl born?
+
+Right Answer:New York
+Answer: New York, New York
+Step-by-step reasoning: 
+1. The question asks for the birthplace of the director of the film "The Half-Way Girl."
+2. According to the context, "The Half-Way Girl" is a 1925 American silent drama film directed by John Francis Dillon (context index 8).
+3. The context about John Francis Dillon (context index 5) states that he was born in New York, New York.
+4. Therefore, the director of "The Half-Way Girl," John Francis Dillon, was born in New York, New York.
+原始EM：34, 总数：50, 网络错误：0, 当前原始EM分数：68.0%, 增强EM答对：34, 当前增强EM分数：68.0%, 当前F1分数：82.91803751803751%
+##########
+##########
+ID:51
+Question:Who is the father-in-law of Sophia Of Wittelsbach?
+
+Right Answer:Louis II
+Answer: Louis II
+Step-by-step reasoning: 
+1. Sophia of Wittelsbach's spouse is Hermann I, as stated in the context: "Sophia of Wittelsbach (1170–1238) was a daughter of Otto I Wittelsbach... In 1196, Sophia married Landgrave Hermann I of Thuringia."
+2. Hermann I's father is Louis II, as stated in the context: "Hermann I (died 25 April 1217), Landgrave of Thuringia... was the second son of Louis II, Landgrave of Thuringia."
+3. Therefore, Louis II is the father-in-law of Sophia of Wittelsbach.
+原始EM：35, 总数：51, 网络错误：0, 当前原始EM分数：68.62745098039215%, 增强EM答对：35, 当前增强EM分数：68.62745098039215%, 当前F1分数：83.2529779588603%
+##########
+##########
+ID:52
+Question:Where was the place of death of Lambert I, Count Of Louvain's father?
+
+Right Answer:Bohemia
+Answer: Bohemia
+Step-by-step reasoning: 
+1. Lambert I, Count of Louvain's father is identified as Reginar III, Count of Hainaut.
+2. According to the context, Reginar III was exiled to Bohemia and died there.
+3. Therefore, the place of death of Lambert I, Count of Louvain's father, Reginar III, is Bohemia.
+原始EM：36, 总数：52, 网络错误：0, 当前原始EM分数：69.23076923076923%, 增强EM答对：36, 当前增强EM分数：69.23076923076923%, 当前F1分数：83.57503607503607%
+##########
+##########
+ID:53
+Question:Where was the director of film Highway Dragnet born?
+
+Right Answer:Gura Humorului
+Answer: Gura Humorului
+Step-by-step reasoning: 
+1. The question asks for the birthplace of the director of the film "Highway Dragnet."
+2. From the context, we identify that "Highway Dragnet" is directed by Nathan Juran (context 4).
+3. Further context about Nathan Juran (context 5) provides his birthplace as Gura Humorului.
+4. Therefore, the director of "Highway Dragnet," Nathan Juran, was born in Gura Humorului.
+原始EM：37, 总数：53, 网络错误：0, 当前原始EM分数：69.81132075471697%, 增强EM答对：37, 当前增强EM分数：69.81132075471697%, 当前F1分数：83.88494105475237%
+##########
+##########
+ID:54
+Question:Where did Prince Gustav Of Thurn And Taxis (1848–1914)'s mother die?
+
+Right Answer:Meran
+Answer: Meran
+Step-by-step reasoning: 
+1. The question asks about the place of death of Prince Gustav of Thurn and Taxis (1848–1914)'s mother.
+2. According to the reasoning steps, Prince Gustav's mother was Princess Mathilde Sophie of Oettingen-Oettingen and Oettingen-Spielberg.
+3. The reasoning steps also indicate that Princess Mathilde Sophie died in Meran.
+4. This information is confirmed by the context provided in the paragraph about Princess Mathilde Sophie of Oettingen-Oettingen and Oettingen-Spielberg, which states she died on 20 January 1886 in Obermais, Meran, County of Tyrol, Austria–Hungary.
+5. Therefore, the place of death of Prince Gustav's mother is Meran.
+原始EM：38, 总数：54, 网络错误：0, 当前原始EM分数：70.37037037037037%, 增强EM答对：38, 当前增强EM分数：70.37037037037037%, 当前F1分数：84.18336807225695%
+##########
+##########
+ID:55
+Question:What is the award that the performer of song Sunday Papers earned?
+
+Right Answer:Grammy
+Answer: Grammy Award
+Step-by-step reasoning: 
+1. The question asks about the award earned by the performer of the song "Sunday Papers."
+2. From the context, we identify that "Sunday Papers" is performed by Joe Jackson (context index 1).
+3. Further context (context index 5) states that Joe Jackson has received 5 Grammy Award nominations.
+4. Therefore, the award associated with Joe Jackson, the performer of "Sunday Papers," is the Grammy Award.
+原始EM：38, 总数：55, 网络错误：0, 当前原始EM分数：69.0909090909091%, 增强EM答对：38, 当前增强EM分数：69.0909090909091%, 当前F1分数：83.86488259215531%
+##########
+##########
+ID:56
+Question:Are both Nikolsk Airport and Svobodny Airport located in the same country?
+
+Right Answer:yes
+Answer: yes
+Step-by-step reasoning: 
+1. The question asks whether both Nikolsk Airport and Svobodny Airport are located in the same country.
+2. According to the context, Nikolsk Airport is located in Russia (context index 5).
+3. Similarly, Svobodny Airport is also located in Russia (context index 7).
+4. Since both airports are located in Russia, they are indeed in the same country.
+5. Therefore, the answer is yes.
+原始EM：39, 总数：56, 网络错误：0, 当前原始EM分数：69.64285714285714%, 增强EM答对：39, 当前增强EM分数：69.64285714285714%, 当前F1分数：84.15300968872396%
+##########
+##########
+ID:57
+Question:Who is the maternal grandfather of Amadeus Vii, Count Of Savoy?
+
+Right Answer:Peter I

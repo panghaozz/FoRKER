@@ -1,0 +1,811 @@
+##########
+ID:1
+Question:Were Scott Derrickson and Ed Wood of the same nationality?
+golden idx: [1, 8]
+idx: [1, 8]
+Step by step with evidence and explanation: To determine if Scott Derrickson and Ed Wood were of the same nationality, we need to look at the contexts that provide information about their nationalities.
+
+First, the context at index 1 provides effective support for the claim. It states that **Scott Derrickson** is an American director, screenwriter, and producer. This directly addresses half of the claim regarding Derrickson's nationality.
+
+Secondly, the context at index 8 also provides effective support for the claim. It mentions that **Edward Davis Wood Jr.**, known as Ed Wood, was an American filmmaker, actor, writer, producer, and director. This addresses the other half of the claim regarding Ed Wood's nationality.
+
+Both contexts indicate that Scott Derrickson and Ed Wood were American, thus confirming that they were of the same nationality. Therefore, the contexts at index 1 and 8 are the most effective in providing support for the claim that Scott Derrickson and Ed Wood were of the same nationality.
+
+成功的数量为：2总数：2当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:2
+Question:What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?
+golden idx: [6, 7]
+idx: [3, 6]
+Step by step with evidence and explanation: To address the claim regarding the government position held by the woman who portrayed Corliss Archer in the film "Kiss and Tell," we must identify the actress and then determine her government role.
+
+First, the context at index 3 provides effective support for identifying the actress. It states that "A Kiss for Corliss" is a sequel to the 1945 film "Kiss and Tell," and that Shirley Temple starred in her final role as Corliss Archer. This context is crucial because it directly names Shirley Temple as the actress who portrayed Corliss Archer in "Kiss and Tell."
+
+Secondly, the context at index 6 provides effective support for the government position held by Shirley Temple. It details Shirley Temple Black's career, highlighting her roles as an actress and later as a diplomat. Specifically, it mentions that she was named United States ambassador to Ghana and to Czechoslovakia and also served as Chief of Protocol of the United States. This context is essential as it outlines the government positions Shirley Temple held, which answers the claim.
+
+Therefore, the contexts at index 3 and 6 are the most effective in providing factual support for the claim about the government position held by the woman who portrayed Corliss Archer in the film "Kiss and Tell." The first context identifies Shirley Temple as the actress, and the second context details her diplomatic roles, fulfilling the requirements of the claim.
+
+成功的数量为：3总数：4当前回溯率：75.0%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:3
+Question:What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?
+golden idx: [6, 8]
+idx: [6, 8]
+Step by step with evidence and explanation: The claim in question is looking for a science fantasy young adult series that is told in the first person and includes companion books that narrate the stories of enslaved worlds and alien species. 
+
+Firstly, the context at index 6, titled 'The Hork-Bajir Chronicles', provides effective support for the claim. It is described as the second companion book to the "Animorphs" series, which indicates the existence of a set of companion books. The paragraph text also mentions that the book narrates the story of how the Yeerks enslaved the Hork-Bajir, directly referencing enslaved worlds and alien species. This context aligns perfectly with the claim's criteria of companion books that tell stories of enslaved worlds and alien species.
+
+Secondly, the context at index 8, titled 'Animorphs', supports the claim as it describes the "Animorphs" series itself. It states that the series is a science fantasy series of young adult books, which is told in the first person with all six main characters taking turns narrating the books through their own perspectives. This directly confirms that the "Animorphs" series is told in the first person, fulfilling another criterion of the claim.
+
+Therefore, the contexts at index 6 and 8 are the most effective in providing factual support for the claim, as they directly address the series' narrative style and the existence of companion books detailing enslaved worlds and alien species.
+
+成功的数量为：5总数：6当前回溯率：83.33333333333334%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:4
+Question:Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?
+golden idx: [3, 8]
+idx: [3, 8]
+Step by step with evidence and explanation: To determine if the Laleli Mosque and Esma Sultan Mansion are located in the same neighborhood, we need to identify the contexts that provide information about their locations.
+
+First, the context at index 3 provides effective support for the claim. It states that the Laleli Mosque is located in Laleli, Fatih, Istanbul, Turkey. This gives us the specific neighborhood where the Laleli Mosque is situated.
+
+Secondly, the context at index 8 also provides effective support for the claim. It mentions that the Esma Sultan Mansion is located at Bosphorus in the Ortaköy neighborhood of Istanbul, Turkey. This indicates that the Esma Sultan Mansion is not in the same neighborhood as the Laleli Mosque, as it is situated in Ortaköy, not Laleli.
+
+Therefore, based on the information provided in the contexts at index 3 and 8, we can conclude that the Laleli Mosque and Esma Sultan Mansion are not located in the same neighborhood. The Laleli Mosque is in the Laleli neighborhood, while the Esma Sultan Mansion is in the Ortaköy neighborhood.
+
+成功的数量为：7总数：8当前回溯率：87.5%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:5
+Question:The director of the romantic comedy "Big Stone Gap" is based in what New York city?
+golden idx: [7, 8]
+idx: [7, 8]
+Step by step with evidence and explanation: To determine the New York city where the director of "Big Stone Gap" is based, we must look for contexts that specifically mention the director and their connection to a New York city. 
+
+First, the context at index 7 provides effective support for the claim. It states that **Adriana Trigiani** is an Italian American best-selling author, television writer, film director, and entrepreneur based in **Greenwich Village, New York City**. Since Adriana Trigiani is the director of the film "Big Stone Gap," this context directly answers the question by providing her base location in New York City.
+
+Secondly, the context at index 8 also supports the claim effectively. It mentions that "Big Stone Gap" is a film written and directed by **Adriana Trigiani** and that the film is based on Trigiani's best-selling novel of the same name. While this context does not directly state Trigiani's base in New York City, it establishes her as the director of the film in question, which, when combined with the information from index 7, confirms that the director of "Big Stone Gap" is based in Greenwich Village, New York City.
+
+Therefore, the contexts at index 7 and 8 are the most effective in providing support for the claim about the director's base in New York City.
+
+成功的数量为：9总数：10当前回溯率：90.0%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:6
+Question:2014 S/S is the debut album of a South Korean boy group that was formed by who?
+golden idx: [1, 5]
+idx: [1, 5]
+Step by step with evidence and explanation: To address the claim regarding the debut album "2014 S/S" and the formation of the South Korean boy group behind it, we must identify the contexts that directly relate to the album and the group's formation.
+
+First, the context at index 1 provides effective support for the claim. It states that Winner is a South Korean boy group formed in 2013 by YG Entertainment and debuted in 2014. This information is crucial because it establishes the year of the group's debut, which aligns with the release year of the album in question.
+
+Secondly, the context at index 5 directly supports the claim by stating that "2014 S/S" is the debut album of South Korean group WINNER, released on August 12, 2014, by YG Entertainment. This context not only confirms that "2014 S/S" is indeed the debut album of WINNER but also specifies the release date and the record label, which is YG Entertainment.
+
+Therefore, the contexts at index 1 and 5 are the most effective in providing factual support for the claim that "2014 S/S" is the debut album of a South Korean boy group formed by YG Entertainment.
+
+成功的数量为：11总数：12当前回溯率：91.66666666666666%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:7
+Question:Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?
+golden idx: [5, 7]
+idx: [7, 5]
+Step by step with evidence and explanation: To address the claim about who was known by his stage name Aladin and helped organizations improve their performance as a consultant, we need to identify the contexts that mention both the stage name "Aladin" and a connection to management consulting.
+
+First, the context at index 7 directly supports the claim. It states that **Eenasul Fateh**, also known by his stage name **Aladin**, is a Bangladeshi-British cultural practitioner, magician, live artist and **former international management consultant**. This context provides clear evidence that Eenasul Fateh, known as Aladin, has a background in management consulting, which is a direct match to the claim.
+
+Secondly, the context at index 5 describes what **management consulting** is, explaining that it involves helping organizations to improve their performance. This context supports the claim by defining the role that Aladin, as a management consultant, would have played in helping organizations.
+
+Therefore, the contexts at index 7 and 5 are the most effective in providing factual support for the claim. They both mention the key elements of the claim: the stage name "Aladin" and the role of improving organizational performance as a consultant.
+
+成功的数量为：13总数：14当前回溯率：92.85714285714286%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:8
+Question:The arena where the Lewiston Maineiacs played their home games can seat how many people?
+golden idx: [8, 9]
+idx: [8, 9]
+Step by step with evidence and explanation: To determine the seating capacity of the arena where the Lewiston Maineiacs played their home games, we need to identify the contexts that specifically mention the team and their home arena.
+
+First, the context at index 8 provides effective support for the claim. It states that the **Lewiston Maineiacs** were a junior ice hockey team of the Quebec Major Junior Hockey League based in Lewiston, Maine, and that they played their home games at the **Androscoggin Bank Colisée**. This context is directly related to the Lewiston Maineiacs and identifies the arena where they played, which is crucial for answering the claim.
+
+Secondly, the context at index 9 also provides effective support for the claim. It gives specific information about the **Androscoggin Bank Colisée**, stating that it is a multi-purpose arena in Lewiston, Maine, with a **capacity of 4,000 (3,677 seated)**. This context provides the exact answer to the claim regarding the seating capacity of the arena.
+
+Therefore, the contexts at index 8 and 9 are the most effective in providing support for the claim about the seating capacity of the arena where the Lewiston Maineiacs played their home games.
+
+成功的数量为：15总数：16当前回溯率：93.75%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:9
+Question:Who is older, Annie Morton or Terry Richardson?
+golden idx: [0, 3]
+idx: [0, 3]
+Step by step with evidence and explanation: To determine who is older between Annie Morton and Terry Richardson, we need to compare their dates of birth. The context at index 0 provides the birth date of Terry Richardson as August 14, 1965. The context at index 3 provides the birth date of Annie Morton as October 8, 1970. By comparing these dates, we can conclude that Terry Richardson, born in 1965, is older than Annie Morton, who was born in 1970. Therefore, the contexts at index 0 and 3 are the most effective in providing factual support for the claim regarding who is older, as they contain the necessary birth date information to answer the question. The other contexts do not provide relevant information about the birth dates of the individuals in question and thus are not effective in supporting the answer to the claim.
+
+成功的数量为：17总数：18当前回溯率：94.44444444444444%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:10
+Question:Are Local H and For Against both from the United States?
+golden idx: [5, 6]
+idx: [5, 6]
+Step by step with evidence and explanation: To determine whether Local H and For Against are both from the United States, we need to find context that specifically mentions the origin of these bands.
+
+First, the context at index 5 provides effective support for the claim regarding Local H. It states that Local H is an American rock band formed in Zion, Illinois, in 1987. This directly confirms that Local H is from the United States.
+
+Secondly, the context at index 6 provides effective support for the claim regarding For Against. It describes For Against as a United States post-punk/dream pop band from Lincoln, Nebraska. This clearly establishes that For Against is also from the United States.
+
+Therefore, the contexts at index 5 and 6 are the most effective in providing factual support for the claim that both Local H and For Against are bands from the United States.
+
+成功的数量为：19总数：20当前回溯率：95.0%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:11
+Question:What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?
+golden idx: [1, 9]
+idx: [1, 9]
+Step by step with evidence and explanation: To determine the fight song of the university with its main campus in Lawrence, Kansas, and branch campuses in the Kansas City metropolitan area, we must first identify the university in question. The context at index 1 provides clear information about the **University of Kansas**, stating that its main campus is in Lawrence and it has branch campuses in the Kansas City metropolitan area. This directly correlates with the details given in the claim.
+
+Next, we need to identify the fight song of the University of Kansas. The context at index 9 explicitly states that "Kansas Song (We’re From Kansas)" is a fight song of the University of Kansas. This directly answers the claim by providing the name of the fight song associated with the university identified in the previous step.
+
+Therefore, the contexts at index 1 and 9 are the most effective in providing factual support for the claim regarding the fight song of the university whose main campus is in Lawrence, Kansas, and whose branch campuses are in the Kansas City metropolitan area. The first context identifies the correct university, and the second provides the name of its fight song.
+
+成功的数量为：21总数：22当前回溯率：95.45454545454545%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:12
+Question:What screenwriter with credits for "Evolution" co-wrote a film starring Nicolas Cage and Téa Leoni?
+golden idx: [5, 8]
+idx: [5, 8]
+Step by step with evidence and explanation: The task is to identify the screenwriter with credits for "Evolution" who co-wrote a film starring Nicolas Cage and Téa Leoni. 
+
+First, the context at index 5 mentions David Weissman as a screenwriter and director, listing his film credits which include "The Family Man" (2000), "Evolution" (2001), and "When in Rome" (2010). This context provides half of the answer by confirming that David Weissman is a screenwriter for "Evolution."
+
+Secondly, the context at index 8 provides the other half of the answer. It states that "The Family Man" is a film directed by Brett Ratner, written by David Diamond and David Weissman, and stars Nicolas Cage and Téa Leoni. This confirms that David Weissman co-wrote "The Family Man," which stars both Nicolas Cage and Téa Leoni, thus fulfilling the criteria of the claim.
+
+Therefore, the contexts at index 5 and 8 are the most effective in providing support for the claim, as they collectively confirm that David Weissman is the screenwriter with credits for "Evolution" who also co-wrote "The Family Man," a film starring Nicolas Cage and Téa Leoni.
+
+成功的数量为：23总数：24当前回溯率：95.83333333333334%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:13
+Question:What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?
+golden idx: [1, 8]
+idx: [1, 8]
+Step by step with evidence and explanation: To determine the year Guns N' Roses performed a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective, we need to identify the correct film and the associated promotional activity by the band.
+
+Firstly, context at index 1 provides effective support for the claim. It mentions the song "Oh My God" by Guns N' Roses, which was released in 1999 on the soundtrack to the film "End of Days". The paragraph specifies that the song was used as a promo for the soundtrack and the band, and it was sent out to radio stations in November 1999. This directly ties Guns N' Roses to a promotional activity for a movie featuring Arnold Schwarzenegger in the specified role.
+
+Secondly, context at index 8 is also supportive of the claim. It describes the film "End of Days" as a 1999 movie where Arnold Schwarzenegger plays a former New York Police Department detective named Jericho Cane. This aligns with the timeframe and details provided in context index 1, confirming that the promotional activity by Guns N' Roses was indeed for the movie "End of Days" in which Schwarzenegger starred as the lead character.
+
+Therefore, the contexts at index 1 and 8 are the most effective in providing factual support for the claim, establishing that Guns N' Roses performed a promo for the movie "End of Days" starring Arnold Schwarzenegger in 1999.
+
+成功的数量为：25总数：26当前回溯率：96.15384615384616%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:14
+Question:Are Random House Tower and 888 7th Avenue both used for real estate?
+golden idx: [1, 2]
+idx: [1, 2]
+Step by step with evidence and explanation: To determine if Random House Tower and 888 7th Avenue are both used for real estate, we need to look at the contexts that describe these buildings and their uses.
+
+Firstly, the context at index 1 provides effective support for the claim regarding 888 7th Avenue. It describes the building as a **modern-style office skyscraper** in Midtown Manhattan, completed in 1969 with 46 floors. It mentions that the building is used for offices, as it **currently carries the Vornado Realty Trust corporate headquarters**. This indicates that the building is indeed used for real estate purposes, specifically commercial office space.
+
+Secondly, the context at index 2 supports the claim concerning Random House Tower. It states that the Random House Tower, also known as the Park Imperial Apartments, is a **52-story mixed-use tower** that serves as the headquarters for the book publisher Random House and includes a **luxury apartment complex**. The dual use of the building for both corporate offices and residential apartments confirms that it is used for real estate purposes.
+
+Therefore, the contexts at index 1 and 2 are the most effective in providing factual support for the claim that both Random House Tower and 888 7th Avenue are used for real estate.
+
+成功的数量为：27总数：28当前回溯率：96.42857142857143%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:15
+Question:The football manager who recruited David Beckham managed Manchester United during what timeframe?
+golden idx: [4, 9]
+idx: [4, 9]
+Step by step with evidence and explanation: To determine the timeframe during which the football manager who recruited David Beckham managed Manchester United, we need to identify the manager responsible for bringing Beckham into the team. 
+
+First, the context at index 4 provides effective support for the claim. It details the 1995–96 season of Manchester United, mentioning that Alex Ferguson had sold experienced players and instead brought in young players like David Beckham. This indicates that Alex Ferguson was the manager who recruited David Beckham.
+
+Secondly, the context at index 9 also provides effective support for the claim. It states that Sir Alex Ferguson managed Manchester United from 1986 to 2013. This gives us the specific timeframe during which the manager who recruited David Beckham (as identified in the context at index 4) was in charge of Manchester United.
+
+Therefore, the contexts at index 4 and 9 are the most effective in providing support for the claim regarding the timeframe during which the football manager who recruited David Beckham managed Manchester United.
+
+成功的数量为：29总数：30当前回溯率：96.66666666666667%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:16
+Question:Brown State Fishing Lake is in a country that has a population of how many inhabitants ?
+golden idx: [0, 9]
+idx: [0, 9]
+Step by step with evidence and explanation: To determine which contexts effectively support the claim about the population of the country where Brown State Fishing Lake is located, we must identify the contexts that mention Brown State Fishing Lake and its location.
+
+First, the context at index 9 provides effective support for the claim. It states that Brown State Fishing Lake is a protected area in Brown County, Kansas in the United States. This context is directly relevant because it identifies the specific location of Brown State Fishing Lake, which is necessary to answer the question about the population of the country it is in.
+
+Secondly, the context at index 0 also provides effective support for the claim. It mentions that Brown County is located in the northeast portion of the U.S. state of Kansas and provides a population figure for the county. While the population figure is for the county, not the country, this context is still relevant because it confirms that Brown State Fishing Lake is in the United States. Knowing the country allows us to answer the question about the population of the country, which is the United States.
+
+Therefore, the contexts at index 9 and 0 are the most effective in providing support for the claim about the population of the country where Brown State Fishing Lake is located. The United States had a population of approximately 331 million people as of my last update in 2021. For the most current population figures, one would need to refer to the latest census data or population estimates.
+
+成功的数量为：31总数：32当前回溯率：96.875%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:17
+Question:The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?
+golden idx: [4, 5]
+idx: [4, 5]
+Step by step with evidence and explanation: To address the claim regarding the former name of the conference in which the Vermont Catamounts men's soccer team competes, we must look for context that specifically mentions historical names of conferences. 
+
+First, the context at index 4 provides direct evidence to support the claim. It states that the America East Conference, which is the current conference for the Vermont Catamounts men's soccer team, was known as the North Atlantic Conference from 1988 to 1996. This information is precisely what the claim is asking for, making it an effective piece of factual support.
+
+Secondly, the context at index 5, while not providing the historical name directly, is still relevant because it confirms that the Vermont Catamounts men's soccer team competes in the America East Conference. This establishes the current name of the conference, which is necessary to understand the significance of the historical name provided in the context at index 4.
+
+Therefore, the contexts at index 4 and 5 are the most effective in providing support for the claim. The former gives us the exact historical name sought by the claim, and the latter confirms the current conference name, allowing us to link the historical and current names together.
+
+成功的数量为：33总数：34当前回溯率：97.05882352941177%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:18
+Question:Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?
+golden idx: [4, 5]
+idx: [4, 5]
+Step by step with evidence and explanation: To address the claim that Giuseppe Verdi and Ambroise Thomas are both opera composers, we must find context entries that directly confirm their roles as such.
+
+Firstly, the context at index 4 provides clear and direct evidence that Giuseppe Verdi was an opera composer. The text states, "Giuseppe Fortunino Francesco Verdi (9 or 10 October 1813 – 27 January 1901) was an Italian opera composer." This statement unequivocally establishes Verdi's identity as an opera composer, which is half of the claim we are verifying.
+
+Secondly, the context at index 5 supports the claim regarding Ambroise Thomas. It reads, "Charles Louis Ambroise Thomas (5 August 1811 – 12 February 1896) was a French composer, best known for his operas 'Mignon' (1866) and 'Hamlet' (1868, after Shakespeare)..." This passage not only identifies Thomas as a composer but specifically highlights his work in the field of opera, mentioning two of his best-known operas.
+
+Therefore, the contexts at index 4 and 5 are the most effective in providing factual support for the claim that both Giuseppe Verdi and Ambroise Thomas were opera composers.
+
+成功的数量为：35总数：36当前回溯率：97.22222222222221%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:19
+Question:Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?
+golden idx: [4, 9]
+idx: [4, 9]
+Step by step with evidence and explanation: To determine the years during which Roger O. Egeberg served as Assistant Secretary for Health and Scientific Affairs, we need to identify the president he served under and the years of that president's administration.
+
+First, the context at index 9 provides effective support for the claim. It states that Roger Olaf Egeberg was Assistant Secretary for Health and Scientific Affairs during the Nixon administration. This directly addresses the claim about Egeberg's role and the administration he served under.
+
+Secondly, the context at index 4 also provides effective support for the claim. It mentions that Richard Nixon was the President of the United States from 1969 until 1974. Since Egeberg served during the Nixon administration, this context gives us the exact years of the president's term, which aligns with the years Egeberg would have served.
+
+Therefore, the contexts at index 4 and 9 are the most effective in providing support for the claim that Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the years Nixon served as president, which were from 1969 to 1974.
+
+成功的数量为：37总数：38当前回溯率：97.36842105263158%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:20
+Question:Which writer was from England, Henry Roth or Robert Erskine Childers?
+golden idx: [0, 9]
+idx: [0, 9]
+Step by step with evidence and explanation: To determine which writer was from England, we need to examine the provided contexts for information about the nationalities of Henry Roth and Robert Erskine Childers.
+
+First, the context at index 0 provides clear information about Henry Roth's nationality. It states that Henry Roth was an American novelist and short story writer. This directly addresses the claim by identifying Henry Roth as American, not English, which means he cannot be the writer from England in question.
+
+Secondly, the context at index 9 provides effective support for the claim regarding Robert Erskine Childers. It mentions that Robert Erskine Childers, also known as Erskine Childers, was a British writer, which indicates his English nationality. Furthermore, it details his involvement in Irish nationalism and his execution by the authorities of the Irish Free State, but it clearly starts by stating he was a British writer, which supports the claim that he was the writer from England.
+
+Therefore, the contexts at index 0 and 9 are the most effective in providing support for the claim that Robert Erskine Childers was the writer from England.
+
+成功的数量为：39总数：40当前回溯率：97.5%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:21
+Question:Which other Mexican Formula One race car driver has held the podium besides the Force India driver born in 1990?
+golden idx: [3, 9]
+idx: [3, 8]
+Step by step with evidence and explanation: To answer the question of which other Mexican Formula One race car driver has held the podium besides the Force India driver born in 1990, we need to identify the contexts that mention Mexican Formula One drivers and their achievements.
+
+First, the context at index 3 provides effective support for the claim. It explicitly states that there have been six Formula One drivers from Mexico, and among them, Pedro Rodríguez has won a grand prix, and Sergio Pérez, who races with Sahara Force India F1 Team, is the only other Mexican to finish on the podium. This directly addresses the claim by confirming Sergio Pérez as a podium holder and also mentions Pedro Rodríguez as a grand prix winner, which implies his podium finishes.
+
+Secondly, the context at index 8 also provides effective support for the claim. It details the 2014 Bahrain Grand Prix, where Force India driver Sergio Pérez finished in third place. This is a direct evidence of Pérez's podium finish, supporting the claim that he is a Mexican Formula One race car driver who has held the podium.
+
+Therefore, the contexts at index 3 and 8 are the most effective in providing factual support for the claim that Sergio Pérez and Pedro Rodríguez are the Mexican Formula One race car drivers who have held the podium.
+
+成功的数量为：40总数：42当前回溯率：95.23809523809523%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:22
+Question:This singer of A Rather Blustery Day also voiced what hedgehog?
+golden idx: [4, 9]
+idx: [4, 9]
+Step by step with evidence and explanation: To answer the claim about the singer of "A Rather Blustery Day" who also voiced a hedgehog, we need to identify the contexts that mention both the song and a hedgehog character.
+
+First, context at index 9 provides direct evidence supporting the claim. It states that "A Rather Blustery Day" is a song from "Winnie the Pooh and the Blustery Day" and was sung by Jim Cummings as "Pooh." This context is effective because it identifies Jim Cummings as the singer of the song in question.
+
+Secondly, context at index 4 provides additional support for the claim. It mentions that Jim Cummings, the singer identified in context 9, is known for voicing various characters, including Dr. Robotnik from "Sonic the Hedgehog." Dr. Robotnik, while not a hedgehog himself, is a primary character in the "Sonic the Hedgehog" series, which is centered around the hedgehog character Sonic. This context is effective because it connects Jim Cummings to the "Sonic the Hedgehog" series, thereby associating him with the hedgehog character mentioned in the claim.
+
+Therefore, the contexts at index 4 and 9 are the most effective in providing support for the claim that the singer of "A Rather Blustery Day" also voiced a hedgehog character. Jim Cummings is the common link between the song and the "Sonic the Hedgehog" series.
+
+成功的数量为：42总数：44当前回溯率：95.45454545454545%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:23
+Question:Aside from the Apple Remote, what other device can control the program Apple Remote was originally designed to interact with?
+golden idx: [2, 9]
+idx: [0, 2]
+Step by step with evidence and explanation: To address the claim about devices that can control the program the Apple Remote was originally designed to interact with, we need to identify contexts that mention alternative control devices compatible with the same program or system.
+
+First, the context at index 0 provides effective support for the claim. It states that the **Siri Remote** is a successor of the original Apple Remote and is designed to work with the Apple TV, which is the same program the Apple Remote was designed to interact with. This directly addresses the claim by providing an alternative device that can control the Apple TV.
+
+Secondly, the context at index 2 also provides effective support for the claim. It mentions that **Front Row**, a media center software application for Apple's Macintosh computers and Apple TV, is controlled by an Apple Remote or the keyboard function keys. This supports the claim by indicating that the keyboard function keys can also control the program (Front Row) that the Apple Remote was designed to interact with.
+
+Therefore, the contexts at index 0 and 2 are the most effective in providing support for the claim that aside from the Apple Remote, the Siri Remote and the keyboard function keys can control the program Apple Remote was originally designed to interact with.
+
+成功的数量为：43总数：46当前回溯率：93.47826086956522%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:24
+Question:Which performance act has a higher instrument to person ratio, Badly Drawn Boy or Wolf Alice? 
+golden idx: [0, 2]
+idx: [0, 2]
+Step by step with evidence and explanation: To determine which performance act has a higher instrument to person ratio, we need to consider the number of instruments used in relation to the number of people in each act. 
+
+First, the context at index 0 provides effective support for the claim regarding Wolf Alice. It states that Wolf Alice is a four-piece band, which implies there are at least four instruments involved (one for each member). This gives us a baseline instrument to person ratio of 1:1 for Wolf Alice.
+
+Secondly, the context at index 2 provides effective support for the claim regarding Badly Drawn Boy. It describes Damon Michael Gough, known by the stage name Badly Drawn Boy, as a multi-instrumentalist. This suggests that he plays more than one instrument. Since Badly Drawn Boy is a solo act, any number of instruments greater than one would result in an instrument to person ratio higher than 1:1.
+
+Therefore, based on the information provided, Badly Drawn Boy has a higher instrument to person ratio than Wolf Alice because, as a multi-instrumentalist, he likely uses multiple instruments during his performances, whereas Wolf Alice, being a four-member band, would have a ratio closer to 1:1 unless they also play multiple instruments individually. However, the provided contexts do not specify that for Wolf Alice.
+
+成功的数量为：45总数：48当前回溯率：93.75%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:25
+Question:What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?
+golden idx: [2, 5]
+idx: [2, 4]
+Step by step with evidence and explanation: To address the claim regarding what Kasper Schmeichel's father was voted to be by the IFFHS in 1992, we must identify the contexts that directly relate to the IFFHS and Peter Schmeichel.
+
+First, the context at index 2 provides effective support for the claim. It explicitly states that **Peter Schmeichel** was voted the **IFFHS World's Best Goalkeeper in 1992 and 1993**. This directly answers the claim about the award received by Kasper Schmeichel's father in 1992.
+
+Secondly, the context at index 4 also provides effective support for the claim. It describes the **IFFHS World's Best Goalkeeper** award, which is given annually to the most outstanding goalkeeper of the year as voted by the IFFHS. Although it does not mention Peter Schmeichel directly, it establishes the credibility of the award mentioned in index 2 and confirms that such an award existed in 1992 when Peter Schmeichel was voted as the best.
+
+Therefore, the contexts at index 2 and 4 are the most effective in providing factual support for the claim about Kasper Schmeichel's father's recognition by the IFFHS in 1992.
+
+成功的数量为：46总数：50当前回溯率：92.0%
+第1轮错误：4，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:26
+Question:Who was the writer of These Boots Are Made for Walkin' and who died in 2007?
+golden idx: [2, 4]
+idx: [2, 4]
+Step by step with evidence and explanation: To address the claim regarding the writer of "These Boots Are Made for Walkin'" and the individual who died in 2007, we must identify the contexts that provide information about the song's writer and the death of a related individual in 2007.
+
+Firstly, the context at index 2 provides effective support for the first part of the claim. It states that "These Boots Are Made for Walkin'" is a hit song written by Lee Hazlewood and recorded by Nancy Sinatra. This directly addresses the claim about the writer of the song.
+
+Secondly, the context at index 4 provides effective support for the second part of the claim. It mentions Barton Lee Hazlewood (July 9, 1929 – August 4, 2007) as an American country and pop singer, songwriter, and record producer, known for his work with Nancy Sinatra. This context confirms that Lee Hazlewood, the writer of "These Boots Are Made for Walkin'," died in 2007.
+
+Therefore, the contexts at index 2 and 4 are the most effective in providing factual support for the claim. The other contexts mention Nancy Sinatra, the performer of the song, and various covers and renditions of the song, but they do not pertain to the writer or his death in 2007.
+
+成功的数量为：48总数：52当前回溯率：92.3076923076923%
+第1轮错误：4，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:27
+Question:The 2011–12 VCU Rams men's basketball team, led by third year head coach Shaka Smart, represented Virginia Commonwealth University which was founded in what year?
+golden idx: [0, 8]
+idx: [0, 8]
+Step by step with evidence and explanation: The claim in question is regarding the founding year of Virginia Commonwealth University (VCU), which the 2011–12 VCU Rams men's basketball team represented. To find the answer, we need to identify the contexts that provide information about the university's history and establishment.
+
+First, the context at index 0 provides effective support for the claim. It details the history of VCU, stating that it was founded in 1838 as the medical department of Hampden–Sydney College and became the Medical College of Virginia in 1854. The text then explains that in 1968, the Virginia General Assembly merged the Medical College of Virginia with the Richmond Professional Institute, founded in 1917, to create Virginia Commonwealth University. This context directly answers the claim by providing the specific year VCU was founded, which is 1968 after the merger that created its current form.
+
+Secondly, the context at index 8 also supports the claim by referencing the 2011–12 VCU Rams men's basketball team, which is the subject of the claim. While this context does not directly state the founding year of VCU, it is relevant because it discusses the team and season in question. However, it does not provide additional information about the university's founding year beyond what is already provided in the context at index 0.
+
+Therefore, the context at index 0 is the most effective in providing support for the claim, as it gives a clear and direct answer to the question of when VCU was founded. The context at index 8 is relevant to the team but does not offer necessary historical information about the university's founding. Hence, the context at index 0 is the primary source for the answer, and index 8 provides supplementary information related to the basketball team's representation of the university during the specified season.
+
+成功的数量为：50总数：54当前回溯率：92.5925925925926%
+第1轮错误：4，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:28
+Question:Are both Dictyosperma, and Huernia described as a genus?
+golden idx: [0, 1]
+idx: [0, 1]
+Step by step with evidence and explanation: To address the claim that both Dictyosperma and Huernia are described as a genus, we need to examine the provided contexts for factual information that supports this classification.
+
+First, the context at index 0 provides effective support for Dictyosperma being a genus. The text states that "Dictyosperma is a monotypic genus of flowering plant in the palm family," which directly confirms that Dictyosperma is indeed classified as a genus. Additionally, it mentions that it is found in the Mascarene Islands and provides details about its sole species, Dictyosperma album, further supporting its classification as a genus.
+
+Secondly, the context at index 1 effectively supports the classification of Huernia as a genus. The paragraph describes Huernia as "The genus Huernia (family Apocynaceae, subfamily Asclepiadoideae)" and provides information on its characteristics and native regions, which are Eastern and Southern Africa. It also explains the etymology of the genus name, honoring Justin Heurnius, a Dutch missionary. This detailed description affirms that Huernia is recognized as a genus within the specified botanical family.
+
+Therefore, the contexts at index 0 and 1 are the most effective in providing factual support for the claim that both Dictyosperma and Huernia are described as a genus.
+
+成功的数量为：52总数：56当前回溯率：92.85714285714286%
+第1轮错误：4，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:29
+Question:Kaiser Ventures corporation was founded by an American industrialist who became known as the father of modern American shipbuilding?
+golden idx: [8, 9]
+idx: [1, 9]
+Step by step with evidence and explanation: To address the claim that Kaiser Ventures corporation was founded by an American industrialist known as the father of modern American shipbuilding, we must identify the contexts that directly support this claim.
+
+First, the context at index 1 provides effective support for the claim. It describes the Kaiser Shipyards, which were established by Henry J. Kaiser around 1939. This context is relevant because it connects Henry J. Kaiser with the shipbuilding industry and indicates his role in establishing a shipbuilding company, which aligns with the claim.
+
+Secondly, the context at index 9 also provides effective support for the claim. It explicitly states that Henry John Kaiser was an American industrialist who became known as the father of modern American shipbuilding. This context not only supports the claim but also gives a direct answer by identifying Henry J. Kaiser as the individual in question.
+
+Therefore, the contexts at index 1 and 9 are the most effective in providing factual support for the claim that Kaiser Ventures corporation was founded by an American industrialist known as the father of modern American shipbuilding.
+
+成功的数量为：53总数：58当前回溯率：91.37931034482759%
+第1轮错误：5，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:30
+Question:What is the name for the adventure in "Tunnels and Trolls", a game designed by Ken St. Andre?
+golden idx: [3, 5]
+idx: [3, 5]
+Step by step with evidence and explanation: To determine the name of the adventure in "Tunnels and Trolls" designed by Ken St. Andre, we need to identify the contexts that directly relate to the game and its adventures.
+
+First, the context at index 3 provides effective support for the claim. It describes "Tunnels & Trolls" as a fantasy role-playing game designed by Ken St. Andre and published by Flying Buffalo. It mentions that the game was first published in 1975 and is suitable for solitaire, group, and play-by-mail gameplay. This context is relevant because it establishes the game's existence and its designer, Ken St. Andre, which is directly related to the claim.
+
+Secondly, the context at index 5 also provides effective support for the claim. It states that "Arena of Khazan" is a role-playing game adventure for "Tunnels & Trolls" published by Flying Buffalo in 1979. This context is crucial because it names an adventure within the game, "Arena of Khazan," which answers the question about the name of an adventure in "Tunnels and Trolls."
+
+Therefore, the contexts at index 3 and 5 are the most effective in providing factual support for the claim regarding the name of an adventure in "Tunnels and Trolls." The other contexts do not pertain to the game or its adventures and are thus not effective in supporting the claim.
+
+成功的数量为：55总数：60当前回溯率：91.66666666666666%
+第1轮错误：5，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:31
+Question:When was Poison's album "Shut Up, Make Love" released?
+golden idx: [2, 5]
+idx: [0, 2]
+Step by step with evidence and explanation: To determine the release date of Poison's album "Shut Up, Make Love," we need to identify the contexts that provide factual information about the album's release.
+
+First, the context at index 0 provides effective support for the claim. It mentions that "Shut Up, Make Love" was included as the first single from the album "Crack a Smile...and More!" and that the single/sampler was released in February 2000. This context gives us a specific timeframe for the release of the single, which is directly related to the album in question.
+
+Secondly, the context at index 2 also provides effective support for the claim. It states that "Shut Up, Make Love" was the first single presented to radio stations from their 2000 "Crack a Smile...and More!" album and that the album was released on March 14, 2000. This context not only confirms the release year mentioned in index 0 but also provides an exact release date for the album.
+
+Therefore, the contexts at index 0 and 2 are the most effective in providing support for the claim regarding the release date of Poison's album "Shut Up, Make Love." They both mention the album "Crack a Smile...and More!" and provide consistent information about the release timeframe, with index 2 giving the precise date.
+
+成功的数量为：56总数：62当前回溯率：90.32258064516128%
+第1轮错误：6，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:32
+Question:Hayden is a singer-songwriter from Canada, but where does Buck-Tick hail from?
+golden idx: [5, 8]
+idx: [5, 8]
+Step by step with evidence and explanation: To address the claim that Hayden is a singer-songwriter from Canada and to determine where Buck-Tick hails from, we need to identify the contexts that provide factual information about both subjects.
+
+First, the context at index 5 provides effective support for the first part of the claim. It states that "Paul Hayden Desser (born February 12, 1971) who records as Hayden, is a Canadian singer-songwriter from Thornhill, Ontario." This directly confirms Hayden's identity and nationality, supporting the claim that Hayden is a singer-songwriter from Canada.
+
+Secondly, the context at index 8 provides effective support for the second part of the claim. It describes Buck-Tick as "a Japanese rock band, formed in Fujioka, Gunma in 1983." This information clearly identifies the origin of Buck-Tick, supporting the claim about where the band hails from.
+
+Therefore, the contexts at index 5 and 8 are the most effective in providing support for the claim regarding Hayden and Buck-Tick's origins. The other contexts either do not pertain to the claim or do not provide relevant information about the origins of Hayden or Buck-Tick.
+
+成功的数量为：58总数：64当前回溯率：90.625%
+第1轮错误：6，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:33
+Question:Which  French ace pilot and adventurer fly L'Oiseau Blanc
+golden idx: [5, 6]
+idx: [2, 5]
+Step by step with evidence and explanation: To answer the question of which French ace pilot and adventurer flew L'Oiseau Blanc, we must look for context that specifically mentions the aircraft and the individuals involved.
+
+First, the context at index 2 provides effective support for the claim. It states that the Levasseur PL.8, named "L'Oiseau Blanc," was specifically built for pilots Charles Nungesser and François Coli for a transatlantic attempt to win the Orteig Prize. This context directly identifies the pilots associated with L'Oiseau Blanc, thus supporting the claim.
+
+Secondly, the context at index 5 also provides effective support for the claim. It details that L'Oiseau Blanc was a French Levasseur PL.8 biplane flown by Charles Nungesser and François Coli in their attempt to make the first non-stop transatlantic flight from Paris to New York City. This context not only confirms the pilots' names but also describes the historical significance of their flight attempt, which is directly related to the claim.
+
+Therefore, the contexts at index 2 and 5 are the most effective in providing factual support for the claim that Charles Nungesser and François Coli were the French ace pilot and adventurer who flew L'Oiseau Blanc.
+
+成功的数量为：59总数：66当前回溯率：89.39393939393939%
+第1轮错误：7，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:34
+Question:Are Freakonomics and In the Realm of the Hackers both American documentaries?
+golden idx: [6, 9]
+idx: [1, 6]
+Step by step with evidence and explanation: To address the claim regarding whether "Freakonomics" and "In the Realm of the Hackers" are both American documentaries, we must identify the contexts that provide factual information about the origin of these documentaries.
+
+First, the context at index 1 provides effective support for the claim concerning "Freakonomics". It mentions Heidi Ewing as a director who includes "Freakonomics" among her works. Since Heidi Ewing is noted for her involvement in American documentary films and "Freakonomics" is listed alongside other documentaries she directed, it supports the claim that "Freakonomics" is an American documentary.
+
+Secondly, the context at index 6 provides effective support for the claim concerning "In the Realm of the Hackers". It clearly states that "In the Realm of the Hackers" is an Australian documentary directed by Kevin Anderson. This directly contradicts the claim that it is an American documentary, thus providing the necessary evidence that "In the Realm of the Hackers" is not American but Australian.
+
+Therefore, the contexts at index 1 and 6 are the most effective in providing support for the claim. Index 1 confirms that "Freakonomics" is an American documentary, while index 6 clarifies that "In the Realm of the Hackers" is Australian, not American.
+
+成功的数量为：60总数：68当前回溯率：88.23529411764706%
+第1轮错误：8，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:35
+Question:Which band, Letters to Cleo or Screaming Trees, had more members?
+golden idx: [1, 9]
+idx: [1, 9]
+Step by step with evidence and explanation: To determine which band, Letters to Cleo or Screaming Trees, had more members, we need to identify the contexts that provide information about the members of each band.
+
+First, the context at index 1 titled "Letters to Cleo" provides effective support for the claim. It lists the members of Letters to Cleo as Kay Hanley, Greg McKenna, Michael Eisenstein, Stacy Jones, Scott Riebling, and later, Tom Polce. This gives us a total of six members for Letters to Cleo.
+
+Secondly, the context at index 9 titled "Screaming Trees" provides effective support for the claim. It mentions the formation of Screaming Trees and lists the members as vocalist Mark Lanegan, guitarist Gary Lee Conner, bass player Van Conner, and drummer Mark Pickerel. It also notes that Mark Pickerel was replaced by Barrett Martin. This gives us a total of four members for Screaming Trees, considering the replacement as a one-for-one change and not an addition to the original lineup.
+
+Therefore, based on the provided contexts, Letters to Cleo had more members than Screaming Trees. The contexts at index 1 and 9 are the most effective in providing support for the claim.
+
+成功的数量为：62总数：70当前回溯率：88.57142857142857%
+第1轮错误：8，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:36
+Question:Alexander Kerensky was defeated and destroyed by the Bolsheviks in the course of a civil war that ended when ?
+golden idx: [1, 5]
+idx: [1, 5]
+Step by step with evidence and explanation: To address the claim regarding Alexander Kerensky's defeat by the Bolsheviks and the end of the civil war, we must identify the contexts that provide factual support for these events.
+
+Firstly, the context at index 1 is relevant as it directly mentions the defeat and destruction of the anti-Bolshevik faction of the Socialist Revolutionary Party, which remained loyal to Alexander Kerensky. This context provides evidence that Kerensky's supporters were indeed defeated by the Bolsheviks, supporting the first part of the claim.
+
+Secondly, the context at index 5 provides the necessary information to answer the second part of the claim, which is about the end of the civil war. It states that the Russian Civil War lasted from November 1917 until October 1922. This context gives us the precise timeframe of the civil war's duration, thus effectively supporting the claim about when the civil war ended.
+
+Therefore, the contexts at index 1 and 5 are the most effective in providing support for the claim that Alexander Kerensky was defeated by the Bolsheviks and the civil war ended in October 1922.
+
+成功的数量为：64总数：72当前回溯率：88.88888888888889%
+第1轮错误：8，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:37
+Question:Seven Brief Lessons on Physics was written by an Italian physicist that has worked in France since what year?
+golden idx: [5, 8]
+idx: [5, 8]
+Step by step with evidence and explanation: To address the claim that "Seven Brief Lessons on Physics" was written by an Italian physicist who has worked in France since a certain year, we need to identify the author of the book and their work history.
+
+First, the context at index 5 provides effective support for the claim. It states that **Carlo Rovelli** is an Italian theoretical physicist and writer who has worked in Italy, the United States, and since **2000, in France**. His work is mainly in the field of quantum gravity. This directly addresses the claim about the Italian physicist's work history in France, providing the specific year when he started working there.
+
+Secondly, the context at index 8 also provides effective support for the claim. It mentions that "Seven Brief Lessons on Physics" is a short book by the Italian physicist **Carlo Rovelli**, originally published in Italian in 2014. This supports the claim by identifying the author of the book.
+
+Therefore, the contexts at index 5 and 8 are the most effective in providing factual support for the claim, as they give both the name of the author and the year he started working in France, which are the key pieces of information needed to answer the question.
+
+成功的数量为：66总数：74当前回溯率：89.1891891891892%
+第1轮错误：8，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:38
+Question:The Livesey Hal War Memorial commemorates the fallen of which war, that had over 60 million casualties?
+golden idx: [2, 5]
+idx: [2, 5]
+Step by step with evidence and explanation: To address the claim regarding the Livesey Hall War Memorial and the war it commemorates with over 60 million casualties, we must identify the contexts that provide factual support for both the specific memorial and the casualty figures of the war in question.
+
+Firstly, the context at index 2 directly mentions the Livesey Hall War Memorial, stating that it "commemorates the fallen of World War I and World War II who had been employed by the South Suburban Gas Company of London." This context is effective because it specifically names the Livesey Hall War Memorial and the wars it commemorates, directly supporting the first part of the claim.
+
+Secondly, the context at index 5 provides detailed casualty figures for World War II, stating that "World War II was the deadliest military conflict in history in absolute terms of total casualties. Over 60 million people were killed..." This context is effective because it confirms the second part of the claim, providing the exact number of casualties associated with World War II, which aligns with the claim's reference to a war with over 60 million casualties.
+
+Therefore, the contexts at index 2 and 5 are the most effective in providing support for the claim that the Livesey Hall War Memorial commemorates the fallen of a war with over 60 million casualties, which is World War II.
+
+成功的数量为：68总数：76当前回溯率：89.47368421052632%
+第1轮错误：8，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:39
+Question:Are both Elko Regional Airport and Gerald R. Ford International Airport located in Michigan?
+golden idx: [1, 6]
+idx: [1, 6]
+Step by step with evidence and explanation: To determine the locations of Elko Regional Airport and Gerald R. Ford International Airport, we need to examine the provided contexts for geographical information.
+
+Firstly, the context at index 1 titled 'Elko Regional Airport' states that Elko Regional Airport is located a mile west of downtown Elko, in Elko County, Nevada. This directly addresses the claim regarding the location of Elko Regional Airport and confirms that it is not located in Michigan, but in Nevada.
+
+Secondly, the context at index 6 titled 'Gerald R. Ford International Airport' provides the information that Gerald R. Ford International Airport is a commercial airport in Cascade Township approximately 13 mi southeast of Grand Rapids, Michigan. This confirms that Gerald R. Ford International Airport is indeed located in Michigan.
+
+Therefore, the contexts at index 1 and 6 are the most effective in providing factual support for the claim. They provide clear and specific information about the locations of the respective airports, allowing us to conclude that Elko Regional Airport is located in Nevada and Gerald R. Ford International Airport is located in Michigan, thus answering the claim with evidence-based reasoning.
+
+成功的数量为：70总数：78当前回溯率：89.74358974358975%
+第1轮错误：8，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:40
+Question:Ralph Hefferline was a psychology professor at a university that is located in what city?
+golden idx: [6, 8]
+idx: [6, 8]
+Step by step with evidence and explanation: To determine the city where Ralph Hefferline was a psychology professor, we need to identify the contexts that specifically mention him and the university he was associated with. 
+
+First, the context at index 6 directly mentions **Ralph Franklin Hefferline** as a psychology professor at **Columbia University**. This context is crucial because it provides the specific information about Hefferline's position and the institution where he taught, which is directly relevant to the claim.
+
+Secondly, the context at index 8 provides information about **Columbia University**, stating that it is located in **Upper Manhattan, New York City**. This context is essential as it gives us the location of the university mentioned in the first context, thereby answering the question about the city where Ralph Hefferline was a professor.
+
+Therefore, the contexts at index 6 and 8 are the most effective in providing support for the claim, as they give us both the name of the professor and the location of the university where he taught.
+
+成功的数量为：72总数：80当前回溯率：90.0%
+第1轮错误：8，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:41
+Question:Which dog's ancestors include Gordon and Irish Setters: the Manchester Terrier or the Scotch Collie?
+golden idx: [0, 5]
+idx: [0, 4]
+Step by step with evidence and explanation: 
+First, the context at index 0 provides effective support for the claim. It explicitly states that the Scotch Collie has ancestors that include the Gordon and Irish Setters. The paragraph text from this context reads: "The Scotch Collie is a landrace breed of dog which originated from the highland regions of Scotland. The breed consisted of both the long-haired (now known as Rough) Collie and the short-haired (now known as Smooth) Collie. It is generally believed to have descended from a variety of ancient herding dogs, some dating back to the Roman occupation, which may have included Roman Cattle Dogs, Native Celtic Dogs and Viking Herding Spitzes. Other ancestors include the Gordon and Irish Setters." This directly answers the question by confirming that the Scotch Collie, not the Manchester Terrier, has Gordon and Irish Setters among its ancestors.
+
+Secondly, the context at index 4 supports the claim by discussing the Collie breed in general, which includes the Scotch Collie. It provides background information on the Collie's origins and characteristics, which are relevant to understanding the Scotch Collie's ancestry. The paragraph text from this context reads: "The collie is a distinctive type of herding dog, including many related landraces and standardised breeds. The type originated in Scotland and Northern England. The collie is a medium-sized, fairly lightly built dog, with a pointed snout. Many types have a distinctive white pattern over the shoulders. Collies are very active and agile, and most types of collies have a very strong herding instinct." While this context does not explicitly mention the Setters, it provides additional information about the Collie breed, which is inclusive of the Scotch Collie mentioned in index 0.
+
+Therefore, the contexts at index 0 and 4 are the most effective in providing support for the claim that the Scotch Collie's ancestors include Gordon and Irish Setters.
+
+成功的数量为：73总数：82当前回溯率：89.02439024390245%
+第1轮错误：9，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:42
+Question:Where is the company that Sachin Warrier worked for as a software engineer headquartered? 
+golden idx: [0, 1]
+idx: [0, 1]
+Step by step with evidence and explanation: To determine the headquarters of the company where Sachin Warrier worked as a software engineer, we need to identify the relevant contexts that provide this information. 
+
+First, the context at index 0 mentions that Sachin Warrier worked as a software engineer in Tata Consultancy Services in Kochi before resigning to focus on music. This context is relevant because it names the company where Sachin Warrier was employed.
+
+Secondly, the context at index 1 provides detailed information about Tata Consultancy Services Limited (TCS), stating that it is headquartered in Mumbai, Maharashtra. This context is directly relevant to the claim as it specifies the location of the headquarters of the company in question.
+
+Therefore, the contexts at index 0 and 1 are the most effective in providing support for the claim regarding the headquarters of the company where Sachin Warrier worked as a software engineer.
+
+成功的数量为：75总数：84当前回溯率：89.28571428571429%
+第1轮错误：9，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:43
+Question:A Japanese manga series based on a 16 year old high school student Ichitaka Seto, is written and illustrated by someone born in what year?
+golden idx: [4, 6]
+idx: [4, 6]
+Step by step with evidence and explanation: To answer the question about the birth year of the person who wrote and illustrated a Japanese manga series based on a 16-year-old high school student named Ichitaka Seto, we need to identify the manga series and its creator.
+
+Firstly, the context at index 4 provides effective support for the claim. It mentions the manga series "I"s" (アイズ, Aizu), which is about the main character Ichitaka Seto, a 16-year-old high school student. This context directly relates to the claim as it specifies the manga series in question.
+
+Secondly, the context at index 6 provides the necessary information about the illustrator of "I"s", Masakazu Katsura. It states that Masakazu Katsura, born on December 10, 1962, is known for several works of manga, including "I"s". This context provides the birth year of the manga artist who created the series centered around Ichitaka Seto.
+
+Therefore, the contexts at index 4 and 6 are the most effective in providing factual support for the claim, as they directly reference the manga series "I"s" and its creator, Masakazu Katsura, along with his birth year.
+
+成功的数量为：77总数：86当前回溯率：89.53488372093024%
+第1轮错误：9，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:44
+Question:The battle in which Giuseppe Arimondi lost his life secured what for Ethiopia?
+golden idx: [0, 5]
+idx: [0, 5]
+Step by step with evidence and explanation: To address the claim regarding the battle in which Giuseppe Arimondi lost his life and what it secured for Ethiopia, we must look at the contexts provided.
+
+First, the context at index 0 is directly relevant as it provides information about Giuseppe Arimondi himself. It states that Arimondi was an Italian general known for his role during the First Italo-Ethiopian War and that he died in combat at the Battle of Adwa. This context is crucial because it connects Arimondi to the specific battle in question, the Battle of Adwa, and confirms his death during this conflict.
+
+Secondly, the context at index 5 provides effective support for the claim as it details the Battle of Adwa. It explains that this battle was fought between the Ethiopian Empire and the Kingdom of Italy near the town of Adwa, Ethiopia. Most importantly, it states that this battle was a decisive defeat for Italy and secured Ethiopian sovereignty. This directly answers the claim by indicating that the Battle of Adwa, in which Arimondi lost his life, was the battle that secured sovereignty for Ethiopia.
+
+Therefore, the contexts at index 0 and 5 are the most effective in providing factual support for the claim. They offer a direct link between Giuseppe Arimondi, the Battle of Adwa, and the outcome of Ethiopian sovereignty.
+
+成功的数量为：79总数：88当前回溯率：89.77272727272727%
+第1轮错误：9，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:45
+Question:Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under which United States Vice President?
+golden idx: [3, 4]
+idx: [3, 4]
+Step by step with evidence and explanation: To determine which contexts effectively support the claim that Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under a specific U.S. Vice President, we must analyze the provided contexts for direct references to Alfred Balk's role and the Vice President he served under.
+
+First, context at index 4 directly mentions Alfred Balk and provides substantial information about his career. It states that Alfred Balk served as secretary of New York Governor Nelson Rockefeller's Committee on the Employment of Minority Groups in the News Media. This context is crucial because it not only names Alfred Balk but also specifies his role related to the claim, thus providing effective support for the answer.
+
+Secondly, context at index 3 is about Nelson Rockefeller, who served as the 41st Vice President of the United States. This context is relevant because it connects to the information provided in index 4, where Alfred Balk served under Governor Nelson Rockefeller. Since Rockefeller was a Vice President, this context supports the claim by identifying the Vice President under whom Alfred Balk served.
+
+The other contexts do not provide information linking Alfred Balk to a Vice President's committee on employment of minority groups in the news media. Therefore, the contexts at index 3 and 4 are the most effective in supporting the claim. Context 3 identifies Nelson Rockefeller as the Vice President, and context 4 confirms Alfred Balk's role under Rockefeller, thus answering the question.
+
+成功的数量为：81总数：90当前回溯率：90.0%
+第1轮错误：9，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:46
+Question:A medieval fortress in Dirleton, East Lothian, Scotland borders on the south side of what coastal area?
+golden idx: [5, 9]
+idx: [3, 5]
+Step by step with evidence and explanation: To determine which coastal area borders Dirleton Castle on the south side, we must analyze the provided contexts for geographical references and direct mentions of the castle's location.
+
+First, the context at index 3 provides effective support for the claim. It describes Dirleton as a village and parish in East Lothian, Scotland, and mentions its geographical position relative to other landmarks. Importantly, it states that Dirleton lies between North Berwick (east), Gullane (west), Fenton Barns (south), and the Firth of Forth (north). This information is crucial because it establishes the northern boundary of Dirleton as the Firth of Forth, which implies that the southern boundary, where Dirleton Castle is located, must be opposite to the Firth of Forth.
+
+Secondly, the context at index 5 also provides effective support for the claim. It details Yellowcraig, a coastal area of forest, beach, and grassland in East Lothian, and notes that it is bordered to the south by the village of Dirleton and Dirleton Castle. This directly answers the claim by identifying Yellowcraig (also known as Broad Sands Bay) as the coastal area that borders Dirleton Castle on the south side.
+
+Therefore, the contexts at index 3 and 5 are the most effective in providing support for the claim that Dirleton Castle borders Yellowcraig on the south side. The other contexts do not offer specific information about the castle's southern border or the coastal area in question.
+
+成功的数量为：82总数：92当前回溯率：89.13043478260869%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:47
+Question:Who is the writer of this song that was inspired by words on a tombstone and was the first track on the box set Back to Mono?
+golden idx: [5, 7]
+idx: [5, 7]
+Step by step with evidence and explanation: To address the claim about the writer of a song inspired by words on a tombstone and the first track on the box set "Back to Mono," we need to identify the contexts that directly relate to the song and the box set mentioned.
+
+First, the context at index 5 provides effective support for the claim. It mentions "Back to Mono (1958–1969)" as a box set compilation of the recorded work of record producer Phil Spector, released in 1991. The first track of this box set is "To Know Him Is to Love Him," which aligns with the claim's reference to the first track on "Back to Mono." This context also connects Phil Spector to the song, indicating his role in its creation.
+
+Secondly, the context at index 7 offers additional support for the claim. It details that "To Know Him Is to Love Him" is a song written by Phil Spector, inspired by words on his father's tombstone. This context confirms that Phil Spector is the writer of the song and provides the inspiration behind it, which is a crucial piece of information that corroborates the claim.
+
+Therefore, the contexts at index 5 and 7 are the most effective in providing factual support for the claim, as they directly address the song's writer, the inspiration for the song, and its inclusion as the first track on the "Back to Mono" box set.
+
+成功的数量为：84总数：94当前回溯率：89.36170212765957%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:48
+Question:What type of forum did a former Soviet statesman initiate?
+golden idx: [2, 3]
+idx: [2, 3]
+Step by step with evidence and explanation: To address the claim regarding the type of forum initiated by a former Soviet statesman, we must identify the contexts that specifically mention the initiation of a forum and link it to a Soviet statesman.
+
+First, the context at index 3 provides effective support for the claim. It states that Mikhail Gorbachev is a former Soviet statesman, which establishes his identity relevant to the claim. However, this context does not mention the initiation of any forum by Gorbachev.
+
+Secondly, the context at index 2 directly supports the claim by stating that the "World Summit of Nobel Peace Laureates was initiated by Mikhail Gorbachev in the 90s." This provides a clear connection between Gorbachev and the initiation of a forum, specifically the World Summit of Nobel Peace Laureates. It also details the nature of the forum and its objectives, which are to address global issues and support peace and human well-being.
+
+Therefore, the context at index 2 is the most effective in providing support for the claim, as it directly links Mikhail Gorbachev to the initiation of a specific forum. The context at index 3 supports the claim by establishing Gorbachev's role as a Soviet statesman, but it is the information in index 2 that completes the answer by detailing the forum he initiated. Hence, the contexts at index 2 and 3 are the ones that provide effective factual support for the claim.
+
+成功的数量为：86总数：96当前回溯率：89.58333333333334%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:49
+Question:Are Ferocactus and Silene both types of plant?
+golden idx: [1, 4]
+idx: [1, 4]
+Step by step with evidence and explanation: To determine whether Ferocactus and Silene are both types of plants, we need to analyze the provided contexts for factual information that supports this claim.
+
+Firstly, the context at index 1 provides effective support for the claim regarding Silene. It states that "Silene is a genus of flowering plants in the family Caryophyllaceae." This directly confirms that Silene is indeed a type of plant, specifically a flowering plant within the Caryophyllaceae family. The context further explains that Silene contains approximately 700 species, making it the largest genus in the family, and mentions common names such as campion and catchfly. This information is crucial as it establishes the botanical classification of Silene, supporting the claim that it is a type of plant.
+
+Secondly, the context at index 4 supports the claim regarding Ferocactus. It describes "Ferocactus as a genus of large barrel-shaped cacti, mostly with large spines and small flowers." This description confirms that Ferocactus is also a type of plant, belonging to the cacti family. It specifies that there are about 30 species included in the genus and that they are found in the southwestern United States and northwestern Mexico. This context provides the necessary botanical information to affirm that Ferocactus is a genus of plants, thus supporting the claim.
+
+In conclusion, the contexts at index 1 and 4 provide the most effective factual support for the claim that both Ferocactus and Silene are types of plants. The first context establishes Silene as a genus of flowering plants, while the second confirms Ferocactus as a genus of cacti. Both contexts offer clear botanical classifications that substantiate the claim.
+
+成功的数量为：88总数：98当前回溯率：89.79591836734694%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:50
+Question:Which British first-generation jet-powered medium bomber was used in the South West Pacific theatre of World War II?
+golden idx: [5, 8]
+idx: [5, 8]
+Step by step with evidence and explanation: To address the claim regarding the British first-generation jet-powered medium bomber used in the South West Pacific theatre of World War II, we must identify the contexts that specifically mention a British jet-powered medium bomber and its operational use in the specified theatre during the timeframe of World War II.
+
+First, the context at index 5 provides effective support for the claim. It details the **English Electric Canberra** as a British first-generation jet-powered medium bomber developed in the mid-to-late 1940s. The text explicitly states that it was introduced to service with the Royal Air Force (RAF) in May 1951, making it the service's first jet-powered bomber aircraft. This context is directly relevant to the claim as it identifies the English Electric Canberra as the British jet-powered medium bomber in question.
+
+Secondly, the context at index 8 also provides effective support for the claim. It mentions that No. 2 Squadron RAAF, which is part of the Royal Australian Air Force, operated English Electric Canberra jets during World War II in the South West Pacific theatre. This context confirms the operational use of the English Electric Canberra in the theatre of interest during the correct historical period.
+
+Therefore, the contexts at index 5 and 8 are the most effective in providing factual support for the claim that the English Electric Canberra was the British first-generation jet-powered medium bomber used in the South West Pacific theatre of World War II.
+
+成功的数量为：90总数：100当前回溯率：90.0%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:51
+Question:Which year and which conference was the 14th season for this conference as part of the NCAA Division that the Colorado Buffaloes played in with a record of 2-6 in conference play?
+golden idx: [1, 7]
+idx: [1, 7]
+Step by step with evidence and explanation: To answer the claim about the Colorado Buffaloes' 14th season in the NCAA Division with a record of 2-6 in conference play, we need to identify the year and the conference they played in.
+
+First, context at index 1 provides effective support for the claim. It states that the 2009 Big 12 Conference football season was the 14th season for the Big 12 as part of the 2009 NCAA Division I FBS football season. This directly addresses the part of the claim regarding the 14th season of a conference in the NCAA Division.
+
+Secondly, the context at index 7 also provides effective support for the claim. It mentions that the 2009 Colorado Buffaloes football team finished the season with a record of 3-9 and 2-6 in Big 12 play. This supports the claim about the Colorado Buffaloes' record in conference play during their 14th season in the NCAA Division.
+
+Therefore, the contexts at index 1 and 7 are the most effective in providing support for the claim about the Colorado Buffaloes' 14th season in the NCAA Division with a specific conference record.
+
+成功的数量为：92总数：102当前回溯率：90.19607843137256%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:52
+Question:In 1991 Euromarché was bought by a chain that operated how any hypermarkets at the end of 2016?
+golden idx: [0, 6]

@@ -1,0 +1,58 @@
+##########
+ID:1
+Question:Which magazine was started first Arthur's Magazine or First for Women?
+golden idx: [7, 9]
+step-by-step think:
+
+1. Let's analyze each context to determine if it provides relevant information for the answer.
+2. Context 0: This context is about the history of Albanian football, which is not relevant to the claim.
+3. Context 1: This context is about the Freeway Complex Fire in California, which is not relevant to the claim.
+4. Context 2: This context is about the 2014–15 Ukrainian Hockey Championship, which is not relevant to the claim.
+5. Context 3: This context is about Radio City, India's first private FM radio station. While it provides information about the station's launch date, it is not relevant to the claim about Arthur's Magazine and First for Women.
+6. Context 4: This context is about William Rast, an American clothing line. It is not relevant to the claim.
+7. Context 5: This context is about Echosmith, an American indie pop band. It is not relevant to the claim.
+8. Context 6: This context is about the First Arthur County Courthouse and Jail, which is not relevant to the claim.
+9. Context 7: This context is about Arthur's Magazine, an American literary periodical. It is directly relevant to the claim as it mentions the magazine was started in the 19th century.
+10. Context 8: This context is about women's colleges in the Southern United States, which is not relevant to the claim.
+11. Context 9: This context is about First for Women, a woman's magazine published in the USA. It directly mentions that the magazine was started in 1989, which is relevant to the claim.
+
+Based on my analysis, the invalid contexts are 0, 1, 2, 3, 4, 5, 6, 8. The relevant contexts are 7 and 9.
+
+idx: [0, 1]
+成功的数量为：2总数：2当前回溯率：100.0%
+##########
+##########
+ID:2
+Question:The Oberoi family is part of a hotel company that has a head office in what city?
+golden idx: [1, 8]
+step-by-step think:
+1. The Oberoi family is known for its involvement in the hotel industry, specifically through The Oberoi Group.
+2. The Oberoi Group has its head office in Delhi, as mentioned in context 1.
+3. Context 1 provides accurate information about the headquarters of The Oberoi Group.
+4. Context 2 talks about a fiber optic sensing technologies company, not related to the hotel industry.
+5. Context 3 discusses a historic hotel in Hartford, Connecticut, which is also not related to the headquarters of The Oberoi Group.
+6. Context 4 is about a historic hotel in Glennville, Georgia, which is irrelevant to the claim.
+7. Context 5 relates to the military police company and is unrelated to the Oberoi family or The Oberoi Group.
+8. Context 6 pertains to the Tallcorn Towers Apartments in Iowa, not providing information about the Oberoi family's hotel business.
+9. Context 7 discusses the Ritz-Carlton Jakarta in Indonesia, not relevant to the claim.
+10. Context 8 mentions the Oberoi family and its involvement in hotels, aligning with the claim.
+11. Context 9 focuses on Mohan Singh Oberoi, the founder of Oberoi Hotels & Resorts.
+
+idx: [2, 4]
+成功的数量为：4总数：4当前回溯率：100.0%
+##########
+##########
+ID:3
+Question:Musician and satirist Allie Goertz wrote a song about the "The Simpsons" character Milhouse, who Matt Groening named after who?
+golden idx: [6, 8]
+step-by-step think:
+1. The claim is about the origin of the name "Milhouse" in "The Simpsons".
+2. Relevant contexts are the paragraphs about Milhouse Van Houten and Marge Simpson.
+3. Milhouse Van Houten's paragraph states that the character was named after President Richard Nixon's middle name and later revealed to have the middle name "Mussolini".
+4. Marge Simpson's paragraph states that Matt Groening named the character after his mother, Margaret Groening.
+5. The paragraph about Milhouse Van Houten provides incorrect information about the origin of the character's name.
+6. The paragraph about Marge Simpson provides correct information relating to the claim.
+
+idx: [6, 0]
+成功的数量为：5总数：6当前回溯率：83.33333333333334%
+##########

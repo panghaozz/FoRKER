@@ -1,0 +1,824 @@
+##########
+14
+Are Random House Tower and 888 7th Avenue both used for real estate?
+no
+Answer: Yes
+Evidence and explanation: The Random House Tower and 888 7th Avenue are both associated with real estate entities in New York City.
+Step by step with evidence and explanation:
+1. The claim asks if the Random House Tower and 888 7th Avenue are both used for real estate.
+2. Context index 1 mentions "the Vornado Realty Trust," which is a real estate investment trust, indicating that 888 7th Avenue is associated with real estate.
+3. Context index 2 mentions "the Park Imperial Apartments," which are residential real estate, and "Random House," a publishing firm, suggesting that the Random House Tower has a mixed-use purpose including real estate.
+4. Since both buildings are associated with real estate through their connections to real estate companies and residential apartments, the answer to the claim is yes, they are both used for real estate.
+
+'idx': 1, 'title': '888 7th Avenue', 'paragraph_text': '888 7th Avenue is a 628 ft (191m) tall modern-style office skyscraper in Midtown Manhattan which was completed in 1969 and has 46 floors. Emery Roth & Sons designed the building, which is tied with Central Park Place for the 65th tallest building in New York City. It currently carries the Vornado Realty Trust corporate headquarters. Previously known as the Arlen Building, its namesake being the company responsible for its construction, Arlen Realty & Development Corporation. The Red Eye Grill is located in the building at street level.'
+'idx': 2, 'title': 'Random House Tower', 'paragraph_text': 'The Random House Tower, also known as the Park Imperial Apartments, is a 52-story mixed-use tower in New York City, United States, that is used as the headquarters of book publisher Random House and a luxury apartment complex. The book publisher entrance is on Broadway and goes up to 27 floors, while the apartment complex entrance is on West 56th Street.'
+'idx': 0, 'title': 'Real estate benchmarking', 'paragraph_text': 'Real estate benchmarking is the standard of measurement used to analyze the financial characteristics of a real estate investment property. In the general sense, real estate benchmarking refers to the comparison of potential real estate investment properties against a predetermined framework of measurement. In a narrow sense, the term real estate benchmarking refers to the specific real estate indicators used to measure the real estate properties.'}]
+##########
+##########
+19
+Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?
+1969 until 1974
+Answer: 1969 to 1974
+Evidence and explanation: The contexts provided mention Roger O. Egeberg's association with Nixon and the years Nixon served as president.
+Step by step with evidence and explanation:
+1. The claim asks for the years during which the president served when Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs.
+2. Context index 9 mentions Roger O. Egeberg and associates him with Nixon.
+3. Context index 4 provides the years Nixon served as president, which are from 1969 until 1974.
+4. Therefore, the answer to the claim is that Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the years 1969 to 1974, which is when Nixon served as president.
+
+'idx': 9, 'title': 'Roger O. Egeberg', 'paragraph_text': "Roger Olaf Egeberg, M.D. (13 November 1902 – 13 September 1997 Washington, D.C.) was an American medical educator, administrator and advocate of public health. He was General Douglas MacArthur's personal physician during World War II in the Pacific theater. His other roles included Assistant Secretary for Health and Scientific Affairs in the Department of Health, Education, and Welfare (now the United States Department of Health and Human Services) during the Nixon administration and Dean of the University of Southern California's medical school."
+'idx': 4, 'title': 'Richard Nixon', 'paragraph_text': 'Richard Milhous Nixon (January 9, 1913 – April 22, 1994) was the 37th President of the United States from 1969 until 1974, when he resigned from office, the only U.S. president to do so. He had previously served as the 36th Vice President of the United States from 1953 to 1961, and prior to that as a U.S. Representative and also Senator from California.'
+'idx': 0, 'title': 'Office of Population Affairs', 'paragraph_text': 'The Office of Population Affairs (OPA), a part of the United States Department of Health and Human Services within the Office of Public Health and Science, serves as the focal point to advise the Secretary and the Assistant Secretary for Health on a wide range of reproductive health topics, including adolescent pregnancy, family planning, and sterilization, as well as other population issues. Created by an Act of Congress in 1970 (Public Law 91-572, 84 Stat. 1504, Dec. 24. 1970), the Office of Population Affairs, under the direction of the Deputy Assistant Secretary of Population Affairs (DASPA), has three component offices responsible for the oversight of program functions: Office of Family Planning, Office of Adolescent Pregnancy Programs, and Office of Research and Evaluation.'}]
+##########
+##########
+22
+This singer of A Rather Blustery Day also voiced what hedgehog?
+Sonic
+Answer: Robotnik
+Evidence and explanation: The context provided mentions Jim Cummings as the singer of "A Rather Blustery Day" and also lists characters he has voiced, including Robotnik from Sonic the Hedgehog.
+Step by step with evidence and explanation:
+1. The question asks which hedgehog was voiced by the singer of "A Rather Blustery Day."
+2. Context index 9 identifies Jim Cummings as the singer of "A Rather Blustery Day."
+3. Context index 4 lists characters voiced by Jim Cummings, including Robotnik from Sonic the Hedgehog.
+4. Since Robotnik is a character from the Sonic the Hedgehog series, and no other hedgehog is mentioned in the contexts, the answer is Robotnik.
+
+'idx': 4, 'title': 'Jim Cummings', 'paragraph_text': 'James Jonah Cummings (born November 3, 1952) is an American voice actor and singer, who has appeared in almost 400 roles. He is known for voicing the title character from "Darkwing Duck", Dr. Robotnik from "Sonic the Hedgehog", and Pete. His other characters include Winnie the Pooh, Tigger, and the Tasmanian Devil. He has performed in numerous Disney and DreamWorks animations including "Aladdin", "The Lion King", "Balto", "Antz", "The Road to El Dorado", "Shrek", and "The Princess and the Frog". He has also provided voice-over work for video games, such as "Icewind Dale", "Fallout", "", "Baldur\'s Gate", "Mass Effect 2", "", "", "", and "Splatterhouse".'
+'idx': 9, 'title': 'A Rather Blustery Day', 'paragraph_text': '"A Rather Blustery Day" is a whimsical song from the Walt Disney musical film featurette, "Winnie the Pooh and the Blustery Day". It was written by Robert & Richard Sherman and sung by Jim Cummings as "Pooh".'
+'idx': 7, 'title': 'Winnie the Pooh and the Blustery Day', 'paragraph_text': 'Winnie the Pooh and the Blustery Day is a 1968 animated featurette based on the third, fifth, ninth, and tenth chapters from "Winnie-the-Pooh" and the second, eighth, and ninth chapters from "The House at Pooh Corner" by A. A. Milne. The featurette was produced by Walt Disney Productions and released by Buena Vista Distribution Company on December 20, 1968 as a double feature with "The Horse in the Gray Flannel Suit". This was the second of the studio\'s Winnie the Pooh shorts. It was later added as a segment to the 1977 film "The Many Adventures of Winnie the Pooh". The music was written by Richard M. Sherman and Robert B. Sherman. It was notable for being the last animated short produced by Walt Disney, who died during its production.'}]
+##########
+##########
+33
+Which  French ace pilot and adventurer fly L'Oiseau Blanc
+Charles Eugène
+Answer: Charles Nungesser and François Coli
+Evidence and explanation: The contexts provided mention Charles Nungesser and François Coli in association with L'Oiseau Blanc.
+Step by step with evidence and explanation:
+1. The question asks which French ace pilot and adventurer flew L'Oiseau Blanc.
+2. Context index 5 mentions L'Oiseau Blanc and includes the name Charles Nungesser, indicating his involvement with the aircraft.
+3. Context index 6 mentions Charles Eugène Jules Marie Nungesser, providing his full name and confirming his identity as a French pilot.
+4. Context index 8 mentions François Coli alongside Charles Nungesser in relation to L'Oiseau Blanc, indicating that both were involved.
+5. Therefore, the answer is that the French ace pilots and adventurers who flew L'Oiseau Blanc were Charles Nungesser and François Coli.
+
+'idx': 5, 'title': "L'Oiseau Blanc", 'paragraph_text': 'L\'Oiseau Blanc (commonly known in the English-speaking world as The White Bird ) was a French Levasseur PL.8 biplane that disappeared in 1927, during an attempt to make the first non-stop transatlantic flight between Paris and New York City to compete for the Orteig Prize. The aircraft was flown by French World War I aviation heroes, Charles Nungesser and François Coli. The aircraft took off from Paris on 8 May 1927 and was last seen over Ireland. Less than two weeks later, Charles Lindbergh successfully made the New York–Paris journey and claimed the prize, flying the "Spirit of St. Louis".'
+'idx': 6, 'title': 'Charles Nungesser', 'paragraph_text': 'Charles Eugène Jules Marie Nungesser, MC (15 March 1892 – presumably on or after 8 May 1927) was a French ace pilot and adventurer, best remembered as a rival of Charles Lindbergh. Nungesser was a renowned ace in France, ranking third highest in the country with 43 air combat victories during World War I.'
+'idx': 8, 'title': 'François Coli', 'paragraph_text': 'François Coli (June 5, 1881 – presumably on or after May 8, 1927) was a French pilot and navigator best known as the one-eyed flying partner of Charles Nungesser in their doomed attempt to fly the Atlantic Ocean on the aircraft known as "L\'Oiseau Blanc".'}]
+##########
+##########
+46
+A medieval fortress in Dirleton, East Lothian, Scotland borders on the south side of what coastal area?
+Yellowcraig
+Answer: the Firth of Forth
+Evidence and explanation: The contexts provided mention Dirleton Castle and its proximity to the Firth of Forth.
+Step by step with evidence and explanation:
+1. The question asks for the coastal area that borders on the south side of a medieval fortress in Dirleton, East Lothian, Scotland.
+2. Context index 5 mentions Dirleton and Dirleton Castle in relation to the Firth of Forth.
+3. The same context also lists the Firth of Forth as a Site of Special Scientific Interest, which is a designation often given to areas of environmental importance, including coastal regions.
+4. Therefore, based on the information provided in the contexts, the coastal area that borders on the south side of the medieval fortress in Dirleton is the Firth of Forth.
+
+'idx': 5, 'title': 'Yellowcraigs', 'paragraph_text': 'Yellowcraig, less commonly known as Broad Sands Bay, is a coastal area of forest, beach and grassland in East Lothian, south-east Scotland. Yellowcraig is partly within the Firth of Forth Site of Special Scientific Interest (SSSI). It is bordered to the north by the Firth of Forth, to the south by the village of Dirleton and Dirleton Castle, to the east by the North Berwick West Links golf course, and to the west by the Archerfield Estate and Links golf courses.'
+'idx': 3, 'title': 'Dirleton', 'paragraph_text': 'Dirleton (Scottish Gaelic \'Duighreach\') is a village and parish in East Lothian, Scotland approximately 20 mi east of Edinburgh on the A198. It contains 7500 acre . Dirleton lies between North Berwick (east), Gullane (west), Fenton Barns (south) and the Yellowcraigs nature reserve, Archerfield Estate and the Firth of Forth (north). Gullane parish was joined to Dirleton parish in 1612 by an Act of Parliament because "Golyn (as it was anciently spelt) is ane decaying toun, and Dirleton is ane thriven place."'
+'idx': 9, 'title': 'Dirleton Castle', 'paragraph_text': 'Dirleton Castle is a medieval fortress in the village of Dirleton, East Lothian, Scotland. It lies around 2 mi west of North Berwick, and around 19 mi east of Edinburgh. The oldest parts of the castle date to the 13th century, and it was abandoned by the end of the 17th century.'}]
+##########
+##########
+48
+What type of forum did a former Soviet statesman initiate?
+Organizations could come together to address global issues
+Answer: The World Summit of Nobel Peace Laureates
+Evidence and explanation: The context provided indicates that Mikhail Gorbachev was associated with the World Summit of Nobel Peace Laureates.
+Step by step with evidence and explanation:
+1. The question asks for the type of forum initiated by a former Soviet statesman.
+2. Context index 2 mentions Mikhail Gorbachev in association with the World Summit of Nobel Peace Laureates.
+3. The same context suggests that this forum involves organizations coming together to address global issues, which is characteristic of the type of forum in question.
+4. Therefore, based on the given contexts, the answer is that the former Soviet statesman Mikhail Gorbachev initiated the forum known as the World Summit of Nobel Peace Laureates.
+
+'idx': 2, 'title': 'World Summit of Nobel Peace Laureates', 'paragraph_text': 'The World Summit of Nobel Peace Laureates was initiated by Mikhail Gorbachev in the 90s, as a forum in which the Nobel Peace Laureates and the Peace Laureate Organizations could come together to address global issues with a view to encourage and support peace and human well being in the world. Its Permanent Secretariat is an independent, non-profit, ECOSOC non-governmental organization, based in Rome, operating on a permanent basis. A permanent staff, mainly composed of volunteers, promotes the work of the Nobel Peace Prize Winners and organizes the World Summit of Nobel Peace Laureates on a yearly basis. To date, the Permanent Secretariat has organized 16 Summits, the most recent having been held in February 2017 in the city of Bogota, Colombia. This was the first time that the Summit took place in Latin America.'
+'idx': 3, 'title': 'Mikhail Gorbachev', 'paragraph_text': "Mikhail Sergeyevich Gorbachev, ( ; Russian: Михаи́л Серге́евич Горбачёв ; ] ; born 2 March 1931) is a former Soviet statesman. He was the eighth and last leader of the Soviet Union, having been General Secretary of the Communist Party of the Soviet Union from 1985 until 1991. He was the country's head of state from 1988 until 1991 (titled as Chairman of the Presidium of the Supreme Soviet from 1988 to 1989, as Chairman of the from 1989 to 1990, and as Soviet Union]] from 1990 to 1991)."
+'idx': 9, 'title': 'Anastas Mikoyan', 'paragraph_text': "Anastas Ivanovich Mikoyan ; 25 November 1895 – 21 October 1978) was an Old Bolshevik and Soviet statesman during the mandates of Lenin, Stalin, Khrushchev, and Brezhnev. He was the only Soviet politician who managed to remain at the highest levels of power within the Communist Party of the Soviet Union, as that power oscillated between the Central Committee and the Politburo, from the latter days of Lenin's rule, throughout the eras of Stalin and Khrushchev, until his peaceful retirement after the first months of Brezhnev's rule."}]
+##########
+##########
+55
+Ellie Goulding worked with what other writers on her third studio album, Delirium?
+Max Martin, Savan Kotecha and Ilya Salmanzadeh
+Answer: Max Martin, Savan Kotecha, Ilya Salmanzadeh, Tove Lo, Ali Payami
+Evidence and explanation: The contexts provided mention these individuals in relation to Ellie Goulding's work on her album Delirium.
+Step by step with evidence and explanation:
+1. The question asks for the names of other writers Ellie Goulding worked with on her third studio album, Delirium.
+2. Context index 7 mentions Max Martin, Savan Kotecha, and Ilya Salmanzadeh in relation to Ellie Goulding and her album Delirium.
+3. Context index 1 adds Tove Lo and Ali Payami to the list of individuals who worked with Ellie Goulding on the song "Love Me like You Do," which is part of the album Delirium.
+4. Since the contexts specifically associate these writers with Ellie Goulding and the album Delirium, the answer includes all mentioned individuals: Max Martin, Savan Kotecha, Ilya Salmanzadeh, Tove Lo, and Ali Payami.
+
+'idx': 7, 'title': 'On My Mind (Ellie Goulding song)', 'paragraph_text': '"On My Mind" is a song by English singer Ellie Goulding from her third studio album "Delirium" (2015). It was released as the album\'s lead single on 17 September 2015. It was written by Goulding, Max Martin, Savan Kotecha and Ilya Salmanzadeh. "On My Mind" is an electropop and R&B song whose instrumentation consists of scratchy guitars, trap drums, slapped beats and sharp, syncopated electronica. Lyrically, "On My Mind" talks about a one-night stand with someone the protagonist shouldn\'t be with, having a dichotomy between heart and head. Though firmly denied by Goulding, many critics considered it an answer song to Ed Sheeran\'s "Don\'t".'
+'idx': 1, 'title': 'Love Me like You Do', 'paragraph_text': '"Love Me like You Do" is a song recorded by English singer Ellie Goulding for the "Fifty Shades of Grey" (2015). The song was written by Savan Kotecha, Ilya Salmanzadeh, Tove Lo, Max Martin and Ali Payami; the latter two also produced it. Goulding was selected to sing the track. It was released on 7 January 2015 as the second single from the soundtrack. The song was also included on Goulding\'s third studio album, "Delirium" (2015).'
+'idx': 5, 'title': 'Delirium (Ellie Goulding album)', 'paragraph_text': 'Delirium is the third studio album by English singer and songwriter Ellie Goulding, released on 6 November 2015 by Polydor Records. Music critics were generally impressed by the overall production of the record, although they were ambivalent in regards to its originality. It debuted at number three on the UK Albums Chart and the US "Billboard" 200, earning Goulding her highest-charting record in the latter country and her highest first-week sales figures in both territories. The album spawned three singles: "On My Mind", "Army" and "Something in the Way You Move".'}]
+##########
+##########
+56
+Which Australian city founded in 1838 contains a boarding school opened by a Prime Minister of Australia and named after a school in London of the same name.
+Marion, South Australia
+Answer: Adelaide
+Evidence and explanation: The context provided indicates that the City of Marion, which is part of Adelaide, was founded in 1838 and contains Westminster School, a boarding school opened by Prime Minister Robert Menzies.
+Step by step with evidence and explanation:
+1. The claim asks for the Australian city founded in 1838 that contains a boarding school named after a school in London.
+2. Context index 0 states that the City of Marion was founded in 1838 and is associated with the City of Adelaide.
+3. Context index 9 mentions Westminster School in Marion, South Australia, which is associated with Adelaide, opened by Robert Menzies in 1961, and named after Westminster School in London.
+4. Therefore, the answer is Adelaide, as it is the city that encompasses Marion, where the school named after the London school is located.
+
+'idx': 9, 'title': 'Westminster School, Adelaide', 'paragraph_text': 'Westminster School is an independent, Uniting Church, Early Learning to Year 12, coeducational, day and boarding school located at Marion, South Australia, 12 km south of Adelaide. Founded as a Methodist day and boarding school for boys, the school was opened by the Prime Minister Robert Menzies in 1961 and is named after Westminster School in London. The school became co-educational in 1978, and has a current enrolment of around 1150 students.'
+'idx': 0, 'title': 'Marion, South Australia', 'paragraph_text': 'Marion is a suburb in the City of Marion in Adelaide around 10 km south-west of the CBD. Founded as a rural village in 1838 on the banks of the Sturt River, Marion was found to have rich soil and the population expanded rapidly. Colonel William Light laid out the plan for the village, as he had done with the City of Adelaide itself.'
+'idx': 8, 'title': 'Sainik School Balachadi, Jamnagar', 'paragraph_text': 'The Sainik School Balachadi ("Hindi: सैनिक शाला बालाचडी" ), Jamnagar, Gujarat, is one of the Top Sainik School in the Chain of 26 Sainik Schools in India. It is one of the boarding school for public education in Gujarat.It was established in July 1961 by then the Honorable Prime Minister Sri Lal Bahadur Shastri.It is an elite English medium, fully residential boarding school for boys providing Premium public school education with a Military bias up to 10+2 stage as per the Central Board of Secondary Education.The Chain of Sainik Schools in India was established as a prime focus of strengthening the Armed Forces and All India Services IAS & IPS, and other fields of Public services. The School is Located at a distance of 32\xa0km from the main city of Jamnagar alongside a coastal area. The campus facing the Gulf of Kutch is encompassed with a Bungalow of The Ruler of Nawanagar Maharaja Jam Shaheb Digvijaysinhji Ranjitsinhji, Sachana Ship Breaking Yard and a natural sea beach.'}]
+##########
+##########
+60
+Are both Cypress and Ajuga genera?
+no
+Answer: Yes
+
+Evidence and explanation: The context provided indicates that both Cypress and Ajuga are referred to in a taxonomic context, suggesting they are both genera.
+
+Step by step with evidence and explanation:
+1. The claim asks if Cypress and Ajuga are both genera.
+2. Context index 1 mentions "Cupressus," which is the genus for Cypress trees, and associates it with the family "Cupressaceae" and subfamily "Cupressoideae."
+3. Context index 2 refers to "Ajuga," also known as carpet bugle, and associates it with the family "Lamiaceae," which is indicative of its genus status.
+4. Context index 5 lists "Ajuga" within a group that includes other genera such as "Acrymia" and "Garrettia," further confirming its status as a genus.
+5. Since both "Cupressus" and "Ajuga" are listed with taxonomic ranks and associated with specific families, it can be concluded that they are indeed both genera. Therefore, the answer to the question is yes.
+
+'idx': 2, 'title': 'Ajuga', 'paragraph_text': 'Ajuga , also known as bugleweed, ground pine, carpet bugle, or just bugle, is a genus of 40 species annual and perennial herbaceous flowering plantsin the mint family Lamiaceae, with most species native to Europe, Asia, and Africa, but also two species in southeastern Australia. They grow to 5–50 cm tall, with opposite leaves.'
+'idx': 1, 'title': 'Cupressus', 'paragraph_text': 'The genus Cupressus is one of several genera within the family Cupressaceae that have the common name cypress; for the others, see cypress. It is considered a polyphyletic group. Based on genetic and morphological analysis, the "Cupressus" genus is found in the Cupressoideae subfamily. The common name comes from Old French "cipres" and that from Latin "cyparissus", which is the latinisation of the Greek κυπάρισσος ("kypárissos").'
+'idx': 5, 'title': 'Ajugeae', 'paragraph_text': 'Ajugeae is a tribe of the Teucrioideae subfamily of the family Lamiaceae and might contain the genera "Acrymia" , "Ajuga" , "Cymaria" , "Garrettia" , "Holocheila" .'}]
+##########
+##########
+61
+What distinction is held by the former NBA player who was a member of the Charlotte Hornets during their 1992-93 season and was head coach for the WNBA team Charlotte Sting?
+shortest player ever to play in the National Basketball Association
+Answer: Shortest player ever to play in the NBA
+Evidence and explanation: The context provided indicates that the former NBA player in question is known for being the shortest player to have played in the league.
+Step by step with evidence and explanation:
+1. The question asks for the distinction held by a former NBA player who was with the Charlotte Hornets during the 1992-93 season and later coached the WNBA team Charlotte Sting.
+2. Context index 5 mentions "shortest player ever to play in the National Basketball Association" and lists "Bogues" alongside the Charlotte Hornets and Charlotte Sting, which aligns with the claim.
+3. Since no other contexts contradict this information and no other distinctions are mentioned, the answer is that the former NBA player is distinguished as the shortest player ever to play in the NBA.
+
+'idx': 5, 'title': 'Muggsy Bogues', 'paragraph_text': 'Tyrone Curtis "Muggsy" Bogues (born January 9, 1965) is an American retired basketball player. The shortest player ever to play in the National Basketball Association, the 5 ft Bogues played point guard for four teams during his 14-season career in the NBA. He is best known for his ten seasons with the Charlotte Hornets, and also played for the Washington Bullets, Golden State Warriors, and Toronto Raptors. After his NBA career, he served as head coach of the now-defunct WNBA team Charlotte Sting.'
+'idx': 9, 'title': '1992–93 Charlotte Hornets season', 'paragraph_text': 'The 1992–93 NBA season was the fifth season for the Charlotte Hornets in the National Basketball Association. In the 1992 NBA draft, the Hornets selected center Alonzo Mourning out of Georgetown with the second overall pick. With the addition of Mourning, along with second-year star Larry Johnson and Muggsy Bogues, the Hornets struggled around .500 for most of the season, but won 9 of their final 12 games finishing their season third in the Central Division with a 44–38 record, and qualified for their first ever playoff appearance. The team became the first of the four expansion franchises of the late 1980s to win a playoff series, when Mourning sunk a 20 ft jumper at the buzzer in Game 4 of the first round playoff series against the 4th-seeded Boston Celtics. However, in the semifinals, the Hornets were eliminated by the New York Knicks in five games.'
+'idx': 2, 'title': 'List of Charlotte Hornets seasons', 'paragraph_text': 'The Charlotte Hornets are a professional basketball club based in Charlotte, North Carolina. They are members of the National Basketball Association (NBA), playing in the Southeast Division of the Eastern Conference. The original Charlotte Hornets franchise played in Charlotte from 1988–2002 before relocating to New Orleans, Louisiana and becoming the New Orleans Hornets. A new franchise, the "Charlotte Bobcats", began play in the 2004–05 season. The team played for ten seasons as the Bobcats before adopting the Hornets name for the 2014–15 season. The Hornets name was left available after the New Orleans Hornets became the New Orleans Pelicans. As part of a deal between the Bobcats, Hornets and NBA, the renamed Hornets reclaimed the original Hornets\' history and records from 1988 to 2002, while all of the Hornets\' records from 2002 to 2013 remained with the Pelicans. As a result, the Hornets are now reckoned as having suspended operations after the 2001–02 season before returning as the Bobcats in 2004; This has allowed all of Charlotte\'s NBA history to be recognized under one single franchise.'}]
+##########
+##########
+62
+What is the name of the executive producer of the film that has a score composed by Jerry Goldsmith?
+Ronald Shusett
+Answer: Jack Schwartzman
+Evidence and explanation: The context provided indicates that Jerry Goldsmith composed the score for the film "Lionheart: The Children's Crusade," and Jack Schwartzman is mentioned alongside other individuals involved in the film.
+Step by step with evidence and explanation:
+1. The claim asks for the name of the executive producer of the film with a score composed by Jerry Goldsmith.
+2. Context index 5 mentions the film "Lionheart: The Children's Crusade" with a score by Jerry Goldsmith.
+3. In the same context, Jack Schwartzman is listed among the individuals associated with the film.
+4. Since Jack Schwartzman is the only person in the context associated with the production level of the film, it can be inferred that he is the executive producer related to the claim.
+
+'idx': 1, 'title': 'Alien (film)', 'paragraph_text': "Alien is a 1979 science-fiction horror film directed by Ridley Scott, and starring Sigourney Weaver, Tom Skerritt, Veronica Cartwright, Harry Dean Stanton, John Hurt, Ian Holm and Yaphet Kotto. The film's title refers to a highly aggressive extraterrestrial creature that stalks and attacks the crew of a spaceship. Dan O'Bannon, drawing upon previous works of science fiction and horror, wrote the screenplay from a story he co-authored with Ronald Shusett. The film was produced by Gordon Carroll, David Giler and Walter Hill through their company Brandywine Productions, and was distributed by 20th Century Fox. Giler and Hill revised and made additions to the script. Shusett was executive producer. The eponymous Alien and its accompanying elements were designed by the Swiss artist H. R. Giger, while concept artists Ron Cobb and Chris Foss designed the more human aspects of the film."
+'idx': 5, 'title': 'Lionheart (1987 film)', 'paragraph_text': "Lionheart, also known as Lionheart: The Children's Crusade, is a 1987 adventure film directed by Franklin J. Schaffner and produced by Talia Shire and Stanley O'Toole. Shire's brother, Francis Ford Coppola, initially planned to direct the film but instead opted to be executive producer along with Shire's husband, Jack Schwartzman. The screenplay was written by Menno Meyjes and Richard Outten from a story by Meyjes. The composer Jerry Goldsmith wrote the score. The film was released in August 1987. It was distributed by Orion Pictures."
+'idx': 7, 'title': 'Innerspace', 'paragraph_text': 'Innerspace is a 1987 American science fiction comedy film directed by Joe Dante and produced by Michael Finnell. Steven Spielberg served as executive producer. The film was inspired by the 1966 science fiction film "Fantastic Voyage". It stars Dennis Quaid, Martin Short and Meg Ryan, with Robert Picardo and Kevin McCarthy, with music composed by Jerry Goldsmith. It earned well over $25 million in its domestic gross revenue and won an Oscar, the only film directed by Dante to do so.'}]
+##########
+##########
+69
+who is the younger brother of The episode guest stars of The Hard Easy 
+Bill Murray
+Answer: Brian Doyle-Murray
+Evidence and explanation: The context provided indicates that Brian Doyle-Murray is related to the episode "The Hard Easy" as a guest star.
+Step by step with evidence and explanation: 1. The question asks for the younger brother of the guest stars of the episode "The Hard Easy". 2. Context index 7 mentions Brian Doyle-Murray as a guest star in "The Hard Easy". 3. Context index 0 lists Brian Doyle-Murray alongside Bill Murray, indicating a familial relationship. 4. Given that Brian Doyle-Murray's birth date is October 31, 1945, and considering common naming conventions, it can be inferred that Brian Doyle-Murray is the younger brother mentioned in the claim. 5. Therefore, the answer is Brian Doyle-Murray, as he is the only brother mentioned in the contexts provided.
+
+'idx': 7, 'title': 'The Hard Easy (Adventure Time)', 'paragraph_text': '"The Hard Easy" is the twenty-third episode of the fourth season of the American animated television series "Adventure Time". The episode was written and storyboarded by Tom Herpich and Skyler Page, from a story by Patrick McHale, Kent Osborne, and Pendleton Ward. It originally aired on Cartoon Network on October 1, 2012. The episode guest stars Brian Doyle-Murray as Prince Huge and Jonathan Katz as the Mudscamp elder.'
+'idx': 0, 'title': 'Brian Doyle-Murray', 'paragraph_text': 'Brian Doyle-Murray (born Brian Murray, October 31, 1945) is an American actor, voice artist, comedian and screenwriter. He is the older brother of actor/comedian Bill Murray, and the two have acted together in several films, including "Caddyshack", "Scrooged", "Ghostbusters II", "The Razor\'s Edge", and "Groundhog Day". He co-starred on the TBS sitcom on "Sullivan & Son," where he played the foul-mouthed Hank Murphy. he also appeared in the Cartoon Network original animated series "The Marvelous Misadventures of Flapjack" as the surly Captain K\'Nuckles and a pirate ghost, The Flying Dutchman from the Nickelodeon animated series, "SpongeBob SquarePants", he appears in a recurring role as Don Ehlert on the ABC sitcom "The Middle".'
+'idx': 1, 'title': "Roy's Wedding", 'paragraph_text': '"Roy\'s Wedding" is the second episode of the ninth season of the American comedy television series "The Office" and the show\'s 178th episode overall. The episode originally aired on NBC on September 27, 2012. The episode guest stars David Denman as Roy Anderson, Michael Patrick McGill as his brother Kenny, Robert R. Shafer as Bob Vance, and Ameenah Kaplan as Val.'}]
+##########
+##########
+75
+Robert Suettinger was the national intelligence officer under which former Governor of Arkansas?
+William Jefferson Clinton
+Answer: Bill Clinton
+Evidence and explanation: The contexts provided mention Robert Suettinger in relation to Bill Clinton, who is identified as the former Governor of Arkansas.
+Step by step with evidence and explanation:
+1. The claim asks under which former Governor of Arkansas Robert Suettinger was the national intelligence officer.
+2. Context index 7 mentions Robert Suettinger alongside Bill Clinton, indicating a professional relationship.
+3. Context index 3 provides information about William Jefferson Clinton, including his tenure as the Governor of Arkansas and his presidency of the United States.
+4. By cross-referencing the information from context index 7 with context index 3, it is clear that Robert Suettinger was the national intelligence officer under Bill Clinton when he was the Governor of Arkansas.
+
+'idx': 7, 'title': 'Robert Suettinger', 'paragraph_text': 'Robert Suettinger was United States President Bill Clinton\'s national intelligence officer for East Asia at the National Intelligence Council (NIC) from 1997-1998. While there, Suettinger oversaw the preparation of national intelligence estimates for the director of the Central Intelligence Agency. His areas of specialty included the People\'s Republic of China and the North Korean nuclear weapons program. After working in the Clinton administration, Suettinger has been a senior analyst for the Brookings Institution where he wrote the book "Beyond Tiananmen – The Politics of U.S.-China Relations, 1989-2000". He also is a senior advisor at The Stimson Center.'
+'idx': 3, 'title': 'Bill Clinton', 'paragraph_text': 'William Jefferson Clinton (born William Jefferson Blythe III; August 19, 1946) is an American politician who served as the 42nd President of the United States from 1993 to 2001. Prior to the presidency, he was the Governor of Arkansas during two separate terms, from 1979 to 1981, and again from 1983 to 1992. Before that, he served as Arkansas attorney general, from 1977 to 1979. A member of the Democratic Party, Clinton was ideologically a New Democrat and many of his policies reflected a centrist "Third Way" political philosophy.'
+'idx': 0, 'title': 'National Intelligence Estimate', 'paragraph_text': 'National Intelligence Estimates (NIEs) are United States federal government documents that are the authoritative assessment of the Director of National Intelligence (DNI) on intelligence related to a particular national security issue. NIEs are produced by the National Intelligence Council and express the coordinated judgments of the United States Intelligence Community, the group of 16 U.S. intelligence agencies. NIEs are classified documents prepared for policymakers.'}]
+##########
+##########
+78
+Alvaro Mexia had a diplomatic mission with which tribe of indigenous people?
+Apalachees
+Answer: Ais
+Evidence and explanation: The context provided mentions Alvaro Mexia and the Ais tribe during the Period of Friendship.
+Step by step with evidence and explanation:
+1. The question asks for the name of the indigenous tribe with which Alvaro Mexia had a diplomatic mission.
+2. Context index 0 mentions Alvaro Mexia in the 17th century in Florida and includes the term "Ais" in the same context.
+3. No other indigenous tribes are mentioned in the contexts provided alongside Alvaro Mexia.
+4. Therefore, based on the given context, Alvaro Mexia had a diplomatic mission with the Ais tribe.
+
+'idx': 0, 'title': 'Alvaro Mexia', 'paragraph_text': 'Alvaro Mexia was a 17th-century Spanish explorer and cartographer of the east coast of Florida. Mexia was stationed in St Augustine and was given a diplomatic mission to the native populations living south of St. Augustine and in the Cape Canaveral area. This mission resulted in a "Period of Friendship" between the Spanish and the Ais native population.'
+'idx': 2, 'title': 'Indigenous peoples of Florida', 'paragraph_text': 'The Indigenous peoples of Florida lived in what is now known as Florida for more than 12,000 years before the time of first contact with Europeans. However, the indigenous Floridians had largely died out by the early 18th century. Some Apalachees migrated to Louisiana, where their descendants now live, some were taken to Cuba and Mexico by the Spanish in the 18th century, and a few may have been absorbed into the Seminole and Miccosukee tribes.'
+'idx': 3, 'title': 'Diplomatic mission', 'paragraph_text': "A diplomatic mission or foreign mission is a group of people from one state or an organisation present in another state to represent the sending state/organisation officially in the receiving state. In practice, a diplomatic mission usually denotes the resident mission, namely the embassy, which is the office of a country's diplomatic representatives in the capital city of another country, whereas consulates are diplomatic missions which are not performed in the capital of the receiving state. As well as being a diplomatic mission to the country in which it is situated, it may also be a non-resident permanent mission to one or more other countries. There are thus resident and non-resident embassies."}]
+##########
+##########
+93
+Where does the hotel and casino located in which Bill Cosby's third album was recorded?
+Las Vegas Strip in Paradise
+Answer: The hotel and casino where Bill Cosby's third album was recorded is located in Las Vegas, Nevada.
+Evidence and explanation: The context at index 1 mentions that Bill Cosby's third album was recorded at the Flamingo Hotel in Las Vegas, Nevada.
+Step by step with evidence and explanation: 1. The claim asks for the location of the hotel and casino where Bill Cosby's third album was recorded. 2. Context index 1 states that Bill Cosby's third album was recorded at the Flamingo Hotel in Las Vegas, Nevada. 3. Therefore, the answer to the claim is that the hotel and casino is located in Las Vegas, Nevada.
+
+'idx': 1, 'title': 'Why Is There Air?', 'paragraph_text': "Why Is There Air? (1965) is Bill Cosby's third album. It was recorded at the Flamingo Hotel in Las Vegas, Nevada. It won the 1966 Grammy Award for Best Comedy Album."
+'idx': 7, 'title': 'Flamingo Las Vegas', 'paragraph_text': 'Flamingo Las Vegas (formerly The Fabulous Flamingo and Flamingo Hilton Las Vegas) is a hotel and casino located on the Las Vegas Strip in Paradise, Nevada. It is owned and operated by Caesars Entertainment Corporation.'
+'idx': 4, 'title': 'Bill Cosby Is a Very Funny Fellow...Right!', 'paragraph_text': "Bill Cosby is a Very Funny Fellow...Right! is the debut album release by Bill Cosby. It was recorded live at the nightclub The Bitter End in New York City's Greenwich Village during early 1963. The album includes three sketches about Noah."}]
+##########
+##########
+98
+Which filmmaker was known for animation, Lev Yilmaz or Pamela B. Green?
+Levni Yilmaz
+Answer: Lev Yilmaz
+Evidence and explanation: The context mentions Levni Yilmaz as a filmmaker known for animation.
+Step by step with evidence and explanation: 
+1. The claim asks which filmmaker was known for animation.
+2. Context index 4 mentions Levni Yilmaz as a filmmaker.
+3. The context also mentions that Levni Yilmaz is known for animation.
+4. Therefore, the answer to the claim is Lev Yilmaz.
+
+'idx': 4, 'title': 'Lev Yilmaz', 'paragraph_text': 'Levni Yilmaz (born 1973) is a San Francisco based independent film maker, artist and publisher, best known for his “Tales of Mere Existence” animated comic series.'
+'idx': 7, 'title': 'Pamela B. Green', 'paragraph_text': 'Pamela B. Green is an American film producer and director known for her work in feature film titles and motion graphics. She is the director and producer of the documentary "Be Natural: The Untold Story of Alice Guy-Blache".'
+'idx': 1, 'title': 'Aryanto Yuniawan', 'paragraph_text': 'Aryanto Yuniawan (born June 18, 1977 in Magelang; age 40) is Chief Executive Officer of PT Mataram Surya Visi Sinema, a multimedia and animation movie company located in Jogja Indonesia. Ary (his nickname) is best known as a director of Battle of Surabaya, the first 2D animation movie in Indonesia which got some awards i.e. Gold Remi Award USA 2016, GrandPrize Winner of SICAF 2016 in South Korea, Winner of Nice International Filmmaker Festival 2017 in France, Winner of Nioda International Film Festival in India and others. He is also acclaimed as a writer, a producer, and currently working on several articles and books related to his job and hobby. He started his career from directing and producing independent animation films including music videos. He was trusted to be one of the juries of several film festivals such as Festival Film Indonesia (FFI 2016), Noida International Film Festival (NIFF 2016), and Seoul International Cartoon and Animation Festival (SICAF 2017).'}]
+##########
+##########
+104
+Where is the stadium at which 1964 Georgia Tech Yellow Jackets football team played their home game located? 
+North Avenue at Techwood Drive
+Answer: The stadium at which the 1964 Georgia Tech Yellow Jackets football team played their home games is located in Atlanta, Georgia.
+Evidence and explanation: The provided contexts mention Atlanta, Georgia as the location of Grant Field, where the Georgia Tech Yellow Jackets football team played their home games in 1964.
+Step by step with evidence and explanation:
+1. The claim asks for the location of the stadium where the 1964 Georgia Tech Yellow Jackets football team played their home games.
+2. Context index 5 mentions that the Georgia Tech Yellow Jackets played their home games in Atlanta, Georgia.
+3. Context index 4 provides additional information about the location, mentioning North Avenue at Techwood Drive in Atlanta as the location of Grant Field, where the Georgia Tech Yellow Jackets played their home games.
+4. Therefore, based on the provided contexts, the answer is that the stadium at which the 1964 Georgia Tech Yellow Jackets football team played their home games is located in Atlanta, Georgia.
+
+'idx': 5, 'title': '1964 Georgia Tech Yellow Jackets football team', 'paragraph_text': 'The 1964 Georgia Tech Yellow Jackets football team represented the Georgia Institute of Technology during the 1964 college football season. The Yellow Jackets were led by 20th-year head coach Bobby Dodd, and played their home games at Grant Field in Atlanta, Georgia. They competed as independents for the first time since 1920, after dropping from the Southeastern Conference in 1963.'
+'idx': 4, 'title': 'Bobby Dodd Stadium', 'paragraph_text': 'Bobby Dodd Stadium at Historic Grant Field is the football stadium located at the corner of North Avenue at Techwood Drive on the campus of the Georgia Institute of Technology in Atlanta. It has been home to the Georgia Tech Yellow Jackets football team, often referred to as the "Ramblin\' Wreck", in rudimentary form since 1905 and as a complete stadium since 1913. The team participates in the NCAA Division I Football Bowl Subdivision as a member of the Atlantic Coast Conference. It is the oldest stadium in the FBS and has been the site of more home wins than any other FBS stadium.'
+'idx': 0, 'title': 'Georgia Tech Yellow Jackets football', 'paragraph_text': 'The Georgia Tech Yellow Jackets football team represents the Georgia Institute of Technology in the sport of American football. The Yellow Jackets team competes in the Football Bowl Subdivision (FBS) of the National Collegiate Athletic Association (NCAA) and the Coastal Division of the Atlantic Coast Conference (ACC). Georgia Tech has fielded a football team since 1892 and has an all-time record of 700–471–43 (a .594 winning percentage). The Yellow Jackets play in Bobby Dodd Stadium at Historic Grant Field in Atlanta, Georgia, which has a capacity of 55,000. The Yellow Jackets have won four Division I-A college football national championships and fifteen conference titles.'}]
+##########
+##########
+107
+hree Men on a Horse is a play by a playwright born in which year ?
+1887
+Answer: George Abbott
+Evidence and explanation: The playwright of the play "Three Men on a Horse" is George Abbott.
+Step by step with evidence and explanation:
+1. The claim asks for the playwright born in a specific year who wrote the play "Three Men on a Horse".
+2. Context index 1 mentions George Francis Abbott, who was born on June 25, 1887, and passed away on January 31, 1995. This context provides the birth year of George Abbott.
+3. Context index 8 mentions George Abbott as well, confirming that he is indeed the playwright.
+4. Therefore, based on the provided contexts, the answer to the claim is George Abbott.
+
+'idx': 1, 'title': 'George Abbott', 'paragraph_text': 'George Francis Abbott (June 25, 1887 – January 31, 1995) was an American theater producer and director, playwright, screenwriter, and film director and producer whose career spanned nine decades.'
+'idx': 8, 'title': 'Three Men on a Horse', 'paragraph_text': 'Three Men on a Horse is a play by George Abbott and John Cecil Holm. The comedy focuses on a man who discovers he has a talent for choosing the winning horse in a race as long as he never places a bet himself.'
+'idx': 0, 'title': 'Michael Wynne (playwright)', 'paragraph_text': 'Michael Wynne is an English playwright born in Birkenhead on 3 August 1972. While reading for a Politics degree in London, he entered a competition for new young writers run by the Royal Court Theatre. He won this with his first play "The Knocky" - an award-winning comedy, set on a Birkenhead council estate. It was produced at the Royal Court in 1995 and subsequently performed at Liverpool\'s Everyman Theatre in 1997. In 2010, Wynne won the Olivier Award for Best New Comedy for "The Priory". In 2011, Wynne wrote the BBC Christmas show, "Lapland". A series was later announced, entitled "Being Eileen", again written by Wynne, which began to air on 4 February 2013.'}]
+##########
+##########
+109
+When was the  former Indian cricketer who made his ODI debuts during the 2000 ICC KnockOut Trophy born? 
+7 October 1978
+Answer: Zaheer Khan
+Evidence and explanation: The former Indian cricketer who made his ODI debut during the 2000 ICC KnockOut Trophy is Zaheer Khan. This information can be found in the provided context.
+Step by step with evidence and explanation:
+1. The claim asks for the former Indian cricketer who made his ODI debut during the 2000 ICC KnockOut Trophy.
+2. Context index 7 mentions the ICC KnockOut Trophy in 2000 and lists Zaheer Khan as one of the players who participated in the tournament.
+3. Context index 3 also mentions Zaheer Khan and his debut in 2000.
+4. Both contexts provide consistent evidence that Zaheer Khan made his ODI debut during the 2000 ICC KnockOut Trophy.
+5. Therefore, the answer to the claim is Zaheer Khan.
+
+'idx': 3, 'title': 'Zaheer Khan', 'paragraph_text': 'Zaheer Khan (born 7 October 1978) is a former Indian cricketer who played all forms of the game for Indian national cricket team from 2000 till 2014. He was the second-most successful Indian pace bowler in Test cricket, behind Kapil Dev.'
+'idx': 7, 'title': '2000 ICC KnockOut Trophy', 'paragraph_text': "The 2000 ICC KnockOut Trophy was a One Day International cricket tournament held in Kenya (which helped to booster cricket in Kenya). New Zealand were crowned champions and cashed the winner's cheque of US$250 000. It was their first win in a major ICC tournament. Zaheer Khan, Yuvraj Singh and Marlon Samuels made their ODI debuts during the competition."
+'idx': 1, 'title': '2000 ICC KnockOut Trophy squads', 'paragraph_text': 'These were the eleven squads (all Test nations and two ODI nations) picked to take part in the 2000 ICC KnockOut Trophy, the second installment of the Champions Trophy cricket tournament. The tournament was held in Kenya from 3 to 15 October 2000. In the preliminary quarter finals, two ODI full-status teams Kenya and Zimbabwe played with India and Sri Lanka respectively, and India and Sri Lanka won their matches convincingly. In third preliminary quarter final, England beat Bangladesh to secure his position in Knockout Tournament. New Zealand won the second edition of the ICC KnockOut Trophy by defeating India in the final by four wickets, which was their first ICC event to be won.'}]
+##########
+##########
+118
+What other political position did the person who introduced the DISCLOSE Act hold?
+United States Senator
+Answer: The person who introduced the DISCLOSE Act held the political position of U.S. Representative.
+
+Evidence and explanation: The evidence can be found in the provided contexts. 
+
+Step by step with evidence and explanation:
+1. The claim asks for the other political position held by the person who introduced the DISCLOSE Act.
+2. Context index 1 mentions that the person who introduced the DISCLOSE Act is Christopher Van Hollen Jr., who served as a U.S. Representative from Maryland from 2003 to 2017.
+3. Therefore, the answer to the claim is that the person who introduced the DISCLOSE Act held the political position of U.S. Representative.
+
+'idx': 1, 'title': 'Chris Van Hollen', 'paragraph_text': "Christopher Van Hollen Jr. (born January 10, 1959) is the junior United States Senator from Maryland, serving since January 3, 2017. From 2003 to 2017, he served as the U.S. Representative for Maryland 's 8 congressional district . He is a member of the Democratic Party."
+'idx': 3, 'title': 'DISCLOSE Act', 'paragraph_text': 'The Democracy Is Strengthened by Casting Light On Spending in Elections Act, commonly known as the DISCLOSE Act and also known as H.R. 5175 (S.3628-Senate), was a bill introduced in the U.S. House of Representatives by Chris Van Hollen (D-Maryland) on April 29, 2010 and in the U.S. Senate by Charles Schumer (D-New York) on July 21, 2010.'
+'idx': 6, 'title': 'Campaign finance reform in the United States', 'paragraph_text': 'Although attempts to regulate campaign finance by legislation date back to 1867, the modern era of "campaign finance reform" in the United States begins with the passage of the Federal Election Campaign Act (FECA) of 1971 and, more importantly, 1974 amendments to that Act. The 1971 FECA required candidates to disclose sources of campaign contributions and campaign expenditures. The 1974 Amendments essentially rewrote the Act from top to bottom. The 1974 Amendments placed statutory limits on contributions by individuals for the first time, and created the Federal Election Commission (FEC) as an independent enforcement agency. It provided for broad new disclosure requirements, and limited the amounts that candidates could spend on their campaigns, or that citizens could spend separate from candidate campaigns to promote their political views. Specifically, it attempted to restrict the influence of wealthy individuals by limiting individual donations to $1,000 and donations by political action committees (PACs) to $5,000. However, the Act\'s provisions limiting expenditures were struck down as unconstitutional in the 1976 Supreme Court decision Buckley v. Valeo.'}]
+##########
+##########
+120
+Are Daryl Hall and Gerry Marsden both musicians?
+yes
+Answer: No
+
+Evidence and explanation: The provided contexts indicate that Daryl Hall is an American musician and part of the duo Hall & Oates, while Gerry Marsden is an English musician known for his work with the British Merseybeat and the Pacemakers. 
+
+Step by step with evidence and explanation:
+1. The claim asks if Daryl Hall and Gerry Marsden are both musicians.
+2. Context index 6 states that Daryl Hall is an American musician, known for his work with John Oates as the duo Hall & Oates.
+3. Context index 4 describes Gerry Marsden as an English musician, known for his involvement with the British Merseybeat and the Pacemakers.
+4. Since Daryl Hall and Gerry Marsden are associated with different musical backgrounds and nationalities, the answer to the claim is no, they are not both musicians.
+
+'idx': 6, 'title': 'Daryl Hall', 'paragraph_text': 'Daryl Franklin Hohl (born October 11, 1946), known professionally as Daryl Hall, is an American rock, R&B, and soul singer; keyboardist, guitarist, songwriter, and producer, best known as the co-founder and lead vocalist of Hall & Oates (with guitarist and songwriter John Oates).'
+'idx': 4, 'title': 'Gerry Marsden', 'paragraph_text': 'Gerard Marsden MBE (born 24 September 1942) is an English musician and television personality, best known for being leader of the British Merseybeat band Gerry and the Pacemakers.'
+'idx': 8, 'title': 'Hall &amp; Oates', 'paragraph_text': 'Daryl Hall and John Oates, often referred to as Hall & Oates, are an American musical duo from Philadelphia. Daryl Hall is generally the lead vocalist of the pairing. John Oates primarily plays electric guitar and provides backing vocals. The two write most of the songs they perform, either separately or in collaboration. They achieved their greatest fame from the late 1970s to the mid-1980s with a fusion of rock and roll and rhythm and blues.'}]
+##########
+##########
+124
+Maxeda has been owned since 2004 by which American multinational equity firm?
+KKR & Co
+Answer: Kohlberg Kravis Roberts
+Evidence and explanation: The American multinational equity firm that has owned Maxeda since 2004 is Kohlberg Kravis Roberts (KKR & Co. L.P.).
+Step by step with evidence and explanation:
+1. The claim asks for the American multinational equity firm that has owned Maxeda since 2004.
+2. Context index 4 mentions "Kohlberg Kravis Roberts" as one of the entities associated with Maxeda.
+3. Context index 0 confirms that KKR & Co, KKR & Co. L.P., Kohlberg Kravis Roberts & Co. is an American multinational equity firm.
+4. Therefore, the answer to the claim is that Maxeda has been owned since 2004 by Kohlberg Kravis Roberts.
+
+'idx': 4, 'title': 'Maxeda', 'paragraph_text': 'Maxeda (formerly Vendex KBB) is a Dutch retail group that operates do it yourself stores in Belgium and the Netherlands. Maxeda is the result of the merger of Koninklijke Bijenkorf Beheer (KBB) and Vendex. Formerly it owned large Dutch department stores. Since 2004 Maxeda is owned by a consortium of investors led by American private equity firm Kohlberg Kravis Roberts.'
+'idx': 0, 'title': 'Kohlberg Kravis Roberts', 'paragraph_text': 'KKR & Co. L.P. (formerly known as Kohlberg Kravis Roberts & Co.) is an American multinational private equity firm, specializing in leveraged buyouts, headquartered in New York City. The firm sponsors and manages private equity investment funds. The firm has completed over $400 billion of private equity transactions since its inception.'
+'idx': 1, 'title': 'Lincolnshire Management', 'paragraph_text': 'Lincolnshire Management is a private equity firm focused on investments and acquisitions in middle-market companies across a range of industries. In 2010, Private Equity News ranked Lincolnshire as a top ten performing private equity firm. Additionally, In 2011, CNN Money /Fortune Magazine ranked Lincolnshire Management as the 5th ranked private equity firm.'}]
+##########
+##########
+132
+Which board game was published most recently, Pirate's Cove or Catan?
+Pirate's Cove
+Answer: Catan
+Evidence and explanation: The game "Catan" was published in 2010, according to the context index 6.
+Step by step with evidence and explanation:
+1. The claim asks for the board game that was published most recently between "Pirate's Cove" and "Catan".
+2. Context index 6 mentions "Catan" and states that it was published in 2010.
+3. There is no mention of the publication year for "Pirate's Cove" in any of the provided contexts.
+4. Since "Catan" was published in 2010, and there is no evidence to suggest that "Pirate's Cove" was published more recently, the answer to the claim is that "Catan" was published most recently.
+
+'idx': 6, 'title': 'The Rivals for Catan', 'paragraph_text': 'The Rivals for Catan (German: "Die Fürsten von Catan" ) is an updated revision of the "Catan Card Game", a card game adaptation of "The Settlers of Catan". The game was released in 2010. It is a member of the "Catan" series of games, and is published by Kosmos in German and Mayfair Games in English. Like its predecessor, "The Rivals for Catan" is a two-player game. As with the "Catan Adventures" series of games, the theme is based on the Rebecca Gablé novel "The Settlers of Catan", a novel based on the original board game.'
+'idx': 2, 'title': 'Catan Dice Game', 'paragraph_text': 'Catan Dice Game is a German-style board game, developed by Klaus Teuber and published in 2007 by Catan GmbH and its licensors, Kosmos in Germany and Mayfair Games in English-speaking countries. It is a dice game re-imagining of Teuber\'s most notable title, "Settlers of Catan". "Catan Dice Game" can be played by any number of players, but is ideally suited for up to four. A variation, known as "Catan Dice Game Plus", is freely available from the "Catan" website, whose gameplay is closer to its "Settlers" origins.'
+'idx': 5, 'title': "Pirate's Cove", 'paragraph_text': "Pirate's Cove (in German, Piratenbucht) is a board game designed by Paul Randles and Daniel Stahl, originally published in Germany in 2002 by Amigo Spiele, illustrated by Markus Wagner and Swen Papenbrock. In 2003, Days of Wonder republished the game with a new graphic design from Julien Delval and Cyrille Daujean. In the game, players play pirate ship captains seeking treasure from islands and bragging rights from defeating other pirates in naval combat."}]
+##########
+##########
+135
+This American crime film set in South Los Angeles was written and directed by the same director and writer of screenwriter of "Street Kings", "End of Watch", "Sabotage", "Fury" and what other film? 
+Suicide Squad
+Answer: Training Day
+Evidence and explanation: The claim states that the American crime film set in South Los Angeles was written and directed by the same director and writer of "Street Kings", "End of Watch", "Sabotage", "Fury", and another film. The context at index 6 mentions that the film "Training Day" was directed by David Ayer. 
+Step by step with evidence and explanation:
+1. The claim asks for the film written and directed by the same director and writer of "Street Kings", "End of Watch", "Sabotage", "Fury", and another film.
+2. Context index 6 mentions that David Ayer directed the film "Training Day".
+3. Therefore, the answer to the claim is that the film written and directed by the same director and writer of the mentioned films is "Training Day".
+
+'idx': 8, 'title': 'David Ayer', 'paragraph_text': 'David Ayer (born January 18, 1968) is an American film director, producer, and screenwriter. He is best known for being the writer of "Training Day" (2001), and the director and writer of "Harsh Times" (2005), "Street Kings" (2008), "End of Watch" (2012), "Sabotage" (2014), "Fury" (2014), and "Suicide Squad" (2016).'
+'idx': 6, 'title': 'Harsh Times', 'paragraph_text': 'Harsh Times is a 2005 American crime film set in South Los Angeles. The film stars Christian Bale and Freddy Rodriguez, and was written and directed by David Ayer, who wrote the script for the Academy Award-winning 2001 film "Training Day". The film was distributed by Metro-Goldwyn-Mayer and Bauer Martinez Entertainment. Ayer says that the film\'s characters are largely based on the people he knew when he lived in South Central.'
+'idx': 9, 'title': 'End of Watch', 'paragraph_text': 'End of Watch is a 2012 American crime drama film written and directed by David Ayer. It stars Jake Gyllenhaal and Michael Peña as Brian Taylor and Miguel Zavala, two Los Angeles Police Department officers who work in South Los Angeles. The film focuses on their day-to-day police work, their dealings with a certain group of gang members, their friendship with each other, and their personal relationships.'}]
+##########
+##########
+138
+During Siege of Bharatpur, which Commander-in-Chief of Ireland and Commander-in-Chief of India contributed to the storming of the castle?
+Lord Combermere
+Answer: Viscount Combermere
+Evidence and explanation: The contexts provided mention Viscount Combermere in relation to the Siege of Bharatpur, indicating his involvement in the military action.
+Step by step with evidence and explanation:
+1. The claim asks for the Commander-in-Chief of Ireland and India who contributed to the storming of the castle during the Siege of Bharatpur.
+2. Context index 9 mentions Viscount Combermere in association with the British Army, Ireland, India, and Bharatpur.
+3. Context index 6 refers to Lord Combermere and the Siege of Bharatpore, which is another name for Bharatpur, and specifies the time between December 1825 and January 1826.
+4. Since Viscount Combermere is the only individual mentioned in the contexts in relation to both Ireland and India, and specifically to the Siege of Bharatpur, it can be concluded that he is the Commander-in-Chief who contributed to the storming of the castle.
+
+'idx': 9, 'title': 'Stapleton Cotton, 1st Viscount Combermere', 'paragraph_text': 'Field Marshal Stapleton Cotton, 1st Viscount Combermere {\'1\': ", \'2\': ", \'3\': ", \'4\': "} (14 November 1773 – 21 February 1865), was a British Army officer, diplomat and politician. As a junior officer he took part in the Flanders Campaign, in the Fourth Anglo-Mysore War and in the suppression of Robert Emmet\'s insurrection in 1803. He commanded a cavalry brigade in Sir Arthur Wellesley\'s Army before being given overall command of the cavalry in the latter stages of the Peninsular War. He went on to be Commander-in-Chief, Ireland and then Commander-in-Chief, India. In the latter role he stormed Bharatpur—a fort which previously had been deemed impregnable.'
+'idx': 6, 'title': 'Siege of Bharatpur', 'paragraph_text': "The Siege of Bharatpore was a siege that took place in the Indian princely state of Bharatpur (now part of Rajasthan) between December 1825 and January 1826. British troops under Lord Combermere initially surrounded the state's capital until on 18January 1826 its fortress was stormed and captured."
+'idx': 0, 'title': 'Lohagarh Fort', 'paragraph_text': 'Lohagarh Fort (Iron fort) is situated at Bharatpur in Rajasthan, India. It was constructed by Bharatpur Jat rulers. Maharaja Suraj Mal used all his power and wealth to a good cause, and built numerous forts and palaces across his kingdom, one of them being the Lohagarh Fort (Iron fort), which was one of the strongest ever built in Indian history. The inaccessible Lohagarh fort could withstand repeated attacks of British forces led by Lord Lake in 1805 when they laid siege for over six weeks. Of the two gates in the fort, one in the north is known as Ashtdhaatu (eight metalled) gate while the one facing the south is called Chowburja (four-pillared) gate.'}]
+##########
+##########
+139
+For what type of work is the production company for The Year Without a Santa Claus best known?
+seasonal television specials, particularly its work in stop motion animation
+Answer: Seasonal television specials and stop motion animation
+Evidence and explanation: The contexts provided indicate that Rankin/Bass Productions, known for "The Year Without a Santa Claus," is renowned for its seasonal television specials and work in stop motion animation.
+Step by step with evidence and explanation:
+1. The question asks for the type of work the production company for "The Year Without a Santa Claus" is best known for.
+2. Context index 6 mentions Rankin/Bass Productions and highlights their work in seasonal television specials and stop motion animation.
+3. Context index 7 and 8 reference "The Year Without a Santa Claus" as a work of Rankin/Bass Productions.
+4. Combining these pieces of information, it is clear that Rankin/Bass Productions is best known for its seasonal television specials and stop motion animation work.
+
+'idx': 6, 'title': 'Rankin/Bass Productions', 'paragraph_text': 'Rankin/Bass Productions, Inc. (founded as Videocraft International, Ltd.) was an American production company, known for its seasonal television specials, particularly its work in stop motion animation. The pre-1974 library is owned by Universal Studios (via DreamWorks Animation/DreamWorks Classics), while the post-1973 library is owned by Warner Bros. Rankin/Bass stop-motion features are recognisable by their visual style of doll-like characters with spheroid body parts, and ubiquitous powdery snow using an animation technique called "Animagic". Often, traditional cel animation scenes of falling snow would be projected over the action to create the effect of a snowfall.'
+'idx': 7, 'title': 'The Year Without a Santa Claus', 'paragraph_text': "The Year Without a Santa Claus is a 1974 Christmas stop motion animated television special produced by Rankin/Bass Productions. The story is based on Phyllis McGinley's 1956 book of the same name, illustrated by Kurt Werth. It was originally broadcast on December 10, 1974 on ABC."
+'idx': 8, 'title': "A Miser Brothers' Christmas", 'paragraph_text': 'A Miser Brothers\' Christmas is a stop motion spin-off special based on some of the characters from the 1974 Rankin-Bass special "The Year Without a Santa Claus". Distributed by Warner Bros. Animation under their Warner Premiere label (the rights holders of the post-1974 Rankin-Bass library) and Toronto-based Cuppa Coffee Studios, the one-hour special premiered on ABC Family on Saturday, December 13, 2008, during the network\'s annual The 25 Days of Christmas programming. Mickey Rooney and George S. Irving reprised their respective roles as Santa Claus and Heat Miser at ages 88 and 86. Snow Miser, originally portrayed by Dick Shawn who died in 1987, was voiced by Juan Chioran, while Mrs. Claus, voiced by Shirley Booth in the original, was portrayed by Catherine Disher (because Booth had died in 1992). The movie aimed to emulate the Rankin/Bass animation style. This is the last Christmas special to feature Mickey Rooney as Santa Claus, as he died in 2014, as well as the last time George Irving voiced Heat Miser, as he died in 2016.'}]
+##########
+##########
+144
+Josey Scott and Ian Watkins were both promising musicians. Which of these talented men was incarcerated, impacting his career with a rock band?
+Lostprophets disbanded in 2013 after Watkins was charged with sexual offences in late 2012.
+Answer: Ian Watkins
+Evidence and explanation: The context at index 2 mentions that Lostprophets disbanded in 2013 after Watkins was charged with sexual offenses in late 2012. This indicates that Ian Watkins, one of the talented men mentioned in the claim, was incarcerated and it impacted his career with the rock band Lostprophets.
+Step by step with evidence and explanation:
+1. The claim states that one of the talented men was incarcerated, impacting his career with a rock band.
+2. The context at index 2 mentions that Lostprophets disbanded in 2013 after Watkins was charged with sexual offenses in late 2012.
+3. This evidence confirms that Ian Watkins, one of the talented men mentioned in the claim, was incarcerated and it impacted his career with the rock band Lostprophets.
+4. Therefore, the answer to the claim is that Ian Watkins was the talented man who was incarcerated, impacting his career with the rock band.
+
+'idx': 2, 'title': 'Ian Watkins (Lostprophets)', 'paragraph_text': 'Ian David Karslake Watkins (born 30 July 1977) is a Welsh singer, musician, and convicted sex offender. He achieved prominence as a founding member, lead vocalist, and lyricist of the rock band Lostprophets. Lostprophets disbanded in 2013 after Watkins was charged with sexual offences in late 2012. In November 2013, he pleaded guilty to 13 charges, including the attempted rape and sexual assault of a child under 13; these offences were committed against the infant children of two women who were also convicted. He was subsequently jailed for 29 years and ordered to serve a further six years on extended licence.'
+'idx': 0, 'title': 'Lostprophets', 'paragraph_text': 'Lostprophets were a Welsh rock band from Pontypridd, Wales formed in 1997. Founded by lead vocalist and lyricist Ian Watkins, bassist (later guitarist) Mike Lewis, drummer Mike Chiplin and guitarist Lee Gaze, they were originally a side-project to hardcore punk band Public Disturbance. They were also part of the Cardiff music scene.'
+'idx': 7, 'title': 'We Bring an Arsenal', 'paragraph_text': '"We Bring an Arsenal" was supposed to be the second single from "Weapons", the fifth studio album by Welsh alternative rock band Lostprophets, planned to be released 4 June 2012. It has been released to rock radio since this date in the United States, but the single has yet to be officially released in the UK as of 5 June 2012, but will unlikely happen due to Ian Watkins\'s imprisonment in 2013. It was first played live on 25 February 2012 at Brisbane, Australia.'}]
+##########
+##########
+150
+Which song was behind the third single on the album  "A Lot About Livin' (And a Little 'bout Love)" for two weeks on the country charts?
+"We'll Burn That Bridge"
+Answer: Alan Jackson
+Evidence and explanation: The song behind the third single on the album "A Lot About Livin' (And a Little 'bout Love)" for two weeks on the country charts is by Alan Jackson.
+Step by step with evidence and explanation: 
+1. The claim asks for the song behind the third single on the album "A Lot About Livin' (And a Little 'bout Love)" for two weeks on the country charts.
+2. Context index 8 mentions "Chattahoochee" as one of the songs on the album, and it is associated with Alan Jackson.
+3. Therefore, the answer to the claim is that the song behind the third single on the album "A Lot About Livin' (And a Little 'bout Love)" for two weeks on the country charts is by Alan Jackson.
+
+'idx': 8, 'title': 'Chattahoochee (song)', 'paragraph_text': '"Chattahoochee" is a song co-written and recorded by American country music artist Alan Jackson. It was released in May 1993 as the third single from his album "A Lot About Livin\' (And a Little \'bout Love)". The album is named for a line in the song itself. Jackson wrote the song with Jim McBride.'
+'idx': 6, 'title': "A Lot About Livin' (And a Little 'bout Love)", 'paragraph_text': 'A Lot About Livin\' (And a Little \'bout Love) is the third studio album by American country music artist Alan Jackson. It was released on October 6, 1992, and produced the singles "Chattahoochee", "She\'s Got the Rhythm (And I Got the Blues)", "Tonight I Climbed the Wall", "(Who Says) You Can\'t Have It All" and "Mercury Blues". "Chattahoochee" and "She\'s Got the Rhythm" were both Number One hits on the Hot Country Songs charts, while the other three songs all reached Top Five.'
+'idx': 9, 'title': "We'll Burn That Bridge", 'paragraph_text': '"We\'ll Burn That Bridge" is a song written by Don Cook and Ronnie Dunn and recorded by American country music duo Brooks & Dunn. Released in May 1993 as the second single from their CD, "Hard Workin\' Man", it peaked at #2 on the country charts for two weeks, behind "Chattahoochee" by Alan Jackson.'}]
+##########
+##########
+154
+The songs from the sountrack to "When Harry Met Sally" are performed by a singer that has had how many top 20 US albums?
+seven
+Answer: Harry Connick Jr.
+Evidence and explanation: The claim asks for the singer who has had how many top 20 US albums and the context mentions "When Harry Met Sally", "Harry Connick Jr.", and "the Grammy Award for Best Jazz Male Vocal Performance".
+Step by step with evidence and explanation: 
+1. The claim asks for the singer who has had how many top 20 US albums.
+2. Context index 9 mentions "Harry Met Sally" and "Harry Connick Jr.".
+3. Context index 9 also mentions "the Grammy Award for Best Jazz Male Vocal Performance".
+4. Based on this information, it can be inferred that Harry Connick Jr. is the singer who has had top 20 US albums.
+5. Therefore, the answer to the claim is Harry Connick Jr.
+
+'idx': 0, 'title': 'Harry Connick Jr.', 'paragraph_text': 'Joseph Harry Fowler Connick Jr. (born September 11, 1967) is an American singer, big band leader, talk show host and actor. He has sold over 28million albums worldwide. Connick is ranked among the top60 best-selling male artists in the United States by the Recording Industry Association of America, with 16million in certified sales. He has had seven top20 US albums, and ten number-one US jazz albums, earning more number-one albums than any other artist in US jazz chart history.'
+'idx': 9, 'title': 'When Harry Met Sally... (soundtrack)', 'paragraph_text': 'When Harry Met Sally... is the soundtrack to the movie "When Harry Met Sally..." starring Billy Crystal and Meg Ryan. The songs are performed by pianist Harry Connick Jr., who won the Grammy Award for Best Jazz Male Vocal Performance.'
+'idx': 7, 'title': 'When Harry Met Sally...', 'paragraph_text': 'When Harry Met Sally… is a 1989 American romantic comedy film written by Nora Ephron and directed by Rob Reiner. It stars Billy Crystal as Harry and Meg Ryan as Sally. The story follows the title characters from the time they meet just before sharing a cross-country drive, through twelve years or so of chance encounters in New York City. The film raises the question "Can men and women ever just be friends?" and advances many ideas about relationships that became household concepts, such as "high-maintenance" and the "transitional person".'}]
+##########
+##########
+156
+Where was the world cup hosted that Algeria qualified for the first time into the round of 16?
+Brazil
+Answer: Algeria qualified for the first time into the round of 16 in the FIFA World Cup hosted by Spain in 1982.
+Evidence and explanation: The evidence comes from the context index 8, which mentions that Algeria qualified for the first time into the round of 16 in the 1982 World Cup. 
+Step by step with evidence and explanation:
+1. The claim asks for the location of the World Cup where Algeria qualified for the first time into the round of 16.
+2. Context index 8 mentions that Algeria qualified for the first time into the round of 16 in the 1982 World Cup.
+3. The context also mentions that the 1982 World Cup was hosted by Spain.
+4. Therefore, based on the evidence from the context, the answer is that the World Cup hosted by Spain in 1982 is where Algeria qualified for the first time into the round of 16.
+
+'idx': 8, 'title': 'Algeria at the FIFA World Cup', 'paragraph_text': 'Algeria have appeared in the finals of the FIFA World Cup on four occasions in 1982, 1986, 2010 and 2014. They have once qualified for the knockout rounds, reaching the round of 16 in 2014 before losing to Germany. 32 years before, Algeria nearly qualified to the second round of the 1982 World Cup after beating both West Germany and Chile; however, an arrangement match between West Germany and Austria wound up eliminating the Algerians. In 2014, Algeria qualifyed for the first time into the round of 16.'
+'idx': 5, 'title': '2014 FIFA World Cup', 'paragraph_text': "The 2014 FIFA World Cup was the 20th FIFA World Cup, the quadrennial world championship for men's national football teams organized by FIFA. It took place in Brazil from 12 June to 13 July 2014, after the country was awarded the hosting rights in 2007. It was the second time that Brazil staged the competition, the first being in 1950, and the fifth time that it was held in South America."
+'idx': 3, 'title': '2002 FIFA World Cup', 'paragraph_text': 'The 2002 FIFA World Cup was the 17th staging of the FIFA World Cup which took place from 31 May to 30 June 2002 in South Korea and Japan. It was the first World Cup to be held in Asia, the first to be held on a continent other than Europe or the Americas, the last World Cup during which the golden goal rule was in force and the only World Cup to be jointly hosted by more than one nation. Brazil won the tournament for a record fifth time, winning the final against Germany 2–0. The victory meant Brazil qualified for the 2005 FIFA Confederations Cup for the fifth time, representing the World. In the third place play-off match against South Korea, Turkey won 3–2 taking third place in only their second ever FIFA World Cup finals. China PR, Ecuador, Senegal and Slovenia made their first appearances at the finals with Turkey making its first appearance since 1954. Republic of Ireland, Russia and Sweden returned after missing the 1998 tournament.'}]
+##########
+##########
+161
+Who held the record for the longest service in the Australian Parliament for a woman, and was surpassed by  a former Australian politician who was the 29th Speaker of the House of Representatives?
+Kathryn Jean Martin
+Answer: Dorothy Tangney
+Evidence and explanation: The context at index 3 mentions Dorothy Tangney as the woman who held the record for the longest service in the Australian Parliament. 
+Step by step with evidence and explanation: 
+1. The claim asks for the woman who held the record for the longest service in the Australian Parliament.
+2. Context index 3 mentions Dorothy Tangney in relation to the Australian Parliament.
+3. Therefore, the answer to the claim is Dorothy Tangney.
+
+'idx': 3, 'title': 'Kathy Sullivan (Australian politician)', 'paragraph_text': 'Kathryn Jean Martin "Kathy" Sullivan AM (born 8 March 1942), Australian politician, was a Liberal member of the Australian Senate from 1974 to 1984, representing Queensland, and a member of the House of Representatives for the Division of Moncrieff, Queensland, from 1984 to 2001. She previously held the record for the longest service in the Australian Parliament for a woman, oustripping the record previously held by Dorothy Tangney. This record has since been surpassed by Bronwyn Bishop. She was the first woman member of the parliament to have served in both houses.'
+'idx': 0, 'title': 'Bronwyn Bishop', 'paragraph_text': 'Bronwyn Kathleen Bishop (née Setright; born 19 October 1942) is a former Australian politician who was the 29th Speaker of the House of Representatives, holding the office between 12 November 2013 and 2 August 2015.'
+'idx': 8, 'title': 'Philip Ruddock', 'paragraph_text': 'Philip Maxwell Ruddock (born 12 March 1943) is an Australian politician who is currently mayor of Hornsby Shire. He previously was a Liberal member of the House of Representatives from 1973 to 2016. First elected in a 1973 by-election, by the time of his retirement he was the last parliamentary survivor of the Whitlam and Fraser Governments. He was both the Father of the House and the Father of the Parliament from 1998 to his retirement. He is the second longest-serving parliamentarian in the history of the Australian Parliament (only Billy Hughes served longer). Ruddock served continuously in federal cabinet during the Howard Government, as Minister for Immigration and Multicultural Affairs from 1996 to 2003, and then Attorney-General from 2003 to 2007.'}]
+##########
+##########
+162
+Which man who presented the Australia 2022 FIFA World Cup bid was born on October 22, 1930?
+Frank Lowy
+Answer: Frank P. Lowy
+Evidence and explanation: The context at index 5 mentions Frank P. Lowy, who was born on October 22, 1930.
+Step by step with evidence and explanation: 
+1. The claim asks for the man who presented the Australia 2022 FIFA World Cup bid and was born on October 22, 1930.
+2. Context index 5 mentions Frank P. Lowy, who was born on October 22, 1930.
+3. Therefore, the answer to the claim is Frank P. Lowy.
+
+'idx': 5, 'title': 'Frank Lowy', 'paragraph_text': 'Sir Frank P. Lowy, {\'1\': ", \'2\': ", \'3\': ", \'4\': "} (born 22 October 1930) is an Australian-Israeli businessman and Chairman of Westfield Corporation, a global shopping centre company with US$29.3 billion of assets under management in the United States, United Kingdom and Europe. He is a former Chairman of Scentre Group, the owner and manager of Westfield-branded shopping centres in Australia and New Zealand.'
+'idx': 1, 'title': 'Australia 2022 FIFA World Cup bid', 'paragraph_text': "Australia submitted an unsuccessful bid for the 2022 FIFA World Cup. On 2 December 2010 FIFA announced that the event would be held in Qatar. Australia also lodged a bid for the 2018 World Cup, but withdrew the bid on 10 June 2010. The 2018 and 2022 World Cups will be the 21st and 22nd editions of the FIFA World Cup. The bidding procedure to host both the 2018 and 2022 FIFA World Cup began in January 2009, and national associations had until 2 February 2009 to register their interest. The bid was presented by Frank Lowy, Ben Buckley, Quentin Bryce and Elle Macpherson. However, due to controversies of Qatar hosting, Australia's bid is possible if FIFA decides to strip Qatar's 2022 hosting rights."
+'idx': 8, 'title': '2018 and 2022 FIFA World Cup bids', 'paragraph_text': "The bidding process for the 2018 and 2022 FIFA World Cups was the process by which the Fédération Internationale de Football Association (FIFA) selected locations for the 2018 and 2022 FIFA World Cups. The process began officially in March 2009; eleven bids from thirteen countries were received, including one which was withdrawn and one that was rejected before FIFA's executive committee voted in November 2010. Two of the remaining nine bids applied only to the 2022 World Cup, while the rest were initially applications for both. Over the course of the bidding, all non-European bids for the 2018 event were withdrawn, resulting in the exclusion of all European bids from consideration for the 2022 edition. By the time of the decision, bids for the 2018 World Cup included England, Russia, a joint bid from Belgium and Netherlands, and a joint bid from Portugal and Spain. Bids for the 2022 World Cup came from Australia, Japan, Qatar, South Korea, and the United States. Indonesia's bid was disqualified due to lack of governmental support, and Mexico withdrew its bid for financial reasons."}]
+##########
+##########
+164
+What British singer-songwriter hosted the 16th Annual Young Hollywood Awards?
+Kelly Lee Osbourne
+Answer: Kelly Osbourne
+Evidence and explanation: The context at index 0 mentions the 16th Annual Young Hollywood Awards and lists Kelly Osbourne as one of the attendees. The context at index 7 provides additional information about Kelly Osbourne, including her British nationality and her involvement in various television shows and projects. This confirms that Kelly Osbourne, a British singer-songwriter, hosted the 16th Annual Young Hollywood Awards.
+Step by step with evidence and explanation:
+1. The claim asks for the British singer-songwriter who hosted the 16th Annual Young Hollywood Awards.
+2. Context index 0 mentions the 16th Annual Young Hollywood Awards and lists Kelly Osbourne as one of the attendees.
+3. Context index 7 provides additional information about Kelly Osbourne, including her British nationality and her involvement in various television shows and projects.
+4. Based on this evidence, it can be concluded that Kelly Osbourne, a British singer-songwriter, hosted the 16th Annual Young Hollywood Awards.
+
+'idx': 0, 'title': '2014 Young Hollywood Awards', 'paragraph_text': 'The 16th Annual Young Hollywood Awards were held on Monday, July 28, 2014 in Los Angeles, California, previously recorded the day before. Kelly Osbourne hosted the show, with Justin Bieber being honored for his charity work and contributions to the Make-A-Wish Foundation, and Vanessa Hudgens was honored with the Trendsetter Award.'
+'idx': 7, 'title': 'Kelly Osbourne', 'paragraph_text': 'Kelly Lee Osbourne (born 27 October 1984) is a British singer-songwriter, actress, television presenter and fashion designer. The daughter of Ozzy and Sharon Osbourne, she is known for her appearances on "The Osbournes" with her family, for which they won a 2002 Emmy Award for Outstanding Reality Program, as well as on E!\'s "Fashion Police", where she was a presenter from 2010 to 2015. She has also appeared on "Dancing with the Stars", in which she and her professional dance partner Louis van Amstel took third place. She is the voice of Hildy Gloom in the Disney XD animated series "The 7D". She is also a judge on both "Australia\'s Got Talent" and "Project Runway Junior".'
+'idx': 4, 'title': 'Young Hollywood Awards', 'paragraph_text': "The Young Hollywood Awards was an award presented annually which honors the year's biggest achievements in pop music, movies, sports, television, fashion and more, as voted on by teenagers aged 13–19 and young adults. The award ceremonies also honor rising and promising young aged performers in Hollywood. The award ceremony usually features a high number of celebrities and musical performers such as Taylor Swift, Justin Bieber, and Nick Jonas. New artists such as Black Cards and Brazzabelle have also performed."}]
+##########
+##########
+166
+In 2017, what was 3/4th of the organization that also has a Center for Veterinary Medicine as well as part of the U.S. Department of Health and Human Services, spent on?
+Prescription Drug User Fee Act
+Answer: FDA
+Evidence and explanation: The context mentions the organization "FDA" multiple times.
+Step by step with evidence and explanation:
+1. The claim asks about the organization that spent money in 2017.
+2. Context index 7 mentions "FDA" multiple times, indicating that it is the organization in question.
+3. Therefore, the answer to the claim is that in 2017, the organization that also has a Center for Veterinary Medicine and is part of the U.S. Department of Health and Human Services spent money on the FDA.
+
+'idx': 7, 'title': 'Food and Drug Administration', 'paragraph_text': 'The Food and Drug Administration (FDA or USFDA) is a federal agency of the United States Department of Health and Human Services, one of the United States federal executive departments. The FDA is responsible for protecting and promoting public health through the control and supervision of food safety, tobacco products, dietary supplements, prescription and over-the-counter pharmaceutical drugs (medications), vaccines, biopharmaceuticals, blood transfusions, medical devices, electromagnetic radiation emitting devices (ERED), cosmetics, animal foods & feed and veterinary products. As of 2017, 3/4th of the FDA budget (approximately $700 million) is funded by the pharmaceutical companies due to the Prescription Drug User Fee Act.'
+'idx': 2, 'title': 'Melarsomine', 'paragraph_text': 'Melarsomine (melaminylthioarsenate) is a trypanocidal agent. In the U.S., it is marketed under the trade names "Immiticide" (Merial) and "Diroban" (Zoetis), and is approved by the FDA\'s Center for Veterinary Medicine for the treatment of adult heartworm ("Dirofilaria immitis") infection in dogs. It is not approved for treatment in cats, or dogs in late-stage infection.'
+'idx': 3, 'title': 'United States Public Health Service', 'paragraph_text': 'The Public Health Service Act of 1944 structured the United States Public Health Service (PHS), founded in 1798, as the primary division of the U.S. Department of Health, Education and Welfare (HEW; which was established in 1953), which later became the United States Department of Health and Human Services in 1979–1980 (when the Education agencies were separated into their own U.S. Department of Education). The Office of the Surgeon General was created in 1871. The PHS comprises all Agency Divisions of Health and Human Services and the Commissioned Corps. The Assistant Secretary for Health (ASH) oversees the PHS and the United States Public Health Service Commissioned Corps.'}]
+##########
+##########
+169
+What was the 58th quadrennial American presidential election held after the 2016 Michigan Democratic primary?
+United States presidential election of 2016
+Answer: 2016 Michigan Democratic primary
+Evidence and explanation: The 58th quadrennial American presidential election was held after the 2016 Michigan Democratic primary.
+Step by step with evidence and explanation:
+1. The claim asks for the event that the 58th quadrennial American presidential election was held after.
+2. Context index 3 mentions the 2016 Michigan Democratic primary.
+3. Therefore, the answer to the claim is that the 58th quadrennial American presidential election was held after the 2016 Michigan Democratic primary.
+
+'idx': 2, 'title': 'United States presidential election, 2016', 'paragraph_text': 'The United States presidential election of 2016 was the 58th quadrennial American presidential election, held on Tuesday, November 8, 2016. In a surprise victory, the Republican ticket of businessman Donald Trump and Indiana Governor Mike Pence defeated the Democratic ticket of former First Lady, U.S. Senator of New York and Secretary of State Hillary Clinton and U.S. Senator from Virginia Tim Kaine. Trump took office as the 45th President, and Pence as the 48th Vice President, on January 20, 2017. Concurrent with the presidential election, Senate, House, and many gubernatorial and state and local elections were also held on November 8.'
+'idx': 3, 'title': 'Michigan Democratic primary, 2016', 'paragraph_text': "The 2016 Michigan Democratic primary took place on March 8 in the U.S. state of Michigan as one of the Democratic Party's primaries ahead of the 2016 presidential election."
+'idx': 8, 'title': 'United States presidential election, 2020', 'paragraph_text': "The United States presidential election of 2020, scheduled for Tuesday, November 3, 2020, will be the 59th quadrennial U.S. presidential election. Voters will select presidential electors who in turn will either elect a new president and vice president through the electoral college or re-elect the incumbents. The series of presidential primary elections and caucuses are likely to be held during the first six months of 2020. This nominating process is also an indirect election, where voters cast ballots selecting a slate of delegates to a political party's nominating convention, who then in turn elect their party's presidential nominee."}]
+##########
+##########
+174
+Which songwriting duo composed music for "La La Land", and created lyrics for "A Christmas Story: The Musical"? 
+Pasek & Paul
+Answer: Benj Pasek and Justin Paul
+Evidence and explanation: The songwriting duo that composed music for "La La Land" and created lyrics for "A Christmas Story: The Musical" is Benj Pasek and Justin Paul. This information can be found in the provided contexts.
+Step by step with evidence and explanation:
+1. The claim asks for the songwriting duo that composed music for "La La Land" and created lyrics for "A Christmas Story: The Musical".
+2. Context index 4 mentions "Benj Pasek, Justin Paul" in relation to "La La Land" and their achievements, including winning a Golden Globe for the film.
+3. Context index 6 confirms that the duo, Pasek & Paul, created lyrics for "A Christmas Story: The Musical".
+4. Context index 8 also mentions "Benj Pasek, Justin Paul" in relation to "La La Land" and their involvement in the film's music.
+5. Based on the consistent mention of Benj Pasek and Justin Paul in relation to both "La La Land" and "A Christmas Story: The Musical" in multiple contexts, the answer is that they are the songwriting duo responsible for both.
+
+'idx': 4, 'title': 'Pasek and Paul', 'paragraph_text': 'Benj Pasek and Justin Paul, known together as Pasek and Paul, are an American songwriting duo and composing team for musical theater, films, and television. Their works include "", "Dogfight", "Edges", "Dear Evan Hansen", and "James and the Giant Peach". Their original songs have been featured on NBC\'s "Smash", and in the film "La La Land", for which they won both the Golden Globe and Academy Award for Best Original Song for the song "City of Stars".'
+'idx': 6, 'title': 'A Christmas Story: The Musical', 'paragraph_text': 'A Christmas Story: The Musical is a musical version of the film "A Christmas Story". The musical has music and lyrics written by Pasek & Paul and the book by Joseph Robinette. The musical takes place in the 1940s in Indiana and focuses on a child named Ralphie, who wants a Red Ryder BB Gun for Christmas.'
+'idx': 8, 'title': 'City of Stars', 'paragraph_text': '"City of Stars" is a song performed by Ryan Gosling and Emma Stone from the film "La La Land" (2016). The music of the song was composed by Justin Hurwitz while the lyrics were provided by Benj Pasek and Justin Paul. The song won numerous awards, including the award for Best Original Song at both the 74th Golden Globe Awards and 89th Academy Awards.'}]
+##########
+##########
+176
+Are Bamboo Mañalac and Danny Jones both musicians?
+yes
+Answer: No
+
+Evidence and explanation: The provided context states that Bamboo Mañalac is a musician from the Philippines and Danny Jones is a musician from Britain.
+
+Step by step with evidence and explanation:
+1. The claim asks if Bamboo Mañalac and Danny Jones are both musicians.
+2. Context index 9 states that Bamboo Mañalac is a Filipino American musician associated with the band Rivermaya.
+3. Context index 7 states that Danny Jones is a British musician associated with the band McFly.
+4. Since both individuals are described as musicians in their respective contexts, the answer to the claim is yes, Bamboo Mañalac and Danny Jones are both musicians.
+
+'idx': 9, 'title': 'Bamboo Mañalac', 'paragraph_text': 'Francisco Gaudencio Lope Belardo Mañalac (born March 21, 1976), popularly known as Bamboo Mañalac or simply by the mononym Bamboo, is a Filipino American musician and singer-songwriter. He began his career as vocalist and original frontman of Rivermaya and later fronted his own band, Bamboo. Bamboo band disbanded in 2011 and Mañalac then pursued a solo career and released his first solo album, "No Water, No Moon".'
+'idx': 7, 'title': 'Danny Jones', 'paragraph_text': "Danny Jones (born 12 March 1986) is a British musician who is one of the lead vocalists and guitarists for pop-rock band McFly. Jones' fellow band members are Tom Fletcher (guitar and vocals), Dougie Poynter (bass and vocals), and Harry Judd (drums)."
+'idx': 0, 'title': 'Rivermaya', 'paragraph_text': 'Rivermaya is a Filipino rock band. Formed in 1994, it is one of several bands who spearheaded the 1990s Philippine alternative rock explosion. Rivermaya is currently composed of original members Mark Escueta and Nathan Azarcon, together with Mike Elgar and Ryan Peralta. Former original members include Rico Blanco, who had been the original songwriter of the band and vocalist Bamboo Mañalac, who later formed the band Bamboo and later went on his solo career. Rivermaya is listed as the twentieth biggest-selling artists/act in the Philippines as of present.'}]
+##########
+##########
+179
+Born on 6 March 1937, this man was also a citizen of the United Kingdom.
+Alistair Grant
+Answer: William Bonfield CBE, FREng, FRS
+Evidence and explanation: The provided context mentions a person named William Bonfield CBE, FREng, FRS, who was born on 6 March 1937.
+Step by step with evidence and explanation:
+1. The claim states that a man was born on 6 March 1937 and was also a citizen of the United Kingdom.
+2. Context index 0 mentions a person named William Bonfield CBE, FREng, FRS, who was born on 6 March 1937 and is British.
+3. Therefore, based on the provided context, the answer to the claim is William Bonfield CBE, FREng, FRS.
+
+'idx': 0, 'title': 'William Bonfield', 'paragraph_text': 'William Bonfield CBE, FREng, FRS (born 6 March 1937) is a British material scientist, and Emeritus Professor of Medical Materials in the University of Cambridge.'
+'idx': 3, 'title': 'Alistair Grant', 'paragraph_text': 'Sir Matthew Alistair Grant {\'1\': ", \'2\': ", \'3\': ", \'4\': "} (6 March 1937 – 21 January 2001) was a British businessman.'
+'idx': 9, 'title': 'Robin Bailie', 'paragraph_text': 'Robin John Bailie (born 6 March 1937) is a Northern Irish solicitor and former politician.'}]
+##########
+##########
+181
+What podcast was the cheif executive officer of Nerdist Industries a guest on?
+Comedy Film Nerds
+Answer: The chief executive officer of Nerdist Industries was a guest on The Nerdist Podcast.
+Evidence and explanation: The provided context mentions the podcast "The Nerdist Podcast" and the company "Nerdist Industries", which indicates a potential connection between the CEO of Nerdist Industries and The Nerdist Podcast.
+Step by step with evidence and explanation:
+1. The claim asks about the podcast on which the CEO of Nerdist Industries was a guest.
+2. Context index 1 mentions "The Nerdist Podcast" as a podcast associated with Nerdist Industries.
+3. The context also mentions that "The Nerdist Podcast" is hosted by Chris Hardwick, who is the CEO of Nerdist Industries.
+4. Therefore, based on the provided context, the answer is that the CEO of Nerdist Industries was a guest on "The Nerdist Podcast".
+
+'idx': 0, 'title': 'The Drop-In (podcast)', 'paragraph_text': 'The Drop-In is an At Will Radio podcast hosted by Will Malnati. In each episode, Malnati has a candid conversation with an interesting person in popular culture or leader in entertainment, hospitality and business. Guests have included Chris Hardwick (CEO at Nerdist Industries), Sebastian Stan ("Captain America: Civil War"), and Nico Tortorella ("Younger").'
+'idx': 1, 'title': 'The Nerdist Podcast', 'paragraph_text': 'The Nerdist Podcast is a weekly interview show "about what it really means to be a nerd" hosted by Chris Hardwick, usually accompanied by Jonah Ray and Matt Mira. The audio podcasts are typically an hour in length and include conversations with notable comedians or entertainers, sometimes at their own home. The show launched February 8, 2010. It serves as the flagship podcast for Nerdist Industries, which was founded in 2012 after the success of "The Nerdist Podcast". The show\'s theme song is "Jetpack Blues, Sunset Hues" by the chiptune band Anamanaguchi.'
+'idx': 2, 'title': 'Comedy Film Nerds', 'paragraph_text': 'Comedy Film Nerds is a weekly podcast hosted by stand-up comedians, authors, and filmmakers Chris Mancini and Graham Elwood. It is part of the All Things Comedy podcast network. The podcast is devoted to the newest movie releases, classic film, major features, independent film and all things movie-related. Each week Mancini and Elwood welcome a guest to talk anything and everything comedy film nerd related. Guests have included actor/comedian/author Kevin Pollak, SNL alum Janeane Garofalo, comedian Chris Hardwick, WTF host Marc Maron and best-selling author Stefanie Wilder-Taylor. They offer insight and stories with people in the entertainment industry.'}]
+##########
+##########
+182
+Randall Cunningham II was a multi-sport athlete at the high school located in what Nevada city?
+Summerlin
+Answer: Bishop Gorman High School
+Evidence and explanation: The context at index 4 mentions that Randall Cunningham II attended Bishop Gorman High School.
+Step by step with evidence and explanation: 
+1. The claim asks for the high school in Nevada where Randall Cunningham II was a multi-sport athlete. 
+2. Context index 4 mentions that Randall Cunningham II attended Bishop Gorman High School. 
+3. Therefore, the answer to the claim is Bishop Gorman High School.
+
+'idx': 4, 'title': 'Randall Cunningham II', 'paragraph_text': "Randall Cunningham II, sometimes Randall Cunningham, Jr., (born January 4, 1996) is an American collegiate high jumper for the USC Trojans Men's track & field team who will be a senior during the 2017–18 school year. He was a high jumper and quarterback at Bishop Gorman High School. He is a five-time Nevada Interscholastic Activities Association (NIAA) state champion (three times in track and twice in football). He is a NCAA Outdoor Track Champion and 2-time All-American, U.S. Junior National Champion and Pan American Junior Athletics Championships Champion."
+'idx': 0, 'title': 'Vashti Cunningham', 'paragraph_text': 'Vashti Cunningham (born January 18, 1998) is an American track and field athlete specializing in the high jump. She is the daughter of retired National Football League (NFL) quarterback Randall Cunningham, niece of retired NFL fullback Sam Cunningham, and the younger sister of Randall Cunningham II. Her mother is Felicity de Jager Cunningham a former ballerina with the Dance Theatre of Harlem. Vashti, like her brother two years ahead of her in school, jumped for Bishop Gorman High School in Las Vegas, Nevada until March 2016 when she signed with Nike. She announced she will continue her education at a university while competing as a professional athlete.'
+'idx': 7, 'title': 'Bishop Gorman High School', 'paragraph_text': 'Bishop Gorman High School (also commonly referred to as Gorman High School or BGHS) is a Roman Catholic, private, preparatory school located in Summerlin, Nevada. The school is administered by the Diocese of Las Vegas, and has been serving Clark County and the Las Vegas Valley for over 50 years. The school opened in 1954 and its mascot is a Gael, or mounted Irish Knight.'}]
+##########
+##########
+184
+Which professional ice hockey position does the Captain of the National Hockey League All-Star Game "Away Team" play?
+Canadian professional ice hockey centre
+Answer: Jonathan Toews plays the position of center.
+
+Evidence and explanation: The context mentions that Jonathan Toews is a Canadian professional ice hockey center.
+
+Step by step with evidence and explanation:
+1. The claim asks for the professional ice hockey position played by the Captain of the National Hockey League All-Star Game "Away Team".
+2. Context index 1 states that Jonathan Toews is a Canadian professional ice hockey center.
+3. Therefore, based on the provided context, the answer is that Jonathan Toews plays the position of center.
+
+'idx': 8, 'title': '60th National Hockey League All-Star Game', 'paragraph_text': 'The 60th National Hockey League All-Star Game was an exhibition ice hockey game played on January 25, 2015. The game was held in Columbus, Ohio, for the first time, at Nationwide Arena, home of the Columbus Blue Jackets. The team captains were chosen by NHL Hockey Operations: Nick Foligno of the All-Star Game-hosting Blue Jackets served as captain for the home team, and Jonathan Toews of the Chicago Blackhawks served for the away team. Team Toews won the game 17–12, as the teams and players broke a variety of All-Star Game scoring records.'
+'idx': 1, 'title': 'Jonathan Toews', 'paragraph_text': 'Jonathan Bryan Toews, {\'1\': ", \'2\': ", \'3\': ", \'4\': "} ( ; born April 29, 1988) is a Canadian professional ice hockey centre who currently serves as captain of the Chicago Blackhawks of the National Hockey League (NHL).'
+'idx': 0, 'title': 'National Hockey League All-Star Game', 'paragraph_text': 'The National Hockey League All-Star Game (French: "Match des Étoiles de la Ligue Nationale de Hockey" ) is an exhibition ice hockey game that is traditionally held during the regular season of the National Hockey League (NHL), with many of the League\'s star players playing against each other. The Game\'s proceeds benefit the pension fund of the players.'}]
+##########
+##########
+189
+Do The Importance of Being Icelandic and The Five Obstructions belong to different film genres ?
+no
+Answer: Yes
+
+Evidence and explanation: The provided contexts do not contain explicit information about the film genres of "The Importance of Being Icelandic" and "The Five Obstructions." However, the context for "The Importance of Being Icelandic" mentions Iceland and Canada, which could suggest a documentary or cultural genre, while "The Five Obstructions" involves filmmakers Lars von Trier and Jørgen Leth, known for their work in experimental and avant-garde cinema, suggesting a different genre.
+
+Step by step with evidence and explanation:
+1. The claim asks if "The Importance of Being Icelandic" and "The Five Obstructions" belong to different film genres.
+2. Context index 4 for "The Importance of Being Icelandic" provides information about the film's connection to Iceland and Canada, and the mention of "Islendingadagurinn," which is an Icelandic festival, possibly indicating a cultural or documentary genre.
+3. Context index 3 for "The Five Obstructions" mentions Danish filmmakers Lars von Trier and Jørgen Leth, who are associated with experimental and avant-garde films, particularly with the reference to "The Perfect Human," a film known for its artistic approach.
+4. Given the association of the films with different styles and filmmakers known for distinct cinematic approaches, it is reasonable to conclude that they belong to different film genres. Therefore, the answer is yes.
+
+'idx': 4, 'title': 'The Importance of Being Icelandic', 'paragraph_text': 'The Importance of Being Icelandic is a 1998 documentary film by the filmmaker Jon Gustafsson (born in Iceland and living in Canada) that traces the steps of three Icelandic Canadians on a different quest of discovering their Icelandic heritage by going to Iceland. In addition to their time in Iceland, he returns with them to Canada and captures their reactions of the Islendingadagurinn celebrated each year at Gimli. The contrasts in perspective between his viewpoint on Canadian culture and that of three Icelandic-Canadians on a quest for their ancestral heritage is at the centre of the documentary.'
+'idx': 3, 'title': 'The Five Obstructions', 'paragraph_text': 'The Five Obstructions is a 2003 Danish documentary film directed by Lars von Trier and Jørgen Leth. The film is conceived as a documentary, but incorporates lengthy sections of experimental films produced by the filmmakers. The premise is that von Trier has created a challenge for his friend and mentor, Jørgen Leth, another renowned filmmaker. von Trier\'s favorite film is Leth\'s "The Perfect Human" (1967), and von Trier gives Leth the task of remaking "The Perfect Human" five times, each time with a different "obstruction" (or obstacle) imposed by von Trier.'
+'idx': 6, 'title': 'Parody film', 'paragraph_text': 'A parody film is a subgenre of comedy film that parodies other film genres or films as pastiches, works created by imitation of the style of many different films reassembled together.'}]
+##########
+##########
+192
+What station broadcast the episode "Marry Me a Little, Marry Me a Little More" , of the series created by Max Mutchnick and David Kohan?
+National Broadcasting Company
+Answer: NBC
+
+Evidence and explanation: The episode "Marry Me a Little, Marry Me a Little More" is part of the American series "Will & Grace," which was broadcast by the National Broadcasting Company (NBC).
+
+Step by step with evidence and explanation:
+1. The question asks which station broadcast the episode "Marry Me a Little, Marry Me a Little More" from the series created by Max Mutchnick and David Kohan.
+2. Context index 2 mentions the episode "Marry Me a Little, Marry Me a Little More" in relation to the National Broadcasting Company (NBC).
+3. Context index 6 confirms that "Will & Grace," the series created by Max Mutchnick and David Kohan, was broadcast on NBC.
+4. Context index 4 also associates the series "Will & Grace" with NBC.
+5. Since all contexts link the series "Will & Grace" and the specific episode to NBC, the answer is that NBC broadcast the episode "Marry Me a Little, Marry Me a Little More."
+
+'idx': 2, 'title': 'Marry Me a Little, Marry Me a Little More', 'paragraph_text': '"Marry Me a Little, Marry Me a Little More" is a double-length episode of the American television series "Will & Grace"\' s fifth season. It was written by Jeff Greenstein and Bill Wrubel and directed by series producer James Burrows. The episode originally aired on the National Broadcasting Company (NBC) in the United States on November 21, 2002. Guest stars in "Marry Me a Little, Marry Me a Little More" include Harry Connick Jr., Katie Couric, Judith Ivey, and Debbie Reynolds.'
+'idx': 6, 'title': 'Will &amp; Grace', 'paragraph_text': 'Will & Grace is an American sitcom created by Max Mutchnick and David Kohan. Set in New York City, the show focuses on the relationship between best friends Will Truman (Eric McCormack), a gay lawyer, and Grace Adler (Debra Messing), a straight interior designer. The show was broadcast on NBC from September 21, 1998 to May 18, 2006, for a total of eight seasons, and re-started its run on NBC on September 28, 2017. During its original run, "Will & Grace" was one of the most successful television series with gay principal characters.'
+'idx': 4, 'title': 'Pilot (Will &amp; Grace)', 'paragraph_text': '"Pilot" (also known as "Love and Marriage") is the first episode of "Will & Grace"<nowiki>\'</nowiki>s first season. It was written by David Kohan and Max Mutchnick, and directed by James Burrows. It originally aired on the National Broadcasting Company (NBC) in the United States on September 21, 1998. In the episode, Grace Adler receives an unexpected marriage proposal from her boyfriend. Her gay best friend Will Truman tries to support her, but finally tells her that she is making a big mistake, even though he risks losing their friendship. The situation gets complicated when Grace\'s socialite assistant, Karen Walker, and Will\'s flamboyantly gay friend, Jack McFarland, interfere.'}]
+##########
+##########
+209
+Who has written more than 300 papers, Semyon Aranovich Gershgorin or Pavel Alexandrov?
+Pavel Sergeyevich Alexandrov
+Answer: Unable to determine from the provided contexts
+Evidence and explanation: The provided contexts do not contain information regarding the number of papers written by either Semyon Aranovich Gershgorin or Pavel Alexandrov.
+Step by step with evidence and explanation: 
+1. The claim asks who has written more than 300 papers between Semyon Aranovich Gershgorin and Pavel Alexandrov.
+2. Context index 4 provides biographical information about Pavel Alexandrov but does not mention the number of papers he has written.
+3. Context index 2 and index 9 provide biographical information about Semyon Aranovich Gershgorin but also do not mention the number of papers he has written.
+4. Since none of the provided contexts include the specific number of papers written by either individual, it is not possible to determine who has written more than 300 papers based on the given information.
+
+'idx': 4, 'title': 'Pavel Alexandrov', 'paragraph_text': 'Pavel Sergeyevich Alexandrov (Russian: Па́вел Серге́евич Алекса́ндров ), sometimes romanized Paul Alexandroff or Aleksandrov (7 May 1896 – 16 November 1982), was a Soviet mathematician. He wrote about three hundred papers, making important contributions to set theory and topology.'
+'idx': 2, 'title': 'Semyon Aranovich Gershgorin', 'paragraph_text': 'Semyon Aronovich Gershgorin (August 24, 1901 – May 30, 1933) was a Soviet (born in Pruzhany, Belarus, Russian Empire) mathematician. He began as a student at the Petrograd Technological Institute in 1923, became a Professor in 1930, and was given an appointment at the Leningrad Mechanical Engineering Institute in the same year. His contributions include the Gershgorin circle theorem.'
+'idx': 9, 'title': 'Gershgorin circle theorem', 'paragraph_text': "In mathematics, the Gershgorin circle theorem may be used to bound the spectrum of a square matrix. It was first published by the Soviet mathematician Semyon Aronovich Gershgorin in 1931. The spelling of S. A. Gershgorin's name has been transliterated in several different ways, including Geršgorin, Gerschgorin, Gershgorin, Hershhorn, and Hirschhorn."}]
+##########
+##########
+213
+Which tower is taller, 712 Fifth Avenue or Manhattan Life Insurance Building?
+712 5th Avenue
+Answer: [Insufficient data]
+
+Evidence and explanation: The provided contexts do not contain specific information regarding the height of either 712 Fifth Avenue or the Manhattan Life Insurance Building, which is necessary to determine which tower is taller.
+
+Step by step with evidence and explanation:
+1. The claim asks for a comparison of the heights of 712 Fifth Avenue and the Manhattan Life Insurance Building.
+2. Context index 2 mentions 712 Fifth Avenue but does not provide its height.
+3. Context index 3 mentions the Manhattan Life Insurance Building but does not provide its height.
+4. Context index 5 provides additional information about the architect of the Manhattan Life Insurance Building but does not mention its height.
+5. Since none of the provided contexts include the heights of the buildings, it is not possible to determine which tower is taller based on the given information. Therefore, the answer is that there is insufficient data to determine which tower is taller.
+
+'idx': 2, 'title': '712 Fifth Avenue', 'paragraph_text': '712 5th Avenue is a 650 ft skyscraper at 56th Street and Fifth Avenue in the Midtown neighborhood of Manhattan, New York City. It was constructed from 1990 to 1991 and is the 53rd tallest building in New York City. The tower\'s design had to accommodate the landmarked facades of the Coty and Rizzoli Buildings at the base of the tower. It was purchased by the Bannister Trust in 2007 in a "Private Treaty", and placed in "Property Fund #1" managed by JP Morgan. The building is sometimes referred to as the Henri Bendel building.'
+'idx': 3, 'title': 'Manhattan Life Insurance Building', 'paragraph_text': 'The Manhattan Life Insurance Building was a 348 ft tower at 64-66 Broadway in New York City completed in 1894 to the designs of the architects of Kimball & Thompson and slightly extended north in 1904 making its new address 64-70 Broadway. It was the first skyscraper to pass 100 m in Manhattan.'
+'idx': 5, 'title': 'Francis H. Kimball', 'paragraph_text': "Francis Hatch Kimball (1845–1919) was an American architect practicing in New York City, best known for his work on skyscrapers in lower Manhattan and terra-cotta ornamentation. He was an associate with the firm Kimball & Thompson. His work includes the Empire Building, Manhattan Life Insurance Building, and Casino Theatre (Broadway). All but one of Kimball's work was in the United States."}]
+##########
+##########
+215
+Who was born first, Arthur Conan Doyle or Penelope Lively?
+Arthur Ignatius Conan Doyle
+Answer: Arthur Conan Doyle
+Evidence and explanation: The contexts provided give the birth dates of both Arthur Conan Doyle and Penelope Lively, allowing for a comparison of who was born first.
+Step by step with evidence and explanation:
+1. The claim asks to identify who was born first between Arthur Conan Doyle and Penelope Lively.
+2. Context index 7 provides the birth date of Arthur Conan Doyle as 22 May 1859.
+3. Context index 9 provides the birth date of Penelope Lively as 17 March 1933.
+4. Comparing the two dates, it is clear that Arthur Conan Doyle was born first, as his birth year is 1859, which is earlier than Penelope Lively's birth year of 1933.
+5. Therefore, based on the birth dates provided in the contexts, Arthur Conan Doyle was born first.
+
+'idx': 7, 'title': 'Arthur Conan Doyle', 'paragraph_text': 'Sir Arthur Ignatius Conan Doyle KStJ, DL (22 May 1859 – 7 July 1930) was a British writer best known for his detective fiction featuring the character Sherlock Holmes. Originally a physician, in 1887 he published "A Study in Scarlet", the first of four novels about Holmes and Dr. Watson. In addition, Doyle wrote over fifty short stories featuring the famous detective.'
+'idx': 9, 'title': 'Penelope Lively', 'paragraph_text': 'Dame Penelope Margaret Lively DBE FRSL (born 17 March 1933) is a British writer of fiction for both children and adults. She has won both the Booker Prize ("Moon Tiger", 1987) and the Carnegie Medal for British children\'s books ("The Ghost of Thomas Kempe", 1973).'
+'idx': 5, 'title': 'Adrian Conan Doyle', 'paragraph_text': 'Adrian Malcolm Conan Doyle (19 November 19103 June 1970) was the youngest son of Sir Arthur Conan Doyle and his second wife Jean, Lady Doyle or Lady Conan Doyle. He had two siblings, sister Jean and brother Denis, as well as two half-siblings, sister Mary and brother Kingsley.'}]
+##########
+##########
+218
+From March 631 to April 631, Farrukhzad Khosrau V was the king of an empire that succeeded which empire?
+the Parthian Empire
+Answer: The Sasanian Empire
+Evidence and explanation: The contexts provided indicate that Farrukhzad Khosrau V was a king of the Sasanian Empire, which succeeded the Parthian Empire.
+Step by step with evidence and explanation:
+1. The claim asks for the name of the empire that was succeeded by the empire of which Farrukhzad Khosrau V was king from March 631 to April 631.
+2. Context index 7 mentions Farrukhzad Khosrau as part of the Sasanian Empire during the specified time frame.
+3. Context index 9 lists the Sasanian Empire as succeeding the Parthian Empire.
+4. Therefore, based on the provided contexts, the answer is that Farrukhzad Khosrau V was the king of the Sasanian Empire, which succeeded the Parthian Empire.
+
+'idx': 7, 'title': 'Farrukhzad Khosrow V', 'paragraph_text': 'Farrukhzad Khosrau V was briefly king of the Sasanian Empire from March 631 to April 631. He was the son of Khosrau II.'
+'idx': 9, 'title': 'Sasanian Empire', 'paragraph_text': 'The Sasanian Empire ( or ), also known as the Sassanian, Sasanid, Sassanid or Neo-Persian Empire, known to its inhabitants as Ērānshahr in Middle Persian, was the last period of the Persian Empire (Iran) before the rise of Islam, named after the House of Sasan who ruled from 224 to 651 AD. The Sasanian Empire, which succeeded the Parthian Empire, was recognised as one of the leading world powers alongside its neighbouring arch-rival the Roman-Byzantine Empire, for a period of more than 400 years.'
+'idx': 8, 'title': 'Hormizd VI', 'paragraph_text': 'Hormizd VI (Persian: هرمز\u200e \u200e ) was a Sasanian king of parts of Persia from 630 to 631. He was one of the many pretenders who rose after the murder of Khosrau II (590–628) in 628. He maintained himself about two years (630–632) in the district of Nisibis. He was the grandson of Khosrau II.'}]
+##########
+##########
+220
+Which country did the Falkland Islands beat in the 2010 Commonwealth games that has eleven administrative divisions?
+Samoa
+Answer: Guernsey
+Evidence and explanation: The contexts provided mention the Falkland Islands and the 2010 Commonwealth Games, with references to Lawn Bowls and the countries Samoa and Guernsey. However, only Guernsey is mentioned in conjunction with the Falkland Islands and the Commonwealth Games.
+Step by step with evidence and explanation:
+1. The question asks which country with eleven administrative divisions was beaten by the Falkland Islands in the 2010 Commonwealth Games.
+2. Context index 5 mentions the 2010 Commonwealth Games, New Delhi, India, Lawn Bowls, and lists Samoa, Guernsey, and Auckland.
+3. Context index 7 mentions George Paice, a Lawn Bowler from the Falkland Islands, and the 2010 Commonwealth Games in Delhi, India, with references to Samoa and Guernsey.
+4. Context index 3 provides information about Samoa, but does not link it to the Commonwealth Games or the Falkland Islands.
+5. Since Guernsey is the only country mentioned in conjunction with both the Falkland Islands and the Commonwealth Games, and it has eleven administrative divisions known as parishes, the answer is Guernsey.
+
+'idx': 5, 'title': 'Gerald Reive', 'paragraph_text': "Gerald Reive (born 10 March 1937) is a New Zealand-based Falkland Islands athlete who represented his country at the 2010 Commonwealth Games in New Delhi, India in Lawn Bowls in the men's pairs event, alongside his playing partner George Paice. They achieved wins against Samoa and Guernsey. Reive was the flag bearer for the Falkland Islands at the closing ceremony. He currently plays lawn bowls at the Papatoetoe Hunters Corner Bowling Club in Auckland He attended his second Commonwealth Games in Glasgow 2014 where he entered the men's fours with Michael Reive, Patrick Morrison, and Barry Ford."
+'idx': 7, 'title': 'George Paice (bowls)', 'paragraph_text': "George Paice born 1941 in Fox Bay Falkland Islands is a New Zealand-based Falkland Islands Lawn Bowler who represented the Falkland Islands at the 2010 Commonwealth Games in Delhi India in the men's pairs alongside playing partner Gerald Reive. The pair achieved two victories at the games, over Guernsey and Samoa. Paice currently plays out of the Papatoetoe Hunters Corner Bowling Club in Auckland New Zealand."
+'idx': 3, 'title': 'Samoa', 'paragraph_text': 'The Independent State of Samoa (Samoan: "Malo Saʻoloto Tutoʻatasi o Sāmoa" , ] ), commonly known as Samoa (Samoan: "Sāmoa" ) and, until 1997, known as Western Samoa, is a unitary parliamentary democracy with eleven administrative divisions. The two main islands are Savai\'i and Upolu with four smaller islands surrounding the landmasses. The capital city is Apia. The Lapita people discovered and settled the Samoan islands around 3,500 years ago. They developed a unique language and cultural identity.'}]
+##########
+##########
+222
+Which television series featured an actor who also performed in "The Young Ones"?
+"The Comic Strip Presents..."
+Answer: Filthy Rich & Catflap
+Evidence and explanation: The context provided mentions "Filthy Rich & Catflap" alongside "The Young Ones," indicating that actors from "The Young Ones" were also involved in "Filthy Rich & Catflap."
+Step by step with evidence and explanation:
+1. The question asks for a television series that featured an actor who also performed in "The Young Ones."
+2. Context index 8 lists "Filthy Rich & Catflap" and "The Young Ones" together, along with the names Nigel Planer, Rik Mayall, and Adrian Edmondson, who are known to have performed in "The Young Ones."
+3. Since "Filthy Rich & Catflap" is mentioned in the same context as "The Young Ones" and includes actors from "The Young Ones," it is the television series that featured actors from "The Young Ones."
+4. Therefore, the answer to the claim is "Filthy Rich & Catflap."
+
+'idx': 8, 'title': 'Filthy Rich &amp; Catflap', 'paragraph_text': 'Filthy Rich & Catflap is a BBC sitcom produced in 1986 and broadcast in 1987. The series featured former "The Young Ones" co-stars Nigel Planer, Rik Mayall, and Adrian Edmondson as its three title characters. It was written by Ben Elton (with additional material credited to Mayall), and produced and directed by Paul Jackson (who also directed "The Young Ones"), with film sequences directed by Ed Bye. The show\'s music was written by Peter Brewis. One series consisting of six half-hour episodes was produced.'
+'idx': 2, 'title': 'Ade Edmondson', 'paragraph_text': 'Adrian Charles "Ade" Edmondson (born 24 January 1957) is an English comedian, actor, writer, musician, television presenter and director. He came to prominence in the early 1980s and was part of the alternative comedy boom. He is probably best known for his comedic roles in the television series "The Young Ones" (1982–84) and "Bottom" (1991–95), which he wrote together with his long-time collaborative partner Rik Mayall. Edmondson also appeared in "The Comic Strip Presents..." series of films throughout the 1980s and 1990s. For one episode of this he created the spoof heavy metal band Bad News, and for another he played his nihilistic alter-ego Eddie Monsoon, an offensive South African television star.'
+'idx': 1, 'title': 'The Young Ones (TV series)', 'paragraph_text': 'The Young Ones is a British sitcom, broadcast in the United Kingdom from 1982 to 1984 in two six-part series. Shown on BBC2, it featured anarchic, offbeat humour which helped bring alternative comedy to television in the 1980s and made household names of its writers and performers. In 1985, it was shown on MTV, one of the first non-music television shows on the fledgling channel. In a 2004 poll, it ranked at number 31 in the BBC\'s list of "Britain\'s Best Sitcoms". The show\'s title relates to the song of the same name, written by Sid Tepper and Roy C. Bennett, and sung by Cliff Richard and The Shadows, which was a No. 1 UK hit single.'}]
+##########
+##########
+224
+In what century did this Native warrior and chief, whose brother Tenskwatawa led the Tippecanoe order of battle, become the primary leader of a large, multi tribal confederacy?
+nineteenth
+Answer: Early 19th century
+Evidence and explanation: The contexts provided mention Tecumseh and his brother Tenskwatawa in the early 19th century, with Tecumseh becoming the leader of a multi-tribal confederacy and his brother leading the Battle of Tippecanoe.
+Step by step with evidence and explanation:
+1. The question asks in which century Tecumseh became the primary leader of a large, multi-tribal confederacy.
+2. Context index 2 mentions Tecumseh in the early 19th century, along with the Battle of Tippecanoe in 1811.
+3. Context index 9 reinforces that the events occurred in the early years of the nineteenth century.
+4. Context index 6 provides the specific date of the Battle of Tippecanoe, November 7, 1811, which falls in the early 19th century.
+5. Combining these pieces of information, it is clear that Tecumseh became the primary leader of a large, multi-tribal confederacy in the early 19th century.
+
+'idx': 2, 'title': "Tecumseh's Confederacy", 'paragraph_text': "Tecumseh's Confederacy was a group of Native Americans in the Old Northwest that began to form in the early 19th century around the teaching of Tenskwatawa (The Prophet). The confederation grew over several years and came to include several thousand warriors. Shawnee leader Tecumseh, the brother of The Prophet, developed into the leader of the group as early as 1808. Deemed a threat to the United States, a preemptive strike against the confederation was launched resulting in the 1811 Battle of Tippecanoe. Under Tecumseh's leadership, the confederation went to war with the United States during Tecumseh's War and the War of 1812. Following the death of Tecumseh in 1813 the confederation fell apart."
+'idx': 9, 'title': 'Tecumseh', 'paragraph_text': 'Native American Shawnee warrior and chief, who became the primary leader of a large, multi-tribal confederacy in the early years of the nineteenth century. Born in the Ohio Country (present-day Ohio), and growing up during the American Revolutionary War and the Northwest Indian War, Tecumseh was exposed to warfare and envisioned the establishment of an independent Indian nation east of the Mississippi River under British protection and worked to recruit additional members to his tribal confederacy from the southern United States.'
+'idx': 6, 'title': 'Battle of Tippecanoe', 'paragraph_text': 'The Battle of Tippecanoe ( ) was fought on November 7, 1811, in what is now Battle Ground, Indiana, between American forces led by Governor William Henry Harrison of the Indiana Territory and Native American warriors associated with the Shawnee leader Tecumseh. Tecumseh and his brother Tenskwatawa (commonly known as "The Prophet") were leaders of a confederacy of Native Americans from various tribes that opposed US expansion into Native territory. As tensions and violence increased, Governor Harrison marched with an army of about 1,000 men to disperse the confederacy\'s headquarters at Prophetstown, near the confluence of the Tippecanoe and Wabash Rivers.'}]
+##########
+##########
+234
+Which case came first, Craig v. Boren or United States v. Paramount Pictures, Inc.?
+Craig v. Boren
+Answer: United States v. Paramount Pictures, Inc.
+Evidence and explanation: The context provided indicates that United States v. Paramount Pictures, Inc. occurred in 1948, while Craig v. Boren occurred in 1976.
+Step by step with evidence and explanation:
+1. The question asks which case came first, Craig v. Boren or United States v. Paramount Pictures, Inc.
+2. Context index 4 mentions Craig v. Boren with the year 1976.
+3. Context index 5 and index 8 both mention United States v. Paramount Pictures, Inc. with the year 1948.
+4. Comparing the years provided, 1948 comes before 1976.
+5. Therefore, United States v. Paramount Pictures, Inc. came first, as it occurred in 1948, well before Craig v. Boren in 1976.
+
+'idx': 4, 'title': 'Craig v. Boren', 'paragraph_text': "Craig v. Boren, 429 U.S. 190 (1976) , was the first case in which a majority of the United States Supreme Court determined that statutory or administrative sex classifications were subject to intermediate scrutiny under the Fourteenth Amendment's Equal Protection Clause."
+'idx': 5, 'title': 'United States v. Paramount Pictures, Inc.', 'paragraph_text': 'United States v. Paramount Pictures, Inc., 334 US 131 (1948) (also known as the Hollywood Antitrust Case of 1948, the Paramount Case, the Paramount Decision or the Paramount Decree) was a landmark United States Supreme Court antitrust case that decided the fate of movie studios owning their own theatres and holding exclusivity rights on which theatres would show their films. It would also change the way Hollywood movies were produced, distributed, and exhibited. The Court held in this case that the existing distribution scheme was in violation of the antitrust laws of the United States, which prohibit certain exclusive dealing arrangements.'
+'idx': 8, 'title': 'Block booking', 'paragraph_text': 'Block booking is a system of selling multiple films to a theater as a unit. Block booking was the prevailing practice among Hollywood\'s major studios from the turn of the 1930s until it was outlawed by the U.S. Supreme Court\'s decision in "United States v. Paramount Pictures, Inc." (1948). Under block booking, "independent (\'unaffiliated\') theater owners were forced to take large numbers of [a] studio\'s pictures sight unseen. Those studios could then parcel out second-rate product along with A-class features and star vehicles, which made both production and distribution operations more economical." The element of the system involving the purchase of unseen pictures is known as blind bidding.'}]
+##########

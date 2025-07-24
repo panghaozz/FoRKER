@@ -1,0 +1,112 @@
+##########
+ID:1
+Question:Which magazine was started first Arthur's Magazine or First for Women?
+golden idx: [7, 9]
+step-by-step think: 1. The claim is about which magazine was started first, Arthur's Magazine or First for Women. 2. Context 0 is about the history of Albanian football, which is not related to the claim. 3. Context 1 discusses the Freeway Complex Fire in California, also not relevant to the claim. 4. Context 2 is about the 2014–15 Ukrainian Hockey Championship, which is unrelated to the claim. 5. Context 3 provides information about Radio City, India's first private FM radio station, but it is unrelated to the claim. 6. Context 4 is about William Rast, an American clothing line, which is not related to the claim. 7. Context 5 discusses the band Echosmith, not related to the claim. 8. Context 6 mentions the First Arthur County Courthouse and Jail, not relevant to the claim. 9. Context 7 provides information about Arthur's Magazine, which aligns with the claim. 10. Context 8 is about women's colleges in the Southern United States, which is unrelated to the claim. 11. Context 9 provides details about First for Women, aligning with the claim.
+idx: [0, 2]
+成功的数量为：2总数：2当前回溯率：100.0%
+##########
+##########
+ID:2
+Question:The Oberoi family is part of a hotel company that has a head office in what city?
+golden idx: [1, 8]
+step-by-step think: 1. The Oberoi family is known for its involvement in the hotel industry, specifically through The Oberoi Group. 2. The Oberoi Group has its head office in Delhi, as mentioned in context 1. 3. Context 1 provides accurate information about the headquarters of The Oberoi Group. 4. Context 2 about Future Fibre Technologies provides details about a fiber optic sensing technologies company, unrelated to the hotel industry. 5. Context 3 discusses Hotel Bond, a historic hotel in Hartford, Connecticut, not related to The Oberoi Group's headquarters. 6. Context 4 is about the Glennwanis Hotel in Glennville, Georgia, which is also irrelevant to the claim about the Oberoi family. 7. Context 5 pertains to the 289th Military Police Company, not relevant to the Oberoi family or The Oberoi Group. 8. Context 6 talks about the Hotel Tallcorn in Iowa, not providing information about the Oberoi family's hotel business. 9. Context 7 discusses the Ritz-Carlton Jakarta in Indonesia, not related to the headquarters of The Oberoi Group. 10. Context 8 mentions the Oberoi family and its involvement in hotels, aligning with the claim. 11. Context 9 focuses on Mohan Singh Oberoi, the founder of Oberoi Hotels & Resorts.
+idx: [2, 4]
+成功的数量为：4总数：4当前回溯率：100.0%
+##########
+##########
+ID:3
+Question:Musician and satirist Allie Goertz wrote a song about the "The Simpsons" character Milhouse, who Matt Groening named after who?
+golden idx: [6, 8]
+step-by-step think: 1. The claim is about the name origin of the "The Simpsons" character Milhouse. 2. Context 0 provides information about the naming of Marge Simpson after Matt Groening's mother, which is not relevant to the claim. 3. Context 1 talks about the creation of Bart Simpson's character, which is also not directly related to the claim. 4. Context 2 discusses the Los Angeles Reader, Matt Groening's cartoon strip, and his assistant editor role, but does not provide information on Milhouse. 5. Context 3 mentions guest stars on "The Simpsons," which is not related to the origin of Milhouse's name. 6. Context 4 provides details about Homer Simpson's naming after Matt Groening's father, which is not about Milhouse. 7. Context 5 talks about Lisa Simpson's naming after Groening's sister, but it is not relevant to Milhouse. 8. Context 6 directly addresses the naming of Milhouse Van Houten after President Richard Nixon's middle name, which aligns with the claim. 9. Context 7 discusses "The Simpsons" video games but does not mention Milhouse's naming. 10. Context 8 talks about Allie Goertz, a musician and satirist, who wrote a song about Milhouse from "The Simpsons," which is partially relevant to the claim but not about the character's name origin. 11. Context 9 presents information about a book on "The Simpsons" but does not relate to the naming of Milhouse. 
+idx: [0, 3]
+成功的数量为：6总数：6当前回溯率：100.0%
+##########
+##########
+ID:4
+Question: What nationality was James Henry Miller's wife?
+golden idx: [5, 6]
+step-by-step think:
+1. The claim is about the nationality of James Henry Miller's wife.
+2. Context 0 is about an Australian footballer, with no relation to James Henry Miller's wife.
+3. Context 1 talks about a by-election in 1874, which is unrelated to James Henry Miller's wife.
+4. Context 2 is about James Henry Deakin, a British Conservative politician, also unrelated to the claim.
+5. Context 3 mentions June Miller as the wife of Henry Miller, providing relevant information.
+6. Context 4 discusses a non-fiction book by Anaïs Nin, including relationships involving Henry Miller and June Miller.
+7. Context 5 describes Peggy Seeger, who was married to Ewan MacColl, not providing information about James Henry Miller's wife.
+8. Context 6 is about Ewan MacColl, again unrelated to James Henry Miller's wife.
+9. Context 7 mentions a semi-autobiographical novel written by Henry Miller, including his wife June.
+10. Context 8 is about the 7th Duke of Roxburghe, not relevant to the claim.
+11. Context 9 relates to the Henry Miller Memorial Library, also unrelated to James Henry Miller's wife.
+idx: [0, 8]
+成功的数量为：8总数：8当前回溯率：100.0%
+##########
+##########
+ID:5
+Question:Cadmium Chloride is slightly soluble in this chemical, it is also called what?
+golden idx: [7, 9]
+step-by-step think: 1. Cadmium chloride is a white crystalline compound of cadmium and chlorine. 2. It is highly soluble in water and slightly soluble in alcohol. 3. The claim mentions that Cadmium Chloride is slightly soluble in a specific chemical. 4. The context provides accurate information about the solubility of Cadmium Chloride.
+5. Tributyltin oxide is only slightly soluble in water but highly soluble in organic solvents.
+6. Water blue (aniline blue) is soluble in water and slightly soluble in ethanol.
+7. Diflucortolone valerate is practically insoluble in water but freely soluble in dichloromethane and dioxan.
+8. Chloride salts such as sodium chloride are often very soluble in water.
+9. Magnesium chloride is highly soluble in water, and the hydrated form can be extracted from brine or seawater.
+10. Heptanoic acid is slightly soluble in water but very soluble in ethanol and ether.
+11. Gold(III) chloride is highly soluble in water and ethanol.
+12. Benzamide is slightly soluble in water and soluble in organic solvents.
+
+idx: [0, 6]
+成功的数量为：10总数：10当前回溯率：100.0%
+##########
+##########
+ID:6
+Question:Which tennis player won more Grand Slam titles, Henri Leconte or Jonathan Stark?
+golden idx: [4, 8]
+step-by-step think: 1. Steffi Graf won 22 Grand Slam singles titles, placing her second on the list of Major wins in the female competition. 2. Li Na won two Grand Slam singles titles at the 2011 French Open and 2014 Australian Open, making her the first and only Grand Slam singles champion from East Asia. 3. Ken Rosewall won 8 Grand Slam singles titles and is considered one of the greatest tennis players of all time. 4. Henri Leconte won the singles title at the 1986 German Open. 5. Henri Leconte reached world No. 5 and won the French Open men's doubles title in 1984, relevant to the claim. 6. Serena Williams won 23 Grand Slam singles titles, making her the third all-time behind Margaret Court (24) and Steffi Graf (22). 7. Larisa Neiland won two women's doubles Grand Slam titles and four mixed doubles Grand Slam titles. 8. Pam Teeguarden won two Grand Slam Doubles Titles, relevant to the claim. 9. Jonathan Stark won two Grand Slam doubles titles and reached World No. 1 doubles ranking, relevant to the claim. 10. The Williams sisters collectively have 30 Grand Slam singles titles. 
+idx: [1, 7]
+成功的数量为：12总数：12当前回溯率：100.0%
+##########
+##########
+ID:7
+Question:Which genus of moth in the world's seventh-largest country contains only one species?
+golden idx: [1, 4]
+step-by-step think: 1. Nymphuliella is a genus of moth containing only one species, Nymphuliella daeckealis, found in the United States. 2. Yoshiyasua is a grass moth genus with only one species, Yoshiyasua yasudai, found in Japan. 3. Indogrammodes is a genus of moths with only one species, Indogrammodes pectinicornalis, found in India. 4. Nepita is a genus of moth with only one species, Nepita conferta, found in India and Sri Lanka. 5. Parectropis is a genus of geometer moths with a dozen species, with only one found in Europe. 6. Eumacaria is a genus of moth with only one species, Eumacaria madopata, found in North America. 7. Eutrapela is a genus of moth with only one species, Eutrapela clemataria, found in North America.
+idx: [5, 6]
+成功的数量为：14总数：14当前回溯率：100.0%
+##########
+##########
+ID:8
+Question:Who was once considered the best kick boxer in the world, however he has been involved in a number of controversies relating to his "unsportsmanlike conducts" in the sport and crimes of violence outside of the ring.
+golden idx: [0, 7]
+step-by-step think: 
+1. The claim is about Badr Hari, a kickboxer involved in controversies. 
+2. Context 0 is about the Global Fighting Championship, with a roster of fighters including Badr Hari, providing relevant information. 
+3. Context 1 discusses the book "Outrageous Betrayal" and allegations against Werner H. Erhard, which is not related to the claim. 
+4. Context 2 talks about betting controversies in cricket, not related to Badr Hari or kickboxing. 
+5. Context 3 provides information about the prosecution of gender-targeted crimes, not relevant to the claim. 
+6. Context 4 is about the 1998 Verano de Escándalo wrestling show, unrelated to kickboxing controversies. 
+7. Context 5 relates to a protection racket, unrelated to Badr Hari or kickboxing controversies. 
+8. Context 6 discusses E. Gordon Gee, an academic, not providing relevant information. 
+9. Context 7 provides direct information about Badr Hari, including his involvement in controversies. 
+10. Context 8 is about the Guerra de Titanes wrestling show, not related to kickboxing controversies. 
+11. Context 9 relates to the Triplemanía VII wrestling show, not providing information about kickboxing controversies. 
+
+idx: [1, 3]
+成功的数量为：16总数：16当前回溯率：100.0%
+##########
+##########
+ID:9
+Question:The Dutch-Belgian television series that "House of Anubis" was based on first aired in what year?
+golden idx: [0, 6]
+step-by-step think: 1. "House of Anubis" is a television series based on the Dutch-Belgian series "Het Huis Anubis." 2. The Dutch-Belgian series "Het Huis Anubis" first aired in September 2006. 3. This information is crucial for determining the year in which the original series aired. 4. "Majisuka Gakuen" is a Japanese television drama series unrelated to the claim. 5. "Fish Police" is an animated series from Hanna-Barbera that aired in 1992 but is not relevant to the Dutch-Belgian series "Het Huis Anubis."
+idx: [8,5]
+成功的数量为：18总数：18当前回溯率：100.0%
+##########
+##########
+ID:10
+Question:What is the length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged?
+golden idx: [2, 3]
+step-by-step think: 1. The 2013 Liqui Moly Bathurst 12 Hour was staged at the Mount Panorama Circuit in Bathurst, New South Wales, Australia, as mentioned in context 3. 2. Context 3 accurately provides the date of the event, which was on 10 February 2013. 3. Context 3 also states that the race was the eleventh running of the Bathurst 12 Hour and incorporated the opening round of the 2013 Australian GT Championship. 4. The length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged is 6.213 km, as indicated in context 2, which provides information about the Mount Panorama Circuit. 5. Context 0 talks about the 2017 Intercontinental GT Challenge, which is irrelevant to the length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged. 6. Context 4 discusses the 2017 Liqui Moly Bathurst 12 Hour, which is also not relevant to the length of the track in 2013.
+idx: [0, 4]
+成功的数量为：20总数：20当前回溯率：100.0%
+##########

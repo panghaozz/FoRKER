@@ -1,0 +1,6 @@
+s = '''"step-by-step think": "1. 'Socialist Revolutionary Party' context: This context directly addresses the claim by providing information about the defeat and destruction of the Right SRs faction, which was loyal to Alexander Kerensky, by the Bolsheviks during the Russian Civil War. It is highly relevant, informative, and likely to contain the answer to the claim. 2. 'Alexander Kerensky' context: This context provides background information about Alexander Kerensky, his role in the Russian Revolution, and his subsequent overthrow by the Bolsheviks. While it is relevant and informative, it is not as directly related to the specific event of defeat and destruction mentioned in the claim. 3. 'Left-wing uprisings against the Bolsheviks' context: This context discusses the series of rebellions and uprisings against the Bolsheviks by rival left-wing parties, including some factions of the Socialist Revolutionary Party. While it provides additional context about the political dynamics during the Russian Civil War, it is slightly less directly related to the specific claim compared to the other contexts.",
+  "idx": [1, 0, 2]'''
+
+# Remove the curly braces and \N
+stripped_s = s.strip('{}\n')
+print(stripped_s)

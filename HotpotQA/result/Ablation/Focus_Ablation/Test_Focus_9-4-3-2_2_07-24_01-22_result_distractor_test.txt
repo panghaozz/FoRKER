@@ -1,0 +1,32 @@
+##########
+ID:1
+Question:Were Scott Derrickson and Ed Wood of the same nationality?
+golden idx: [1, 8]
+ [1, 8, 7, 6, 9, 0, 3, 2, 5]
+
+ [1, 8, 7, 2]
+
+ [1, 8, 7]
+
+ [1, 8]
+
+成功的数量为：2，总数：2，当前回溯率：100.0%
+第1轮错误：0，第1轮错误：0，第2轮错误：0，第3轮错误：0，第4轮错误：0，
+########## 
+##########
+ID:2
+Question:What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?
+golden idx: [6, 7]
+ [5, 0, 3, 7, 1, 6, 4, 2, 8]
+
+ [0, 7, 5, 6]
+
+ [0, 7, 5]
+
+ [0, 7]
+
+成功的数量为：3，总数：4，当前回溯率：75.0%
+第1轮错误：0，第1轮错误：0，第2轮错误：0，第3轮错误：1，第4轮错误：0，
+########## 
+
+回溯率：75.0%

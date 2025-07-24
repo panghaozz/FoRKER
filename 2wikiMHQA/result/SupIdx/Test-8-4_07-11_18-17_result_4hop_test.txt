@@ -1,0 +1,212 @@
+##########
+ID:101
+Question:Are the directors of both films Der Blindgänger and Hotel Desire from the same country?
+golden idx: [1, 2, 8, 9]
+ [1, 2, 9, 8, 5, 6, 4, 3]
+
+ [8, 9, 1, 2]
+
+成功的数量为：4总数：4当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:102
+Question:Which film has the director who died later, The Death Kiss or Her Luck In London?
+golden idx: [3, 6, 8, 9]
+ [6, 3, 8, 9, 0, 1, 2, 4]
+
+ [6, 3, 8, 9]
+
+成功的数量为：8总数：8当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:103
+Question:Which film whose director is younger, The Devil'S Pass Key or La Bella Di Lodi?
+golden idx: [1, 2, 3, 4]
+ [3,4,1,2,6,7,0,5]
+
+ [3, 4, 1, 2]
+
+成功的数量为：12总数：12当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:104
+Question:Which film has the director who is older, Johnny Concho or One Minute To Twelve?
+golden idx: [1, 2, 6, 7]
+ [2, 7, 1, 6, 0, 3, 4, 5]
+
+ [7, 2, 6, 1]
+
+成功的数量为：16总数：16当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:105
+Question:Which film has the director born later, Cyclone Of The Saddle or Blind Corner?
+golden idx: [0, 3, 5, 9]
+ [3, 9, 0, 5, 1, 2, 4, 6]
+
+ [3, 9, 0, 5]
+
+成功的数量为：20总数：20当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:106
+Question:Which film has the director who died later, Good Morning, Little Countess or Vogue La Galère?
+golden idx: [0, 2, 5, 8]
+ [0, 5, 2, 8, 1, 3, 4, 6]
+
+ [0, 5, 2, 8]
+
+成功的数量为：24总数：24当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:107
+Question:Which film has the director who was born later, The Daughter Of Rosie O'Grady or The Whistle (Film)?
+golden idx: [4, 7, 8, 9]
+ [7, 9, 8, 4, 0, 1, 2, 3]
+
+ [7, 9, 8, 4]
+
+成功的数量为：28总数：28当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:108
+Question:Do both films Happiness Of Three Women and Percy (1925 Film) have the directors from the same country?
+golden idx: [0, 1, 3, 9]
+ [0, 9, 1, 3, 2, 5, 7, 8]
+
+ [0, 9, 1, 3]
+
+成功的数量为：32总数：32当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:109
+Question:Which film has the director who was born earlier, Invasion 1897 or Nene Raju Nene Mantri?
+golden idx: [0, 3, 4, 7]
+ [3, 7, 0, 4, 2, 9, 1, 5]
+
+ [3, 7, 0, 4]
+
+成功的数量为：36总数：36当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:110
+Question:Which film whose director is younger, Torments Of The Night or Dirty Dancing?
+golden idx: [0, 6, 7, 8]
+ [6,0,7,8,1,4,5,2]
+
+ [6, 0, 8, 7]
+
+成功的数量为：40总数：40当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:111
+Question:Do director of film Coteau Rouge and director of film Hochelaga, Land Of Souls share the same nationality?
+golden idx: [3, 5, 8, 9]
+ [3, 5, 8, 9, 0, 1, 2, 4]
+
+ [3, 5, 8, 9]
+
+成功的数量为：44总数：44当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:112
+Question:Which film has the director who was born later, Henry Goes Arizona or The Blue Collar Worker And The Hairdresser In A Whirl Of Sex And Politics?
+golden idx: [0, 1, 6, 9]
+ [0, 6, 9, 1, 2, 4, 3, 5]
+
+ [0, 6, 9, 1]
+
+成功的数量为：48总数：48当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:113
+Question:Which film has the director who was born earlier, Red Sparrow or The Flying Liftboy?
+golden idx: [1, 3, 4, 7]
+ [4, 1, 7, 3, 8, 0, 2, 5]
+
+ [4, 1, 7, 3]
+
+成功的数量为：52总数：52当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:114
+Question:Which film has the director who is older than the other, The Enchanted Desna or Neal Of The Navy? 
+golden idx: [1, 5, 6, 9]
+ [1,5,6,9,0,2,3,4]
+
+ [1, 5, 6, 9]
+
+成功的数量为：56总数：56当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:115
+Question:Which film has the director born later, Feel My Pulse or Panique?
+golden idx: [1, 5, 6, 8]
+ [1, 6, 8, 5, 0, 2, 3, 4]
+
+ [6, 1, 5, 8]
+
+成功的数量为：60总数：60当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:116
+Question:Which film has the director who was born first, Hanuman Patal Vijay or Young And Dangerous: The Prequel?
+golden idx: [1, 5, 7, 9]
+ [7, 9, 1, 5, 0, 2, 3, 6]
+
+ [1, 5, 7, 9]
+
+成功的数量为：64总数：64当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:117
+Question:Which film has the director who died first, The Boss And The Worker or Claire'S Knee?
+golden idx: [2, 3, 6, 7]
+ [3, 2, 6, 7, 1, 4, 8, 0]
+
+ [3, 2, 7, 6]
+
+成功的数量为：68总数：68当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:118
+Question:Do both films Fig Leaves and Boogeyman (Film) have the directors that share the same nationality?
+golden idx: [3, 5, 8, 9]
+ [8, 9, 5, 3, 1, 2, 4, 6]
+
+ [9, 5, 8, 3]
+
+成功的数量为：72总数：72当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:119
+Which film has the director who is older, Road To Singapore or Melodies Of Vera Quarter?
+golden idx: [3, 4, 5, 8]
+ [3, 4, 5, 8, 1, 2, 9, 6]
+
+[3, 4, 5, 8]
+
+成功的数量为：72总数：72当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+
+
+回溯率：100.0%

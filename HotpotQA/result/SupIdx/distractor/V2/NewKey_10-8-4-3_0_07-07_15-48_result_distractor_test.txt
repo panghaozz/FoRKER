@@ -1,0 +1,318 @@
+##########
+ID:1
+Question:Were Scott Derrickson and Ed Wood of the same nationality?
+golden idx: [1, 8]
+ [1, 8, 2, 6, 7, 9, 5, 0]
+
+ [1, 8, 2, 5]
+
+ [1,8,2]
+
+成功的数量为：2总数：2当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:2
+Question:What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?
+golden idx: [6, 7]
+ [6,7,3,0,1,5,4,9]
+
+ [6, 7, 3, 1]
+
+ [6, 7, 3]
+
+成功的数量为：4总数：4当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:3
+Question:What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?
+golden idx: [6, 8]
+ [8, 6, 1, 2, 4, 0, 3, 7]
+
+ [6, 8, 3, 2]
+
+ [8, 6, 2]
+
+成功的数量为：6总数：6当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:4
+Question:Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?
+golden idx: [3, 8]
+ [3, 8, 5, 2, 0, 4, 9, 7]
+
+ [3,8,5,2]
+
+ [3,8,5]
+
+成功的数量为：8总数：8当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:5
+Question:The director of the romantic comedy "Big Stone Gap" is based in what New York city?
+golden idx: [7, 8]
+ [8, 7, 6, 9, 5, 3, 1, 0]
+
+ [7, 8, 5, 9]
+
+ [7, 8, 9]
+
+成功的数量为：10总数：10当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:6
+Question:2014 S/S is the debut album of a South Korean boy group that was formed by who?
+golden idx: [1, 5]
+ [5, 1, 0, 7, 3, 4, 2, 6]
+
+ [5,1,2,0]
+
+ [5, 1, 0]
+
+成功的数量为：12总数：12当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:7
+Question:Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?
+golden idx: [5, 7]
+ [7,5,0,1,3,6,9,4]
+
+ [7, 5, 1, 3]
+
+ [7, 5, 1]
+
+成功的数量为：14总数：14当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:8
+Question:The arena where the Lewiston Maineiacs played their home games can seat how many people?
+golden idx: [8, 9]
+ [9, 8, 5, 2, 1, 4, 0, 3]
+
+ [9, 8, 5, 2]
+
+ [9, 8, 5]
+
+成功的数量为：16总数：16当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:9
+Question:Who is older, Annie Morton or Terry Richardson?
+golden idx: [0, 3]
+ [0, 3, 1, 6, 2, 4, 8, 9]
+
+ [0, 3, 1, 6]
+
+ [0, 3, 1]
+
+成功的数量为：18总数：18当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:10
+Question:Are Local H and For Against both from the United States?
+golden idx: [5, 6]
+ [5, 6, 1, 2, 3, 0, 4, 7]
+
+ [5, 6, 1, 2]
+
+ [5, 6, 1]
+
+成功的数量为：20总数：20当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:11
+Question:What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?
+golden idx: [1, 9]
+ [9, 1, 5, 6, 0, 7, 3, 4]
+
+ [9, 1, 6, 0]
+
+ [9, 1, 6]
+
+成功的数量为：22总数：22当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:12
+Question:What screenwriter with credits for "Evolution" co-wrote a film starring Nicolas Cage and Téa Leoni?
+golden idx: [5, 8]
+ [8, 5, 1, 0, 2, 4, 6, 7]
+
+ [8, 5, 1, 0]
+
+ [5, 8, 1]
+
+成功的数量为：24总数：24当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:13
+Question:What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?
+golden idx: [1, 8]
+ [1, 8, 9, 2, 6, 3, 0, 4]
+
+ [1, 8, 9, 2]
+
+ [1,8,9]
+
+成功的数量为：26总数：26当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:14
+Question:Are Random House Tower and 888 7th Avenue both used for real estate?
+golden idx: [1, 2]
+ [1, 2, 4, 6, 9, 0, 3, 7]
+
+ [1, 2, 6, 0]
+
+ [1, 2, 6]
+
+成功的数量为：28总数：28当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:15
+Question:The football manager who recruited David Beckham managed Manchester United during what timeframe?
+golden idx: [4, 9]
+ [9, 4, 7, 0, 3, 1, 6, 5]
+
+ [9, 4, 7, 0]
+
+ [9, 4, 7]
+
+成功的数量为：30总数：30当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:16
+Question:Brown State Fishing Lake is in a country that has a population of how many inhabitants ?
+golden idx: [0, 9]
+ [9, 0, 2, 3, 8, 1, 4, 5]
+
+ [0,9,8,3]
+
+ [0,9,8]
+
+成功的数量为：32总数：32当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:17
+Question:The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?
+golden idx: [4, 5]
+ [4, 5, 9, 1, 2, 3, 6, 7]
+
+ [4,5,9,1]
+
+ [4, 5, 9]
+
+成功的数量为：34总数：34当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:18
+Question:Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?
+golden idx: [4, 5]
+ [4,5,9,2,0,7,1,6]
+
+ [4, 5, 9, 2]
+
+ [4, 5, 9]
+
+成功的数量为：36总数：36当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:19
+Question:Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?
+golden idx: [4, 9]
+ [9, 4, 0, 5, 7, 1, 2, 3]
+
+ [9, 4, 0, 5]
+
+ [9, 4, 0]
+
+成功的数量为：38总数：38当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:20
+Question:Which writer was from England, Henry Roth or Robert Erskine Childers?
+golden idx: [0, 9]
+ [9,0,4,1,2,7,6,8]
+
+ [9, 0, 4, 7]
+
+ [9,4,0]
+
+成功的数量为：40总数：40当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:21
+Question:Which other Mexican Formula One race car driver has held the podium besides the Force India driver born in 1990?
+golden idx: [3, 9]
+ [3,9,8,1,0,2,4,5]
+
+ [3, 8, 9, 0]
+
+ [3, 8, 0]
+
+成功的数量为：41总数：42当前回溯率：97.61904761904762%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:22
+Question:This singer of A Rather Blustery Day also voiced what hedgehog?
+golden idx: [4, 9]
+ [9, 4, 7, 5, 0, 3, 8, 1]
+
+ [4, 9, 5, 7]
+
+ [4, 9, 7]
+
+成功的数量为：43总数：44当前回溯率：97.72727272727273%
+第1轮错误：0，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:23
+Question:Aside from the Apple Remote, what other device can control the program Apple Remote was originally designed to interact with?
+golden idx: [2, 9]
+ [0,2,6,7,8,3,1,4]
+
+ [0, 2, 7, 8]
+
+ [0, 2, 7]
+
+成功的数量为：44总数：46当前回溯率：95.65217391304348%
+第1轮错误：1，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:24
+Question:Which performance act has a higher instrument to person ratio, Badly Drawn Boy or Wolf Alice? 
+golden idx: [0, 2]
+ [2, 0, 8, 4, 9, 1, 3, 5]
+
+ [2,0,8,4]
+
+ [2, 8, 0]
+
+成功的数量为：46总数：48当前回溯率：95.83333333333334%
+第1轮错误：1，第2轮错误：0，第3轮错误：1
+##########
+##########
+ID:25
+Question:What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?
+golden idx: [2, 5]
+ [2, 4, 5, 1, 7, 8, 0, 3]
+

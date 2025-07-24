@@ -1,0 +1,695 @@
+##########
+ID:1
+Question:Are more people today related to Genghis Khan than Julius Caesar?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: [The context states that Genghis Khan had sixteen children, and modern geneticists have determined that 1 out of every 200 men today has DNA that can be traced to Genghis Khan. This indicates a significant genetic legacy. In contrast, Julius Caesar had only three children, which suggests a much smaller genetic impact. Therefore, it is reasonable to conclude that more people today are related to Genghis Khan than to Julius Caesar.]
+原始EM：1, 总数：1, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：1, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:2
+Question:Could the members of The Police perform lawful arrests?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [The context states that the members of The Police were musicians, not law enforcement officers. Additionally, it specifies that only law enforcement officers can perform lawful arrests. Since the members of The Police were not law enforcement officers, they could not perform lawful arrests.]
+原始EM：2, 总数：2, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：2, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:3
+Question:Would a Monoamine Oxidase candy bar cheer up a depressed friend?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [The context states that depression is caused by low levels of serotonin, dopamine, and norepinephrine. Monoamine Oxidase (MAO) breaks down these neurotransmitters, further lowering their levels. Therefore, a Monoamine Oxidase candy bar would likely exacerbate the symptoms of depression rather than cheer up a depressed friend.]
+原始EM：3, 总数：3, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：3, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:4
+Question:Would a dog respond to bell before Grey seal?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: 
+1. The context states that grey seals have no ear flaps and their ear canals are filled with wax, which suggests their hearing might be less sensitive compared to dogs.
+2. Dogs have sensitive ears that can hear as far as a quarter of a mile away, indicating they have a strong auditory response.
+3. Given that dogs have more sensitive hearing and grey seals' hearing is potentially less effective due to their ear structure, a dog would likely respond to a bell before a grey seal.
+4. Therefore, the answer is [yes].
+原始EM：4, 总数：4, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：4, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:5
+Question:Is a pound sterling valuable?
+
+Right Answer:no
+Answer: [yes]
+Step-by-step reasoning: 
+1. The context states that one pound sterling is worth about 1.24 US dollars by May of 2020. This indicates that the pound sterling has a measurable value in terms of another currency.
+2. While the context mentions that fiat money (like the pound sterling) has no intrinsic value, it is still valuable because it is backed by government decree and is widely accepted as a medium of exchange.
+3. Therefore, based on the exchange rate provided and the fact that it is a recognized and accepted currency, the pound sterling is considered valuable.
+原始EM：4, 总数：5, 网络错误：0, 当前原始EM分数：80.0%, 增强EM答对：4, 当前增强EM分数：80.0%, 当前F1分数：80.0%
+##########
+##########
+ID:6
+Question:Is shrimp scampi definitely free of plastic?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: 
+1. Shrimp scampi is a dish made with shrimp (context 0).
+2. Shrimp have been found to contain microplastics (context 1).
+3. Microplastics are plastic material (context 2).
+4. Since shrimp contain microplastics, and shrimp scampi is made with shrimp, it is likely that shrimp scampi is not free of plastic.
+5. Therefore, the answer is no.
+原始EM：5, 总数：6, 网络错误：0, 当前原始EM分数：83.33333333333334%, 增强EM答对：5, 当前增强EM分数：83.33333333333334%, 当前F1分数：83.33333333333334%
+##########
+##########
+ID:7
+Question:Do the anchors on Rede Globo speak Chinese?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: 
+1. Rede Globo is a Brazilian television network, as stated in the context.
+2. The official language of Brazil is Portuguese, as mentioned in the context.
+3. Since the anchors on Rede Globo are likely to speak the official language of Brazil, which is Portuguese, it is unlikely that they speak Chinese.
+4. Therefore, the answer is no.
+原始EM：6, 总数：7, 网络错误：0, 当前原始EM分数：85.71428571428571%, 增强EM答对：6, 当前增强EM分数：85.71428571428571%, 当前F1分数：85.71428571428571%
+##########
+##########
+ID:8
+Question:Will the Albany in Georgia reach a hundred thousand occupants before the one in New York?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [The context states that Albany, GA has around 75,000 people, while Albany, NY has almost 100,000 people. Since Albany, NY already has almost 100,000 people, it is already close to reaching that number. Albany, GA, with 75,000 people, would need to grow significantly to reach 100,000. Therefore, it is unlikely that Albany, GA will reach 100,000 occupants before Albany, NY.]
+原始EM：7, 总数：8, 网络错误：0, 当前原始EM分数：87.5%, 增强EM答对：7, 当前增强EM分数：87.5%, 当前F1分数：87.5%
+##########
+##########
+ID:9
+Question:Is a Boeing 737 cost covered by Wonder Woman (2017 film) box office receipts?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: 
+1. The average cost of a US Boeing 737 plane is 1.6 million dollars.
+2. Wonder Woman (2017 film) grossed over 800 million dollars at the box office.
+3. Since 800 million dollars is significantly more than 1.6 million dollars, the box office receipts from Wonder Woman (2017 film) could easily cover the cost of a Boeing 737.
+4. Therefore, the answer is yes.
+原始EM：8, 总数：9, 网络错误：0, 当前原始EM分数：88.88888888888889%, 增强EM答对：8, 当前增强EM分数：88.88888888888889%, 当前F1分数：88.88888888888889%
+##########
+##########
+ID:10
+Question:Is the language used in Saint Vincent and the Grenadines rooted in English?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: 
+1. The primary language spoken in Saint Vincent and the Grenadines is Vincentian Creole, as stated in the context.
+2. Vincentian Creole is described as English-based, meaning it has its roots in the English language.
+3. Although it incorporates elements from other languages such as French, Antillean Creole, and indigenous South American and African languages, its foundation is English.
+4. Therefore, the language used in Saint Vincent and the Grenadines is rooted in English.
+原始EM：9, 总数：10, 网络错误：0, 当前原始EM分数：90.0%, 增强EM答对：9, 当前增强EM分数：90.0%, 当前F1分数：90.0%
+##########
+##########
+ID:11
+Question:Can you buy Casio products at Petco?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [Casio is a manufacturer of consumer electronics and watches, which are not related to pet supplies. Petco is a chain store that specializes in selling pet supplies like food, bowls, litter, toys, cages, and grooming equipment. Since Casio products are not pet-related, they would not be available at Petco. Therefore, the answer is no.]
+原始EM：10, 总数：11, 网络错误：0, 当前原始EM分数：90.9090909090909%, 增强EM答对：10, 当前增强EM分数：90.9090909090909%, 当前F1分数：90.9090909090909%
+##########
+##########
+ID:12
+Question:Did the Space Race use relay batons?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [The Space Race was a competition between the USA and USSR regarding spaceflight and exploration, as stated in the context. Relay batons are used in relay races, which are athletic track and field events, as mentioned in the context. Since the Space Race was about spaceflight and exploration, and relay batons are used in athletic events, there is no connection between the Space Race and relay batons. Therefore, the Space Race did not use relay batons.]
+原始EM：11, 总数：12, 网络错误：0, 当前原始EM分数：91.66666666666666%, 增强EM答对：11, 当前增强EM分数：91.66666666666666%, 当前F1分数：91.66666666666666%
+##########
+##########
+ID:13
+Question:Are Christmas trees dissimilar to deciduous trees?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: [Christmas trees are usually pine trees, which are evergreen and keep their needles all year round. Deciduous trees, on the other hand, lose their leaves seasonally. Therefore, Christmas trees (pine trees) are dissimilar to deciduous trees.]
+原始EM：12, 总数：13, 网络错误：0, 当前原始EM分数：92.3076923076923%, 增强EM答对：12, 当前增强EM分数：92.3076923076923%, 当前F1分数：92.3076923076923%
+##########
+##########
+ID:14
+Question:Does Biochemistry study gluons?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [Biochemistry studies the role, function, and structure of biomolecules, which are comprised of atoms. Gluons, on the other hand, are sub-atomic particles that bind quarks within protons and neutrons, and they are studied in the field of particle physics, not biochemistry. Therefore, biochemistry does not study gluons.]
+原始EM：13, 总数：14, 网络错误：0, 当前原始EM分数：92.85714285714286%, 增强EM答对：13, 当前增强EM分数：92.85714285714286%, 当前F1分数：92.85714285714286%
+##########
+##########
+ID:15
+Question:Did land owners elect their rulers in the Kingdom of Hungary?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [The Kingdom of Hungary was a monarchy, as stated in the context. Monarchies, by definition, do not allow citizens to elect their rulers. Therefore, land owners did not elect their rulers in the Kingdom of Hungary.]
+原始EM：14, 总数：15, 网络错误：0, 当前原始EM分数：93.33333333333333%, 增强EM答对：14, 当前增强EM分数：93.33333333333333%, 当前F1分数：93.33333333333333%
+##########
+##########
+ID:16
+Question:Would Nancy Pelosi publicly denounce abortion?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: 
+1. The context states that abortion is a divisive topic between the Republican and Democratic parties.
+2. Nancy Pelosi is identified as a Democrat who appeals to the Democratic base.
+3. The Democratic base is described as largely pro-choice regarding abortion.
+4. Given that Nancy Pelosi aligns with the Democratic base and the base is pro-choice, it is unlikely that she would publicly denounce abortion.
+5. Therefore, the answer is [no].
+原始EM：15, 总数：16, 网络错误：0, 当前原始EM分数：93.75%, 增强EM答对：15, 当前增强EM分数：93.75%, 当前F1分数：93.75%
+##########
+##########
+ID:17
+Question:Does Dragon Ball shows and movies fall short of Friday 13th number of projects?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: [The context states that Dragon Ball has 6 TV series, 3 TV specials, and 2 direct to video spinoffs, totaling 11 projects. On the other hand, Friday the 13th has 12 movies and 1 TV series, totaling 13 projects. Since 11 (Dragon Ball) is less than 13 (Friday the 13th), Dragon Ball shows and movies fall short of Friday the 13th number of projects.]
+原始EM：16, 总数：17, 网络错误：0, 当前原始EM分数：94.11764705882352%, 增强EM答对：16, 当前增强EM分数：94.11764705882352%, 当前F1分数：94.11764705882352%
+##########
+##########
+ID:18
+Question:Would a student of the class of 2017 have amnesia about 9/11?
+
+Right Answer:yes
+Answer: [no]
+Step-by-step reasoning: 
+1. Students graduating high-school in 2017 would have been born in 1999 (from context idx 2).
+2. 9/11 occurred in 2001 (from context idx 1), meaning these students would have been around 2 years old at the time.
+3. Childhood amnesia typically affects memories before the age of 2 or 3 (from context idx 0).
+4. Since 9/11 occurred when these students were around 2 years old, it is unlikely they would have amnesia about such a significant event, as it falls within the typical age range where memories start to form and be retained.
+5. Therefore, a student of the class of 2017 would not have amnesia about 9/11.
+原始EM：16, 总数：18, 网络错误：0, 当前原始EM分数：88.88888888888889%, 增强EM答对：16, 当前增强EM分数：88.88888888888889%, 当前F1分数：88.88888888888889%
+##########
+##########
+ID:19
+Question:Is greed the most prevalent of the Seven Deadly Sins?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: 
+1. The question asks whether greed is the most prevalent of the Seven Deadly Sins.
+2. The context provides information about greed, white-collar crime (which can be linked to greed), and gluttony (another of the Seven Deadly Sins).
+3. While greed is described as a longing for wealth and power, and white-collar crime statistics (5-10% of arrests) suggest its prevalence, the context also mentions gluttony and provides a statistic (39.8% of US adults being overweight) that indicates gluttony is also highly prevalent.
+4. Comparing the prevalence of greed (5-10% of arrests) and gluttony (39.8% of US adults), gluttony appears to be more prevalent based on the provided data.
+5. Therefore, greed is not the most prevalent of the Seven Deadly Sins in this context.
+原始EM：17, 总数：19, 网络错误：0, 当前原始EM分数：89.47368421052632%, 增强EM答对：17, 当前增强EM分数：89.47368421052632%, 当前F1分数：89.47368421052632%
+##########
+##########
+ID:20
+Question:Would a psychic who admits to hot reading be trustworthy?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [The context states that hot reading is a technique used by psychics to acquire information about a subject prior to the session, which implies deceit. Additionally, it is mentioned that hot reading is considered deception in the psychic community. Therefore, a psychic who admits to using hot reading would not be trustworthy, as they are acknowledging their use of deceptive practices.]
+原始EM：18, 总数：20, 网络错误：0, 当前原始EM分数：90.0%, 增强EM答对：18, 当前增强EM分数：90.0%, 当前F1分数：90.0%
+##########
+##########
+ID:21
+Question:Is average number of peas in a pod enough commas for a billion?
+
+Right Answer:yes
+Answer: [no]
+Step-by-step reasoning: [The question asks if the average number of peas in a pod (6 or 7) is enough commas for a billion. A billion has three commas in its numerical representation (e.g., 1,000,000,000). The average number of peas in a pod (6 or 7) is not related to the number of commas in a billion. Therefore, the answer is no.]
+原始EM：18, 总数：21, 网络错误：0, 当前原始EM分数：85.71428571428571%, 增强EM答对：18, 当前增强EM分数：85.71428571428571%, 当前F1分数：85.71428571428571%
+##########
+##########
+ID:22
+Question:Does actress Leila George lack the height to be a model?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [Leila George is 5'9" tall, which is a height commonly seen among successful models. For example, Cindy Crawford, a well-known model, is also 5'9" tall. Additionally, models like Agyness Deyn and Sara Sampaio are 5'8" tall, which is only slightly shorter than Leila George. Therefore, Leila George does not lack the height to be a model.]
+原始EM：19, 总数：22, 网络错误：0, 当前原始EM分数：86.36363636363636%, 增强EM答对：19, 当前增强EM分数：86.36363636363636%, 当前F1分数：86.36363636363636%
+##########
+##########
+ID:23
+Question:Is Dustin Hoffman one of the B'nei Yisrael?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: 
+1. The context states that Dustin Hoffman was raised in a Jewish family, which indicates that he is of Jewish descent.
+2. The context also explains that in modern Hebrew, "b'nei yisrael" refers to the Jewish people at any time in history.
+3. Since Dustin Hoffman is of Jewish descent, he is considered part of the Jewish people, and therefore, he is one of the B'nei Yisrael.
+4. Thus, the answer is yes.
+原始EM：20, 总数：23, 网络错误：0, 当前原始EM分数：86.95652173913044%, 增强EM答对：20, 当前增强EM分数：86.95652173913044%, 当前F1分数：86.95652173913044%
+##########
+##########
+ID:24
+Question:If you were on a diet, would you have to skip lunch at McDonald's?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [The context provided indicates that McDonald's offers low-calorie options for both brunch and lunch, such as parfaits, egg white sandwiches, basic hamburgers, and salads. These options suggest that it is possible to maintain a diet while eating at McDonald's without skipping lunch. Therefore, you would not have to skip lunch at McDonald's if you were on a diet.]
+原始EM：21, 总数：24, 网络错误：0, 当前原始EM分数：87.5%, 增强EM答对：21, 当前增强EM分数：87.5%, 当前F1分数：87.5%
+##########
+##########
+ID:25
+Question:Could the Powerpuff Girls hypothetically attend the Camden Military Academy?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [The Powerpuff Girls are kindergarten-aged girls, as stated in the context. Camden Military Academy is a private, all-male, military boarding school that accepts male students in grades 7 through 12. Since the Powerpuff Girls are both female and kindergarten-aged, they do not meet the gender or age requirements for attending Camden Military Academy. Therefore, the answer is no.]
+原始EM：22, 总数：25, 网络错误：0, 当前原始EM分数：88.0%, 增强EM答对：22, 当前增强EM分数：88.0%, 当前F1分数：88.0%
+##########
+##########
+ID:26
+Question:Would the top of Mount Fuji stick out of the Sea of Japan? 
+
+Right Answer:yes
+Answer: [no]
+Step-by-step reasoning: 
+1. The height of Mount Fuji is 3,776.24 meters (12,389.2 feet).
+2. The maximum depth of the Sea of Japan is 3,742 meters (12,276 feet).
+3. To determine if the top of Mount Fuji would stick out of the Sea of Japan, we compare its height to the maximum depth of the sea.
+4. Since 3,776.24 meters (Mount Fuji's height) is greater than 3,742 meters (Sea of Japan's maximum depth), the top of Mount Fuji would indeed stick out of the Sea of Japan if it were placed at the deepest point.
+5. However, the question asks if the top of Mount Fuji would stick out of the Sea of Japan, implying its current location. Mount Fuji is not located in the Sea of Japan but on Honshu Island, Japan.
+6. Therefore, the answer is no, as Mount Fuji is not in the Sea of Japan.
+原始EM：22, 总数：26, 网络错误：0, 当前原始EM分数：84.61538461538461%, 增强EM答对：22, 当前增强EM分数：84.61538461538461%, 当前F1分数：84.61538461538461%
+##########
+##########
+ID:27
+Question:Would an uninsured person be more likely than an insured person to decline a CT scan?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: [The context states that without insurance, a CT scan can cost up to $5,000, which is a significant financial burden. Additionally, most insurance companies will cover or reimburse the cost of a CT scan, making it more affordable for insured individuals. Given the high cost for uninsured individuals, it is reasonable to conclude that an uninsured person would be more likely to decline a CT scan compared to an insured person.]
+原始EM：23, 总数：27, 网络错误：0, 当前原始EM分数：85.18518518518519%, 增强EM答对：23, 当前增强EM分数：85.18518518518519%, 当前F1分数：85.18518518518519%
+##########
+##########
+ID:28
+Question:Was the Donatello crucifix identified in 2020 life size?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [The crucifix discovered in the church of Sant’Angelo is 89 cm high, as stated in the context. The average height of an adult man has been at least 150 cm in historical times, also mentioned in the context. Since 89 cm is significantly less than the average height of an adult man, the crucifix is not life size.]
+原始EM：24, 总数：28, 网络错误：0, 当前原始EM分数：85.71428571428571%, 增强EM答对：24, 当前增强EM分数：85.71428571428571%, 当前F1分数：85.71428571428571%
+##########
+##########
+ID:29
+Question:Is Disneyland Paris the largest Disney resort?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: 
+1. The context states that Disneyland Paris contains two parks, several hotels, and a shopping district.
+2. By comparison, Walt Disney World in Florida contains four parks, two waterparks, a shopping district, and many hotels.
+3. Additionally, it is mentioned that Disney World is bigger than Disneyland Paris Resort and Disneyland California Resort combined.
+4. Since Walt Disney World in Florida has more parks, waterparks, and hotels compared to Disneyland Paris, it is clear that Disneyland Paris is not the largest Disney resort.
+5. Therefore, the answer is no.
+原始EM：25, 总数：29, 网络错误：0, 当前原始EM分数：86.20689655172413%, 增强EM答对：25, 当前增强EM分数：86.20689655172413%, 当前F1分数：86.20689655172413%
+##########
+##########
+ID:30
+Question:Could someone with fine motor control issues benefit from an altered keyboard layout?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: 
+1. Fine motor control involves making small, precise movements like typing, as mentioned in the context (idx 0).
+2. The standard keyboard layout is designed for individuals without motor control issues (idx 1), which implies it may not be suitable for someone with fine motor control issues.
+3. There are modified keyboards available for various types of disabilities (idx 2), suggesting that an altered keyboard layout could be beneficial for someone with fine motor control issues.
+4. Therefore, someone with fine motor control issues could benefit from an altered keyboard layout.
+原始EM：26, 总数：30, 网络错误：0, 当前原始EM分数：86.66666666666667%, 增强EM答对：26, 当前增强EM分数：86.66666666666667%, 当前F1分数：86.66666666666667%
+##########
+##########
+ID:31
+Question:Would Adam Sandler get a reference to Cole Spouse and a scuba man doll?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: 
+1. The context states that Adam Sandler and Cole Sprouse starred together in "Big Daddy", which establishes a connection between them.
+2. The context also mentions that a prop used throughout "Big Daddy" was a scuba diving action figure called 'Scuba Steve', which is relevant to the mention of a scuba man doll.
+3. Since both Adam Sandler and Cole Sprouse are connected through the movie "Big Daddy" and the scuba man doll is a significant prop in the same movie, it is reasonable to conclude that Adam Sandler would get a reference to Cole Sprouse and a scuba man doll.
+原始EM：27, 总数：31, 网络错误：0, 当前原始EM分数：87.09677419354838%, 增强EM答对：27, 当前增强EM分数：87.09677419354838%, 当前F1分数：87.09677419354838%
+##########
+##########
+ID:32
+Question:Is there a warthog on Broadway?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: [The context mentions that Disney's The Lion King is a popular Broadway musical. One of the characters in this musical is named Pumbaa, and Pumbaa is a warthog. Therefore, there is a warthog on Broadway in the context of this musical.]
+原始EM：28, 总数：32, 网络错误：0, 当前原始EM分数：87.5%, 增强EM答对：28, 当前增强EM分数：87.5%, 当前F1分数：87.5%
+##########
+##########
+ID:33
+Question:Does Disney have an ice princess?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: [The context states that Disney released Frozen in 2013, and Frozen features Elsa, a princess with magical ice powers. Since Elsa is a princess with ice powers, she qualifies as an ice princess. Therefore, Disney does have an ice princess.]
+原始EM：29, 总数：33, 网络错误：0, 当前原始EM分数：87.87878787878788%, 增强EM答对：29, 当前增强EM分数：87.87878787878788%, 当前F1分数：87.87878787878788%
+##########
+##########
+ID:34
+Question:Would a geographer use biochemistry in their work?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [A geographer primarily studies Earth's natural environment and human society, which does not inherently require the use of biochemistry. Biochemistry focuses on chemical processes within living organisms, which is not a core component of geography. Therefore, a geographer would not typically use biochemistry in their work.]
+原始EM：30, 总数：34, 网络错误：0, 当前原始EM分数：88.23529411764706%, 增强EM答对：30, 当前增强EM分数：88.23529411764706%, 当前F1分数：88.23529411764706%
+##########
+##########
+ID:35
+Question:Could George Washington's own speeches have been recorded live to a compact disc?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [George Washington died in 1799, long before the invention of compact discs in 1982. Since CDs were not available during his lifetime, it would have been impossible to record his speeches live to a compact disc.]
+原始EM：31, 总数：35, 网络错误：0, 当前原始EM分数：88.57142857142857%, 增强EM答对：31, 当前增强EM分数：88.57142857142857%, 当前F1分数：88.57142857142857%
+##########
+##########
+ID:36
+Question:Was Lil Jon's top ranked Billboard song a collaboration with a member of The Lox?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [Lil Jon's highest-ranked Billboard song was "Yeah," which was a collaboration with Usher and Ludacris. The Lox is a rap trio consisting of Styles P, Sheek Louch, and Jadakiss. Since neither Usher nor Ludacris are members of The Lox, the answer is no.]
+原始EM：32, 总数：36, 网络错误：0, 当前原始EM分数：88.88888888888889%, 增强EM答对：32, 当前增强EM分数：88.88888888888889%, 当前F1分数：88.88888888888889%
+##########
+##########
+ID:37
+Question:Would food made with black salt smell of sulfur?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: 
+1. Black salt contains sulfur, as stated in the context: "Black Salt has is a kiln-fired rock salt that contains sulfur."
+2. When black salt is cooked with, it smells similar to rotten eggs: "When black salt is cooked with, it smells similar to rotten eggs."
+3. Rotten eggs smell like sulfur: "Rotten eggs smell like sulfur."
+4. Therefore, food made with black salt would smell of sulfur because the sulfur content in black salt causes it to emit a sulfur-like odor when cooked.
+原始EM：33, 总数：37, 网络错误：0, 当前原始EM分数：89.1891891891892%, 增强EM答对：33, 当前增强EM分数：89.1891891891892%, 当前F1分数：89.1891891891892%
+##########
+##########
+ID:38
+Question:Would a broadcast from Spirit make the news in 2020?
+
+Right Answer:yes
+Answer: [no]
+Step-by-step reasoning: [The context states that in 2010, the Spirit rover sent its final transmission, indicating it was no longer operational by 2020. Additionally, the context mentions that in 2019, another rover made the news with its viral "final words," suggesting that any significant news about rovers in 2020 would likely involve other rovers, not Spirit. Therefore, a broadcast from Spirit would not make the news in 2020.]
+原始EM：33, 总数：38, 网络错误：0, 当前原始EM分数：86.8421052631579%, 增强EM答对：33, 当前增强EM分数：86.8421052631579%, 当前F1分数：86.8421052631579%
+##########
+##########
+ID:39
+Question:Is Miami a city on the American West Coast?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [Miami is a city in the state of Florida, as stated in the context. Florida is described as the southernmost state on the American East Coast. Since Miami is in Florida, it is located on the East Coast, not the West Coast. Therefore, the answer is no.]
+原始EM：34, 总数：39, 网络错误：0, 当前原始EM分数：87.17948717948718%, 增强EM答对：34, 当前增强EM分数：87.17948717948718%, 当前F1分数：87.17948717948718%
+##########
+##########
+ID:40
+Question:Could Robert Wadlow hypothetically see Frankenstein's monster's bald spot from above?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: 
+1. Robert Wadlow was 8 feet 11.1 inches tall, making him taller than Frankenstein's monster, who was 8 feet tall.
+2. Given that Wadlow was taller, he could hypothetically see the top of the monster's head from above.
+3. If the monster had a bald spot, Wadlow's height would allow him to see it from above.
+4. Therefore, the answer is yes, Robert Wadlow could hypothetically see Frankenstein's monster's bald spot from above.
+原始EM：35, 总数：40, 网络错误：0, 当前原始EM分数：87.5%, 增强EM答对：35, 当前增强EM分数：87.5%, 当前F1分数：87.5%
+##########
+##########
+ID:41
+Question:Is the tibia necessary to win the Stanley Cup?
+
+Right Answer:yes
+Answer: [no]
+Step-by-step reasoning: [The tibia is a leg bone, and legs are required to use ice skates, which are necessary for playing ice hockey. However, the tibia itself is not specifically necessary to win the Stanley Cup. The Stanley Cup is awarded to the team that wins the National Hockey League championship, and while having functional legs (which include the tibia) is important for playing the sport, the tibia is not a unique or specific requirement for winning the trophy. Therefore, the tibia is not necessary to win the Stanley Cup.]
+原始EM：35, 总数：41, 网络错误：0, 当前原始EM分数：85.36585365853658%, 增强EM答对：35, 当前增强EM分数：85.36585365853658%, 当前F1分数：85.36585365853658%
+##########
+##########
+ID:42
+Question:Would an ethics professor teach a class on Cezanne?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [Cezanne was an Impressionist painter, which falls under the domain of art history or art appreciation rather than ethics. While aesthetics, a branch of philosophy, deals with the arts, it is distinct from ethics, which focuses on moral principles and behavior. An ethics professor is unlikely to teach a class specifically on Cezanne, as it does not align with the core subject matter of ethics.]
+原始EM：36, 总数：42, 网络错误：0, 当前原始EM分数：85.71428571428571%, 增强EM答对：36, 当前增强EM分数：85.71428571428571%, 当前F1分数：85.71428571428571%
+##########
+##########
+ID:43
+Question:If you add water to rice pudding is it horchata?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [Horchata is a drink made by soaking dry rice in water, pulverizing and straining the mixture, and adding spices and sweetener. Rice pudding, on the other hand, includes ingredients like eggs and whole grains of cooked rice. Simply adding water to rice pudding does not transform it into horchata, as the preparation methods and ingredients are fundamentally different.]
+原始EM：37, 总数：43, 网络错误：0, 当前原始EM分数：86.04651162790698%, 增强EM答对：37, 当前增强EM分数：86.04651162790698%, 当前F1分数：86.04651162790698%
+##########
+##########
+ID:44
+Question:Can the Swiss Guard fill the Virginia General Assembly chairs?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [The Virginia General Assembly has 140 seats, while the Swiss Guard consists of only 135 men. Since the Swiss Guard has fewer members than the number of seats in the Virginia General Assembly, they cannot fill all the chairs. Therefore, the answer is no.]
+原始EM：38, 总数：44, 网络错误：0, 当前原始EM分数：86.36363636363636%, 增强EM答对：38, 当前增强EM分数：86.36363636363636%, 当前F1分数：86.36363636363636%
+##########
+##########
+ID:45
+Question:If your skin was turning the color of a zombie, could it be because of nickel?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: 
+1. The question asks if skin turning the color of a zombie could be due to nickel.
+2. Zombies are often depicted as green in pallor (Context 0).
+3. Nickel in jewelry often turns skin a greenish color (Context 1).
+4. Since the greenish color caused by nickel matches the green pallor associated with zombies, it is plausible that nickel could cause skin to turn the color of a zombie.
+5. Therefore, the answer is yes.
+原始EM：39, 总数：45, 网络错误：0, 当前原始EM分数：86.66666666666667%, 增强EM答对：39, 当前增强EM分数：86.66666666666667%, 当前F1分数：86.66666666666667%
+##########
+##########
+ID:46
+Question:Would a Dolce & Gabbana suit wearer be shunned by their Amish cousins?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: 
+1. Dolce & Gabbana is a luxury fashion brand, which contrasts with the Amish values of simplicity and plainness in clothing.
+2. The Amish frown upon buttons, and the Dolce & Gabbana suit mentioned has several buttons, which goes against Amish clothing norms.
+3. The Amish practice shunning as a way to avoid interactions with those who do not adhere to their values, including those who wear clothing that contradicts their beliefs.
+4. Therefore, a Dolce & Gabbana suit wearer would likely be shunned by their Amish cousins due to the clash in values and clothing practices.
+原始EM：40, 总数：46, 网络错误：0, 当前原始EM分数：86.95652173913044%, 增强EM答对：40, 当前增强EM分数：86.95652173913044%, 当前F1分数：86.95652173913044%
+##########
+##########
+ID:47
+Question:Is the Illuminati card game still popular?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [The context provided indicates that the Illuminati card game was released in 1982, with a collectible card game version in 1995 and the most recent edition of the base game in 2007. There is no mention of recent updates, ongoing popularity, or current activity related to the game. Given the lack of recent information, it is reasonable to conclude that the Illuminati card game is not currently popular.]
+原始EM：41, 总数：47, 网络错误：0, 当前原始EM分数：87.2340425531915%, 增强EM答对：41, 当前增强EM分数：87.2340425531915%, 当前F1分数：87.2340425531915%
+##########
+##########
+ID:48
+Question:Can a strawberry get worms similar to dogs?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: 
+1. The question asks if strawberries can get worms similar to dogs.
+2. The context mentions that strawberries can suffer from nematodes (idx 0, 3).
+3. Nematodes are also called roundworms (idx 2), which are a type of worm that dogs can suffer from (idx 1).
+4. Therefore, strawberries can get worms (nematodes) that are similar to the roundworms that affect dogs.
+5. The answer is yes.
+原始EM：42, 总数：48, 网络错误：0, 当前原始EM分数：87.5%, 增强EM答对：42, 当前增强EM分数：87.5%, 当前F1分数：87.5%
+##########
+##########
+ID:49
+Question:Is Menthol associated with Thanksgiving?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [The context provided does not associate menthol with Thanksgiving. The first context explains that menthol is the main component of peppermint oil, which is unrelated to Thanksgiving. The second context lists common Thanksgiving dishes, none of which contain menthol. Therefore, there is no evidence to suggest that menthol is associated with Thanksgiving.]
+原始EM：43, 总数：49, 网络错误：0, 当前原始EM分数：87.75510204081633%, 增强EM答对：43, 当前增强EM分数：87.75510204081633%, 当前F1分数：87.75510204081633%
+##########
+##########
+ID:50
+Question:Would someone in Mumbai refer to Solanum melongena as an eggplant?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: 
+1. The question asks whether someone in Mumbai would refer to Solanum melongena as an eggplant.
+2. The context states that Mumbai is a city in India (idx 0), and India is located in South Asia (idx 1).
+3. The context further clarifies that in South Asia, Solanum melongena is referred to as a brinjal (idx 2).
+4. Since Mumbai is in India, which is part of South Asia, the term used for Solanum melongena in Mumbai would be "brinjal," not "eggplant."
+5. Therefore, the answer is no.
+原始EM：44, 总数：50, 网络错误：0, 当前原始EM分数：88.0%, 增强EM答对：44, 当前增强EM分数：88.0%, 当前F1分数：88.0%
+##########
+##########
+ID:51
+Question:Is it okay to lie after taking an oath in a court of law?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [The context states that lying under oath in a court of law is considered perjury, and perjury is a crime. Therefore, it is not okay to lie after taking an oath in a court of law.]
+原始EM：45, 总数：51, 网络错误：0, 当前原始EM分数：88.23529411764706%, 增强EM答对：45, 当前增强EM分数：88.23529411764706%, 当前F1分数：88.23529411764706%
+##########
+##########
+ID:52
+Question:Is art prioritized in the US education system?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [The context indicates that art classes are often the first to be cut during times of low school funds, and there was a 7% decrease in schools offering visual arts curriculum between 1999 and 2009. These points suggest that art is not prioritized in the US education system, as it is frequently deprioritized in favor of other subjects or due to budget constraints.]
+原始EM：46, 总数：52, 网络错误：0, 当前原始EM分数：88.46153846153845%, 增强EM答对：46, 当前增强EM分数：88.46153846153845%, 当前F1分数：88.46153846153845%
+##########
+##########
+ID:53
+Question:While on a liquid diet, are there some types of soup you cannot eat?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: [The context mentions that Italian wedding soup and Chicken Noodle soup contain large chunks of meatballs, pasta, chicken, and noodles, which require chewing. Since a liquid diet typically consists of foods that do not require chewing and can be consumed in liquid form, these types of soups would not be suitable for a liquid diet. Therefore, there are indeed some types of soup you cannot eat while on a liquid diet.]
+原始EM：47, 总数：53, 网络错误：0, 当前原始EM分数：88.67924528301887%, 增强EM答对：47, 当前增强EM分数：88.67924528301887%, 当前F1分数：88.67924528301887%
+##########
+##########
+ID:54
+Question:Would it be impossible to use an Iwato scale for a twelve-tone technique composition?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: [The Iwato scale has only 5 pitch cases, while the twelve-tone technique requires the use of all 12 pitch classes in the chromatic scale. Since the Iwato scale does not encompass all 12 pitches, it would be impossible to use it for a twelve-tone technique composition, which demands the inclusion of all 12 pitches in a specific order and arrangement.]
+原始EM：48, 总数：54, 网络错误：0, 当前原始EM分数：88.88888888888889%, 增强EM答对：48, 当前增强EM分数：88.88888888888889%, 当前F1分数：88.88888888888889%
+##########
+##########
+ID:55
+Question:Would the Titanic be well preserved at the bottom of the Gulf of Finland?
+
+Right Answer:yes
+Answer: [no]
+Step-by-step reasoning: 
+1. The context mentions that the bottom of the Gulf of Finland is one of the world's largest ship cemeteries, with ships being relatively well preserved due to low salinity, cold waters, and the absence of shipworms.
+2. However, the Titanic did not sink in the Gulf of Finland. The Titanic sank in the North Atlantic Ocean, which has different environmental conditions compared to the Gulf of Finland.
+3. Therefore, the conditions that preserve ships in the Gulf of Finland do not apply to the Titanic, as it is located in a different body of water with different preservation factors.
+4. Consequently, the Titanic would not be well preserved at the bottom of the Gulf of Finland because it is not located there.
+原始EM：48, 总数：55, 网络错误：0, 当前原始EM分数：87.27272727272727%, 增强EM答对：48, 当前增强EM分数：87.27272727272727%, 当前F1分数：87.27272727272727%
+##########
+##########
+ID:56
+Question:Could a dandelion suffer from hepatitis?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: 
+1. Hepatitis is a condition that affects the liver.
+2. Only creatures that contain a liver can suffer from hepatitis (Context 0).
+3. The liver is an organ only found in vertebrates (Context 1).
+4. Vertebrates exist in the kingdom Animalia (Context 2).
+5. Dandelions are plants in the kingdom Plantae (Context 3).
+6. Since dandelions are plants and do not have a liver, they cannot suffer from hepatitis.
+7. Therefore, the answer is no.
+原始EM：49, 总数：56, 网络错误：0, 当前原始EM分数：87.5%, 增强EM答对：49, 当前增强EM分数：87.5%, 当前F1分数：87.5%
+##########
+##########
+ID:57
+Question:Did any country in Portuguese Colonial War share Switzerlands role in WWII?
+
+Right Answer:yes
+Answer: [no]
+Step-by-step reasoning: [The Portuguese Colonial War involved Portugal and several groups, including the People's Movement for the Liberation of Angola, as stated in the context. Switzerland remained neutral during World War II and did not get involved, as mentioned in the context. Portugal also stayed out of world affairs during World War II, as indicated in the context. Since both Portugal and Switzerland were neutral during World War II, and the Portuguese Colonial War occurred later, no country in the Portuguese Colonial War shared Switzerland's role in World War II. Therefore, the answer is no.]
+原始EM：49, 总数：57, 网络错误：0, 当前原始EM分数：85.96491228070175%, 增强EM答对：49, 当前增强EM分数：85.96491228070175%, 当前F1分数：85.96491228070175%
+##########
+##########
+ID:58
+Question:Would a week be enough time to watch every episode of Ugly Betty?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: [The context states that there are 168 hours in a week and that the entire Ugly Betty series is 85 hours long. Since 85 hours is less than 168 hours, it is possible to watch every episode of Ugly Betty within a week.]
+原始EM：50, 总数：58, 网络错误：0, 当前原始EM分数：86.20689655172413%, 增强EM答对：50, 当前增强EM分数：86.20689655172413%, 当前F1分数：86.20689655172413%
+##########
+##########
+ID:59
+Question:Would a Pict be confused by Old English?
+
+Right Answer:yes
+Answer: [yes]
+Step-by-step reasoning: 
+1. The Picts were a Celtic-speaking people, as mentioned in context 1.
+2. Old English was spoken by the Anglo-Saxons, a Germanic tribe, as stated in context 0.
+3. Gaelic and Old English are completely different languages from different branches of the Indo-European language family, as noted in context 3.
+4. Gaelic vocabulary and verb conjugation are very different from Old English, as highlighted in context 4.
+5. Since the Picts spoke a Celtic language (Pictish, which was replaced by Gaelic) and Old English is a Germanic language, the linguistic differences would likely cause confusion for a Pict encountering Old English.
+
+Therefore, a Pict would likely be confused by Old English due to the significant linguistic differences between their native Celtic language and the Germanic Old English.
+原始EM：51, 总数：59, 网络错误：0, 当前原始EM分数：86.4406779661017%, 增强EM答对：51, 当前增强EM分数：86.4406779661017%, 当前F1分数：86.4406779661017%
+##########
+##########
+ID:60
+Question:Was the Louisiana Purchase made with bitcoin?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [The Louisiana Purchase occurred in 1803, while Bitcoin was launched as a currency in 2009. Since Bitcoin did not exist at the time of the Louisiana Purchase, it could not have been used for the transaction. Therefore, the answer is no.]
+原始EM：52, 总数：60, 网络错误：0, 当前原始EM分数：86.66666666666667%, 增强EM答对：52, 当前增强EM分数：86.66666666666667%, 当前F1分数：86.66666666666667%
+##########
+##########
+ID:61
+Question:Did Japanese serfdom have higher status than English counterpart?
+
+Right Answer:yes
+Answer: [no]
+Step-by-step reasoning: 
+1. The context describes serfs in Medieval England as indentured servants to their lords, indicating a low status with little legal protection.
+2. Japanese serfs are described as farmers and fishermen, but there is no direct comparison of their status to English serfs.
+3. The context mentions that Japanese serfs were valued for producing food, which was essential for all classes, but this does not imply a higher status compared to English serfs.
+4. Without explicit evidence showing that Japanese serfs had higher status than their English counterparts, the answer is no.
+原始EM：52, 总数：61, 网络错误：0, 当前原始EM分数：85.24590163934425%, 增强EM答对：52, 当前增强EM分数：85.24590163934425%, 当前F1分数：85.24590163934425%
+##########
+##########
+ID:62
+Question:Is the best tasting part of the papaya in the center?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [The context mentions that the center of a papaya contains a cluster of seeds, which are often discarded for the soft flesh that surrounds them. This implies that the best tasting part of the papaya is not in the center but rather in the surrounding flesh. Therefore, the answer is no.]
+原始EM：53, 总数：62, 网络错误：0, 当前原始EM分数：85.48387096774194%, 增强EM答对：53, 当前增强EM分数：85.48387096774194%, 当前F1分数：85.48387096774194%
+##########
+##########
+ID:63
+Question:Could Lil Wayne's children ride in a Chevrolet Corvette ZR1 together?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: [Lil Wayne has four children, and a Chevrolet Corvette ZR1 has only 2 seats. Since the car cannot accommodate all four children at the same time, they could not ride together in the Chevrolet Corvette ZR1.]
+原始EM：54, 总数：63, 网络错误：0, 当前原始EM分数：85.71428571428571%, 增强EM答对：54, 当前增强EM分数：85.71428571428571%, 当前F1分数：85.71428571428571%
+##########
+##########
+ID:64
+Question:Is double duty an incorrect phrase for host of Dancing With The Stars?
+
+Right Answer:no
+Answer: [no]
+Step-by-step reasoning: 
+1. The context states that "Double duty refers to having more than one job at the same time."
+2. The context also mentions that Tom Bergeron is the host of both "Dancing With The Stars" and "America's Funniest Home Videos."
+3. Since Tom Bergeron holds two hosting jobs simultaneously, the phrase "double duty" is appropriate to describe his situation.
+4. Therefore, "double duty" is not an incorrect phrase for the host of "Dancing With The Stars."
+原始EM：55, 总数：64, 网络错误：0, 当前原始EM分数：85.9375%, 增强EM答对：55, 当前增强EM分数：85.9375%, 当前F1分数：85.9375%
+##########
+##########
+ID:65
+Question:Could Lil Wayne legally operate a vehicle on his own at the beginning of his career?
+
+Right Answer:no

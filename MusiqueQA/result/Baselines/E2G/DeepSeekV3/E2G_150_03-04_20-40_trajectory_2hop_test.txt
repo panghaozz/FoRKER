@@ -1,0 +1,319 @@
+##########
+ID:1
+Question:Who is the spouse of the Green performer?
+
+Right Answer:Miquette Giraudy
+Answer: Miquette Giraudy
+Evidence and explanation: The reasoning steps indicate that "Green >> performer >>>> Steve Hillage" and "Steve Hillage >> spouse >>>> Miquette Giraudy." This means that the performer associated with "Green" is Steve Hillage, and his spouse is Miquette Giraudy. Context 5 provides additional evidence, stating that Miquette Giraudy is a keyboard player and vocalist best known for her work with her partner Steve Hillage.
+Step-by-step reasoning with evidence and explanation: 
+1. The reasoning steps guide us to identify the performer associated with "Green" as Steve Hillage.
+2. The reasoning steps further indicate that Steve Hillage's spouse is Miquette Giraudy.
+3. Context 5 corroborates this information by describing Miquette Giraudy as a keyboard player and vocalist who works with her partner Steve Hillage.
+4. Therefore, the spouse of the Green performer (Steve Hillage) is Miquette Giraudy.
+原始EM：1, 总数：1, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：1, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:2
+Question:Who founded the company that distributed the film UHF?
+
+Right Answer:Mike Medavoy
+Answer: Mike Medavoy  
+Evidence and explanation: The film "UHF" was distributed by Orion Pictures, as stated in the context: "They struggled with finding a film production company for financing the film, but were eventually able to get Orion Pictures' support after stating they could keep the film costs under $5 million." Additionally, Mike Medavoy is identified as the co-founder of Orion Pictures in the context: "Morris Mike Medavoy (born January 21, 1941) is an American film producer and executive, co-founder of Orion Pictures (1978)."  
+
+Step-by-step reasoning with evidence and explanation:  
+1. The film "UHF" was distributed by Orion Pictures, as confirmed by the context: "They struggled with finding a film production company for financing the film, but were eventually able to get Orion Pictures' support after stating they could keep the film costs under $5 million."  
+2. Orion Pictures was co-founded by Mike Medavoy, as stated in the context: "Morris Mike Medavoy (born January 21, 1941) is an American film producer and executive, co-founder of Orion Pictures (1978)."  
+3. Therefore, Mike Medavoy is the founder of the company that distributed the film "UHF."
+原始EM：2, 总数：2, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：2, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:3
+Question:What administrative territorial entity is the owner of Ciudad Deportiva located?
+
+Right Answer:Tamaulipas
+Answer: Tamaulipas
+Evidence and explanation: The Ciudad Deportiva is located in Nuevo Laredo, which is a municipality in the Mexican state of Tamaulipas. This is evidenced by the context provided in the reasoning steps and the context from the Nuevo Laredo Municipality entry.
+Step-by-step reasoning with evidence and explanation: 
+1. The reasoning step "Ciudad Deportiva >> owned by >>>> Nuevo Laredo" indicates that the Ciudad Deportiva is owned by Nuevo Laredo.
+2. The reasoning step "Nuevo Laredo >> located in the administrative territorial entity >>>> Tamaulipas" indicates that Nuevo Laredo is located in the administrative territorial entity of Tamaulipas.
+3. Therefore, the administrative territorial entity that owns the Ciudad Deportiva is Tamaulipas. This is further supported by the context from the Nuevo Laredo Municipality entry, which states that the Municipality of Nuevo Laredo is located in the Mexican state of Tamaulipas.
+原始EM：3, 总数：3, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：3, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:4
+Question:Where is Ulrich Walter's employer headquartered?
+
+Right Answer:Cologne
+Answer: Cologne
+Evidence and explanation: The reasoning steps indicate that Ulrich Walter's employer is the German Aerospace Center, and the headquarters of the German Aerospace Center is located in Cologne.
+Step-by-step reasoning with evidence and explanation: 
+1. Ulrich Walter's employer is identified as the German Aerospace Center (from the reasoning step: "Ulrich Walter >> employer >>>> German Aerospace Center").
+2. The headquarters location of the German Aerospace Center is identified as Cologne (from the reasoning step: "German Aerospace Center >> headquarters location >>>> Cologne").
+3. Therefore, Ulrich Walter's employer, the German Aerospace Center, is headquartered in Cologne.
+原始EM：4, 总数：4, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：4, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:5
+Question:Which company owns the manufacturer of Learjet 60?
+
+Right Answer:Bombardier Inc.
+Answer: Bombardier Inc.
+Evidence and explanation: The Learjet 60 is manufactured by Bombardier Aerospace, as stated in the context: "The Learjet 60 is a mid-size cabin, medium-range business jet aircraft manufactured by Bombardier Aerospace in Wichita, Kansas." Additionally, Bombardier Aerospace is a division of Bombardier Inc., as mentioned in the context: "Produced by Bombardier Aerospace, aerospace division of the Canadian aerospace and defence company Bombardier Inc."
+Step-by-step reasoning with evidence and explanation: 
+1. The Learjet 60 is manufactured by Bombardier Aerospace, as evidenced by the context: "The Learjet 60 is a mid-size cabin, medium-range business jet aircraft manufactured by Bombardier Aerospace in Wichita, Kansas."
+2. Bombardier Aerospace is a division of Bombardier Inc., as stated in the context: "Produced by Bombardier Aerospace, aerospace division of the Canadian aerospace and defence company Bombardier Inc."
+3. Therefore, Bombardier Inc. owns the manufacturer of the Learjet 60, which is Bombardier Aerospace.
+原始EM：5, 总数：5, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：5, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:6
+Question:Who is the child of Caroline LeRoy's spouse?
+
+Right Answer:Fletcher Webster
+Answer: Fletcher Webster
+Evidence and explanation: The evidence comes from the context provided, specifically from the paragraph about Fletcher Webster, which states that he is the son of Daniel Webster and Grace Fletcher Webster. Since Caroline LeRoy's spouse is Daniel Webster, Fletcher Webster is their child.
+Step-by-step reasoning with evidence and explanation: 
+1. From the reasoning steps, we know that Caroline LeRoy's spouse is Daniel Webster.
+2. The context provided includes a paragraph about Fletcher Webster, stating that he is the son of Daniel Webster and Grace Fletcher Webster.
+3. Therefore, Fletcher Webster is the child of Caroline LeRoy's spouse, Daniel Webster.
+原始EM：6, 总数：6, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：6, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:7
+Question:Who is the grandmother of Philippe, Duke of Orléans?
+
+Right Answer:Marie de' Medici
+Answer: Marie de' Medici
+Evidence and explanation: The reasoning steps indicate that Philippe, Duke of Orléans' father is Louis XIII, and Louis XIII's mother is Marie de' Medici. Therefore, Marie de' Medici is the grandmother of Philippe, Duke of Orléans.
+Step-by-step reasoning with evidence and explanation: 
+1. According to the reasoning steps, Philippe, Duke of Orléans' father is Louis XIII. This is supported by context 8, which states, "Philippe, Duke of Orléans (21 September 1640 – 9 June 1701) was the younger son of Louis XIII of France and his wife, Anne of Austria."
+2. The reasoning steps also indicate that Louis XIII's mother is Marie de' Medici. This is corroborated by context 14, which mentions, "Leonora Dori Galigaï (19 May 1568 – 8 July 1617) was a French courtier of Italian origin, an influential favourite of the French regent Marie de' Medici, mother of King Louis XIII of France."
+3. Therefore, Marie de' Medici is the grandmother of Philippe, Duke of Orléans, as she is the mother of Louis XIII, who is the father of Philippe, Duke of Orléans.
+原始EM：7, 总数：7, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：7, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:8
+Question:What is the goal of the group that European Movement Germany is a member of?
+
+Right Answer:European integration
+Answer: The goal of the group that European Movement Germany is a member of is to promote European integration and disseminate information about it.
+
+Evidence and explanation: 
+- European Movement Germany is a member of the European Movement International, as indicated by the reasoning step: "European Movement Germany >> member of >>>> European Movement International."
+- The European Movement International is described as a lobbying association that coordinates efforts to promote European integration and disseminate information about it, as stated in context 17: "The European Movement International is a lobbying association that coordinates the efforts of associations and national councils with the goal of promoting European integration, and disseminating information about it."
+
+Step-by-step reasoning with evidence and explanation:
+1. European Movement Germany is a member of the European Movement International, as per the reasoning step: "European Movement Germany >> member of >>>> European Movement International."
+2. The European Movement International's goal is to promote European integration and disseminate information about it, as evidenced by context 17: "The European Movement International is a lobbying association that coordinates the efforts of associations and national councils with the goal of promoting European integration, and disseminating information about it."
+3. Therefore, the goal of the group that European Movement Germany is a member of is to promote European integration and disseminate information about it.
+原始EM：7, 总数：8, 网络错误：0, 当前原始EM分数：87.5%, 增强EM答对：7, 当前增强EM分数：87.5%, 当前F1分数：89.77272727272727%
+##########
+##########
+ID:9
+Question:What company succeeded the owner of Empire Sports Network?
+
+Right Answer:Time Warner Cable
+Answer: Time Warner Cable
+Evidence and explanation: The evidence is derived from the reasoning steps provided: "Empire Sports Network >> owned by >>>> Adelphia Communications Corporation" and "Adelphia Communications Corporation >> followed by >>>> Time Warner Cable." This indicates that Time Warner Cable succeeded Adelphia Communications Corporation, which was the owner of Empire Sports Network.
+Step-by-step reasoning with evidence and explanation: 
+1. The first reasoning step states that Empire Sports Network was owned by Adelphia Communications Corporation. This is supported by the context in idx 2, which confirms that Empire Sports Network was owned by Adelphia Communications Corporation.
+2. The second reasoning step states that Adelphia Communications Corporation was followed by Time Warner Cable. This is supported by the context in idx 16, which mentions that Time Warner Cable acquired systems from the bankrupt Adelphia.
+3. Therefore, Time Warner Cable succeeded Adelphia Communications Corporation, which was the owner of Empire Sports Network. This makes Time Warner Cable the company that succeeded the owner of Empire Sports Network.
+原始EM：8, 总数：9, 网络错误：0, 当前原始EM分数：88.88888888888889%, 增强EM答对：8, 当前增强EM分数：88.88888888888889%, 当前F1分数：90.9090909090909%
+##########
+##########
+ID:10
+Question:What province shares a border with the province where Lago District is located?
+
+Right Answer:Cabo Delgado Province
+Answer: Cabo Delgado Province
+Evidence and explanation: The Lago District is located in Niassa Province, Mozambique, as stated in the context: "Lago District is a district of Niassa Province in north-western Mozambique." Additionally, the reasoning steps indicate that Niassa Province shares a border with Cabo Delgado Province: "Niassa Province >> shares border with >>>> Cabo Delgado Province."
+Step-by-step reasoning with evidence and explanation: 
+1. The Lago District is located in Niassa Province, as confirmed by the context: "Lago District is a district of Niassa Province in north-western Mozambique."
+2. According to the reasoning steps, Niassa Province shares a border with Cabo Delgado Province: "Niassa Province >> shares border with >>>> Cabo Delgado Province."
+3. Therefore, the province that shares a border with the province where Lago District is located is Cabo Delgado Province.
+原始EM：9, 总数：10, 网络错误：0, 当前原始EM分数：90.0%, 增强EM答对：9, 当前增强EM分数：90.0%, 当前F1分数：91.81818181818183%
+##########
+##########
+ID:11
+Question:What league does the team that plays in Stadio Ciro Vigorito play for?
+
+Right Answer:Lega Pro Prima Divisione
+Answer: Lega Pro Prima Divisione
+Evidence and explanation: The team that plays in Stadio Ciro Vigorito is Benevento Calcio, as stated in the context: "Stadio Ciro Vigorito is a multi-use stadium in Benevento, Italy. It is currently used mostly for football matches and is the home stadium of Benevento Calcio." Additionally, the context mentions that Benevento Calcio plays in the Lega Pro Prima Divisione: "Carmelo Imbriani was an Italian footballer and former coach of Benevento in Lega Pro Prima Divisione."
+Step-by-step reasoning with evidence and explanation: 
+1. Identify the team that plays in Stadio Ciro Vigorito: The context states that Stadio Ciro Vigorito is the home stadium of Benevento Calcio.
+2. Determine the league in which Benevento Calcio plays: The context mentions that Carmelo Imbriani was a coach of Benevento in Lega Pro Prima Divisione, indicating that Benevento Calcio plays in this league.
+3. Conclude that the team playing in Stadio Ciro Vigorito is in the Lega Pro Prima Divisione.
+原始EM：10, 总数：11, 网络错误：0, 当前原始EM分数：90.9090909090909%, 增强EM答对：10, 当前增强EM分数：90.9090909090909%, 当前F1分数：92.56198347107438%
+##########
+##########
+ID:12
+Question:What is a notable work written by the author of The Timothy files?
+
+Right Answer:Anderson Tapes
+Answer: Anderson Tapes
+Evidence and explanation: The author of "The Timothy Files" is Lawrence Sanders, as stated in the context: "The Timothy Files is a 1987 best selling work of fiction by Lawrence Sanders." A notable work by Lawrence Sanders is "The Anderson Tapes," as indicated in the reasoning steps: "Lawrence Sanders >> notable work >>>> Anderson Tapes."
+Step-by-step reasoning with evidence and explanation: 
+1. Identify the author of "The Timothy Files" from the context: "The Timothy Files is a 1987 best selling work of fiction by Lawrence Sanders." This confirms that Lawrence Sanders is the author.
+2. Use the reasoning step provided: "Lawrence Sanders >> notable work >>>> Anderson Tapes." This directly states that "The Anderson Tapes" is a notable work by Lawrence Sanders.
+3. Conclude that "The Anderson Tapes" is a notable work written by the author of "The Timothy Files," based on the evidence and reasoning steps provided.
+原始EM：11, 总数：12, 网络错误：0, 当前原始EM分数：91.66666666666666%, 增强EM答对：11, 当前增强EM分数：91.66666666666666%, 当前F1分数：93.18181818181817%
+##########
+##########
+ID:13
+Question:In which borough was Callum McManaman born?
+
+Right Answer:Knowsley
+Answer: Knowsley
+Evidence and explanation: Callum McManaman was born in Whiston, Merseyside, as stated in the context: "Born in Whiston, Merseyside, lived and brought up in Rainhill, Merseyside, McManaman began his youth career at Everton before being released in 2007 and joining Wigan Athletic." Whiston is located within the Metropolitan Borough of Knowsley, as confirmed by the context: "Whiston is a large village and civil parish within the Metropolitan Borough of Knowsley in Merseyside, England."
+Step-by-step reasoning with evidence and explanation: 
+1. The context states that Callum McManaman was born in Whiston, Merseyside.
+2. Another piece of context confirms that Whiston is within the Metropolitan Borough of Knowsley in Merseyside, England.
+3. Therefore, Callum McManaman was born in the borough of Knowsley.
+原始EM：12, 总数：13, 网络错误：0, 当前原始EM分数：92.3076923076923%, 增强EM答对：12, 当前增强EM分数：92.3076923076923%, 当前F1分数：93.7062937062937%
+##########
+##########
+ID:14
+Question:What other county does the county where Imperial is located share a border with?
+
+Right Answer:Crockett County
+Answer: Crockett County
+Evidence and explanation: The context provided includes information about Imperial being located in Pecos County, Texas (from context idx 17: "Imperial is a census-designated place (CDP) in Pecos County, Texas, United States."). Additionally, context idx 12 mentions that Lancaster Crossing, a historic ford and ferry on the Pecos River, is located between Crockett County and Pecos County. This indicates that Pecos County shares a border with Crockett County.
+Step-by-step reasoning with evidence and explanation: 
+1. Imperial is located in Pecos County, Texas (context idx 17).
+2. Lancaster Crossing, a historic ford and ferry on the Pecos River, is situated between Crockett County and Pecos County (context idx 12).
+3. Therefore, Pecos County shares a border with Crockett County.
+4. Consequently, the county where Imperial is located (Pecos County) shares a border with Crockett County.
+原始EM：13, 总数：14, 网络错误：0, 当前原始EM分数：92.85714285714286%, 增强EM答对：13, 当前增强EM分数：92.85714285714286%, 当前F1分数：94.15584415584416%
+##########
+##########
+ID:15
+Question:In what county is William W. Blair's birthplace located?
+
+Right Answer:Orleans County
+Answer: Orleans County
+Evidence and explanation: The evidence is found in the context provided, specifically in the paragraph about Holley, New York, which states that Holley is a village in the town of Murray in Orleans County, New York. Since William W. Blair was born in Holley, as mentioned in the context about William W. Blair, his birthplace is therefore located in Orleans County.
+Step-by-step reasoning with evidence and explanation: 
+1. The context about William W. Blair states that he was born in Holley, New York.
+2. The context about Holley, New York, states that Holley is a village in the town of Murray in Orleans County, New York.
+3. Therefore, William W. Blair's birthplace, Holley, is located in Orleans County.
+原始EM：14, 总数：15, 网络错误：0, 当前原始EM分数：93.33333333333333%, 增强EM答对：14, 当前增强EM分数：93.33333333333333%, 当前F1分数：94.54545454545455%
+##########
+##########
+ID:16
+Question:What award did the author of The Red Tree receive?
+
+Right Answer:Academy Award for Best Animated Short Film
+Answer: Academy Award for Best Animated Short Film
+Evidence and explanation: The author of "The Red Tree" is Shaun Tan. According to the context, Shaun Tan co-directed "The Lost Thing," which won an Academy Award for Best Animated Short Film in 2011.
+Step-by-step reasoning with evidence and explanation: 
+1. The author of "The Red Tree" is identified as Shaun Tan (Reasoning Step: 'The Red Tree >> author >>>> Shaun Tan').
+2. The context provided in the passage from "Passion Pictures" states that Shaun Tan co-directed "The Lost Thing," which won an Academy Award for Best Animated Short Film in 2011 (Context: {'idx': 4, 'paragraph_text': 'The company\'s core business is in commercial and animation output, which includes work for Cartoon Network, music videos for Gorillaz, and the Compare the Market.com commercial campaign featuring Aleksandr Orlov (meerkat). Passion Australia produced "The Lost Thing", directed by Andrew Ruhemann and Shaun Tan, which won an Academy Award for Best Animated Short Film in 2011.', 'title': 'Passion Pictures'}).
+3. Therefore, Shaun Tan received the Academy Award for Best Animated Short Film for his work on "The Lost Thing."
+原始EM：15, 总数：16, 网络错误：0, 当前原始EM分数：93.75%, 增强EM答对：15, 当前增强EM分数：93.75%, 当前F1分数：94.88636363636364%
+##########
+##########
+ID:17
+Question:Where was Tyler MacDuff's child educated?
+
+Right Answer:Blair High School
+Answer: Blair High School
+Evidence and explanation: The context provided indicates that Dana MacDuff, who is Tyler MacDuff's child, graduated from Blair International Baccalaureate School in Pasadena. This information is found in the paragraph text of context index 14, which states, "He graduated in 1974 from Blair International Baccalaureate School in Pasadena."
+Step-by-step reasoning with evidence and explanation: 
+1. The reasoning steps indicate that Tyler MacDuff's child is Dana MacDuff.
+2. The reasoning steps further indicate that Dana MacDuff was educated at Blair High School.
+3. The context provided in index 14 confirms that Dana MacDuff graduated from Blair International Baccalaureate School in Pasadena, which aligns with the reasoning steps.
+4. Therefore, the evidence supports the conclusion that Tyler MacDuff's child, Dana MacDuff, was educated at Blair High School.
+原始EM：16, 总数：17, 网络错误：0, 当前原始EM分数：94.11764705882352%, 增强EM答对：16, 当前增强EM分数：94.11764705882352%, 当前F1分数：95.18716577540106%
+##########
+##########
+ID:18
+Question:Who is the spouse of the Rabbit Hole's producer?
+
+Right Answer:Keith Urban
+Answer: Keith Urban
+Evidence and explanation: The question asks for the spouse of the producer of "Rabbit Hole." According to the reasoning steps provided, "Rabbit Hole" was produced by Nicole Kidman, and Nicole Kidman's spouse is Keith Urban. This information is supported by the context provided in the reasoning steps.
+Step-by-step reasoning with evidence and explanation: 
+1. The reasoning step "Rabbit Hole >> producer >>>> Nicole Kidman" indicates that Nicole Kidman is the producer of "Rabbit Hole."
+2. The next reasoning step "Nicole Kidman >> spouse >>>> Keith Urban" indicates that Keith Urban is the spouse of Nicole Kidman.
+3. Therefore, the spouse of the producer of "Rabbit Hole" is Keith Urban.
+4. This conclusion is based on the direct linkage provided in the reasoning steps, which are supported by the context of the question.
+原始EM：17, 总数：18, 网络错误：0, 当前原始EM分数：94.44444444444444%, 增强EM答对：17, 当前增强EM分数：94.44444444444444%, 当前F1分数：95.45454545454545%
+##########
+##########
+ID:19
+Question:Who is the child of Sigrid Eskilsdotter's child?
+
+Right Answer:Svante Stensson Sture
+Answer: Svante Stensson Sture
+Evidence and explanation: The reasoning steps provided indicate that Sigrid Eskilsdotter's child is Christina Gyllenstierna, and Christina Gyllenstierna's child is Svante Stensson Sture. This information is supported by the context in paragraph 4, which states that Sigrid Sture was the daughter of Svante Stensson Sture and Märta Erikdotter Leijonhufvud, and the granddaughter of Christina Gyllenstierna.
+Step-by-step reasoning with evidence and explanation: 
+1. According to the reasoning steps, Sigrid Eskilsdotter's child is Christina Gyllenstierna. This is supported by paragraph 15, which states that Sigrid Eskilsdotter was the mother of Christina Gyllenstierna.
+2. The reasoning steps further indicate that Christina Gyllenstierna's child is Svante Stensson Sture. This is corroborated by paragraph 4, which mentions that Sigrid Sture (the daughter of Svante Stensson Sture) was the granddaughter of Christina Gyllenstierna, implying that Svante Stensson Sture is the child of Christina Gyllenstierna.
+3. Therefore, the child of Sigrid Eskilsdotter's child (Christina Gyllenstierna) is Svante Stensson Sture.
+原始EM：18, 总数：19, 网络错误：0, 当前原始EM分数：94.73684210526315%, 增强EM答对：18, 当前增强EM分数：94.73684210526315%, 当前F1分数：95.69377990430621%
+##########
+##########
+ID:20
+Question:In which county is Kimbrough Memorial Stadium located?
+
+Right Answer:Randall County
+Answer: Randall County
+Evidence and explanation: The evidence is derived from the context provided, specifically from the information about Kimbrough Memorial Stadium and Canyon, Texas.
+Step-by-step reasoning with evidence and explanation: 
+1. Kimbrough Memorial Stadium is located in Canyon, Texas, as stated in the context: "Kimbrough Memorial Stadium is a stadium in Canyon, Texas" (Context idx 4).
+2. Canyon, Texas, is the county seat of Randall County, as mentioned in the context: "Canyon is a city in, and the county seat of, Randall County, Texas, United States" (Context idx 16).
+3. Therefore, Kimbrough Memorial Stadium is located in Randall County, Texas.
+原始EM：19, 总数：20, 网络错误：0, 当前原始EM分数：95.0%, 增强EM答对：19, 当前增强EM分数：95.0%, 当前F1分数：95.9090909090909%
+##########
+##########
+ID:21
+Question:What record label is the performer of Almost Made Ya signed to?
+
+Right Answer:Derrty Entertainment
+Answer: Derrty Entertainment
+Evidence and explanation: The performer of "Almost Made Ya" is Ali & Gipp, as stated in the context. The reasoning steps indicate that Ali & Gipp are signed to Derrty Entertainment.
+Step-by-step reasoning with evidence and explanation: 
+1. The performer of "Almost Made Ya" is identified as Ali & Gipp, as mentioned in the context: "Almost Made Ya is an R&B song by American duo Ali & Gipp" (Context idx 7).
+2. The reasoning steps provided confirm that Ali & Gipp are signed to Derrty Entertainment: "Ali & Gipp >> record label >>>> Derrty Entertainment" (Reasoning Steps).
+3. Therefore, the record label for the performer of "Almost Made Ya" is Derrty Entertainment.
+原始EM：20, 总数：21, 网络错误：0, 当前原始EM分数：95.23809523809523%, 增强EM答对：20, 当前增强EM分数：95.23809523809523%, 当前F1分数：96.10389610389609%
+##########
+##########
+ID:22
+Question:Where was the author of Hannibal and Scipio educated at?
+
+Right Answer:Exeter College
+Answer: Exeter College
+Evidence and explanation: The author of "Hannibal and Scipio" is Thomas Nabbes, as indicated by the context in idx 12. According to the context in idx 9, Thomas Nabbes was educated at Exeter College, Oxford in 1621.
+Step-by-step reasoning with evidence and explanation: 
+1. Identify the author of "Hannibal and Scipio": The context in idx 12 states that "Hannibal and Scipio is a Caroline era stage play, a classical tragedy written by Thomas Nabbes." This confirms that Thomas Nabbes is the author.
+2. Determine where Thomas Nabbes was educated: The context in idx 9 provides the information that "He was born in humble circumstances in Worcestershire, and educated at Exeter College, Oxford in 1621." This directly answers the question about where the author was educated.
+3. Conclusion: Based on the evidence, Thomas Nabbes, the author of "Hannibal and Scipio," was educated at Exeter College.
+原始EM：21, 总数：22, 网络错误：0, 当前原始EM分数：95.45454545454545%, 增强EM答对：21, 当前增强EM分数：95.45454545454545%, 当前F1分数：96.28099173553719%
+##########
+##########
+ID:23
+Question:In which county is Southern Maryland Electric Cooperative headquartered?
+
+Right Answer:Charles County
+Answer: Charles County
+Evidence and explanation: The Southern Maryland Electric Cooperative (SMECO) is headquartered in Hughesville, Maryland, as stated in context 3. Hughesville is located in Charles County, Maryland, as confirmed in context 7.
+Step-by-step reasoning with evidence and explanation: 
+1. The Southern Maryland Electric Cooperative (SMECO) is headquartered in Hughesville, Maryland, according to context 3: "The Southern Maryland Electric Cooperative (SMECO) is an electric distribution cooperative which is headquartered in Hughesville, Maryland."
+2. Hughesville is located in Charles County, Maryland, as stated in context 7: "Hughesville is a census-designated place (CDP) in Charles County, Maryland, United States."
+3. Therefore, the Southern Maryland Electric Cooperative is headquartered in Charles County, Maryland.
+原始EM：22, 总数：23, 网络错误：0, 当前原始EM分数：95.65217391304348%, 增强EM答对：22, 当前增强EM分数：95.65217391304348%, 当前F1分数：96.44268774703556%
+##########
+##########
+ID:24
+Question:Who is the child of the Victim of Romance performer?
+
+Right Answer:Chynna Phillips
+Answer: Chynna Phillips
+Evidence and explanation: The reasoning steps indicate that Michelle Phillips is the performer of "Victim of Romance," and Chynna Phillips is her child. This is supported by the context in item 15, which states that "Victim of Romance" is Michelle Phillips' first and only solo album. Additionally, item 8 confirms that Chynna Phillips is the daughter of Michelle Phillips, as it mentions that Wilson Phillips consists of Chynna Phillips, the daughter of Michelle Phillips.
+Step-by-step reasoning with evidence and explanation: 
+1. The reasoning step "Victim of Romance >> performer >>>> Michelle Phillips" is supported by context item 15, which states that "Victim of Romance" is Michelle Phillips' first and only solo album.
+2. The reasoning step "Michelle Phillips >> child >>>> Chynna Phillips" is supported by context item 8, which mentions that Wilson Phillips consists of Chynna Phillips, the daughter of Michelle Phillips.
+3. Therefore, the child of the performer of "Victim of Romance" is Chynna Phillips.

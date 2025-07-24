@@ -1,0 +1,579 @@
+##########
+ID:1
+Question:Who is the spouse of the Green performer?
+
+Right Answer:Miquette Giraudy
+Answer: Miquette Giraudy
+
+Step-by-step reasoning: 
+1. The claim asks for the spouse of the "Green performer."
+2. From the reasoning steps, we identify that "Green" refers to "Steve Hillage," who is a performer.
+3. The reasoning steps further indicate that "Steve Hillage" has a spouse named "Miquette Giraudy."
+4. Therefore, the spouse of the Green performer (Steve Hillage) is Miquette Giraudy.
+原始EM：1, 总数：1, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：1, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:2
+Question:Who founded the company that distributed the film UHF?
+
+Right Answer:Mike Medavoy
+Answer: Mike Medavoy
+
+Step-by-step reasoning: 
+1. The film "UHF" was distributed by Orion Pictures.
+2. According to the reasoning steps, Orion Pictures was founded by Mike Medavoy.
+3. Therefore, the founder of the company that distributed the film "UHF" is Mike Medavoy.
+原始EM：2, 总数：2, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：2, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:3
+Question:What administrative territorial entity is the owner of Ciudad Deportiva located?
+
+Right Answer:Tamaulipas
+Answer: Tamaulipas
+
+Step-by-step reasoning: 
+1. The claim is about the ownership of Ciudad Deportiva.
+2. According to the reasoning steps, Ciudad Deportiva is owned by Nuevo Laredo.
+3. The next reasoning step indicates that Nuevo Laredo is located in the administrative territorial entity of Tamaulipas.
+4. Therefore, since Ciudad Deportiva is owned by Nuevo Laredo, and Nuevo Laredo is in Tamaulipas, it follows that the administrative territorial entity that owns Ciudad Deportiva is Tamaulipas.
+原始EM：3, 总数：3, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：3, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:4
+Question:Where is Ulrich Walter's employer headquartered?
+
+Right Answer:Cologne
+Answer: Cologne
+
+Step-by-step reasoning: 
+1. The reasoning steps indicate that Ulrich Walter's employer is the German Aerospace Center.
+2. The next step in the reasoning states that the headquarters of the German Aerospace Center is located in Cologne.
+3. Therefore, based on the provided reasoning steps, the answer to the question about where Ulrich Walter's employer is headquartered is Cologne.
+原始EM：4, 总数：4, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：4, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:5
+Question:Which company owns the manufacturer of Learjet 60?
+
+Right Answer:Bombardier Inc.
+Answer: Bombardier Inc.
+
+Step-by-step reasoning: 
+1. The claim is about identifying the company that owns the manufacturer of the Learjet 60.
+2. From the reasoning steps, we see that the Learjet 60 is manufactured by Bombardier Aerospace.
+3. The next step indicates that Bombardier Aerospace is owned by Bombardier Inc.
+4. Therefore, the company that owns the manufacturer of Learjet 60 is Bombardier Inc.
+原始EM：5, 总数：5, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：5, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:6
+Question:Who is the child of Caroline LeRoy's spouse?
+
+Right Answer:Fletcher Webster
+Answer: Fletcher Webster
+
+Step-by-step reasoning: 
+1. The claim asks for the child of Caroline LeRoy's spouse.
+2. From the reasoning steps, we see that Caroline LeRoy's spouse is Daniel Webster.
+3. The reasoning step indicates that Daniel Webster has a child named Fletcher Webster.
+4. Therefore, the child of Caroline LeRoy's spouse (Daniel Webster) is Fletcher Webster.
+原始EM：6, 总数：6, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：6, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:7
+Question:Who is the grandmother of Philippe, Duke of Orléans?
+
+Right Answer:Marie de' Medici
+Answer: Marie de' Medici
+
+Step-by-step reasoning: 
+1. The claim asks for the grandmother of Philippe, Duke of Orléans.
+2. According to the reasoning steps, Philippe, Duke of Orléans is the son of Louis XIII.
+3. The reasoning steps further indicate that Louis XIII's mother is Marie de' Medici.
+4. Therefore, since Marie de' Medici is the mother of Louis XIII, she is the grandmother of Philippe, Duke of Orléans.
+原始EM：7, 总数：7, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：7, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:8
+Question:What is the goal of the group that European Movement Germany is a member of?
+
+Right Answer:European integration
+Answer: The goal of the group that European Movement Germany is a member of is to promote European integration.
+
+Step-by-step reasoning: 
+1. The reasoning steps indicate that European Movement Germany is a member of European Movement International.
+2. The context provided states that the European Movement International is a lobbying association that coordinates efforts to promote European integration and disseminate information about it.
+3. Therefore, since European Movement Germany is part of this international organization, its goal aligns with the overarching goal of promoting European integration.
+原始EM：7, 总数：8, 网络错误：0, 当前原始EM分数：87.5%, 增强EM答对：7, 当前增强EM分数：87.5%, 当前F1分数：90.44117647058823%
+##########
+##########
+ID:9
+Question:What company succeeded the owner of Empire Sports Network?
+
+Right Answer:Time Warner Cable
+Answer: Time Warner Cable
+
+Step-by-step reasoning: 
+1. The claim asks for the company that succeeded the owner of Empire Sports Network.
+2. From the reasoning steps, we know that Empire Sports Network was owned by Adelphia Communications Corporation.
+3. The next step in the reasoning indicates that Adelphia Communications Corporation was followed by Time Warner Cable.
+4. Therefore, Time Warner Cable is the company that succeeded Adelphia Communications Corporation, the owner of Empire Sports Network.
+原始EM：8, 总数：9, 网络错误：0, 当前原始EM分数：88.88888888888889%, 增强EM答对：8, 当前增强EM分数：88.88888888888889%, 当前F1分数：91.5032679738562%
+##########
+##########
+ID:10
+Question:What province shares a border with the province where Lago District is located?
+
+Right Answer:Cabo Delgado Province
+Answer: Cabo Delgado Province
+
+Step-by-step reasoning: 
+1. The claim is asking for the province that shares a border with the province where Lago District is located.
+2. From the reasoning steps, we know that Lago District is located in Niassa Province.
+3. The next step indicates that Niassa Province shares a border with Cabo Delgado Province.
+4. Therefore, the province that shares a border with Niassa Province (where Lago District is located) is Cabo Delgado Province.
+原始EM：9, 总数：10, 网络错误：0, 当前原始EM分数：90.0%, 增强EM答对：9, 当前增强EM分数：90.0%, 当前F1分数：92.35294117647058%
+##########
+##########
+ID:11
+Question:What league does the team that plays in Stadio Ciro Vigorito play for?
+
+Right Answer:Lega Pro Prima Divisione
+Answer: Lega Pro Prima Divisione
+
+Step-by-step reasoning: 
+1. The reasoning steps indicate that Stadio Ciro Vigorito is occupied by Benevento Calcio.
+2. The next reasoning step states that Benevento Calcio plays in the Lega Pro Prima Divisione.
+3. Therefore, since Benevento Calcio is the team that plays in Stadio Ciro Vigorito, it follows that the league they play for is Lega Pro Prima Divisione.
+原始EM：10, 总数：11, 网络错误：0, 当前原始EM分数：90.9090909090909%, 增强EM答对：10, 当前增强EM分数：90.9090909090909%, 当前F1分数：93.04812834224599%
+##########
+##########
+ID:12
+Question:What is a notable work written by the author of The Timothy files?
+
+Right Answer:Anderson Tapes
+Answer: The Anderson Tapes
+
+Step-by-step reasoning: 
+1. The claim asks for a notable work written by the author of "The Timothy Files."
+2. From the reasoning steps, we identify that "The Timothy Files" was written by Lawrence Sanders.
+3. The reasoning steps also indicate that Lawrence Sanders has a notable work titled "The Anderson Tapes."
+4. Therefore, the answer to the claim is "The Anderson Tapes," as it is a notable work by the same author.
+原始EM：11, 总数：12, 网络错误：0, 当前原始EM分数：91.66666666666666%, 增强EM答对：11, 当前增强EM分数：91.66666666666666%, 当前F1分数：93.62745098039214%
+##########
+##########
+ID:13
+Question:In which borough was Callum McManaman born?
+
+Right Answer:Knowsley
+Answer: Knowsley
+Step-by-step reasoning: 
+1. The reasoning steps indicate that Callum McManaman was born in Whiston.
+2. The context confirms that Whiston is located in the Metropolitan Borough of Knowsley in Merseyside, England.
+3. Therefore, since Whiston is part of Knowsley, the borough in which Callum McManaman was born is Knowsley.
+原始EM：12, 总数：13, 网络错误：0, 当前原始EM分数：92.3076923076923%, 增强EM答对：12, 当前增强EM分数：92.3076923076923%, 当前F1分数：94.11764705882352%
+##########
+##########
+ID:14
+Question:What other county does the county where Imperial is located share a border with?
+
+Right Answer:Crockett County
+Answer: Crockett County
+
+Step-by-step reasoning: 
+1. The claim asks for the county that shares a border with the county where Imperial is located.
+2. From the reasoning steps, we know that Imperial is located in Pecos County.
+3. The reasoning steps also indicate that Pecos County shares a border with Crockett County.
+4. Therefore, the county that shares a border with Pecos County (where Imperial is located) is Crockett County.
+原始EM：13, 总数：14, 网络错误：0, 当前原始EM分数：92.85714285714286%, 增强EM答对：13, 当前增强EM分数：92.85714285714286%, 当前F1分数：94.53781512605042%
+##########
+##########
+ID:15
+Question:In what county is William W. Blair's birthplace located?
+
+Right Answer:Orleans County
+Answer: Orleans County, New York
+
+Step-by-step reasoning: 
+1. The claim asks for the county of William W. Blair's birthplace.
+2. The reasoning steps indicate that William W. Blair was born in Holley.
+3. The context provided in the paragraph titled "Holley, New York" states that Holley is a village in the town of Murray in Orleans County, New York.
+4. Therefore, since Holley is located in Orleans County, it follows that William W. Blair's birthplace is also in Orleans County, New York.
+原始EM：13, 总数：15, 网络错误：0, 当前原始EM分数：86.66666666666667%, 增强EM答对：13, 当前增强EM分数：86.66666666666667%, 当前F1分数：92.6797385620915%
+##########
+##########
+ID:16
+Question:What award did the author of The Red Tree receive?
+
+Right Answer:Academy Award for Best Animated Short Film
+Answer: Shaun Tan received the Academy Award for Best Animated Short Film.
+
+Step-by-step reasoning: 
+1. The claim is about the award received by the author of "The Red Tree."
+2. From the reasoning steps, we identify that "The Red Tree" is authored by Shaun Tan.
+3. The reasoning steps also indicate that Shaun Tan received an award, specifically the Academy Award for Best Animated Short Film.
+4. Therefore, the answer to the claim is that Shaun Tan received the Academy Award for Best Animated Short Film.
+原始EM：13, 总数：16, 网络错误：0, 当前原始EM分数：81.25%, 增强EM答对：13, 当前增强EM分数：81.25%, 当前F1分数：92.0343137254902%
+##########
+##########
+ID:17
+Question:Where was Tyler MacDuff's child educated?
+
+Right Answer:Blair High School
+Answer: Dana MacDuff was educated at Blair High School.
+
+Step-by-step reasoning: 
+1. The reasoning steps indicate that Tyler MacDuff has a child named Dana MacDuff.
+2. The reasoning steps further state that Dana MacDuff was educated at Blair High School.
+3. Therefore, based on the information provided in the reasoning steps, we can conclude that Tyler MacDuff's child, Dana MacDuff, was educated at Blair High School.
+原始EM：13, 总数：17, 网络错误：0, 当前原始EM分数：76.47058823529412%, 增强EM答对：13, 当前增强EM分数：76.47058823529412%, 当前F1分数：89.82908671489986%
+##########
+##########
+ID:18
+Question:Who is the spouse of the Rabbit Hole's producer?
+
+Right Answer:Keith Urban
+Answer: Keith Urban
+Step-by-step reasoning: 
+1. The claim is about identifying the spouse of the producer of the film "Rabbit Hole."
+2. From the reasoning steps, we see that "Rabbit Hole" is associated with the producer Nicole Kidman.
+3. The next step indicates that Nicole Kidman is married to Keith Urban.
+4. Therefore, the spouse of the producer of "Rabbit Hole" (Nicole Kidman) is Keith Urban.
+原始EM：14, 总数：18, 网络错误：0, 当前原始EM分数：77.77777777777779%, 增强EM答对：14, 当前增强EM分数：77.77777777777779%, 当前F1分数：90.39413745296098%
+##########
+##########
+ID:19
+Question:Who is the child of Sigrid Eskilsdotter's child?
+
+Right Answer:Svante Stensson Sture
+Answer: Svante Stensson Sture
+
+Step-by-step reasoning: 
+1. The claim asks for the child of Sigrid Eskilsdotter's child.
+2. From the reasoning steps, we know that Sigrid Eskilsdotter has a child named Christina Gyllenstierna.
+3. Next, we look at Christina Gyllenstierna's child, which is identified as Svante Stensson Sture.
+4. Therefore, the child of Sigrid Eskilsdotter's child (Christina Gyllenstierna) is Svante Stensson Sture.
+原始EM：15, 总数：19, 网络错误：0, 当前原始EM分数：78.94736842105263%, 增强EM答对：15, 当前增强EM分数：78.94736842105263%, 当前F1分数：90.89970916596303%
+##########
+##########
+ID:20
+Question:In which county is Kimbrough Memorial Stadium located?
+
+Right Answer:Randall County
+Answer: Randall County
+
+Step-by-step reasoning: 
+1. The claim is asking for the county in which Kimbrough Memorial Stadium is located.
+2. From the reasoning steps provided, we see that Kimbrough Memorial Stadium is located in Canyon.
+3. The reasoning steps further indicate that Canyon is located in Randall County.
+4. Therefore, by following the logical connections from Kimbrough Memorial Stadium to Canyon and then to Randall County, we conclude that Kimbrough Memorial Stadium is located in Randall County.
+原始EM：16, 总数：20, 网络错误：0, 当前原始EM分数：80.0%, 增强EM答对：16, 当前增强EM分数：80.0%, 当前F1分数：91.35472370766487%
+##########
+##########
+ID:21
+Question:What record label is the performer of Almost Made Ya signed to?
+
+Right Answer:Derrty Entertainment
+Answer: Derrty Entertainment
+
+Step-by-step reasoning: 
+1. The song "Almost Made Ya" is performed by the duo Ali & Gipp.
+2. According to the reasoning steps, Ali & Gipp is associated with the record label Derrty Entertainment.
+3. Therefore, the record label that the performer of "Almost Made Ya" is signed to is Derrty Entertainment.
+原始EM：17, 总数：21, 网络错误：0, 当前原始EM分数：80.95238095238095%, 增强EM答对：17, 当前增强EM分数：80.95238095238095%, 当前F1分数：91.7664035311094%
+##########
+##########
+ID:22
+Question:Where was the author of Hannibal and Scipio educated at?
+
+Right Answer:Exeter College
+Answer: Exeter College
+
+Step-by-step reasoning: 
+1. The claim is about the author of "Hannibal and Scipio," which is a play written by Thomas Nabbes.
+2. The reasoning steps indicate that Thomas Nabbes was educated at Exeter College.
+3. The context provided does not contain any conflicting information regarding the education of Thomas Nabbes.
+4. Therefore, based on the reasoning steps and the context, the answer to the question of where the author of "Hannibal and Scipio" was educated is Exeter College.
+原始EM：18, 总数：22, 网络错误：0, 当前原始EM分数：81.81818181818183%, 增强EM答对：18, 当前增强EM分数：81.81818181818183%, 当前F1分数：92.14065791605897%
+##########
+##########
+ID:23
+Question:In which county is Southern Maryland Electric Cooperative headquartered?
+
+Right Answer:Charles County
+Answer: Charles County, Maryland
+
+Step-by-step reasoning: 
+1. The claim is about the headquarters location of the Southern Maryland Electric Cooperative (SMECO).
+2. From the context provided, specifically context index 3, it states that "The Southern Maryland Electric Cooperative (SMECO) is an electric distribution cooperative which is headquartered in Hughesville, Maryland."
+3. Further, the reasoning steps indicate that "Hughesville >> located in the administrative territorial entity >>>> Charles County."
+4. Therefore, since Hughesville is in Charles County, we conclude that the headquarters of Southern Maryland Electric Cooperative is located in Charles County, Maryland.
+原始EM：18, 总数：23, 网络错误：0, 当前原始EM分数：78.26086956521739%, 增强EM答对：18, 当前增强EM分数：78.26086956521739%, 当前F1分数：91.61280322405642%
+##########
+##########
+ID:24
+Question:Who is the child of the Victim of Romance performer?
+
+Right Answer:Chynna Phillips
+Answer: Chynna Phillips
+
+Step-by-step reasoning: 
+1. The claim asks for the child of the "Victim of Romance" performer.
+2. The "Victim of Romance" is identified as Michelle Phillips, who is a performer and the artist behind the album.
+3. The reasoning steps indicate that Michelle Phillips has a child named Chynna Phillips.
+4. Therefore, the answer to the claim is that Chynna Phillips is the child of the "Victim of Romance" performer, Michelle Phillips.
+原始EM：19, 总数：24, 网络错误：0, 当前原始EM分数：79.16666666666666%, 增强EM答对：19, 当前增强EM分数：79.16666666666666%, 当前F1分数：91.9622697563874%
+##########
+##########
+ID:25
+Question:What county was Tim Dubois born in?
+
+Right Answer:McDonald County
+Answer: McDonald County
+
+Step-by-step reasoning: 
+1. The reasoning steps indicate that Tim DuBois was born in Southwest City.
+2. The context provided in the sixth entry states that Tim DuBois was born in Southwest City, Missouri.
+3. The reasoning steps further clarify that Southwest City is located in McDonald County.
+4. Therefore, by following the reasoning steps and the context, we conclude that Tim DuBois was born in McDonald County.
+原始EM：20, 总数：25, 网络错误：0, 当前原始EM分数：80.0%, 增强EM答对：20, 当前增强EM分数：80.0%, 当前F1分数：92.2837789661319%
+##########
+##########
+ID:26
+Question:What record label did the person who is part of The Bruce Lee Band start?
+
+Right Answer:Asian Man Records
+Answer: Asian Man Records
+Step-by-step reasoning: 
+1. The claim is about identifying the record label started by a person who is part of The Bruce Lee Band.
+2. From the reasoning steps, we know that "The Bruce Lee Band" has a member named Mike Park.
+3. The reasoning steps also indicate that Mike Park is associated with a record label called "Asian Man Records."
+4. Additionally, context from the provided information confirms that Asian Man Records is a DIY record label run by Mike Park, and it was established in May 1996.
+5. Therefore, the record label started by the person who is part of The Bruce Lee Band (Mike Park) is Asian Man Records.
+原始EM：21, 总数：26, 网络错误：0, 当前原始EM分数：80.76923076923077%, 增强EM答对：21, 当前增强EM分数：80.76923076923077%, 当前F1分数：92.58055669820375%
+##########
+##########
+ID:27
+Question:What is another notable work made by the author of Miss Sara Sampson?
+
+Right Answer:Emilia Galotti
+Answer: Emilia Galotti
+
+Step-by-step reasoning: 
+1. The claim asks for another notable work made by the author of "Miss Sara Sampson."
+2. From the reasoning steps, we identify that "Miss Sara Sampson" was written by Gotthold Ephraim Lessing.
+3. The reasoning steps also indicate that Gotthold Ephraim Lessing has another notable work titled "Emilia Galotti."
+4. Therefore, the answer to the claim is "Emilia Galotti," as it is a notable work by the same author.
+原始EM：22, 总数：27, 网络错误：0, 当前原始EM分数：81.48148148148148%, 增强EM答对：22, 当前增强EM分数：81.48148148148148%, 当前F1分数：92.85535089456658%
+##########
+##########
+ID:28
+Question:What instrument is played by the person from The Blackout All-Stars?
+
+Right Answer:conga
+Answer: conga
+Step-by-step reasoning: 
+1. The claim is about identifying the instrument played by a member of The Blackout All-Stars.
+2. The reasoning steps indicate that The Blackout All-Stars includes Ray Barretto.
+3. Further, it states that Ray Barretto plays the conga.
+4. Therefore, the instrument played by the person from The Blackout All-Stars is the conga.
+原始EM：23, 总数：28, 网络错误：0, 当前原始EM分数：82.14285714285714%, 增强EM答对：23, 当前增强EM分数：82.14285714285714%, 当前F1分数：93.11051693404634%
+##########
+##########
+ID:29
+Question:What is the seat of the county where Van Hook Township is located?
+
+Right Answer:Stanley
+Answer: Stanley
+
+Step-by-step reasoning: 
+1. The claim is about identifying the seat of the county where Van Hook Township is located.
+2. From the reasoning steps, we see that Van Hook Township is located in Mountrail County.
+3. The next reasoning step indicates that the capital (or seat) of Mountrail County is Stanley.
+4. Therefore, the seat of the county where Van Hook Township is located is Stanley.
+原始EM：24, 总数：29, 网络错误：0, 当前原始EM分数：82.75862068965517%, 增强EM答对：24, 当前增强EM分数：82.75862068965517%, 当前F1分数：93.34808531563095%
+##########
+##########
+ID:30
+Question:Who is the father of Edward Baring, 1st Baron Revelstoke's father?
+
+Right Answer:Sir Francis Baring, 1st Baronet
+Answer: Sir Francis Baring, 1st Baronet
+
+Step-by-step reasoning: 
+1. The claim asks for the father of Edward Baring, 1st Baron Revelstoke's father.
+2. From the reasoning steps, we know that Edward Baring, 1st Baron Revelstoke's father is Henry Baring.
+3. Next, we look at the relationship of Henry Baring to his father, which is stated as Sir Francis Baring, 1st Baronet.
+4. Therefore, the father of Edward Baring, 1st Baron Revelstoke's father (Henry Baring) is Sir Francis Baring, 1st Baronet.
+原始EM：25, 总数：30, 网络错误：0, 当前原始EM分数：83.33333333333334%, 增强EM答对：25, 当前增强EM分数：83.33333333333334%, 当前F1分数：93.56981580510993%
+##########
+##########
+ID:31
+Question:What group was the performer of Be the One a member of?
+
+Right Answer:Jackson 5
+Answer: Jackson 5
+
+Step-by-step reasoning: 
+1. The claim asks about the group that the performer of "Be the One" was a member of.
+2. From the reasoning steps, we identify that "Be the One" is performed by Jackie Jackson.
+3. The reasoning steps further indicate that Jackie Jackson is a member of the Jackson 5.
+4. Therefore, the group that Jackie Jackson was a member of, and thus the answer to the claim, is the Jackson 5.
+原始EM：26, 总数：31, 网络错误：0, 当前原始EM分数：83.87096774193549%, 增强EM答对：26, 当前增强EM分数：83.87096774193549%, 当前F1分数：93.77724110171928%
+##########
+##########
+ID:32
+Question:Who is the lead singer of the band performing Bang Bang Rock & Roll?
+
+Right Answer:Eddie Argos
+Answer: Eddie Argos
+Step-by-step reasoning: 
+1. The claim is about identifying the lead singer of the band that performs "Bang Bang Rock & Roll."
+2. The reasoning steps indicate that "Bang Bang Rock & Roll" is performed by the band Art Brut.
+3. The context provided includes a specific mention that Eddie Argos is the lead singer of Art Brut.
+4. Therefore, by connecting the information from the reasoning steps and the context, we conclude that Eddie Argos is the lead singer of the band performing "Bang Bang Rock & Roll."
+原始EM：27, 总数：32, 网络错误：0, 当前原始EM分数：84.375%, 增强EM答对：27, 当前增强EM分数：84.375%, 当前F1分数：93.97170231729055%
+##########
+##########
+ID:33
+Question:What is the network which National Cycle Route 57 is part of an example of?
+
+Right Answer:national cycling route network
+Answer: An example of a national cycling route network.
+
+Step-by-step reasoning: 
+1. The claim is about National Cycle Route 57 and what network it is part of.
+2. From the reasoning steps, we see that National Cycle Route 57 is part of the National Cycle Network.
+3. The National Cycle Network is described as an instance of a national cycling route network.
+4. Therefore, we can conclude that National Cycle Route 57 is an example of a national cycling route network.
+原始EM：27, 总数：33, 网络错误：0, 当前原始EM分数：81.81818181818183%, 增强EM答对：27, 当前增强EM分数：81.81818181818183%, 当前F1分数：93.54831739858479%
+##########
+##########
+ID:34
+Question:Who is the spouse of the child of Peter Andreas Heiberg?
+
+Right Answer:Johanne Luise Heiberg
+Answer: Johanne Luise Heiberg
+
+Step-by-step reasoning: 
+1. The claim asks for the spouse of the child of Peter Andreas Heiberg.
+2. From the reasoning steps, we know that Peter Andreas Heiberg has a child named Johan Ludvig Heiberg.
+3. The next step indicates that Johan Ludvig Heiberg has a spouse, which is Johanne Luise Heiberg.
+4. Therefore, the spouse of the child (Johan Ludvig Heiberg) of Peter Andreas Heiberg is Johanne Luise Heiberg.
+原始EM：28, 总数：34, 网络错误：0, 当前原始EM分数：82.35294117647058%, 增强EM答对：28, 当前增强EM分数：82.35294117647058%, 当前F1分数：93.73807276921464%
+##########
+##########
+ID:35
+Question:The Unwinding author volunteered for which organisation?
+
+Right Answer:Peace Corps
+Answer: Peace Corps
+
+Step-by-step reasoning: 
+1. The claim is about the author of "The Unwinding," which is identified as George Packer.
+2. The reasoning steps indicate that George Packer is a member of the Peace Corps.
+3. The context does not provide additional information about other organizations he may have volunteered for, but it confirms his involvement with the Peace Corps.
+4. Therefore, based on the reasoning steps and the context provided, the answer to the claim is that George Packer volunteered for the Peace Corps.
+原始EM：29, 总数：35, 网络错误：0, 当前原始EM分数：82.85714285714286%, 增强EM答对：29, 当前增强EM分数：82.85714285714286%, 当前F1分数：93.91698497580852%
+##########
+##########
+ID:36
+Question:What is the capital of the county that Pine Springs is located in?
+
+Right Answer:Van Horn
+Answer: Van Horn
+
+Step-by-step reasoning: 
+1. The claim asks for the capital of the county where Pine Springs is located.
+2. According to the reasoning steps, Pine Springs is located in Culberson County.
+3. The reasoning steps also indicate that the capital of Culberson County is Van Horn.
+4. Therefore, the answer to the claim is that the capital of the county that Pine Springs is located in is Van Horn.
+原始EM：30, 总数：36, 网络错误：0, 当前原始EM分数：83.33333333333334%, 增强EM答对：30, 当前增强EM分数：83.33333333333334%, 当前F1分数：94.08595761536938%
+##########
+##########
+ID:37
+Question:What district is the headquarter of Julia's House located?
+
+Right Answer:East Dorset
+Answer: East Dorset
+Step-by-step reasoning: 
+1. The claim asks for the district where Julia's House is located.
+2. From the reasoning steps, we know that Julia's House is located in Corfe Mullen.
+3. The reasoning steps also indicate that Corfe Mullen is part of the administrative territorial entity known as East Dorset.
+4. Therefore, the district where Julia's House is headquartered is East Dorset.
+原始EM：31, 总数：37, 网络错误：0, 当前原始EM分数：83.78378378378379%, 增强EM答对：31, 当前增强EM分数：83.78378378378379%, 当前F1分数：94.24579659873778%
+##########
+##########
+ID:38
+Question:Who is the spouse of Young Man Luther's author?
+
+Right Answer:Joan Erikson
+Answer: Joan Erikson
+
+Step-by-step reasoning: 
+1. The claim asks for the spouse of the author of "Young Man Luther."
+2. From the reasoning steps, we identify that "Young Man Luther" is authored by Erik Erikson.
+3. The next step in the reasoning indicates that Erik Erikson's spouse is Joan Erikson.
+4. Therefore, the answer to the claim is Joan Erikson, as she is the spouse of Erik Erikson, the author of "Young Man Luther."
+原始EM：32, 总数：38, 网络错误：0, 当前原始EM分数：84.21052631578947%, 增强EM答对：32, 当前增强EM分数：84.21052631578947%, 当前F1分数：94.39722300403416%
+##########
+##########
+ID:39
+Question:What record label did the performer of The Place and the Time belong to?
+
+Right Answer:Columbia Records
+Answer: Columbia Records
+
+Step-by-step reasoning: 
+1. The claim asks for the record label of the performer of "The Place and the Time."
+2. From the reasoning steps, we see that "The Place and the Time" is performed by "Moby Grape."
+3. The next reasoning step indicates that "Moby Grape 69" is associated with the record label "Columbia Records."
+4. Therefore, since Moby Grape is the performer of "The Place and the Time," and they are linked to Columbia Records, we conclude that the record label for the performer is Columbia Records.
+原始EM：33, 总数：39, 网络错误：0, 当前原始EM分数：84.61538461538461%, 增强EM答对：33, 当前增强EM分数：84.61538461538461%, 当前F1分数：94.54088395264867%
+##########
+##########
+ID:40
+Question:Who is the child of the person who followed Tihomir of Serbia?
+
+Right Answer:Saint Sava
+Answer: Saint Sava
+
+Step-by-step reasoning: 
+1. The claim asks for the child of the person who followed Tihomir of Serbia.
+2. From the reasoning steps, we know that Tihomir of Serbia was followed by Stefan Nemanja.
+3. The next reasoning step indicates that Stefan Nemanja had a child named Saint Sava.
+4. Therefore, the child of the person who followed Tihomir of Serbia (Stefan Nemanja) is Saint Sava.
+原始EM：34, 总数：40, 网络错误：0, 当前原始EM分数：85.0%, 增强EM答对：34, 当前增强EM分数：85.0%, 当前F1分数：94.67736185383245%
+##########
+##########
+ID:41
+Question:What team was Anna Benson's husband on?
+
+Right Answer:Pittsburgh Pirates
+Answer: Pittsburgh Pirates
+Step-by-step reasoning: 
+1. The claim is about Anna Benson's husband and the team he was on.
+2. From the reasoning steps, we identify that Anna Benson is married to Kris Benson.
+3. The reasoning steps also indicate that Kris Benson was a member of a sports team, specifically the Pittsburgh Pirates.
+4. Therefore, the answer to the claim is that Anna Benson's husband, Kris Benson, was on the Pittsburgh Pirates.
+原始EM：35, 总数：41, 网络错误：0, 当前原始EM分数：85.36585365853658%, 增强EM答对：35, 当前增强EM分数：85.36585365853658%, 当前F1分数：94.8071822964219%
+##########
+##########
+ID:42
+Question:What place does the administrative territorial entity that Juba is located in share a border with?
+
+Right Answer:Eastern Equatoria
+Answer: Eastern Equatoria
+
+Step-by-step reasoning: 
+1. The claim states that Juba is located in an administrative territorial entity. From the reasoning steps, we know that Juba is located in Central Equatoria.
+2. The next reasoning step indicates that Central Equatoria shares a border with Eastern Equatoria.
+3. Therefore, the place that the administrative territorial entity (Central Equatoria) that Juba is located in shares a border with is Eastern Equatoria.
+原始EM：36, 总数：42, 网络错误：0, 当前原始EM分数：85.71428571428571%, 增强EM答对：36, 当前增强EM分数：85.71428571428571%, 当前F1分数：94.93082081317377%
+##########
+##########
+ID:43
+Question:Where was the spouse of Frances Tupper born?
+
+Right Answer:Amherst

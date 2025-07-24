@@ -1,0 +1,473 @@
+##########
+ID:301
+Question:Is the Liberty Bell still in its original location?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：1, 总数：1, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：1, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:302
+Question:Does Buddy The Elf know anyone who works in publishing?
+
+Right Answer:yes
+不进行反思
+ Yes
+原始EM：2, 总数：2, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：2, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:303
+Question:Does Rusev have to worry about human overpopulation in his homeland?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：3, 总数：3, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：3, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:304
+Question:Is unanimously elected president's birthday a break for mail carriers?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because it did not accurately interpret the claim and supporting contexts. The claim asks if the unanimously elected president's birthday is a break for mail carriers, and the supporting contexts mention that the post office has a holiday for Washington's Birthday (President's Day) and that George Washington was the only US president elected unanimously. The failure occurred because the reasoning incorrectly concluded that mail carriers do not have a break on George Washington's birthday. 
+ Yes
+原始EM：4, 总数：4, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：4, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:305
+Question:Does a sea otter eat spiders?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：5, 总数：5, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：5, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:306
+Question:Could a Bengal cat hypothetically best Javier Sotomayor's record?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because it did not take into account the fact that the Bengal cat's jumping ability is within the range mentioned in the supporting context. The claim asks if a Bengal cat could hypothetically beat Javier Sotomayor's high jump record, and the supporting context states that the average cat can jump from 7.5 to 9 feet. Since Bengal cats have powerful hind legs which make them jump higher than other breeds, it is reasonable to assume that a Bengal cat could hypothetically jump higher than 8 feet, potentially beating Javier Sotomayor's record. To mitigate similar failures, the plan is to carefully analyze the supporting context and consider all relevant information before making a conclusion.
+ Yes
+原始EM：6, 总数：6, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：6, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:307
+Question:Are Chipotle Cinnamon Pork Chops appropriate for a Seder?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：7, 总数：7, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：7, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:308
+Question:Would the chef at Carmine's restaurant panic if there was no basil?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because it did not take into account the fact that the claim asked if the chef at Carmine's restaurant would panic if there was no basil. The previous answer of "No" did not consider the importance of basil in Italian cooking and the likelihood that the chef would panic if it was not available. To mitigate similar failures, the plan is to carefully analyze the claim and supporting contexts to ensure that all relevant information is considered in the reasoning process.
+ Yes
+原始EM：8, 总数：8, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：8, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:309
+Question:Is most store bought rice pudding made with brown rice?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：9, 总数：9, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：9, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:310
+Question:Did Easy Rider make a profit at the theater when it was released?
+
+Right Answer:yes
+不进行反思
+ Yes
+原始EM：10, 总数：10, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：10, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:311
+Question:Do mail carriers need multiple uniforms?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because it did not take into account the supporting context that mail carriers must often leave their vehicle in various weather conditions. This context suggests that mail carriers may need multiple uniforms to accommodate different weather conditions. The failure may have occurred due to a narrow interpretation of the claim and not considering the practical implications of the supporting context. To mitigate similar failures, the plan is to carefully analyze all relevant supporting contexts and consider any practical implications that may affect the answer to the claim.
+ Yes
+原始EM：11, 总数：11, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：11, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:312
+Question:Is Steve Martin someone who would refuse a dish of shrimp pasta?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because it did not accurately recognize the implication of Steve Martin being allergic to shellfish. The failure occurred because the reasoning did not consider the fact that allergies typically lead individuals to refuse dishes containing the allergen. To mitigate similar failures, the plan is to carefully analyze the implications of the given information and consider the logical consequences of the provided context. Additionally, it is important to consider common knowledge and societal norms when reasoning about individuals' preferences and behaviors. 
+ Yes
+原始EM：12, 总数：12, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：12, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:313
+Question:Does Princess Peach's dress resemble a peach fruit?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：13, 总数：13, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：13, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:314
+Question:As of 2020 have more women succeeded John Key than preceded him?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：14, 总数：14, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：14, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:315
+Question:Would Methuselah hypothetically hold a record in the Common Era?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because there was a lack of evidence and information in the provided contexts about Methuselah holding a record in the Common Era. The failure may have also been due to not fully understanding the concept of the Common Era and its relation to records. To mitigate similar failures, the plan is to carefully analyze the claim and supporting contexts to identify any relevant information or evidence. Additionally, it is important to have a clear understanding of the concepts and terms mentioned in the claim to accurately reason and provide a correct answer.
+ Yes
+原始EM：15, 总数：15, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：15, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:316
+Question:Would you be likely to see storks at a baby shower?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because the agent did not correctly interpret the symbolism of storks at a baby shower. Storks are commonly associated with the arrival of a new baby, and it is a popular tradition to have stork-themed decorations at baby showers. The agent may have misunderstood the question or did not have enough knowledge about this cultural symbolism. To mitigate similar failures, the plan is to consider the cultural context and symbolism associated with certain events or traditions when answering questions. This will help in providing more accurate and culturally relevant responses.
+ Yes
+原始EM：16, 总数：16, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：16, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:317
+Question:Can Viper Room concert hypothetically be held at National Diet building?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because it did not accurately interpret the capacity of the Viper Room and the National Diet building. The agent mistakenly assumed that the larger capacity of the National Diet building meant that a Viper Room concert could not be held there. However, the claim asked if it could hypothetically be held, and the larger capacity of the National Diet building would allow for such a concert. To mitigate similar failures, the plan is to carefully consider the specific requirements and constraints mentioned in the claim and supporting contexts, rather than making assumptions based on general capacity comparisons.
+ Yes
+原始EM：17, 总数：17, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：17, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:318
+Question:Can you get a fever from consuming meat?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because it did not accurately interpret the supporting contexts. The contexts clearly indicate that food poisoning, which can be caused by consuming undercooked meat, can lead to an elevated core body temperature (fever). The failure may have occurred due to a misinterpretation of the question or a lack of attention to the details in the supporting contexts. To mitigate similar failures, the plan is to carefully analyze the question and supporting contexts, paying close attention to the specific details and ensuring a thorough understanding of the relationship between the claim and the evidence provided.
+ Yes
+原始EM：18, 总数：18, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：18, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:319
+Question:Did Ivan the Terrible use the Byzantine calendar?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because it did not take into account the specific time period in which Ivan the Terrible was the Tsar of Russia. Although the Byzantine calendar was the official calendar of the Russian government from 988 to 1700, Ivan the Terrible's reign was from 1530 to 1585, which falls within that time period. Therefore, it is likely that Ivan the Terrible did use the Byzantine calendar. To mitigate similar failures, the plan is to carefully consider the specific time frames mentioned in the claim and supporting contexts, ensuring that the reasoning is based on accurate historical information.
+ Yes
+原始EM：19, 总数：19, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：19, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:320
+Question:Are psychiatric patients welcome to join the United States Air Force?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：20, 总数：20, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：20, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:321
+Question:Would a Rabbi celebrate Christmas?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：21, 总数：21, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：21, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:322
+Question:Is clementine pith highly sought after?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：22, 总数：22, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：22, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:323
+Question:Did the Nepalese Civil War take place near India?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because it did not accurately interpret the supporting contexts. The agent mistakenly assumed that the Nepalese Civil War did not take place near India based on the given contexts. However, the second context clearly states that Nepal shares a border with India, indicating that the war did take place near India. To mitigate similar failures, the plan is to carefully analyze and interpret all the supporting contexts, ensuring that all relevant information is considered and not overlooked.
+ Yes
+原始EM：23, 总数：23, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：23, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:324
+Question:Can I hold Bing in a basket?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：24, 总数：24, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：24, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:325
+Question:Can paratroopers be used in a vacuum?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：25, 总数：25, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：25, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:326
+Question:Could the moon fit inside the Black Sea?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：26, 总数：26, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：26, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:327
+Question:Could R. Kelly write a college thesis?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：27, 总数：27, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：27, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:328
+Question:Can a chess board be converted to a Shogi board?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：28, 总数：28, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：28, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:329
+Question:Has Cesar Millan ever tamed a short-eared dog?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：29, 总数：29, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：29, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:330
+Question:Did the Eastern Orthodox Church and the Byzantine Empire ever use the same calendar?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because it did not accurately recognize that the Eastern Orthodox Church and the Byzantine Empire did use the same calendar during a specific time period. The error occurred due to a misinterpretation of the supporting contexts. To mitigate similar failures, the plan is to carefully analyze the time periods mentioned in the supporting contexts and cross-reference them with the claim to ensure a precise understanding of the historical timeline. 
+ Yes
+原始EM：30, 总数：30, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：30, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:331
+Question:Were number of states in Ancient Greece underwhelming compared to US states in 1900?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：31, 总数：31, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：31, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:332
+Question:Is the rise of agriculture attributed to rivers?
+
+Right Answer:yes
+不进行反思
+ Yes
+原始EM：32, 总数：32, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：32, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:333
+Question:Are goldfish more difficult to care for than isopods?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because it did not accurately interpret the information provided in the supporting contexts. The context index 0 suggests that isopods may have relatively simple care requirements, while context index 1 implies that goldfish may require more frequent cleaning and maintenance. The failure may have occurred due to a lack of understanding of the care requirements of goldfish and isopods. To mitigate similar failures, the plan is to thoroughly analyze the information provided in the supporting contexts and consider the specific care requirements of goldfish and isopods. Additionally, it is important to consider any additional information or knowledge about the care of these animals to make a more accurate determination.
+ Yes
+原始EM：33, 总数：33, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：33, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:334
+Question:Does Mario use mushrooms to run faster?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：34, 总数：34, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：34, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:335
+Question:Can eating your weight in celery prevent diabetes?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：35, 总数：35, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：35, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:336
+Question:Do restaurants associate meatballs with the wrong country of origin?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because it did not accurately recognize the information provided in the supporting contexts. The claim asked if restaurants associate meatballs with the wrong country of origin, and the supporting contexts clearly indicated that meatballs are commonly associated with Italian cuisine. However, the agent failed to consider this information and instead focused on the fact that meatballs originated in China. To mitigate similar failures, the plan is to carefully analyze and prioritize the information provided in the supporting contexts, ensuring that the reasoning is based on the most relevant and specific details related to the claim.
+ Yes
+原始EM：36, 总数：36, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：36, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:337
+Question:Would it be wise to bring a robusto into Central Park Zoo?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：37, 总数：37, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：37, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:338
+Question:Were the Great Pyramids built by a theocratic government?
+
+Right Answer:yes
+不进行反思
+ Yes
+原始EM：38, 总数：38, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：38, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:339
+Question:Are sesame seeds glued onto hamburger buns?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：39, 总数：39, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：39, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:340
+Question:Was Snoop Dogg an adult when Tickle Me Elmo was popular?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because it did not accurately interpret the supporting context. The context clearly states that Snoop Dogg would have been 25 when the Tickle Me Elmo craze took off, indicating that he was an adult at that time. The failure may have occurred due to a misinterpretation or oversight of this information. To mitigate similar failures, the plan is to carefully analyze and interpret all relevant supporting contexts, ensuring that no crucial information is overlooked or misinterpreted.
+ Yes
+原始EM：40, 总数：40, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：40, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:341
+Question:Does the central processing unit usually have a dedicated fan?
+
+Right Answer:yes
+不进行反思
+ Yes
+原始EM：41, 总数：41, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：41, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:342
+Question:Did James Watson's partner in studying the double helix outlive him? 
+
+Right Answer:no
+不进行反思
+ No
+原始EM：42, 总数：42, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：42, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:343
+Question:Can atheism surpass Christianity in American black communities by 2021?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：43, 总数：43, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：43, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:344
+Question:Did the band Led Zeppelin own a prime number of gilded gramophones?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because there was no evidence or information provided about the number of gilded gramophones owned by Led Zeppelin. The claim specifically asks about the band owning a prime number of gilded gramophones, but the supporting contexts only mention the number of Grammy Awards won by the band. To mitigate similar failures, the plan is to carefully analyze the claim and supporting contexts to ensure that all necessary information is available to make an accurate determination. Additionally, it would be helpful to consider alternative sources or contexts that may provide information about the number of gilded gramophones owned by Led Zeppelin.
+ Yes
+原始EM：44, 总数：44, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：44, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:345
+Question:Are Doctors of Homeopathy more likely than Doctors of Internal Medicine to recommend Quartz as a treatment?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because it did not accurately consider the information provided in the supporting contexts. The claim asked if Doctors of Homeopathy are more likely than Doctors of Internal Medicine to recommend Quartz as a treatment. However, the supporting contexts clearly indicated that Doctors of Homeopathy practice alternative medicine, while Doctors of Internal Medicine do not. This information should have been taken into account when determining the answer. To mitigate similar failures, the plan is to carefully analyze the supporting contexts and consider the specific information provided about each group of doctors before making a determination. 
+ Yes
+原始EM：45, 总数：45, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：45, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:346
+Question:Would it be difficult to host Stanley Cup Finals at Rock in Rio?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because it did not accurately recognize the difference between hosting an indoor hockey series on ice and hosting an outdoor music festival. The failure may have occurred due to a lack of understanding of the specific requirements and logistics involved in hosting the Stanley Cup Finals. To mitigate similar failures, the plan is to carefully analyze the specific context and requirements of the claim, considering the logistical challenges and feasibility of hosting the event at a different venue. Additionally, it is important to consider the nature of the event and the specific requirements of the sport or activity involved.
+ Yes
+原始EM：46, 总数：46, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：46, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:347
+Question:Would the trees in Auburn, New York be changing colors in September?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because it did not accurately interpret the supporting contexts. The claim asked if the trees in Auburn, New York would be changing colors in September. The provided contexts clearly state that fall begins in September in New York and that leaves change colors when the weather gets cooler in the fall. Therefore, it can be inferred that the trees in Auburn, New York would be changing colors in September. The failure may have occurred due to a misinterpretation of the supporting contexts or a failure to consider the specific location mentioned in the claim. To mitigate similar failures, the plan is to carefully analyze the supporting contexts and consider the specific location mentioned in the claim when determining the answer.
+ Yes
+原始EM：47, 总数：47, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：47, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:348
+Question:Could an elephant easily defeat a male macaque?
+
+Right Answer:yes
+进行反思
+ The previous reasoning failed because it did not accurately recognize the significant differences in size and weight between elephants and male macaques, as well as the presence of sharp tusks in elephants. The failure may have been due to not fully considering the physical advantages of elephants over male macaques. To mitigate similar failures, the plan is to carefully analyze the supporting contexts and consider all relevant factors, such as size, weight, and physical attributes, when determining the outcome of a potential confrontation between different animals.
+ Yes
+原始EM：48, 总数：48, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：48, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:349
+Question:Can Cyril Ramaphosa become Secretary General of NATO?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：49, 总数：49, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：49, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:350
+Question:Did Pedubastis I know Japanese people?
+
+Right Answer:no
+不进行反思
+ No
+原始EM：50, 总数：50, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：50, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+
+准确率：100.0%
+网络错误：0

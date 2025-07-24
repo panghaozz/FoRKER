@@ -1,0 +1,1567 @@
+##########
+ID:301
+Question:Where is the company that owns thanKing Horse pub restaurant chain based ?
+golden idx: [1, 3]
+idx: [1, 3]
+Step by step with evidence and explanation: To determine the company that owns the thanKing Horse pub restaurant chain and where it is based, we need to identify the contexts that mention both the thanKing Horse chain and its ownership. 
+
+First, the context at index 1 mentions **Hungry Horse**, which is a chain of pub-restaurants owned by **Greene King Brewery**. Although the name is not an exact match, it is similar to the thanKing Horse mentioned in the question, and it is the only context that links a horse-named pub chain to a specific owner. This context provides effective support for the claim as it identifies the owner of a similarly named pub chain.
+
+Secondly, the context at index 3 provides information about **Greene King**, which is described as the UK's largest pub retailer and brewer, based in **Bury St Edmunds, Suffolk, England**. Since Greene King Brewery is mentioned as the owner of the Hungry Horse chain in the previous context, this context effectively supports the claim by providing the location of the company that owns the pub chain.
+
+Therefore, the contexts at index 1 and 3 are the most effective in providing support for the claim about the location of the company that owns the thanKing Horse pub restaurant chain. The first context links the pub chain to its owner, and the second context provides the location of the owner's headquarters.
+
+成功的数量为：2总数：2当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:302
+Question:What is the uppermost age range for the sort of fiction written by Alexander Gordon Smith?
+golden idx: [0, 7]
+idx: [4, 7]
+Step by step with evidence and explanation: The task is to identify the uppermost age range for the type of fiction written by Alexander Gordon Smith. To find the answer, we must look for contexts that directly relate to the author's work and the intended audience age range.
+
+Firstly, the context at index 4 provides effective support for the claim. It describes the "Escape from Furnace" series written by Alexander Gordon Smith, which is told from the perspective of a teenage protagonist, Alex Sawyer. The series includes titles such as "Lockdown," "Solitary," "Death Sentence," "Fugitives," and "Execution," and is about his experiences in a fictional prison. This context indicates that the series is targeted towards a young adult audience, which typically includes teenagers and young adults in their early 20s.
+
+Secondly, the context at index 7 also provides effective support for the claim. It states that Alexander Gordon Smith is an author of children and Young Adult fiction. This context confirms that the author writes for a young adult audience, which, as mentioned in the context at index 0, can range up to the early 20s.
+
+Therefore, combining the information from contexts at index 4 and 7, we can conclude that the uppermost age range for the sort of fiction written by Alexander Gordon Smith is the early 20s, which aligns with the upper age limit typically associated with Young Adult fiction.
+
+成功的数量为：3总数：4当前回溯率：75.0%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:303
+Question:What is the birthday of the actress who was the Duchess in "The Revengers Tragedy"?
+golden idx: [4, 9]
+idx: [4, 9]
+Step by step with evidence and explanation: To determine the birthday of the actress who played the Duchess in "The Revengers Tragedy," we must first identify which context entries mention the film and the actress. 
+
+Firstly, the context at index 9 provides effective support for the claim as it directly mentions "Revengers Tragedy" as a film adaptation of the play "The Revenger's Tragedy" and lists Diana Quick as the actress who played the Duchess. This context is crucial because it connects the actress to the specific role mentioned in the claim.
+
+Secondly, the context at index 4 is also supportive of the claim as it provides the birthday of Diana Quick, stating she was born on 23 November 1946. This context is essential because it gives the specific information requested in the claim, which is the birthday of the actress.
+
+Therefore, the contexts at index 4 and 9 are the most effective in providing factual support for the claim regarding the birthday of the actress who played the Duchess in "The Revengers Tragedy." The first context identifies the actress, and the second provides her date of birth.
+
+成功的数量为：5总数：6当前回溯率：83.33333333333334%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:304
+Question:Which film starring Patrick Tatten is based on a book written by Steve Lopez?
+golden idx: [3, 9]
+idx: [3, 9]
+Step by step with evidence and explanation: To determine which film starring Patrick Tatten is based on a book written by Steve Lopez, we must find the context that mentions both the actor Patrick Tatten and a film based on Steve Lopez's book. 
+
+First, the context at index 3 provides effective support for the claim. It states that "The Soloist" is a film directed by Joe Wright, starring Jamie Foxx and Robert Downey, Jr., and that the screenplay is based on the book "The Soloist" by Steve Lopez. This context is relevant because it mentions a film based on a book by Steve Lopez.
+
+Secondly, the context at index 9 provides the necessary connection to the actor Patrick Tatten. It lists "The Soloist" among the films that Patrick Tatten is known for. This establishes that Patrick Tatten starred in a film based on Steve Lopez's book.
+
+Therefore, the contexts at index 3 and 9 are the most effective in providing support for the claim that the film starring Patrick Tatten based on a book written by Steve Lopez is "The Soloist".
+
+成功的数量为：7总数：8当前回溯率：87.5%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:305
+Question:Are Skeptical Inquirer and The Progressive Populist both tabloid-style magazines?
+golden idx: [0, 7]
+idx: [0, 7]
+Step by step with evidence and explanation: To determine whether Skeptical Inquirer and The Progressive Populist are both tabloid-style magazines, we need to examine the context provided for each publication.
+
+Firstly, the context at index 0 describes the Skeptical Inquirer as a bimonthly American magazine published by the Committee for Skeptical Inquiry (CSI) with the subtitle "The Magazine for Science and Reason". It does not mention anything about being a tabloid-style magazine. Instead, it emphasizes its scientific and rational approach. This context effectively supports the claim by providing information about the nature of the Skeptical Inquirer, which is contrary to the characteristics of a tabloid-style magazine.
+
+Secondly, the context at index 7 provides information about The Progressive Populist, stating that it is a magazine in tabloid newspaper format published twice monthly. This directly supports the claim by confirming that The Progressive Populist is indeed published in a tabloid format.
+
+Therefore, the contexts at index 0 and 7 are the most effective in providing support for the claim. The Skeptical Inquirer is described as a science and reason magazine, which suggests it is not a tabloid-style publication. On the other hand, The Progressive Populist is explicitly mentioned as being in a tabloid newspaper format, which confirms that part of the claim.
+
+成功的数量为：9总数：10当前回溯率：90.0%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:306
+Question:The 1984 film "Marlene" is a documentary about an actress born in what year?
+golden idx: [2, 9]
+idx: [2, 9]
+Step by step with evidence and explanation: To determine the effective support for the claim that the 1984 film "Marlene" is a documentary about an actress born in what year, we need to identify the contexts that directly relate to the film and the actress it is about.
+
+First, the context at index 2 provides effective support for the claim. It states that "Marlene" is a 1984 documentary film made by Maximilian Schell about the legendary film star Marlene Dietrich. This context is directly related to the film in question and provides the necessary information about its subject, confirming that the documentary is indeed about Marlene Dietrich.
+
+Secondly, the context at index 9 provides effective support for the claim. It gives detailed information about Marlene Dietrich, stating her full name as Marie Magdalene "Marlene" Dietrich and her birth date as 27 December 1901. This context provides the specific answer to the claim's question about the birth year of the actress the documentary "Marlene" is about.
+
+Therefore, the contexts at index 2 and 9 are the most effective in providing support for the claim, as they directly address the film and the birth year of the actress Marlene Dietrich. The other contexts mention different individuals and are not relevant to the claim.
+
+成功的数量为：11总数：12当前回溯率：91.66666666666666%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:307
+Question:Which former mill town is near Rivington Hall Barn?
+golden idx: [7, 8]
+idx: [7, 8]
+Step by step with evidence and explanation: To determine which former mill town is near Rivington Hall Barn, we must look for contexts that mention proximity to Rivington Hall Barn and have a historical connection to being a mill town.
+
+First, the context at index 7 provides effective support for the claim. It states that Bolton is a town in Greater Manchester in North West England and describes it as a former mill town, which had a significant textile production history. The context also mentions that Bolton is near Chorley and Bolton, which aligns geographically with the location of Rivington Hall Barn. This directly addresses the claim by identifying Bolton as a former mill town in close proximity to Rivington Hall Barn.
+
+Secondly, the context at index 8 also provides effective support for the claim. It specifically mentions Rivington Hall Barn and its connection to Rivington Hall in Lancashire, near Chorley and Bolton. While it does not explicitly state that Bolton is a mill town, the geographical information provided complements the information given in index 7 and confirms the proximity of Rivington Hall Barn to Bolton.
+
+Therefore, the contexts at index 7 and 8 are the most effective in providing support for the claim that Bolton is the former mill town near Rivington Hall Barn.
+
+成功的数量为：13总数：14当前回溯率：92.85714285714286%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:308
+Question:What prolific English engineer, who died on 15 December 1857, contributed to the advent of the hot air engine by way of their open cycle devices?
+golden idx: [3, 9]
+idx: [3, 9]
+Step by step with evidence and explanation: The first context that provides effective support for the claim is at index 3. This context details Sir George Cayley's contributions as a prolific English engineer and his death on 15 December 1857. It highlights his significance in the history of aeronautics and acknowledges him as the first true scientific aerial investigator. This directly correlates with the claim regarding the English engineer who contributed to the advent of the hot air engine and died on the specified date.
+
+The second context that effectively supports the claim is found at index 9. This context discusses the hot air engine, mentioning it as a heat engine that uses air expansion and contraction due to temperature changes to convert thermal energy into mechanical work. It specifically names Sir George Cayley, aligning with the information provided in context index 3, and mentions his involvement with open cycle devices, which is a key part of the claim.
+
+Together, these two contexts provide a clear and direct factual basis for answering the claim about the prolific English engineer, Sir George Cayley, who contributed to the development of the hot air engine with his open cycle devices and passed away on 15 December 1857.
+
+成功的数量为：15总数：16当前回溯率：93.75%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:309
+Question:Which dog is considered a giant dog breed, the  Leonberger or the Basset Hound?
+golden idx: [2, 7]
+idx: [2, 4]
+Step by step with evidence and explanation: To determine which dog is considered a giant breed, the Leonberger or the Basset Hound, we must look at the provided contexts for information that directly addresses the size classification of these breeds.
+
+First, the context at index 2 provides effective support for the claim. It explicitly states that "The Leonberger is a giant dog breed." This directly answers the question by identifying the Leonberger as a giant breed, which is the specific information we are looking for.
+
+Secondly, the context at index 4 offers additional support. It describes what constitutes a "giant dog breed," mentioning that some groups define giant breeds as those heavier than 50 kg and that they grow rapidly but take longer to mature into their full adult sizes than smaller dogs. While this context does not directly name the Leonberger, it provides a general definition of giant dog breeds, which can be used to infer that the Basset Hound, known for being short-legged and not particularly heavy, does not fit this classification.
+
+Therefore, the contexts at index 2 and 4 are the most effective in providing factual support for the claim that the Leonberger is considered a giant dog breed, while the Basset Hound is not. The direct mention of the Leonberger as a giant breed and the definition of what a giant breed is, which does not align with the characteristics of a Basset Hound, make these two contexts the most relevant and supportive of the answer.
+
+成功的数量为：16总数：18当前回溯率：88.88888888888889%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:310
+Question:Are Staten Island Catapult and This Is Elvis both documentaries?
+golden idx: [0, 8]
+idx: [0, 8]
+Step by step with evidence and explanation: To determine whether "Staten Island Catapult" and "This Is Elvis" are both documentaries, we need to analyze the provided contexts for information that directly supports the nature of these titles.
+
+Firstly, the context at index 0 provides effective support for the claim regarding "Staten Island Catapult." It describes the title as a "2005 documentary" about a commuter's proposal to build a catapult for transportation between Staten Island and Downtown Manhattan. The context specifies that it is indeed a documentary, fulfilling half of the claim.
+
+Secondly, the context at index 8 offers effective support for the claim concerning "This Is Elvis." It details "This Is Elvis" as a "1981 documentary film" that combines archival footage with reenactments and voice-over narration to tell the story of Elvis Presley's life. This context confirms that "This Is Elvis" is a documentary, thus satisfying the other half of the claim.
+
+Therefore, the contexts at index 0 and index 8 are the most effective in providing factual support for the claim that both "Staten Island Catapult" and "This Is Elvis" are documentaries.
+
+成功的数量为：18总数：20当前回溯率：90.0%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:311
+Question:What is the year of the event that occured first, Making Today a Perfect Day was produced, or Frozen was produced?
+golden idx: [5, 6]
+idx: [5, 6]
+Step by step with evidence and explanation: To determine which event occurred first, we need to identify the production years of "Making Today a Perfect Day" and "Frozen." 
+
+First, context at index 5 provides effective support for the claim. It states that "Making Today a Perfect Day" is a song from the 2015 Walt Disney Animation Studios computer-animated short film "Frozen Fever." The paragraph specifies that the song was released as a single in the United States on March 12, 2015. This gives us a clear production year for "Making Today a Perfect Day."
+
+Secondly, the context at index 6 also provides effective support for the claim. It mentions that "Frozen Fever" is a sequel to the 2013 feature film "Frozen," indicating that "Frozen" was produced before "Frozen Fever." Since "Frozen Fever" and its song "Making Today a Perfect Day" were released in 2015, it is evident that "Frozen" was produced earlier, in 2013.
+
+Therefore, based on the information provided in the contexts at index 5 and 6, "Frozen" was produced before "Making Today a Perfect Day," making 2013 the year of the event that occurred first. The contexts at index 5 and 6 are the most effective in providing factual support for the answer to the claim.
+
+成功的数量为：20总数：22当前回溯率：90.9090909090909%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:312
+Question:Which magazine is published more often, Shonen Jump or Rolling Stone?
+golden idx: [7, 8]
+idx: [7, 8]
+Step by step with evidence and explanation: To determine which magazine is published more often, we need to look at the publication frequency mentioned in the provided contexts. 
+
+First, context at index 7 provides effective support for the claim. It states that **Rolling Stone** is an American **biweekly magazine**. This means that Rolling Stone is published once every two weeks.
+
+Secondly, the context at index 8 also provides effective support for the claim. It mentions that **Shonen Jump**, based on Shueisha's "Weekly Shōnen Jump", was retooled for English readers and the American audience, including changing it from a **weekly publication to a monthly one**. This indicates that Shonen Jump is published once a month.
+
+Comparing the two frequencies, a biweekly publication is more frequent than a monthly publication. Therefore, **Rolling Stone** is published more often than **Shonen Jump**. The contexts at index 7 and 8 are the most effective in providing support for the claim that Rolling Stone is published more often than Shonen Jump.
+
+成功的数量为：22总数：24当前回溯率：91.66666666666666%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:313
+Question:Where is the Cocoa Krispies and former Superman sponsor located?
+golden idx: [3, 8]
+idx: [3, 8]
+Step by step with evidence and explanation: To determine the location of the Cocoa Krispies and former Superman sponsor, we must identify the contexts that mention both Cocoa Krispies and the sponsorship of the Superman series.
+
+First, the context at index 3 provides effective support for the claim. It states that the "Adventures of Superman" television series was sponsored by cereal manufacturer Kellogg's. This directly ties Kellogg's to the Superman series, establishing them as a sponsor.
+
+Secondly, the context at index 8 also provides effective support for the claim. It mentions that the Kellogg Company, also known as Kellogg's, is headquartered in Battle Creek, Michigan, United States. Kellogg's is the producer of Cocoa Krispies, among other cereal and convenience foods. This context provides the location of the company that produces Cocoa Krispies and sponsored the Superman series.
+
+Therefore, the contexts at index 3 and 8 are the most effective in providing factual support for the claim regarding the location of the Cocoa Krispies and former Superman sponsor.
+
+成功的数量为：24总数：26当前回溯率：92.3076923076923%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:314
+Question:Who was born first Am Rong or Ava DuVernay ?
+golden idx: [4, 6]
+idx: [4, 6]
+Step by step with evidence and explanation: To determine who was born first between Am Rong and Ava DuVernay, we need to compare their birth dates. 
+
+First, the context at index 4 provides effective support for the claim. It states that **Am Rong** was born in **1929** and passed away in May 1975. This gives us a clear birth year for Am Rong.
+
+Secondly, the context at index 6 provides effective support for the claim regarding **Ava DuVernay**. It mentions that Ava Marie DuVernay was born on **August 24, 1972**. This gives us a precise birth date for Ava DuVernay.
+
+By comparing the birth years provided in these contexts, we can conclude that Am Rong, born in 1929, was indeed born before Ava DuVernay, who was born in 1972. Therefore, the contexts at index 4 and 6 are the most effective in providing factual support for answering the claim about who was born first.
+
+成功的数量为：26总数：28当前回溯率：92.85714285714286%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:315
+Question:How many days did it take the Best New Artist of 2009 to sell 2 million copies of an album in the UK and break a twenty year old record?
+golden idx: [1, 9]
+idx: [1, 9]
+Step by step with evidence and explanation: To address the claim regarding the Best New Artist of 2009 and their record-breaking album sales in the UK, we must identify the contexts that provide factual information about the artist and the specific record in question.
+
+First, the context at index 1 provides effective support for the claim. It details Adele's early career, her awards, and the success of her debut album "19". Most importantly, it mentions that Adele won the Grammy Award for Best New Artist in 2009, which is directly relevant to the claim.
+
+Secondly, the context at index 9 is also supportive of the claim. It states that Robson & Jerome held the record for selling 2 million copies in the UK in the fastest time for almost 20 years, doing so in 42 days. It then specifies that Adele surpassed this record with her album "25", taking just 29 days to reach the same sales landmark. This context provides the exact information needed to answer the claim about the time it took for the Best New Artist of 2009 to break a twenty-year-old record in the UK.
+
+Therefore, the contexts at index 1 and 9 are the most effective in providing support for the claim, as they directly address the artist's award and the specific record-breaking achievement in question.
+
+成功的数量为：28总数：30当前回溯率：93.33333333333333%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:316
+Question:"Ew!" is a song by a television host born where?
+golden idx: [7, 8]
+idx: [7, 8]
+Step by step with evidence and explanation: To determine the birthplace of the television host who performed the song "Ew!", we must look for contexts that mention both the song and the host. The context at index 7 provides the first piece of effective support. It states that "Ew!" is a song by American television host and comedian Jimmy Fallon, featuring rapper will.i.am. This context confirms that Jimmy Fallon is associated with the song "Ew!".
+
+The second piece of effective support comes from the context at index 8, which provides detailed information about Jimmy Fallon. It mentions that he is an American comedian, actor, television host, and musician, known for his work on "Saturday Night Live" and "The Tonight Show Starring Jimmy Fallon". Most importantly, it states that he was born in Bay Ridge, Brooklyn, and raised in Saugerties, New York. This directly answers the question about the birthplace of the television host of the song "Ew!".
+
+Therefore, the contexts at index 7 and 8 are the most effective in providing factual support for the claim, as they confirm that Jimmy Fallon, the television host who performed "Ew!", was born in Brooklyn, New York.
+
+成功的数量为：30总数：32当前回溯率：93.75%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:317
+Question:The northern English anglian Kingdom in the Humber estuary spoke what dialect of english?
+golden idx: [1, 6]
+idx: [1, 6]
+Step by step with evidence and explanation: To determine which contexts effectively support the claim that the northern English Anglian Kingdom in the Humber estuary spoke a particular dialect of English, we must look for information that directly relates to the language or dialect spoken by the inhabitants of that kingdom.
+
+First, the context at index 1 titled 'Northumbrian dialect' provides effective support for the claim. It explicitly states that "Northumbrian was a dialect of Old English spoken in the Anglian Kingdom of Northumbria." This directly addresses the claim about the dialect spoken in the kingdom, identifying it as Northumbrian, which is a sub-category of Old English.
+
+Secondly, the context at index 6 titled 'Kingdom of Northumbria' also provides effective support for the claim. It describes the Kingdom of Northumbria as a medieval Anglian kingdom in what is now northern England and south-east Scotland. The text includes the Old English name "Norþhymbra rīce," which translates to "kingdom of the Northumbrians," indicating the people and language of the region. The mention of the Humber estuary as the southern limit of the kingdom's territory further ties this context to the geographical area in question.
+
+Therefore, the contexts at index 1 and 6 are the most effective in providing support for the claim regarding the dialect spoken by the Anglian Kingdom in the Humber estuary.
+
+成功的数量为：32总数：34当前回溯率：94.11764705882352%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:318
+Question:What Kentucky county has a population of 60,316 and features the Lake Louisvilla neighborhood?
+golden idx: [5, 9]
+idx: [5, 9]
+Step by step with evidence and explanation: To determine which Kentucky county has a population of 60,316 and features the Lake Louisvilla neighborhood, we need to analyze the provided contexts for relevant information.
+
+Firstly, the context at index 5 mentions **Lake Louisvilla** and states that it is a neighborhood partially located in **Louisville, Kentucky**, and extends into **Oldham County**. This directly addresses the second part of the claim regarding the location of the Lake Louisvilla neighborhood.
+
+Secondly, the context at index 9 provides information about **Oldham County, Kentucky**, stating that as of the 2010 census, the population was **60,316**. This matches the first part of the claim concerning the population figure for the county in question.
+
+Combining the information from these two contexts, we can conclude that Oldham County is the Kentucky county with a population of 60,316 and includes the Lake Louisvilla neighborhood. The contexts at index 5 and 9 are the most effective in providing factual support for the claim.
+
+成功的数量为：34总数：36当前回溯率：94.44444444444444%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:319
+Question:Are both Duke Energy and Affiliated Managers Group based in Massachusetts?
+golden idx: [7, 8]
+idx: [7, 8]
+Step by step with evidence and explanation: To determine if both Duke Energy and Affiliated Managers Group are based in Massachusetts, we need to identify the contexts that provide information about the headquarters of these companies.
+
+First, the context at index 7 provides effective support for the claim regarding Duke Energy. It states that **Duke Energy is headquartered in Charlotte, North Carolina**. This directly contradicts the claim that Duke Energy is based in Massachusetts, thus providing clear evidence that Duke Energy is not headquartered in Massachusetts.
+
+Secondly, the context at index 8 provides effective support for the claim regarding Affiliated Managers Group. It mentions that **Affiliated Managers Group Inc. is headquartered in Massachusetts**. This directly supports the claim that Affiliated Managers Group is based in Massachusetts.
+
+Therefore, the contexts at index 7 and 8 are the most effective in providing support for the claim. Index 7 confirms that Duke Energy is headquartered in North Carolina, not Massachusetts, and index 8 confirms that Affiliated Managers Group is headquartered in Massachusetts. This evidence leads to the conclusion that the claim is only partially correct; Affiliated Managers Group is based in Massachusetts, but Duke Energy is not.
+
+成功的数量为：36总数：38当前回溯率：94.73684210526315%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:320
+Question:Two positions were filled in The Voice of Ireland b which British-Irish girl group based in London, England?
+golden idx: [1, 6]
+idx: [1, 6]
+Step by step with evidence and explanation: To address the claim regarding which British-Irish girl group based in London filled two positions in The Voice of Ireland, we must identify the contexts that specifically mention The Voice of Ireland and the involvement of a British-Irish girl group.
+
+First, the context at index 1 provides direct evidence supporting the claim. It states that "The Saturdays singer Una Healy and S Club 7 star Rachel Stevens filled the remaining two positions" in The Voice of Ireland. This clearly identifies The Saturdays as the group involved and mentions Una Healy by name, linking her to the group and the show.
+
+Secondly, the context at index 6 offers additional support for the claim by providing background information on The Saturdays. It confirms that The Saturdays is a British-Irish girl group based in London, England, and lists the members, including Una Healy. This context supports the claim by establishing the group's relevance and connection to Una Healy, who filled one of the positions in The Voice of Ireland.
+
+Therefore, the contexts at index 1 and 6 are the most effective in providing factual support for the claim about The Voice of Ireland and The Saturdays.
+
+成功的数量为：38总数：40当前回溯率：95.0%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:321
+Question:Who was also an actor, Serri or John Fogerty?
+golden idx: [5, 9]
+idx: [5, 9]
+Step by step with evidence and explanation: To determine which contexts provide effective support for the claim that either Serri or John Fogerty was also an actor, we must analyze the provided contexts for any mention of acting careers.
+
+First, the context at index 5 provides effective support for the claim. It states that Serri, whose real name is Park Mi-yeon, is not only a singer and songwriter but also an actress. This directly addresses the claim by confirming that Serri has indeed pursued acting, alongside her music career.
+
+Secondly, the context at index 9 also provides effective support for the claim. It mentions John Cameron Fogerty's accomplishments as a musician, singer, and songwriter, and his association with the band Creedence Clearwater Revival. However, there is no mention of an acting career, which suggests that John Fogerty is not known for being an actor.
+
+Therefore, the contexts at index 5 and 9 are the most effective in providing support for the claim, with index 5 confirming Serri's role as an actress and index 9 lacking any information on John Fogerty's acting career, thus supporting the conclusion by omission.
+
+成功的数量为：40总数：42当前回溯率：95.23809523809523%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:322
+Question:What is the international football competition for women that Liu Ailing played in the 1991,1995, 1999 editions?
+golden idx: [1, 3]
+idx: [1, 3]
+Step by step with evidence and explanation: To determine the international football competition for women that Liu Ailing played in the 1991, 1995, and 1999 editions, we must look for contexts that specifically mention her participation in international competitions during those years.
+
+First, the context at index 1 provides direct evidence supporting the claim. It states that Liu Ailing "played for the China national team at the 1991, 1995 and 1999 editions of the FIFA Women's World Cup." This clearly identifies the FIFA Women's World Cup as the international competition in question and confirms her participation in the specified years.
+
+Secondly, the context at index 3 offers additional support for the claim by describing the FIFA Women's World Cup as "an international football competition contested by the senior women's national teams of the members of 'Fédération Internationale de Football Association' (FIFA)." It also notes that the competition has been held every four years since 1991, aligning with the years mentioned in the claim.
+
+The other contexts provided do not pertain to Liu Ailing's participation in the FIFA Women's World Cup during the years in question. Therefore, the contexts at index 1 and 3 are the most effective in providing factual support for the claim.
+
+成功的数量为：42总数：44当前回溯率：95.45454545454545%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:323
+Question:Rock Springs is a collection of short stories by an author born in what year?
+golden idx: [1, 4]
+idx: [1, 4]
+Step by step with evidence and explanation: To determine the birth year of the author who wrote "Rock Springs," we need to identify the contexts that directly relate to the author of the collection and provide biographical information. 
+
+First, context index 1 titled 'Rock Springs (short story collection)' mentions that "Rock Springs is a collection of short stories by author Richard Ford, published in 1987." This context confirms that Richard Ford is the author of "Rock Springs," but it does not provide his birth year.
+
+Second, context index 4 titled 'Richard Ford' provides the necessary biographical detail, stating "Richard Ford (born February 16, 1944) is an American novelist and short story writer." This context gives us the exact birth year of Richard Ford, the author of "Rock Springs."
+
+Therefore, the contexts at index 1 and 4 are the most effective in providing support for the claim regarding the birth year of the author of "Rock Springs." Context index 1 establishes Richard Ford as the author, and context index 4 provides his birth year, 1944. The other contexts mention different authors and collections, which are not relevant to the claim.
+
+成功的数量为：44总数：46当前回溯率：95.65217391304348%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:324
+Question:Folie à Deux is a studio album by the American rock band formed in which city?
+golden idx: [5, 8]
+idx: [5, 8]
+Step by step with evidence and explanation: To determine which contexts effectively support the claim that "Folie à Deux" is a studio album by the American rock band formed in which city, we must look for the context that mentions both the album and the city where the band was formed.
+
+First, the context at index 5 provides effective support for the claim. It states that "Folie à Deux" is the fourth studio album by American rock band Fall Out Boy. This context directly addresses the album in question but does not mention the city of formation.
+
+Secondly, the context at index 8 provides the crucial information needed to answer the claim. It states that Fall Out Boy is an American rock band formed in Wilmette, Illinois, a suburb of Chicago, in 2001. This context not only mentions the band but also specifies the city where the band was formed, which is Chicago.
+
+Therefore, the contexts at index 5 and 8 are the most effective in providing support for the claim. Context 5 confirms that "Folie à Deux" is an album by Fall Out Boy, and context 8 identifies Chicago as the city where the band was formed. Combining these two pieces of information, we can conclude that "Folie à Deux" is a studio album by the American rock band Fall Out Boy, which was formed in Chicago.
+
+成功的数量为：46总数：48当前回溯率：95.83333333333334%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:325
+Question:This work of literature _______ , known by its Greek title Oedipus Tyrannus was argued by Sigmund Freud to be one of the greatest works of world literature in his 1928 article. 
+golden idx: [6, 7]
+idx: [6, 7]
+Step by step with evidence and explanation: To address the claim regarding Sigmund Freud's view of "Oedipus Tyrannus" as one of the greatest works of world literature, we must find contexts that directly link Freud's commentary to this specific work.
+
+First, the context at index 6 provides effective support for the claim. It details that "Oedipus Rex," also known by its Greek title "Oedipus Tyrannus," is a tragedy by Sophocles first performed around 429 BC. This context is crucial because it confirms the work's title and authorship, which are essential to identifying the correct literature discussed by Freud.
+
+Secondly, the context at index 7 is also supportive of the claim. It references an article by Freud titled "Dostoevsky and Parricide," published in 1928, where Freud discusses "Oedipus Rex" alongside other significant literary works concerning parricide. This context is directly relevant as it cites Freud's analysis and includes "Oedipus Rex" as a subject of his discussion, aligning with the claim's timeframe and content.
+
+Therefore, the contexts at index 6 and 7 are the most effective in providing factual support for the claim about Freud's view on "Oedipus Tyrannus." The first establishes the identity of the work, while the second confirms Freud's commentary on it as a significant piece of world literature.
+
+成功的数量为：48总数：50当前回溯率：96.0%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:326
+Question:Katherine Waterston and Chrisann Brennan has what in common?
+golden idx: [0, 2]
+idx: [2, 5]
+Step by step with evidence and explanation: To address the claim regarding what Katherine Waterston and Chrisann Brennan have in common, we must look for contexts that link the two individuals. 
+
+First, the context at index 2 provides effective support for the claim. It states that Katherine Waterston is an American actress who portrayed Chrisann Brennan in the film "Steve Jobs" in 2015. This directly connects Katherine Waterston to Chrisann Brennan, as she played the role of Brennan in a biographical film, thus establishing a professional link between them.
+
+Secondly, the context at index 5 also provides effective support for the claim. It mentions Lisa Brennan-Jobs, the daughter of Chrisann Brennan and Steve Jobs. Since Katherine Waterston portrayed Chrisann Brennan in the "Steve Jobs" film, it can be inferred that she would be associated with the character of Lisa Brennan-Jobs within the narrative of the film. This context supports the claim by highlighting the family connection that Chrisann Brennan has with Lisa Brennan-Jobs, which is a significant part of the story in which Katherine Waterston's portrayal of Chrisann Brennan would be involved.
+
+Therefore, the contexts at index 2 and 5 are the most effective in providing factual support for the claim about the commonality between Katherine Waterston and Chrisann Brennan.
+
+成功的数量为：49总数：52当前回溯率：94.23076923076923%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:327
+Question:The voice of Homer Simpson also voices what alien character in the television series "The Simpsons"?
+golden idx: [1, 8]
+idx: [1, 8]
+Step by step with evidence and explanation: To address the claim regarding the voice of Homer Simpson also voicing an alien character in "The Simpsons," we must identify the contexts that specifically mention voice actors and their roles.
+
+First, the context at index 1 provides effective support for the claim. It states that **Kang and Kodos** are characters in "The Simpsons" and that **Kang is voiced by Harry Shearer** and **Kodos by Dan Castellaneta**. Since Dan Castellaneta is known for voicing Homer Simpson, this context confirms that he also voices the alien character Kodos, directly supporting the claim.
+
+Secondly, the context at index 8 also provides effective support for the claim. It details that **Dan Castellaneta** is an actor known for voicing Homer Simpson and mentions that he voices many other characters on the show. Although it does not explicitly state that he voices an alien character, given that the context at index 1 has already established that Castellaneta voices Kodos, this context supports the claim by highlighting Castellaneta's role as a voice actor for multiple characters, including aliens.
+
+Therefore, the contexts at index 1 and 8 are the most effective in providing factual support for the claim that the voice of Homer Simpson also voices the alien character Kodos in "The Simpsons."
+
+成功的数量为：51总数：54当前回溯率：94.44444444444444%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:328
+Question:What studio album did Kanye West record with Roc-A-Fella Records and soul singer Dwele?
+golden idx: [5, 7]
+idx: [4, 2]
+Step by step with evidence and explanation: The task is to identify the studio album Kanye West recorded with Roc-A-Fella Records featuring soul singer Dwele. 
+
+First, context at index 4 titled 'Graduation (album)' provides effective support for the claim. It states that "Graduation" is the third studio album by Kanye West, released through Roc-A-Fella Records, and it features guest contributions from several artists, including Dwele. This directly addresses the claim by confirming that Dwele contributed to the "Graduation" album, which is a studio album by Kanye West under Roc-A-Fella Records.
+
+Secondly, the context at index 2 titled 'Flashing Lights (Kanye West song)' also provides effective support for the claim. It mentions that "Flashing Lights" is a song by Kanye West featuring Dwele, and it was released as part of his third studio album, "Graduation". This context supports the claim by specifying a song from the "Graduation" album where Dwele's contribution is explicitly mentioned, further corroborating the information provided in context index 4.
+
+Therefore, the contexts at index 4 and 2 are the most effective in providing factual support for the claim regarding the studio album Kanye West recorded with Roc-A-Fella Records and soul singer Dwele.
+
+成功的数量为：51总数：56当前回溯率：91.07142857142857%
+第1轮错误：4，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:329
+Question:Were Enrique Carreras and Lionel Ngakane both filmakers during the 20th century? 
+golden idx: [1, 9]
+idx: [1, 9]
+Step by step with evidence and explanation: To address the claim that Enrique Carreras and Lionel Ngakane were both filmmakers during the 20th century, we need to find context that confirms their professions and the time period in which they were active.
+
+First, the context at index 1 provides effective support for Lionel Ngakane's part of the claim. It states that **Lionel Ngakane (17 July 1928 – 26 November 2003) was a South African filmmaker and actor**. This clearly establishes that he was indeed a filmmaker during the 20th century, as he was active until his death in 2003, which falls within the 20th century.
+
+Secondly, the context at index 9 supports the claim regarding Enrique Carreras. It mentions that **Enrique Carreras (January 6, 1925 - 29 August 1995) was a Peruvian-born Argentine film director, screenwriter and film producer**. This information confirms that Enrique Carreras was also a filmmaker during the 20th century, as his lifespan and career fall within that time frame.
+
+Therefore, the contexts at index 1 and 9 are the most effective in providing factual support for the claim that both Enrique Carreras and Lionel Ngakane were filmmakers during the 20th century.
+
+成功的数量为：53总数：58当前回溯率：91.37931034482759%
+第1轮错误：4，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:330
+Question:The city that contains the Yunnan Provincial Museum is also known by what nickname?
+golden idx: [0, 1]
+idx: [0, 8]
+Step by step with evidence and explanation: To address the claim regarding the nickname of the city that contains the Yunnan Provincial Museum, we must identify the city and its nickname. 
+
+First, the context at index 0 provides effective support for the claim. It states that Kunming is the capital and largest city in Yunnan Province and mentions that it is also called the "Spring city" due to its weather. This directly addresses the claim by providing the nickname of the city that houses the Yunnan Provincial Museum.
+
+Secondly, the context at index 8 also provides effective support for the claim. It describes Dianchi Lake, also known as Lake Dian and Kunming Lake, and refers to it as the "Sparkling Pearl Embedded in a Highland." This context supports the claim by associating the nickname "Spring city" with Kunming, which is in close proximity to Dianchi Lake, reinforcing the city's identity and its nickname.
+
+Therefore, the contexts at index 0 and 8 are the most effective in providing support for the claim about the nickname of the city that contains the Yunnan Provincial Museum.
+
+成功的数量为：54总数：60当前回溯率：90.0%
+第1轮错误：5，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:331
+Question:Where is the singer of "B Boy" raised?
+golden idx: [5, 9]
+idx: [5, 9]
+Step by step with evidence and explanation: To determine where the singer of "B Boy" was raised, we need to identify the correct artist and then find information about their upbringing.
+
+First, the context at index 5 provides effective support for the claim. It states that "B Boy" is a song by American hip hop recording artist Meek Mill. This context is directly related to the claim as it identifies the artist of the song "B Boy."
+
+Secondly, the context at index 9 also provides effective support for the claim. It gives detailed information about Meek Mill, stating that he was raised in Philadelphia. This context supports the claim by providing the location where the singer of "B Boy" grew up.
+
+Therefore, the contexts at index 5 and 9 are the most effective in providing support for the claim about where the singer of "B Boy" was raised.
+
+成功的数量为：56总数：62当前回溯率：90.32258064516128%
+第1轮错误：5，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:332
+Question:The Column of Saint Zanobi  is a monumental marble column located just north of religious building with the status of what?
+golden idx: [0, 9]
+idx: [0, 9]
+Step by step with evidence and explanation: The claim in question is seeking the status of a religious building located just north of the Column of Saint Zanobi. To find the contexts that provide effective support for the answer, we must look for information that directly mentions the Column of Saint Zanobi and its proximity to a religious building with a specific status.
+
+First, the context at index 0 provides effective support for the claim. It states that the Column of Saint Zanobi is located just north of the Baptistery of San Giovanni in Florence, Italy. This directly addresses the claim by identifying the religious building in question and its relation to the Column of Saint Zanobi.
+
+Secondly, the context at index 9 also provides effective support for the claim. It describes the Florence Baptistery, also known as the Baptistery of Saint John, and mentions that it has the status of a minor basilica. This context is crucial because it not only confirms the proximity of the Baptistery to the Column of Saint Zanobi but also provides the specific status of the religious building, which is the answer to the claim.
+
+Therefore, the contexts at index 0 and 9 are the most effective in providing support for the claim that the Column of Saint Zanobi is located just north of a religious building with the status of a minor basilica.
+
+成功的数量为：58总数：64当前回溯率：90.625%
+第1轮错误：5，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:333
+Question:The Ingerophrynus gollum is named after a character in a book that sold how many copies?
+golden idx: [1, 3]
+idx: [1, 2]
+Step by step with evidence and explanation: To determine which contexts effectively support the claim regarding the number of copies sold of the book that the Ingerophrynus gollum is named after, we need to identify the contexts that mention both the character Gollum and the book sales.
+
+First, the context at index 1 provides effective support for the claim. It states that "The Lord of the Rings" is one of the best-selling novels ever written, with over 150 million copies sold. This directly addresses the claim about the number of copies sold of the book featuring the character after which Ingerophrynus gollum is named.
+
+Secondly, the context at index 2 also provides effective support for the claim. It mentions that a new species, "Ingerophrynus gollum", was added to the genus Ingerophrynus in 2007 and that this species is named after the character Gollum created by J. R. R. Tolkien. While this context does not provide the number of copies sold, it establishes the connection between the species name and the character from Tolkien's work, which is the subject of the book sales mentioned in context 1.
+
+Therefore, the contexts at index 1 and 2 are the most effective in providing support for the claim about the number of copies sold of the book that the Ingerophrynus gollum is named after.
+
+成功的数量为：59总数：66当前回溯率：89.39393939393939%
+第1轮错误：6，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:334
+Question:What Danish eurodance group had a single called "Barbie Girl" which resulted in a lawsuit in 2002?
+golden idx: [2, 6]
+idx: [2, 6]
+Step by step with evidence and explanation: To address the claim regarding the Danish eurodance group Aqua and their single "Barbie Girl" which led to a lawsuit in 2002, we need to identify the contexts that directly support this information.
+
+Firstly, the context at index 2 provides effective support for the claim. It states that Aqua is a Danish eurodance group best known for their 1997 breakthrough single "Barbie Girl". This context confirms that Aqua is indeed the group associated with the song "Barbie Girl", establishing the connection between the group and the single mentioned in the claim.
+
+Secondly, the context at index 6 is also supportive of the claim. It details the lawsuit "Mattel, Inc. v. MCA Records, Inc.", which directly resulted from the 1997 Aqua song "Barbie Girl". The context mentions that the case was ultimately dismissed, which is a significant legal outcome related to the claim. This context provides the specific information about the lawsuit that is directly linked to the song "Barbie Girl" and the group Aqua, thus confirming the legal dispute mentioned in the claim.
+
+Therefore, the contexts at index 2 and 6 are the most effective in providing factual support for the claim about Aqua's single "Barbie Girl" and the subsequent lawsuit in 2002.
+
+成功的数量为：61总数：68当前回溯率：89.70588235294117%
+第1轮错误：6，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:335
+Question:Which case was decided first, Selle v. Gibb or Reynolds v. Sims?
+golden idx: [4, 7]
+idx: [3, 7]
+Step by step with evidence and explanation: To determine which case was decided first, we need to look at the dates provided in the contexts for "Reynolds v. Sims" and "Selle v. Gibb". 
+
+First, the context at index 3 provides effective support for the claim. It mentions Charles Morgan Jr., an American civil rights attorney who played a key role in the Supreme Court decision in the case "Reynolds v. Sims" in 1964. This date is crucial because it gives us a specific year when the case was decided.
+
+Secondly, the context at index 7 also provides effective support for the claim. It states that "Selle v. Gibb" was a ruling by the U.S. Court of Appeals for the Seventh Circuit in 1984. This information is vital as it gives us the year when "Selle v. Gibb" was decided.
+
+By comparing the years provided in these two contexts, we can conclude that "Reynolds v. Sims" (1964) was decided before "Selle v. Gibb" (1984). Therefore, the contexts at index 3 and 7 are the most effective in providing support for the claim.
+
+成功的数量为：62总数：70当前回溯率：88.57142857142857%
+第1轮错误：7，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:336
+Question:Mamie Gummer played the role of Nancy Crozier on the TV series airing on what network?
+golden idx: [3, 9]
+idx: [3, 9]
+Step by step with evidence and explanation: To determine which contexts provide effective support for the claim that Mamie Gummer played the role of Nancy Crozier on the TV series airing on what network, we must look for the contexts that mention both the actress Mamie Gummer and the TV series in question.
+
+First, the context at index 3 provides direct support for the claim. It states that Mamie Gummer played the recurring role of Nancy Crozier on "The Good Wife" from 2010 to 2015. This context gives us the name of the actress and the character she played, which is directly related to the claim.
+
+Secondly, the context at index 9 provides the necessary information about the network on which "The Good Wife" aired. It states that "The Good Wife" is an American legal and political drama television series that aired on CBS from September 22, 2009, to May 8, 2016. This context gives us the network on which the series aired, which completes the answer to the claim.
+
+Therefore, the contexts at index 3 and 9 are the most effective in providing support for the claim that Mamie Gummer played the role of Nancy Crozier on the TV series "The Good Wife," which aired on CBS.
+
+成功的数量为：64总数：72当前回溯率：88.88888888888889%
+第1轮错误：7，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:337
+Question:What country do both Adnan Akmal and Kamran Akmal represent in cricket?
+golden idx: [3, 9]
+idx: [1, 9]
+Step by step with evidence and explanation: To determine which country Adnan Akmal and Kamran Akmal represent in cricket, we need to identify contexts that mention their national team involvement.
+
+First, the context at index 1 provides effective support for the claim. It states that Umar Akmal is a Pakistani cricketer and mentions that "Like his two brothers, Adnan and Kamran, Umar has kept wicket for the national team in many ODIs." This directly ties both Adnan and Kamran Akmal to the Pakistani national cricket team, confirming that they represent Pakistan in cricket.
+
+Secondly, the context at index 9 also provides effective support for the claim. It details Kamran Akmal's cricket career and states that he is a Pakistani cricketer. It further solidifies the connection by mentioning that "His brothers are Adnan Akmal and Umar Akmal, who are also professional cricketers." This context confirms that Kamran, along with his brother Adnan, has played for the Pakistani national team.
+
+Therefore, the contexts at index 1 and 9 are the most effective in providing factual support for the claim that both Adnan Akmal and Kamran Akmal represent Pakistan in cricket.
+
+成功的数量为：65总数：74当前回溯率：87.83783783783784%
+第1轮错误：8，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:338
+Question:Did Franki Valli sing with Hellogoodbye or The Four Seasons?
+golden idx: [0, 7]
+idx: [2, 7]
+Step by step with evidence and explanation: To determine whether Frankie Valli sang with Hellogoodbye or The Four Seasons, we need to examine the provided contexts for factual information about his musical associations.
+
+Firstly, the context at index 2 mentions "The Wonder Who?" as a pseudonym for The Four Seasons, and it specifically states that this name was used for singles featuring Frankie Valli's falsetto singing. This context provides direct evidence that Frankie Valli was associated with The Four Seasons, as it describes a recording alias they used which included him.
+
+Secondly, the context at index 7 provides a comprehensive overview of The Four Seasons band, stating that Frankie Valli was the lead singer of the group. It also mentions that since 1970, they have been known at times as Frankie Valli and the Four Seasons, further solidifying the connection between Valli and the band.
+
+In contrast, the context about Hellogoodbye (index 0) does not mention Frankie Valli at all, indicating no association between Valli and the band Hellogoodbye. Therefore, the contexts at index 2 and 7 are the most effective in providing support for the claim that Frankie Valli sang with The Four Seasons and not with Hellogoodbye.
+
+成功的数量为：66总数：76当前回溯率：86.8421052631579%
+第1轮错误：9，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:339
+Question:Both Sorbaria and Goldenrod are a genus of more than 50 flowering plants?
+golden idx: [2, 6]
+idx: [2, 6]
+Step by step with evidence and explanation: To address the claim that both Sorbaria and Goldenrod are a genus of more than 50 flowering plants, we must examine the provided contexts for information about the number of species in each genus.
+
+Firstly, the context at index 2 provides effective support for the claim regarding the genus Sorbaria. It states that "Sorbaria is a genus of around 9 species of flowering plants belong to family Rosaceae." This directly contradicts the claim that Sorbaria is a genus of more than 50 flowering plants, as it clearly indicates that there are only approximately 9 species within this genus.
+
+Secondly, the context at index 6 provides effective support for the claim regarding the genus Goldenrod, known scientifically as Solidago. The paragraph text mentions that "Solidago, commonly called goldenrods, is a genus of about 100 to 120 species of flowering plants in the aster family, Asteraceae." This supports the claim that Goldenrod is a genus of more than 50 flowering plants, as it specifies a range well above 50 species.
+
+Therefore, the contexts at index 2 and 6 are the most effective in providing factual support for the claim, with index 2 refuting the claim for Sorbaria and index 6 supporting the claim for Goldenrod.
+
+成功的数量为：68总数：78当前回溯率：87.17948717948718%
+第1轮错误：9，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:340
+Question:What is the capacity of the Stadium, other than Kauffman Stadium, designed by Charles Deaton ? 
+golden idx: [3, 9]
+idx: [3, 9]
+Step by step with evidence and explanation: The task is to identify the capacity of a stadium other than Kauffman Stadium that was designed by Charles Deaton. To find the relevant contexts, we need to look for information that mentions stadiums designed by Charles Deaton and their capacities.
+
+First, the context at index 3 provides effective support for the claim. It states that Charles Deaton designed several athletic stadiums, including Kansas City's Arrowhead Stadium and Kauffman Stadium. Since the question asks for a stadium other than Kauffman Stadium, Arrowhead Stadium is the relevant stadium designed by Deaton.
+
+Secondly, the context at index 9 also provides effective support for the claim. It gives specific information about Arrowhead Stadium, stating that it has a seating capacity of 76,416. This directly answers the question about the capacity of the stadium designed by Charles Deaton other than Kauffman Stadium.
+
+Therefore, the contexts at index 3 and 9 are the most effective in providing support for the claim about the capacity of a stadium designed by Charles Deaton other than Kauffman Stadium.
+
+成功的数量为：70总数：80当前回溯率：87.5%
+第1轮错误：9，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:341
+Question:Who is the current drummer of the band who did the song "What Lovers Do"?
+golden idx: [2, 3]
+idx: [2, 3]
+Step by step with evidence and explanation: To determine the current drummer of the band that performed "What Lovers Do," we must first identify the band in question. The context at index 2 clearly states that "What Lovers Do" is a song by the American pop rock band Maroon 5. This directly links the song to the band, providing the necessary connection to answer the claim.
+
+Next, we need to establish who the current drummer for Maroon 5 is. The context at index 3 provides this information, stating that Maroon 5's current lineup includes drummer Matt Flynn. This context is directly relevant to the claim as it names the current drummer of the band associated with the song "What Lovers Do."
+
+Therefore, the contexts at index 2 and 3 are the most effective in providing factual support for the claim regarding the current drummer of the band who did the song "What Lovers Do." The first context identifies the band, and the second provides the current drummer's name, completing the answer to the question.
+
+成功的数量为：72总数：82当前回溯率：87.8048780487805%
+第1轮错误：9，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:342
+Question:What 2017 Christopher B. Landon directed American slasher film is Jessica Rothe starring in?
+golden idx: [1, 5]
+idx: [1, 5]
+Step by step with evidence and explanation: To answer the question about the 2017 Christopher B. Landon directed American slasher film in which Jessica Rothe stars, we need to identify the contexts that mention both the director and the actress in the context of a 2017 slasher film.
+
+First, the context at index 1 provides effective support for the claim. It states that Jessica Rothe stars in the upcoming 2017 film "Happy Death Day". This directly addresses the claim about Jessica Rothe starring in a 2017 film.
+
+Secondly, the context at index 5 also provides effective support for the claim. It mentions "Happy Death Day" as an upcoming American slasher film directed by Christopher B. Landon and stars Jessica Rothe. This context not only confirms Jessica Rothe's role in the film but also names Christopher B. Landon as the director, which directly answers the claim.
+
+Therefore, the contexts at index 1 and 5 are the most effective in providing support for the claim that Jessica Rothe stars in the 2017 Christopher B. Landon directed American slasher film "Happy Death Day".
+
+成功的数量为：74总数：84当前回溯率：88.09523809523809%
+第1轮错误：9，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:343
+Question:Who was the president of the Sinn Fein political party during the Hume-Adams Dialogue?
+golden idx: [0, 7]
+idx: [3, 7]
+Step by step with evidence and explanation: To determine who was the president of the Sinn Féin political party during the Hume-Adams Dialogue, we need to identify the contexts that provide information about the leadership of Sinn Féin during the time of the dialogue and the dialogue itself.
+
+First, the context at index 3 provides effective support for the claim. It states that "Since 13 November 1983, the office has been held by Gerry Adams, following the resignation of Ruairí Ó Brádaigh as leader of the party." This directly addresses the claim about the president of Sinn Féin during the Hume-Adams Dialogue, as it establishes Gerry Adams as the leader from a specific date which is well before the dialogue took place.
+
+Secondly, the context at index 7 also provides effective support for the claim. It mentions the "Hume–Adams dialogue was a series of talks between then Social Democratic and Labour Party leader John Hume and Sinn Féin leader Gerry Adams during the Northern Ireland peace process." This context confirms that Gerry Adams was the leader of Sinn Féin during the Hume-Adams Dialogue.
+
+Therefore, the contexts at index 3 and 7 are the most effective in providing factual support for the claim that Gerry Adams was the president of the Sinn Féin political party during the Hume-Adams Dialogue.
+
+成功的数量为：75总数：86当前回溯率：87.20930232558139%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:344
+Question:Which of these battles occurred earlier--the Battle of Peleliu or the Battle of Belleau Wood?
+golden idx: [7, 9]
+idx: [9, 7]
+Step by step with evidence and explanation: To determine which battle occurred earlier, we need to identify the contexts that provide the specific dates or timeframes of the Battle of Belleau Wood and the Battle of Peleliu.
+
+First, the context at index 9 provides effective support for the claim regarding the Battle of Belleau Wood. It states that the Battle of Belleau Wood took place from **1–26 June 1918** during World War I. This gives us a clear timeframe for when the battle occurred.
+
+Secondly, the context at index 7 provides effective support for the claim regarding the Battle of Peleliu. It mentions that the Battle of Peleliu was fought from **September to November 1944** during World War II. This also gives us a clear timeframe for when this battle occurred.
+
+Comparing the two dates provided, we can conclude that the Battle of Belleau Wood occurred earlier than the Battle of Peleliu, as it took place in **1918**, while the latter occurred in **1944**. Therefore, the contexts at index 9 and 7 are the most effective in providing factual support for the answer to the claim.
+
+成功的数量为：77总数：88当前回溯率：87.5%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:345
+Question:Garden Island Naval Chapel is the oldest Chistian chapel of a naval branch of what defence force?
+golden idx: [4, 7]
+idx: [7, 4]
+Step by step with evidence and explanation: To determine which contexts effectively support the claim that the Garden Island Naval Chapel is the oldest Christian chapel of a naval branch of a defence force, we must identify the specific naval branch associated with the Garden Island Naval Chapel.
+
+First, the context at index 7 provides direct evidence supporting the claim. It explicitly states that the "Naval Chapel at Garden Island dockyard is the oldest Christian chapel of the Royal Australian Navy (RAN)." This context gives specific details about the chapel's establishment in 1902, its architectural features, and its historical significance. The mention of RAN clearly links the chapel to the Australian Defence Force.
+
+Secondly, the context at index 4 offers additional support for the claim by providing background information on the Royal Australian Navy. It describes the RAN as the naval branch of the Australian Defence Force, which was formed after the Federation of Australia in 1901 and was granted the title 'Royal Australian Navy' in 1911. This context helps to establish the identity of the naval branch associated with the Garden Island Naval Chapel.
+
+Therefore, the contexts at index 7 and 4 are the most effective in providing factual support for the claim regarding the Garden Island Naval Chapel and its association with the Royal Australian Navy.
+
+成功的数量为：79总数：90当前回溯率：87.77777777777777%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:346
+Question:Július Satinský was born in a city that has a current population of what?
+golden idx: [0, 8]
+idx: [0, 8]
+Step by step with evidence and explanation: To determine the current population of the city where Július Satinský was born, we need to identify the correct city first. Context at index 8 provides direct information about Július Satinský, stating that he was born in Bratislava. This context is crucial as it establishes the connection between Satinský and his birthplace.
+
+Next, we look for the context that provides the current population of Bratislava. Context at index 0 talks about Bratislava, stating that it is the capital of Slovakia with a population of about 450,000, and the greater metropolitan area is home to more than 650,000 people. This context is effective because it gives us the current population figures for the city where Satinský was born.
+
+Therefore, the contexts at index 0 and 8 are the most effective in providing support for the claim regarding the current population of the city where Július Satinský was born.
+
+成功的数量为：81总数：92当前回溯率：88.04347826086956%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:347
+Question:What was the name of the 19th century foundry which was located in a village directly across the Hudson River from Westpoint in Putnam County, New York?
+golden idx: [2, 6]
+idx: [2, 6]
+Step by step with evidence and explanation: To answer the question about the 19th-century foundry located across the Hudson River from Westpoint in Putnam County, New York, we need to identify the contexts that provide specific information about the foundry and its location.
+
+First, the context at index 2 provides effective support for the claim. It details the career of Robert Parker Parrott, who became the superintendent of the West Point Iron and Cannon Foundry in Cold Spring, New York. This context is crucial because it directly names the foundry in question and its location in Cold Spring, which is consistent with the claim's details about the foundry's location across from Westpoint.
+
+Secondly, the context at index 6 also provides effective support for the claim. It describes Cold Spring as a village in Putnam County, which is known for its well-preserved 19th-century buildings constructed to accommodate workers at the nearby West Point Foundry. This context is significant because it confirms the existence of the West Point Foundry in Cold Spring and its historical importance, which aligns with the claim's reference to a 19th-century foundry.
+
+Therefore, the contexts at index 2 and 6 are the most effective in providing factual support for the claim about the name and location of the foundry. They both mention the West Point Foundry in Cold Spring, New York, which is the foundry in question, and they provide corroborating details about its significance and connection to the area across the Hudson River from Westpoint.
+
+成功的数量为：83总数：94当前回溯率：88.29787234042553%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:348
+Question:What fictional character created by Tom Clancy was turned into a film in 2002?
+golden idx: [3, 5]
+idx: [3, 5]
+Step by step with evidence and explanation: To address the claim about the fictional character created by Tom Clancy that was turned into a film in 2002, we must look for contexts that mention both a character created by Tom Clancy and a film adaptation in 2002. 
+
+First, the context at index 3 provides effective support for the claim. It states that "The Sum of All Fears" is a novel by Tom Clancy that is part of the Jack Ryan universe and was turned into a film in 2002. This directly addresses the claim by identifying "The Sum of All Fears" as the film and implicitly, Jack Ryan as the character, since the novel is part of the Jack Ryan universe.
+
+Secondly, the context at index 5 also provides effective support for the claim. It introduces Dr. John Patrick "Jack" Ryan Sr. as a fictional character created by Tom Clancy who appears in many of his novels and their respective film adaptations. This context complements the information provided at index 3 by confirming Jack Ryan as the character created by Tom Clancy that was turned into a film in 2002.
+
+Therefore, the contexts at index 3 and 5 are the most effective in providing factual support for the claim regarding the fictional character created by Tom Clancy that was turned into a film in 2002.
+
+成功的数量为：85总数：96当前回溯率：88.54166666666666%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:349
+Question:Wheat salad is composed typically of what red fruit?
+golden idx: [1, 3]
+idx: [1, 3]
+Step by step with evidence and explanation: To determine which contexts effectively support the claim that wheat salad typically includes a red fruit, we must analyze the provided contexts for specific mentions of wheat salad ingredients.
+
+First, context at index 1 titled "Tomato" directly supports the claim by identifying the tomato as an "edible, often red, fruit" from the tomato plant. This context is relevant because it specifies the color and edible nature of the tomato, which is a common ingredient in various salads, including wheat salad.
+
+Secondly, context at index 3 titled "Wheat salad" explicitly mentions that wheat salad typically includes "tomatoes," which is the red fruit in question. This context provides a direct answer to the claim by listing the typical ingredients of a wheat salad, thereby confirming that tomatoes are a component of the dish.
+
+Therefore, the contexts at index 1 and 3 are the most effective in providing factual support for the claim that wheat salad is composed typically of tomatoes, a red fruit.
+
+成功的数量为：87总数：98当前回溯率：88.77551020408163%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:350
+Question:What year did the biographical-comedy-crime film directed by Steven Soderbergh about the highest-level corporate executive whistleblower come out?
+golden idx: [0, 6]
+idx: [0, 6]
+Step by step with evidence and explanation: The claim is about identifying the release year of a biographical-comedy-crime film directed by Steven Soderbergh, which is about the highest-level corporate executive whistleblower. To find the contexts that support this claim, we need to look for information that connects both the director Steven Soderbergh and the whistleblower subject matter.
+
+First, the context at index 0 provides effective support for the claim. It mentions Mark Whitacre, who became a whistleblower in 1995, and his involvement with the FBI in investigating price fixing. This context is relevant because it establishes the subject of the whistleblower, which is a central element of the claim.
+
+Secondly, the context at index 6 directly addresses the claim by mentioning "The Informant!", a film directed by Steven Soderbergh, released in 2009, and starring Matt Damon as Mark Whitacre. This context not only confirms the subject of the whistleblower but also provides the exact title of the film and its release year, which is the specific information requested in the claim.
+
+Therefore, the contexts at index 0 and 6 are the most effective in providing support for the claim about the release year of the film directed by Steven Soderbergh concerning the highest-level corporate executive whistleblower.
+
+成功的数量为：89总数：100当前回溯率：89.0%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:351
+Question:when was the album that includes the song by Dustin Lynch released to country radio on February 17, 2017?
+golden idx: [0, 6]
+idx: [0, 6]
+Step by step with evidence and explanation: To determine the release date of the album that includes the song released to country radio on February 17, 2017, we need to identify the song and then find the corresponding album. 
+
+First, the context at index 6 provides effective support for the claim. It states that "Small Town Boy" is a song recorded by Dustin Lynch and was released to country radio on February 17, 2017, as the second single from his third studio album, "Current Mood". This directly addresses the claim by identifying the song in question.
+
+Secondly, the context at index 0 also provides effective support for the claim. It mentions that "Current Mood" is the third studio album by Dustin Lynch and was released on September 8, 2017. Since "Small Town Boy" is a single from this album, the release date of the album is relevant to the claim.
+
+Therefore, the contexts at index 6 and 0 are the most effective in providing support for the claim about the release date of the album containing the song released to country radio on February 17, 2017.
+
+成功的数量为：91总数：102当前回溯率：89.2156862745098%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:352
+Question:Which playwright lived a longer life, Edward Albee or J. M. Barrie?
+golden idx: [4, 8]
+idx: [4, 8]
+Step by step with evidence and explanation: To determine which playwright lived a longer life, we need to compare the lifespans of Edward Albee and J. M. Barrie. 
+
+First, the context at index 4 provides effective support for the claim regarding J. M. Barrie's lifespan. It states that Sir James Matthew Barrie was born on May 9, 1860, and died on June 19, 1937. This gives us a lifespan of 77 years for J. M. Barrie.
+
+Secondly, the context at index 8 provides effective support for the claim regarding Edward Albee's lifespan. It states that Edward Franklin Albee III was born on March 12, 1928, and died on September 16, 2016. This gives us a lifespan of 88 years for Edward Albee.
+
+By comparing the lifespans provided in these contexts, we can conclude that Edward Albee lived a longer life than J. M. Barrie by approximately 11 years. Therefore, the contexts at index 4 and 8 are the most effective in providing support for the claim.
+
+成功的数量为：93总数：104当前回溯率：89.42307692307693%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:353
+Question:Are both Rutgers University and Carnegie Mellon University located in America?
+golden idx: [5, 9]
+idx: [5, 9]
+Step by step with evidence and explanation: To address the claim that both Rutgers University and Carnegie Mellon University are located in America, we must identify the contexts that provide factual information about the location of these universities.
+
+First, the context at index 5 provides direct evidence supporting the claim. It states, "Rutgers, The State University of New Jersey, commonly referred to as Rutgers University, Rutgers, or RU, is an American public research university and the largest institution for higher education in New Jersey." This clearly establishes Rutgers University as an American institution, located in New Jersey.
+
+Secondly, the context at index 9 offers clear information about Carnegie Mellon University's location. It reads, "Carnegie Mellon University (Carnegie Mellon or CMU) is a private research university in Pittsburgh, Pennsylvania." This statement confirms that Carnegie Mellon University is also located in America, specifically in the state of Pennsylvania.
+
+Therefore, the contexts at index 5 and 9 are the most effective in providing factual support for the claim that both Rutgers University and Carnegie Mellon University are located in America.
+
+成功的数量为：95总数：106当前回溯率：89.62264150943396%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:354
+Question:Vanessa Bley is what person who organizes and often finances concerts, plays, or operas, performing a role?
+golden idx: [0, 7]
+idx: [0, 7]
+Step by step with evidence and explanation: The task is to identify the contexts that effectively support the claim regarding Vanessa Bley's role as an organizer and financier of concerts, plays, or operas.
+
+First, the context at index 0 provides effective support for the claim. It describes Vanessa Bley as a singer, composer, producer, and musician based in New York City and Los Angeles. The mention of her being a producer is particularly relevant because a producer in the music industry often takes on roles similar to those of an impresario, which includes organizing and financing musical projects and events. This context directly supports the claim by highlighting her role as a producer, which aligns with the responsibilities of an impresario.
+
+Secondly, the context at index 7 provides effective support for the claim. It defines an impresario as a person who organizes and often finances concerts, plays, or operas. This context is crucial because it explains the role and duties of an impresario, which is the exact term used in the claim to describe Vanessa Bley's role. By detailing the responsibilities and historical significance of an impresario, this context supports the claim by clarifying what is meant by the term and confirming that Vanessa Bley's activities as described in index 0 fall within the scope of an impresario's work.
+
+Therefore, the contexts at index 0 and 7 are the most effective in providing support for the claim about Vanessa Bley's role. The first context describes her relevant activities in the music industry, while the second context defines the term impresario and its associated responsibilities, both of which are pertinent to the claim.
+
+成功的数量为：97总数：108当前回溯率：89.81481481481481%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:355
+Question:Were Thomas H. Ince and Joseph McGrath of the same nationality?
+golden idx: [0, 8]
+idx: [0, 8]
+Step by step with evidence and explanation: To determine whether Thomas H. Ince and Joseph McGrath were of the same nationality, we need to identify the contexts that provide information about their nationalities.
+
+First, the context at index 0 provides effective support for the claim. It states that Thomas Harper Ince was an American silent film producer, director, screenwriter, and actor. This clearly establishes his nationality as American.
+
+Secondly, the context at index 8 also provides effective support for the claim. It mentions that Joseph McGrath was born in Glasgow and is a Scottish film and television director and screenwriter. This indicates that McGrath is of Scottish nationality.
+
+Therefore, since Thomas H. Ince was American and Joseph McGrath is Scottish, they were not of the same nationality. The contexts at index 0 and 8 are the most effective in providing support for the claim because they directly address the nationalities of the individuals in question.
+
+成功的数量为：99总数：110当前回溯率：90.0%
+第1轮错误：10，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:356
+Question:Are Phlebodium and Pieris both species of ferns?
+golden idx: [4, 6]
+idx: [5, 6]
+Step by step with evidence and explanation: To address the claim that Phlebodium and Pieris are both species of ferns, we must analyze the provided contexts for factual information that supports or refutes this claim.
+
+Firstly, context at index 5 titled 'Phlebodium aureum' clearly supports the claim. It describes **Phlebodium aureum** as an epiphytic fern native to tropical and subtropical regions of the Americas. This context provides specific details about its habitat and distribution, confirming that **Phlebodium** is indeed a genus of ferns. The text also mentions that it is the only species of **Phlebodium** found in North America, with other species confined to South America, which further supports the claim about Phlebodium being a fern species.
+
+Secondly, context at index 6 titled 'Phlebodium' reinforces the information from index 5. It states that **Phlebodium** is a small genus of two to four species of ferns, native to tropical and subtropical regions of the Americas. This context not only confirms that Phlebodium is a genus of ferns but also provides additional information about the number of species within the genus and their geographical distribution.
+
+The contexts at indices 5 and 6 are the only ones that provide effective factual support for the claim that Phlebodium is a species of ferns. The other contexts either refer to Pieris as a genus of butterflies or plants, which are not relevant to the claim about fern species. Therefore, the contexts at index 5 and 6 are the most effective in providing support for the claim.
+
+成功的数量为：100总数：112当前回溯率：89.28571428571429%
+第1轮错误：11，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:357
+Question:Bartlett's Bridge was built by the engineer who worked for the county seat of which Massachusetts county?
+golden idx: [1, 6]
+idx: [1, 6]
+Step by step with evidence and explanation: To determine which contexts effectively support the claim that Bartlett's Bridge was built by the engineer who worked for the county seat of which Massachusetts county, we need to identify the contexts that mention both Bartlett's Bridge and the relevant Massachusetts county.
+
+First, the context at index 6 directly mentions Bartlett's Bridge and provides detailed information about its construction. It states that Bartlett's Bridge is located in Oxford, Massachusetts, and was built in 1889 to a design by Charles A. Allen, who was a civil engineer for the city of Worcester at the time. This context is crucial because it connects the bridge to the engineer and specifies that he worked for the city of Worcester, which is in Worcester County, Massachusetts.
+
+Secondly, the context at index 1 provides information about Worcester, Massachusetts, stating that it is the county seat of Worcester County. This context supports the claim by confirming that Worcester is indeed the county seat of the county in question, which is Worcester County.
+
+Therefore, the contexts at index 1 and 6 are the most effective in providing factual support for the claim. Context 1 establishes Worcester as the county seat of Worcester County, and context 6 links the engineer who built Bartlett's Bridge to his work for the city of Worcester, thereby confirming that the engineer worked for the county seat of Worcester County, Massachusetts.
+
+成功的数量为：102总数：114当前回溯率：89.47368421052632%
+第1轮错误：11，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:358
+Question:Which novelist, J. G. Farrell or Louis Aragon, wrote of the political and human consequences of his country's colonial rule?
+golden idx: [1, 9]
+idx: [1, 9]
+Step by step with evidence and explanation: To determine which novelist wrote of the political and human consequences of his country's colonial rule, we must identify the contexts that specifically mention the works of the novelists in question and their relation to colonial rule.
+
+First, the context at index 1 provides effective support for the claim. It describes Louis Aragon as a French poet and novelist who was involved in the surrealist movement and was a member of the Communist Party. However, it does not mention any works by Aragon that deal with the political and human consequences of colonial rule. Therefore, while it provides background information on Aragon, it does not support the claim about his writing on colonial rule.
+
+Secondly, the context at index 9 directly supports the claim. It states that J. G. Farrell, a Liverpool-born novelist of Irish descent, gained prominence for his "Empire Trilogy" (which includes "Troubles", "The Siege of Krishnapur", and "The Singapore Grip"), which explicitly deals with the political and human consequences of British colonial rule. This context provides clear evidence that J. G. Farrell is the novelist who wrote about the consequences of colonial rule, as stated in the claim.
+
+Therefore, the contexts at index 1 and 9 are the most effective in providing support for the claim, with index 9 offering direct evidence of Farrell's work on the subject of colonial rule.
+
+成功的数量为：104总数：116当前回溯率：89.65517241379311%
+第1轮错误：11，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:359
+Question:What city did the characters from Gargoyles the Movie: The Heroes Awaken wake up in after being in an enchantedly petrified state for a thousand years?
+golden idx: [2, 8]
+idx: [2, 8]
+Step by step with evidence and explanation: 
+Firstly, the context at index 2 provides effective support for the claim. It details that the animated series "Gargoyles" features a species of nocturnal creatures known as gargoyles that turn to stone during the day. It specifically mentions that after spending a thousand years in an enchantedly petrified state, the gargoyles are reawakened in modern-day New York City. This directly answers the question about the city where the characters from "Gargoyles the Movie: The Heroes Awaken" wake up after being petrified.
+
+Secondly, the context at index 8 also supports the claim effectively. It describes "Gargoyles the Movie: The Heroes Awaken" as a direct-to-video animated film that is essentially the five-episode pilot of the "Gargoyles" animated series edited into one feature film. While it doesn't explicitly mention New York City, it is directly related to the series mentioned in index 2, which does specify New York City as the location where the gargoyles awaken. Therefore, by association, this context supports the claim about the location where the characters wake up.
+
+Together, these two contexts provide a clear and direct answer to the claim, with index 2 giving the specific detail needed and index 8 reinforcing the connection to the movie in question.
+
+成功的数量为：106总数：118当前回溯率：89.83050847457628%
+第1轮错误：11，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:360
+Question:Who were the producers of the show for which Chris McKay made his feature film directorial debut?
+golden idx: [0, 6]
+idx: [0, 6]
+Step by step with evidence and explanation: To determine the producers of the show for which Chris McKay made his feature film directorial debut, we need to identify the film in question and then ascertain who produced it. 
+
+Firstly, context at index 6 provides direct information about Chris McKay's career, stating that he made his feature film directorial debut with "The Lego Batman Movie" (2017). This context is crucial as it identifies the specific film that marks McKay's transition to feature film directing.
+
+Secondly, the context at index 0 is also relevant because it details "The Lego Batman Movie" and lists the producers of the film. It states that the film was produced by Dan Lin, Roy Lee, Phil Lord, and Christopher Miller. This context not only supports the claim by confirming the film title but also provides the names of the individuals who produced it.
+
+Therefore, the contexts at index 0 and 6 are the most effective in providing factual support for the claim regarding the producers of the show for which Chris McKay made his feature film directorial debut.
+
+成功的数量为：108总数：120当前回溯率：90.0%
+第1轮错误：11，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:361
+Question:The Waterloo Vase has been used as a garden ornament at whose residence and administrative headquarters?
+golden idx: [4, 7]
+idx: [4, 7]
+Step by step with evidence and explanation: To determine which contexts effectively support the claim that the Waterloo Vase has been used as a garden ornament at whose residence and administrative headquarters, we must look for specific information that directly addresses the claim.
+
+First, the context at index 4 provides effective support for the claim. It states that the Waterloo Vase is a large urn made from Carrara marble and that since 1906, it has been used as a garden ornament in the garden of Buckingham Palace, London. This directly answers the question by specifying the location and the use of the Waterloo Vase as a garden ornament, which is Buckingham Palace.
+
+Secondly, the context at index 7 provides effective support for the claim by explaining that Buckingham Palace is the London residence and administrative headquarters of the reigning monarch of the United Kingdom. This context is relevant because it identifies Buckingham Palace as the residence and administrative headquarters, which is where the Waterloo Vase is located according to the context at index 4.
+
+Therefore, the contexts at index 4 and 7 are the most effective in providing factual support for the claim regarding the location and use of the Waterloo Vase.
+
+成功的数量为：110总数：122当前回溯率：90.1639344262295%
+第1轮错误：11，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:362
+Question:Scott Sandelin grew up in a town in what Minnesota county?
+golden idx: [7, 8]
+idx: [7, 8]
+Step by step with evidence and explanation: To determine which contexts effectively support the claim that Scott Sandelin grew up in a town in what Minnesota county, we must find the contexts that mention both Scott Sandelin and the county in Minnesota where he grew up.
+
+First, the context at index 8 provides effective support for the claim. It states that **Scott Alan Sandelin** is an American former professional ice hockey player and the current head coach of the Minnesota-Duluth Bulldogs men's ice hockey team. Importantly, it mentions that he grew up in **Hibbing, Minnesota**. This directly addresses the claim about Scott Sandelin's upbringing and specifies the town where he grew up.
+
+Secondly, the context at index 7 also provides effective support for the claim. It describes **Hibbing** as a city in **Saint Louis County, Minnesota**, which is the piece of information needed to answer the question about the county. This context does not mention Scott Sandelin directly, but it is relevant because it identifies the county of the town where Scott Sandelin grew up, as mentioned in the context at index 8.
+
+Therefore, the contexts at index 7 and 8 are the most effective in providing support for the claim about the county in Minnesota where Scott Sandelin grew up.
+
+成功的数量为：112总数：124当前回溯率：90.32258064516128%
+第1轮错误：11，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:363
+Question:The 37th Disney animated feature film Tarzan features You'll be in my heart by which artist?
+golden idx: [3, 9]
+idx: [3, 9]
+Step by step with evidence and explanation: To address the claim regarding the artist of "You'll Be in My Heart" from the 37th Disney animated feature film "Tarzan," we must identify the contexts that directly relate to the song and the film.
+
+First, the context at index 3 provides effective support for the claim. It explicitly states that "You'll Be in My Heart" is a song by Phil Collins, from the 1999 Disney animated feature "Tarzan." This context directly answers the question by identifying Phil Collins as the artist of the song featured in the film "Tarzan."
+
+Secondly, the context at index 9 also provides effective support for the claim. It describes "Tarzan" as the 37th Disney animated feature film, confirming its place in the Disney animated feature film lineup. This context supports the claim by affirming the numerical order of "Tarzan" within Disney's animated features and indirectly supports the association of the song "You'll Be in My Heart" with the film.
+
+Therefore, the contexts at index 3 and 9 are the most effective in providing factual support for the claim about the artist of "You'll Be in My Heart" in the Disney film "Tarzan."
+
+成功的数量为：114总数：126当前回溯率：90.47619047619048%
+第1轮错误：11，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:364
+Question:What type of media does J. T. Petty and Outlast have in common?
+golden idx: [0, 5]
+idx: [0, 5]
+Step by step with evidence and explanation: To determine the type of media J. T. Petty and Outlast have in common, we need to identify contexts that mention both entities and the media they are associated with.
+
+First, the context at index 0 provides effective support for the claim. It describes "Outlast" as a first-person survival horror video game developed by Red Barrels. This context is relevant because it specifies the media type (video game) that "Outlast" is associated with.
+
+Secondly, the context at index 5 also provides effective support for the claim. It states that J. T. Petty is an American filmmaker and video game writer, and specifically mentions that he wrote the survival horror games "Outlast" and "Outlast 2". This context is crucial as it directly links J. T. Petty to the video game "Outlast", establishing the common media type between J. T. Petty and Outlast as video games, particularly in the survival horror genre.
+
+Therefore, the contexts at index 0 and 5 are the most effective in providing support for the claim that J. T. Petty and Outlast have video games as a common media type.
+
+成功的数量为：116总数：128当前回溯率：90.625%
+第1轮错误：11，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:365
+Question:Where did the architect of the Governor's House, located in Knutsford, graduate from college?
+golden idx: [2, 7]
+idx: [2, 7]
+Step by step with evidence and explanation: To determine the college from which the architect of the Governor's House in Knutsford graduated, we need to identify the architect first and then find information about their education.
+
+First, context at index 2 provides effective support for identifying the architect. It states that the Governor's House was designed by the Lancaster architect **Edmund Sharpe**. This directly addresses the first part of the claim by naming the architect.
+
+Secondly, the context at index 7 provides effective support for the claim about the architect's education. It mentions that **Edmund Sharpe** was educated first by his parents and then at schools locally and in Runcorn, Greenwich, and Sedbergh. Following his graduation from **Cambridge University**, he was awarded a travelling scholarship. This supports the claim about where Edmund Sharpe, the architect of the Governor's House, graduated from college.
+
+Therefore, the contexts at index 2 and 7 are the most effective in providing support for the claim.
+
+成功的数量为：118总数：130当前回溯率：90.76923076923077%
+第1轮错误：11，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:366
+Question: What is the latest album of Tim Hecker, the Canadian electronic music maker?
+golden idx: [0, 9]
+idx: [2, 9]
+Step by step with evidence and explanation: To determine the latest album of Tim Hecker, we need to look for the most recent release date among the provided contexts. First, context at index 2 mentions "Love Streams" as the eighth studio album released on April 8, 2016. This is a strong candidate as it is described as a studio album, which fits the query for the latest album. Secondly, context at index 9 provides a summary of Tim Hecker's career, stating that "Love Streams" was released on April 8, 2016, and is his latest album. This context confirms the information provided in index 2 and gives us a clear answer to the claim. The other contexts describe albums that were released prior to 2016 or do not pertain to Tim Hecker's music directly. Therefore, the contexts at index 2 and 9 are the most effective in providing support for the claim that "Love Streams" is the latest album by Tim Hecker.
+
+成功的数量为：119总数：132当前回溯率：90.15151515151516%
+第1轮错误：12，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:367
+Question:What is the name of this Fortune 500 American company that operates a chain of retail home improvement stores that sponsored House Rules?
+golden idx: [3, 7]
+idx: [3, 7]
+Step by step with evidence and explanation: To determine the Fortune 500 American company that operates a chain of retail home improvement stores and sponsored House Rules, we need to identify contexts that mention both the sponsorship and the company's status as a Fortune 500 entity in the home improvement sector.
+
+Firstly, the context at index 3 directly mentions **Lowe's Companies, Inc.** as a **Fortune 500 American company** that operates a chain of retail home improvement and appliance stores in the United States, Canada, and Mexico. This context provides the necessary information about the company's status and its operations in the home improvement sector, which is relevant to the claim.
+
+Secondly, the context at index 7 provides information about the television show **House Rules**, stating that it was sponsored by **Lowe's**. This context connects Lowe's to the sponsorship of House Rules, which is the second part of the claim.
+
+Therefore, the contexts at index 3 and 7 are the most effective in providing support for the claim. They both mention Lowe's in the capacity required by the claim: index 3 establishes Lowe's as a Fortune 500 company in the home improvement sector, and index 7 confirms Lowe's as the sponsor of House Rules.
+
+成功的数量为：121总数：134当前回溯率：90.29850746268657%
+第1轮错误：12，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:368
+Question:For what "first" was Ivory Lee Brown's nephew credited for in Heisman Trophy balloting?
+golden idx: [2, 6]
+idx: [2, 6]
+Step by step with evidence and explanation: The task is to identify the contexts that support the claim regarding Ivory Lee Brown's nephew's "first" in Heisman Trophy balloting. 
+
+First, context at index 2 provides effective support for the claim. It details Adrian Peterson's achievements, stating that he "became the first freshman to finish as the runner-up in the Heisman Trophy balloting." This directly addresses the claim about a "first" in Heisman Trophy balloting related to Ivory Lee Brown's nephew.
+
+Secondly, the context at index 6 establishes the familial relationship needed to connect Adrian Peterson to Ivory Lee Brown, stating that "Brown is the uncle of Minnesota Vikings running back Adrian Peterson." This context does not directly address the Heisman Trophy but is crucial in confirming the relationship between Brown and his nephew, Adrian Peterson, who is credited with the "first" in the claim.
+
+Therefore, the contexts at index 2 and 6 are the most effective in providing factual support for the claim about Ivory Lee Brown's nephew's achievement in Heisman Trophy balloting.
+
+成功的数量为：123总数：136当前回溯率：90.44117647058823%
+第1轮错误：12，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:369
+Question:Haruki Murakami said that writing "Dance Dance Dance" had been a healing act after his unexpected fame following the publication of a novel published in which year ?
+golden idx: [2, 3]
+idx: [2, 3]
+Step by step with evidence and explanation: To address the claim regarding Haruki Murakami's statement about writing "Dance Dance Dance" as a healing act after his unexpected fame, we need to identify the novel that brought him this fame and the year it was published.
+
+First, the context at index 3 provides effective support for the claim. It states that "Norwegian Wood" is a novel by Haruki Murakami published in 1987. This piece of information is crucial because it identifies the novel that brought Murakami unexpected fame, which is directly related to the claim about his reasons for writing "Dance Dance Dance."
+
+Secondly, the context at index 2 also provides effective support for the claim. It explains that "Dance Dance Dance" is a novel by Murakami first published in 1988 and that in 2001, Murakami expressed that writing this novel had been a healing act after the fame following "Norwegian Wood." This context not only confirms the publication year of "Dance Dance Dance" but also directly quotes Murakami's reflection on the healing nature of writing this novel after the fame from "Norwegian Wood."
+
+Therefore, the contexts at index 2 and 3 are the most effective in providing factual support for the claim, as they directly address the publication years of "Norwegian Wood" and "Dance Dance Dance," and Murakami's statement about the latter being a healing act following the fame from the former.
+
+成功的数量为：125总数：138当前回溯率：90.57971014492753%
+第1轮错误：12，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:370
+Question:Erica Packer was the second wife of what Australian businessman?
+golden idx: [2, 4]
+idx: [2, 4]
+Step by step with evidence and explanation: To determine which contexts effectively support the claim that Erica Packer was the second wife of an Australian businessman, we must look for specific information that identifies the businessman in question.
+
+First, the context at index 2 provides direct evidence supporting the claim. It states that **Erica Georgia Packer (née Baxter)** was the second wife of **Australia's eighth richest man, James Packer**. This context gives us the name of the businessman, James Packer, and confirms Erica Packer's relationship to him, thus directly answering the question.
+
+Secondly, the context at index 4 offers additional support, albeit indirectly. It provides information about **James Douglas Packer**, identifying him as an Australian businessman and investor. While this context does not explicitly mention his marital status or his relationship with Erica Packer, it corroborates the information given in index 2 by confirming James Packer's identity as a businessman.
+
+Therefore, the contexts at index 2 and 4 are the most effective in providing factual support for the claim about Erica Packer's marriage to an Australian businessman.
+
+成功的数量为：127总数：140当前回溯率：90.71428571428571%
+第1轮错误：12，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:371
+Question:What type of media does Bitter Jester and Sicko have in common?
+golden idx: [1, 3]
+idx: [1, 3]
+Step by step with evidence and explanation: To determine the type of media Bitter Jester and Sicko have in common, we must identify the contexts that describe these entities. First, the context at index 1 provides effective support for the claim. It describes "Bitter Jester" as a documentary featuring interviews with various stars in the comedy world. This establishes the media type for Bitter Jester as a documentary. Secondly, the context at index 3 also provides effective support for the claim. It details "Sicko" as a 2007 American documentary film made by filmmaker Michael Moore, focusing on the health care system in the United States. This confirms that Sicko is also a documentary. Both contexts clearly indicate that Bitter Jester and Sicko are documentaries, which is the type of media they have in common. Therefore, the contexts at index 1 and 3 are the most effective in providing support for the claim.
+
+成功的数量为：129总数：142当前回溯率：90.84507042253522%
+第1轮错误：12，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:372
+Question:What country does Eric A. Sykes and Eccles, Greater Manchester have ion common?
+golden idx: [5, 6]
+idx: [5, 6]
+Step by step with evidence and explanation: To determine the commonality between Eric A. Sykes and Eccles, Greater Manchester, we must identify contexts that provide information about both entities.
+
+First, the context at index 5 is directly relevant as it provides information about Eric A. Sykes, stating that he was born in Eccles, Greater Manchester. This context is crucial because it establishes a connection between the individual and the location, which is the essence of the claim.
+
+Secondly, the context at index 6 is also relevant as it describes Eccles as a town in Greater Manchester, providing geographical and demographic information. This context supports the claim by confirming that Eccles is indeed a location within Greater Manchester, thereby establishing the common country between Eric A. Sykes and Eccles.
+
+Therefore, the contexts at index 5 and 6 are the most effective in providing factual support for the claim, as they directly address the connection between Eric A. Sykes and Eccles, Greater Manchester, which is England.
+
+成功的数量为：131总数：144当前回溯率：90.97222222222221%
+第1轮错误：12，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:373
+Question:What South Korean actor was a member of the pop duo TVXQ and stared in Heading to the Ground, a 2009 MBC television series?
+golden idx: [3, 5]
+idx: [3, 5]
+Step by step with evidence and explanation: To answer the question about which South Korean actor was a member of the pop duo TVXQ and starred in "Heading to the Ground," we need to identify the contexts that provide information about an actor who is both a member of TVXQ and has acted in the specified television series.
+
+First, the context at index 3 provides effective support for the claim. It directly states that "Heading to the Ground" is a 2009 South Korean television series starring Yunho, among others. This confirms that Yunho is an actor in the series mentioned in the claim.
+
+Secondly, the context at index 5 provides effective support for the claim as well. It mentions Jung Yun-ho, also known by his stage name U-Know Yunho, is a South Korean singer, actor, and a member of the pop duo TVXQ. This context confirms that Yunho is not only an actor but also a member of TVXQ.
+
+Therefore, the contexts at index 3 and 5 are the most effective in providing factual support for the claim, as they confirm Yunho's dual roles as a member of TVXQ and as an actor in the series "Heading to the Ground."
+
+成功的数量为：133总数：146当前回溯率：91.0958904109589%
+第1轮错误：12，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:374
+Question:which is traditionally drunk before retiring to bed, Hot toddy or Kir?
+golden idx: [2, 8]
+idx: [5, 8]
+Step by step with evidence and explanation: To determine which drink is traditionally drunk before retiring to bed, we must look for context that specifically mentions this tradition. First, the context at index 5 provides effective support for the claim. It states that a hot toddy is a mixed drink, usually including alcohol, that is served hot. While this information is relevant, it does not explicitly mention the tradition of drinking it before bed. However, the context at index 8 gives us a clear answer. It describes a hot toddy as a drink that is "traditionally drunk before retiring for the night, or in wet or cold weather." This directly addresses the claim and confirms that a hot toddy is the drink traditionally consumed before bed. The context at index 2, which describes Kir, does not mention any such tradition. Therefore, the contexts at index 5 and 8 are the most effective in providing factual support for the claim that a hot toddy is traditionally drunk before retiring to bed.
+
+成功的数量为：134总数：148当前回溯率：90.54054054054053%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:375
+Question:What year was the film "Mom" released, starring the voice of Shashaa Tirupati?
+golden idx: [3, 5]
+idx: [3, 5]
+Step by step with evidence and explanation: To determine which contexts effectively support the claim about the release year of the film "Mom" starring the voice of Shashaa Tirupati, we must look for contexts that mention both the film and the involvement of Shashaa Tirupati.
+
+First, the context at index 3 provides effective support for the claim. It mentions Shashaa Tirupati as a playback singer and voice-over artist who is active in the Bollywood and South Indian music industries. It specifically lists "Mom" as one of the films she provided her voice for, indicating her involvement in the film. However, it does not provide the release year of the film.
+
+Secondly, the context at index 5 directly supports the claim by providing comprehensive details about the film "Mom." It states that "Mom" is a 2017 Indian thriller film and goes on to describe the plot, the cast, and the crew, including Sridevi's notable appearance as her 300th film. Most importantly, it confirms that the film was released on 7 July 2017, which answers the question about the release year.
+
+Therefore, the contexts at index 3 and 5 are the most effective in providing support for the claim, with index 3 confirming Shashaa Tirupati's involvement in the film and index 5 providing the specific release year of the film "Mom."
+
+成功的数量为：136总数：150当前回溯率：90.66666666666666%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:376
+Question:For One Night Only was hosted by the man most well-known for hosting what show from 1962 until 1999?
+golden idx: [3, 4]
+idx: [3, 4]
+Step by step with evidence and explanation: To address the claim that "For One Night Only" was hosted by the man most well-known for hosting a show from 1962 until 1999, we need to identify the host and the show in question.
+
+Firstly, the context at index 3 provides effective support for the claim. It states that Gabriel Mary "Gay" Byrne, known as Gay Byrne, was the host of "The Late Late Show" for a period spanning from 1962 until 1999. This directly addresses the claim about the host's most well-known role, which is the significant time frame mentioned in the question.
+
+Secondly, the context at index 4 also provides effective support for the claim. It mentions "For One Night Only" as an Irish light entertainment show hosted by Gay Byrne. This supports the claim by confirming that Gay Byrne, who is known for hosting "The Late Late Show," also hosted "For One Night Only."
+
+Therefore, the contexts at index 3 and 4 are the most effective in providing factual support for the claim, as they both mention Gay Byrne and his roles in the respective shows, directly linking to the timeframe and the individual in question.
+
+成功的数量为：138总数：152当前回溯率：90.78947368421053%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:377
+Question:What company did Roscoe Channing form with the owner of a leading stable of thoroughbred racehorses?
+golden idx: [3, 5]
+idx: [3, 5]
+Step by step with evidence and explanation: To determine which company Roscoe Channing formed with the owner of a leading stable of thoroughbred racehorses, we need to identify the contexts that mention both Roscoe Channing and the owner of a leading stable of thoroughbred racehorses, as well as the company they formed together.
+
+First, the context at index 3 provides effective support for the claim. It mentions Cornelius Vanderbilt Whitney, who is described as the owner of a leading stable of thoroughbred racehorses. This context is relevant because it identifies one of the individuals involved in the formation of the company in question.
+
+Secondly, the context at index 5 also provides effective support for the claim. It states that Roscoe Channing formed a partnership with his friend Cornelius Vanderbilt Whitney in the 1920s. Together, they formed the Hudson Bay Mining and Smelting Company in Flin Flon, Saskatchewan, Canada, and Channing served as the company's President. This context is crucial as it directly answers the question by naming the company and confirming the partnership between Channing and Whitney.
+
+Therefore, the contexts at index 3 and 5 are the most effective in providing support for the claim about the company Roscoe Channing formed with Cornelius Vanderbilt Whitney.
+
+成功的数量为：140总数：154当前回溯率：90.9090909090909%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:378
+Question:Jens Risom introduced what type of design, characterized by minimalism and functionality?
+golden idx: [3, 7]
+idx: [3, 7]
+Step by step with evidence and explanation: To address the claim regarding the type of design Jens Risom introduced, characterized by minimalism and functionality, we must identify the contexts that directly relate to Risom's work and the design movement he was associated with.
+
+Firstly, the context at index 3 provides effective support for the claim. It states that Jens Risom was a Danish American furniture designer and an exemplar of Mid-Century modern design. It also notes that Risom was one of the first designers to introduce Scandinavian design in the United States. This information is crucial because Scandinavian design is known for its minimalism and functionality, which aligns with the characteristics mentioned in the claim.
+
+Secondly, the context at index 7 also provides effective support for the claim. It describes Scandinavian design as a design movement characterized by simplicity, minimalism, and functionality, which emerged in the 1950s in the Nordic countries. Since Jens Risom is credited with introducing this design style in the United States, this context reinforces the claim by describing the core attributes of the design movement Risom was part of.
+
+Therefore, the contexts at index 3 and 7 are the most effective in providing support for the claim about the type of design Jens Risom introduced.
+
+成功的数量为：142总数：156当前回溯率：91.02564102564102%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:379
+Question:Which of the movie which has Rich Lee 3-D previsualizations was directed by Francis Lawrence?
+golden idx: [3, 5]
+idx: [3, 5]
+Step by step with evidence and explanation: To determine which movies directed by Francis Lawrence included Rich Lee's 3-D previsualizations, we must cross-reference the contexts provided.
+
+First, context at index 3 directly mentions Rich Lee and his involvement in creating 3-D previsualizations for several films, including "I Am Legend" and "Constantine". Since the context specifies that Rich Lee worked on these films, we can infer that one of these films could be the answer to the claim.
+
+Secondly, context at index 5 provides information about the film "Constantine", stating that it was directed by Francis Lawrence. This context is crucial because it connects both Rich Lee's 3-D previsualizations work and Francis Lawrence's directorial role in the same film, "Constantine".
+
+Therefore, by analyzing the contexts, we can conclude that the movie "Constantine" is the film that includes Rich Lee's 3-D previsualizations and was directed by Francis Lawrence. The contexts at index 3 and 5 are the most effective in providing support for the claim.
+
+成功的数量为：144总数：158当前回溯率：91.13924050632912%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:380
+Question:What criteria subjectively qualifies the Houston Astrodome to be called the Eighth Wonder of the World?
+golden idx: [4, 9]
+idx: [4, 9]
+Step by step with evidence and explanation: To determine which contexts effectively support the claim that the Houston Astrodome can be subjectively called the "Eighth Wonder of the World," we must look for information that highlights its uniqueness and historical significance, akin to the original Seven Wonders.
+
+First, the context at index 4 provides effective support for the claim. It explains that the title "Eighth Wonder of the World" is an unofficial title sometimes given to new buildings, structures, projects, or designs that are deemed to be comparable to the seven Wonders of the World. This context is directly relevant because it establishes the criteria for something to be considered an "Eighth Wonder," which is a comparison to the original wonders in terms of significance or marvel.
+
+Secondly, the context at index 9 also provides effective support for the claim. It details the history and significance of the Houston Astrodome, describing it as the world's first multi-purpose, domed sports stadium. It also notes that upon opening, it was nicknamed the "Eighth Wonder of the World." This context is crucial because it connects the Astrodome directly to the claim, showing that it was recognized for its pioneering design and multifunctional use, which aligns with the criteria of being comparable to the original wonders.
+
+Therefore, the contexts at index 4 and 9 are the most effective in providing support for the claim that the Houston Astrodome can be subjectively called the "Eighth Wonder of the World."
+
+成功的数量为：146总数：160当前回溯率：91.25%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:381
+Question:Who was born first, José Echegaray y Eizaguirre or P. J. O'Rourke?
+golden idx: [0, 8]
+idx: [0, 8]
+Step by step with evidence and explanation: To determine who was born first between José Echegaray y Eizaguirre and P. J. O'Rourke, we need to compare their birth dates. The context at index 0 provides the birth date of P. J. O'Rourke as November 14, 1947. The context at index 8 provides the birth date of José Echegaray y Eizaguirre as April 19, 1832. By comparing these dates, it is evident that José Echegaray y Eizaguirre was born first, as his birth year is 1832, which is more than a century before the birth year of P. J. O'Rourke, 1947. Therefore, the contexts at index 0 and 8 are the most effective in providing factual support for the answer to the claim.
+
+成功的数量为：148总数：162当前回溯率：91.35802469135803%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:382
+Question:Who did the Doncaster Belles play in the 1994 FA Women's Cup Final held at Glanford Park? 
+golden idx: [5, 6]
+idx: [6, 5]
+Step by step with evidence and explanation: To answer the question of who the Doncaster Belles played in the 1994 FA Women's Cup Final held at Glanford Park, we must identify the contexts that provide factual information about the event.
+
+First, the context at index 6 directly addresses the claim. It states that the **1994 FA Women's Cup Final** was played between **Doncaster Belles and Knowsley United Women** at **Glanford Park** in Scunthorpe on **24 April 1994**. This context provides the specific details of the match, including the teams, location, and date, which directly answers the question.
+
+Secondly, the context at index 5 provides effective support for the claim as it confirms the location of the event. It mentions that **Glanford Park** is a football stadium in Scunthorpe, North Lincolnshire, England, and is the home of Scunthorpe United. This context is relevant because it verifies that Glanford Park is indeed a football stadium, which is where the 1994 FA Women's Cup Final took place according to the context at index 6.
+
+Therefore, the contexts at index 6 and 5 are the most effective in providing support for the claim about the 1994 FA Women's Cup Final.
+
+成功的数量为：150总数：164当前回溯率：91.46341463414635%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:383
+Question:What act for Innocent Records achieved Platinum sales and shares its name with a primary color in the RGB color model?
+golden idx: [0, 6]
+idx: [0, 6]
+Step by step with evidence and explanation: To address the claim regarding an act for Innocent Records that achieved Platinum sales and shares its name with a primary color in the RGB color model, we need to identify the contexts that provide information about both the record label's acts and the RGB color model.
+
+First, the context at index 6 provides effective support for the claim. It specifically mentions Innocent Records and lists acts that achieved Platinum sales, including an act named "Blue." This directly ties an act named after a primary color in the RGB color model to the record label in question, fulfilling both criteria of the claim.
+
+Secondly, the context at index 0 also provides effective support for the claim. It explains that blue is a primary color in the RGB color model, which is the second part of the claim. By confirming that Blue is indeed a primary color in the RGB model, it supports the claim that the act named "Blue" shares its name with a primary color in this model.
+
+Therefore, the contexts at index 6 and 0 are the most effective in providing factual support for the claim that an act for Innocent Records named "Blue" achieved Platinum sales and shares its name with a primary color in the RGB color model.
+
+成功的数量为：152总数：166当前回溯率：91.56626506024097%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:384
+Question:What national historic district is located near a village in the town of Philipstown, New York?
+golden idx: [1, 6]
+idx: [1, 6]
+Step by step with evidence and explanation: To determine the national historic district located near a village in the town of Philipstown, New York, we must look for contexts that mention Philipstown or its vicinity.
+
+First, the context at index 1 provides effective support for the claim. It states that the Valhalla Highlands Historic District is located near Cold Spring in Putnam County, New York. Since Cold Spring is a village in the town of Philipstown, this context is directly relevant to the claim. The paragraph provides detailed information about the district, including its development, contributing buildings, and characteristic features, which supports its significance as a national historic district.
+
+Secondly, the context at index 6 also provides effective support for the claim. It describes Cold Spring as a village in the town of Philipstown and mentions that the central area of the village is on the National Register of Historic Places as the Cold Spring Historic District. This context is crucial because it confirms the existence of a historic district within the village of Cold Spring, which is in the town of Philipstown, directly addressing the claim.
+
+Therefore, the contexts at index 1 and 6 are the most effective in providing factual support for the claim regarding the national historic district near a village in the town of Philipstown, New York.
+
+成功的数量为：154总数：168当前回溯率：91.66666666666666%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:385
+Question:Which American writer wrote both The Ganymede Takeover (1967) and The Man in the High Castle (1962)?
+golden idx: [6, 8]
+idx: [6, 8]
+Step by step with evidence and explanation: To address the claim that the American writer Philip K. Dick wrote both "The Ganymede Takeover" (1967) and "The Man in the High Castle" (1962), we need to find contexts that directly reference these works and their authorship.
+
+First, the context at index 6 provides effective support for the claim. It explicitly states that "The Man in the High Castle" (1962) is an alternative history novel by American writer Philip K. Dick. This context confirms Philip K. Dick as the author of "The Man in the High Castle," directly supporting half of the claim.
+
+Secondly, the context at index 8 also provides effective support for the claim. It mentions "The Ganymede Takeover" as a 1967 science fiction novel by American writers Philip K. Dick and Ray Nelson. This context confirms Philip K. Dick as a co-author of "The Ganymede Takeover," thus supporting the other half of the claim.
+
+Therefore, the contexts at index 6 and 8 are the most effective in providing factual support for the claim that Philip K. Dick wrote both "The Ganymede Takeover" and "The Man in the High Castle." The other contexts either do not pertain to the authorship of these works or do not mention Philip K. Dick in relation to these specific titles.
+
+成功的数量为：156总数：170当前回溯率：91.76470588235294%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:386
+Question:Curt Menefee is the host of the Fox network's NFL show with co-host Michael Anthony Strahan who spent his entire 15-year career with what team?
+golden idx: [3, 8]
+idx: [3, 8]
+Step by step with evidence and explanation: To address the claim that Curt Menefee is the host of the Fox network's NFL show with co-host Michael Anthony Strahan who spent his entire 15-year career with what team, we need to identify the contexts that provide information about both Curt Menefee and Michael Strahan.
+
+First, the context at index 3 provides effective support for the claim. It details Michael Strahan's career, stating that he is a former American football defensive end who spent his entire 15-year career with the **New York Giants** of the NFL. This directly answers the second part of the claim regarding the team Michael Strahan spent his entire career with.
+
+Secondly, the context at index 8 supports the first part of the claim. It states that Curt Menefee is an American sportscaster who is the host of the Fox network's NFL show "Fox NFL Sunday". His co-hosts are listed, including Michael Strahan. This confirms Curt Menefee's role as the host and Michael Strahan's involvement as a co-host on the same show.
+
+Therefore, the contexts at index 3 and 8 are the most effective in providing factual support for the claim, as they contain the necessary information about Michael Strahan's football career and Curt Menefee's hosting role, respectively.
+
+成功的数量为：158总数：172当前回溯率：91.86046511627907%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:387
+Question:Francisco Jose Hernandez was a participant in an invasion that took place in what year?
+golden idx: [2, 4]
+idx: [2, 4]
+Step by step with evidence and explanation: To determine the year in which Francisco Jose Hernandez participated in an invasion, we must identify the contexts that specifically mention him and an invasion event. 
+
+First, context at index 2 titled 'Francisco Jose Hernandez' provides direct information about the individual in question. It states that Francisco José Hernández, known as "Pepe", is a Cuban exile of the 1960s, anti-Castro, and a participant in the Bay of Pigs Invasion. This context does not provide the exact year of the invasion, but it establishes his participation in a specific invasion, which is the Bay of Pigs Invasion.
+
+Secondly, context at index 4 titled 'Bay of Pigs Invasion' provides the necessary factual support to determine the year of the invasion. It details that the Bay of Pigs Invasion was a failed military invasion of Cuba undertaken by the CIA-sponsored paramilitary group Brigade 2506 on 17 April 1961. This context not only confirms the event in which Francisco Jose Hernandez participated but also provides the precise year of the invasion.
+
+Therefore, the contexts at index 2 and 4 are the most effective in providing support for the claim, as they both reference Francisco Jose Hernandez and the Bay of Pigs Invasion, with the latter giving the exact year of the invasion, which is 1961.
+
+成功的数量为：160总数：174当前回溯率：91.95402298850574%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:388
+Question:Dead but Rising was a song by the Danish band fomed in what city in 2001?
+golden idx: [1, 4]
+idx: [1, 4]
+Step by step with evidence and explanation: To answer the claim about the song "Dead but Rising" by a Danish band formed in what city in 2001, we need to identify the contexts that provide information about the band and its formation.
+
+Firstly, the context at index 1 mentions the song "Dead but Rising" and identifies it as a song by the Danish heavy metal band Volbeat. However, it does not provide information about the city where the band was formed or the year of formation.
+
+Secondly, the context at index 4 provides detailed information about the band Volbeat. It states that Volbeat is a Danish heavy metal band formed in Copenhagen in 2001. This context not only confirms that Volbeat is the band that released "Dead but Rising," but also provides the specific city and year of the band's formation, which directly supports the claim.
+
+Therefore, the contexts at index 1 and 4 are the most effective in providing factual support for the claim. Context 1 confirms the song and the band, while context 4 provides the specific details required to answer the claim about the city and year of formation.
+
+成功的数量为：162总数：176当前回溯率：92.04545454545455%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:389
+Question:The man, who the award in which "Summer of the Monkeys" won, was a spokesman for white sector of America?
+golden idx: [1, 5]
+idx: [1, 5]
+Step by step with evidence and explanation: To address the claim regarding the man associated with the award that "Summer of the Monkeys" won, we must identify the relevant contexts that provide factual support.
+
+Firstly, the context at index 1 directly mentions "Summer of the Monkeys" as a children's novel written by Wilson Rawls, which won the William Allen White Book Award. This context is crucial because it establishes the connection between the book and the award in question.
+
+Secondly, the context at index 5 provides information about William Allen White, after whom the award is named. It describes White as an American newspaper editor, author, and leader of the Progressive movement who became a spokesman for middle America. This context is significant because it speaks to the character and societal role of the man associated with the award, thus addressing the claim about him being a spokesman for a particular sector of America.
+
+Together, these two contexts effectively support the answer to the claim by linking the award to the book "Summer of the Monkeys" and providing background on William Allen White, the namesake of the award and his role as a spokesman. The other contexts do not pertain to the award or the book and therefore do not provide effective factual support for the claim.
+
+成功的数量为：164总数：178当前回溯率：92.13483146067416%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:390
+Question:Which lead actor/actress in War Chhod Na Yaar has also acted in Bengali and English-language films?
+golden idx: [2, 6]
+idx: [2, 6]
+Step by step with evidence and explanation: To determine which lead actor or actress in "War Chhod Na Yaar" has also acted in Bengali and English-language films, we need to identify the lead actors in the film and then cross-reference their filmographies to see if they have worked in films of those languages.
+
+First, context at index 2 titled "War Chhod Na Yaar" lists the lead actors in the film, which includes Sharman Joshi, Soha Ali Khan, Javed Jaffery, Sanjai Mishra, Dalip Tahil, and Mukul Dev. This context is essential as it provides us with the names of the lead actors we need to consider for the claim.
+
+Secondly, the context at index 6 titled "Soha Ali Khan" states that Soha Ali Khan, one of the lead actresses from "War Chhod Na Yaar," is known primarily for her work in the Hindi film industry, although she has also acted in Bengali and English-language films. This directly supports the claim by confirming that Soha Ali Khan has indeed acted in films across these three languages.
+
+Therefore, the contexts at index 2 and 6 are the most effective in providing support for the claim that a lead actor or actress in "War Chhod Na Yaar" has also acted in Bengali and English-language films, with Soha Ali Khan being the identified actress.
+
+成功的数量为：166总数：180当前回溯率：92.22222222222223%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:391
+Question:What type of movie are Wishing Stairs and Voice?
+golden idx: [0, 9]
+idx: [0, 9]
+Step by step with evidence and explanation: To determine the type of movies "Wishing Stairs" and "Voice" are, we need to identify contexts that directly relate to these films. 
+
+Firstly, the context at index 0 provides effective support for the claim. It describes "Wishing Stairs" as a South Korean horror film released in 2003, which is part of the "Whispering Corridors" film series. This context is directly relevant because it not only confirms that "Wishing Stairs" is a horror movie, but also links it to the "Whispering Corridors" series, which is a significant detail when identifying the type of movie.
+
+Secondly, the context at index 9 is also supportive of the claim. It details "Voice" as a South Korean horror film from 2005, which is the fourth installment of the "Whispering Corridors" film series. This context is crucial as it confirms that "Voice" is also a horror movie and part of the same series as "Wishing Stairs."
+
+The other contexts provided do not pertain to the movies in question or the film series they belong to. Therefore, the contexts at index 0 and 9 are the most effective in providing factual support for the claim about the type of movies "Wishing Stairs" and "Voice" are, which is that they are both South Korean horror films from the "Whispering Corridors" series.
+
+成功的数量为：168总数：182当前回溯率：92.3076923076923%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:392
+Question:Which cast member of Alice Upside Down also stars in the ABC Family/Freeform drama "Switched at Birth?"
+golden idx: [0, 9]
+idx: [0, 9]
+Step by step with evidence and explanation: To address the claim regarding which cast member of "Alice Upside Down" also stars in the ABC Family/Freeform drama "Switched at Birth," we need to identify the contexts that mention actors from both productions.
+
+First, the context at index 0 provides effective support for the claim. It lists the cast members of "Alice Upside Down," including Alyson Stoner, Lucas Grabeel, Bridgit Mendler, Luke Perry, Penny Marshall, and Ashley Eckstein. This context is essential as it gives us a list of potential actors who could also be in "Switched at Birth."
+
+Secondly, the context at index 9 provides the necessary information to answer the claim. It states that Lucas Grabeel, who is listed as a cast member in "Alice Upside Down," played Toby Kennish in the "Switched at Birth" series. This directly links an actor from "Alice Upside Down" to "Switched at Birth," thus providing the answer to the claim.
+
+Therefore, the contexts at index 0 and 9 are the most effective in providing support for the claim that Lucas Grabeel is a cast member of both "Alice Upside Down" and "Switched at Birth."
+
+成功的数量为：170总数：184当前回溯率：92.3913043478261%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:393
+Question:What kind of movie directed by F. Javier gutierrez did an Italian model and actress star in?
+golden idx: [2, 9]
+idx: [2, 9]
+Step by step with evidence and explanation: To address the claim about the kind of movie directed by F. Javier Gutierrez that an Italian model and actress starred in, we must identify the contexts that mention both the director and an Italian model/actress involved in a movie.
+
+First, the context at index 2 provides effective support for the claim. It states that Matilda Anna Ingrid Lutz is an Italian model and actress who starred in the 2017 horror film "Rings." This information is directly relevant to the claim as it identifies an Italian actress and the movie she starred in.
+
+Secondly, the context at index 9 also provides effective support for the claim. It details that "Rings" is a 2017 American supernatural psychological horror film directed by F. Javier Gutierrez. This context not only confirms the director's involvement but also links Matilda Lutz to the film, as she is mentioned as the star.
+
+Therefore, the contexts at index 2 and 9 are the most effective in providing factual support for the claim, as they both mention the key elements of the movie in question: the director F. Javier Gutierrez and the Italian actress Matilda Lutz.
+
+成功的数量为：172总数：186当前回溯率：92.47311827956989%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:394
+Question:In which county is the English king Harold Godwinson buried?
+golden idx: [8, 9]
+idx: [8, 9]
+Step by step with evidence and explanation: To determine the effective support contexts for the claim regarding the burial location of English King Harold Godwinson, we must analyze the provided contexts for direct references to his burial.
+
+First, the context at index 8 provides effective support for the claim. It describes the **Abbey Church of Waltham Holy Cross and St Lawrence** as the parish church of the town of Waltham Abbey, Essex, England. While it does not explicitly mention Harold Godwinson's burial, the historical significance of the church and its status as a major site of pilgrimage suggest its importance, which could be related to the burial of a significant figure like King Harold.
+
+Secondly, the context at index 9 directly supports the claim by stating that **Edith Walks** is a documentary film that imagines a journey by Edith the Fair, wife of King Harold Godwinson, from **Waltham Abbey where he is buried** to near the site of the Battle of Hastings. This context explicitly mentions that Harold Godwinson is buried at Waltham Abbey, providing clear and direct evidence supporting the claim.
+
+Therefore, the contexts at index 8 and 9 are the most effective in providing support for the claim that English King Harold Godwinson is buried in a county that includes Waltham Abbey.
+
+成功的数量为：174总数：188当前回溯率：92.5531914893617%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:395
+Question:Who wrote The Devils, and was an eninent English theater, opera and film director?
+golden idx: [2, 5]
+idx: [2, 5]
+Step by step with evidence and explanation: To address the claim about who wrote "The Devils" and was an eminent English theater, opera, and film director, we must look for context that directly mentions the play "The Devils" and an individual with a notable career in English theater, opera, and film direction.
+
+First, the context at index 5 provides effective support for the claim. It states that "The Devils" is a play written by British dramatist John Whiting and was commissioned by Sir Peter Hall for the Royal Shakespeare Company. This directly addresses the first part of the claim regarding the authorship of "The Devils."
+
+Secondly, the context at index 2 also provides effective support for the claim. It describes Sir Peter Reginald Frederick Hall as an eminent English theatre, opera, and film director, which aligns with the second part of the claim. The context further emphasizes his significance in British theatre, which supports the claim of his eminence in the field.
+
+Therefore, the contexts at index 5 and 2 are the most effective in providing factual support for the claim that John Whiting wrote "The Devils" and that Sir Peter Hall was an eminent English theater, opera, and film director.
+
+成功的数量为：176总数：190当前回溯率：92.63157894736842%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:396
+Question:Which Grand Slam singles tournament have Francesca Schiavone and Olga Morozova both been finalists in?
+golden idx: [0, 8]
+idx: [0, 8]
+Step by step with evidence and explanation: To determine which Grand Slam singles tournament Francesca Schiavone and Olga Morozova have both been finalists in, we need to examine the contexts provided for mentions of their achievements in Grand Slam finals.
+
+First, context at index 0 titled 'Olga Morozova' states that Olga Morozova was the runner-up in singles at the **1974 French Open** and **1974 Wimbledon Championships**. This directly provides half of the answer to the claim by confirming that Morozova has been a finalist in the French Open.
+
+Secondly, context at index 8 titled 'Francesca Schiavone' mentions that Francesca Schiavone won the **2010 French Open singles title** and was also runner-up at the **2011 French Open**. This provides the other half of the answer by confirming that Schiavone has been a finalist in the French Open as well.
+
+By cross-referencing these two pieces of information, we can conclude that both Francesca Schiavone and Olga Morozova have been finalists in the **French Open**. Therefore, the contexts at index 0 and 8 are the most effective in providing support for the claim.
+
+成功的数量为：178总数：192当前回溯率：92.70833333333334%
+第1轮错误：13，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:397
+Question:"Kapitän zur See" Ernst Lindemann was the commander of which one of two battleships built for Nazi Germany's "Kriegsmarine"?
+golden idx: [5, 8]
+idx: [4, 5]
+Step by step with evidence and explanation: To determine which contexts effectively support the claim that "Kapitän zur See" Ernst Lindemann was the commander of one of the two battleships built for Nazi Germany's "Kriegsmarine", we must look for contexts that directly mention Ernst Lindemann and his command of a battleship.
+
+First, the context at index 4 provides effective support for the claim. It explicitly states that Otto Ernst Lindemann was a German "Kapitän zur See" and the only commander of the battleship "Bismarck" during its eight months of service in World War II. This directly addresses the claim by identifying Ernst Lindemann as the commander of the "Bismarck".
+
+Secondly, the context at index 5 also provides effective support for the claim. It describes the "Bismarck" as the first of two "Bismarck"-class battleships built for Nazi Germany's "Kriegsmarine". It also provides details about the ship's construction and commission into the German fleet, which complements the information given in index 4 about Lindemann's command.
+
+Therefore, the contexts at index 4 and 5 are the most effective in providing support for the claim that Ernst Lindemann was the commander of the battleship "Bismarck".
+
+成功的数量为：179总数：194当前回溯率：92.26804123711341%
+第1轮错误：14，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:398
+Question:Which football team does Lewis Young's older brother, Ashley Young, play for?
+golden idx: [3, 8]
+idx: [3, 8]
+Step by step with evidence and explanation: To determine which football team Ashley Young plays for, we need to identify the contexts that specifically mention Ashley Young and his association with a football team. 
+
+First, the context at index 3 provides direct information about Ashley Young. It states that "Ashley Simon Young (born 9 July 1985) is an English professional footballer who plays as a winger for Premier League club Manchester United and the England national team." This context is effective because it explicitly mentions that Ashley Young plays for Manchester United, directly answering the question.
+
+Secondly, the context at index 8 also provides effective support for the claim. It mentions "Lewis Jack Young (born 27 September 1989) is an English professional footballer who plays for Crawley Town. He can play either as a striker, as a right winger or as, most recently, a right back. He is the younger brother of Manchester United footballer Ashley Young." This context supports the claim by confirming that Lewis Young is the younger brother of Ashley Young, who plays for Manchester United. It corroborates the information provided in the context at index 3, reinforcing the answer to the claim.
+
+Therefore, the contexts at index 3 and 8 are the most effective in providing factual support for the claim that Ashley Young plays for Manchester United.
+
+成功的数量为：181总数：196当前回溯率：92.3469387755102%
+第1轮错误：14，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:399
+Question:Snowdrop is a proprietary game engine first revealed with an online-only action role-playing video game developed by who?
+golden idx: [4, 7]
+idx: [4, 7]
+Step by step with evidence and explanation: The claim is that Snowdrop is a proprietary game engine first revealed with an online-only action role-playing video game developed by a specific entity. To find the support for this claim, we need to identify the context that mentions both the Snowdrop game engine and the online-only action role-playing video game associated with it.
+
+First, the context at index 4 provides effective support for the claim. It states that "Tom Clancy's The Division" is an online-only action role-playing video game developed by Massive Entertainment and published by Ubisoft. This directly addresses the claim about the Snowdrop game engine being revealed with an online-only action role-playing video game, as "The Division" is exactly that type of game.
+
+Secondly, the context at index 7 also provides effective support for the claim. It mentions that the Snowdrop game engine was created by Ubisoft and was first revealed at E3 2013 with "Tom Clancy's The Division", which is the first game using the engine. This supports the claim by specifying the developer of the game engine (Ubisoft) and the game it was first revealed with ("Tom Clancy's The Division").
+
+Therefore, the contexts at index 4 and 7 are the most effective in providing support for the claim that Snowdrop is a proprietary game engine first revealed with "Tom Clancy's The Division", an online-only action role-playing video game developed by Ubisoft.
+
+成功的数量为：183总数：198当前回溯率：92.42424242424242%
+第1轮错误：14，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:400
+Question:Wendy Ayche was featured in 2016 in an annual production created by Youtube and what other organization?
+golden idx: [3, 7]
+idx: [3, 7]
+Step by step with evidence and explanation: The claim is that Wendy Ayche was featured in an annual production created by Youtube and another organization in 2016. To find the contexts that support this claim, we need to look for information that mentions Wendy Ayche's involvement with YouTube and another organization in a production from that year.
+
+First, the context at index 3 provides effective support for the claim. It describes "YouTube Rewind" as a video series produced and created by YouTube and Portal A Interactive. This context is relevant because it mentions an annual production created by YouTube, which aligns with the claim. Furthermore, the context specifies that the latest episode of "YouTube Rewind" was released on December 8, 2016, which falls within the timeframe mentioned in the claim.
+
+Secondly, the context at index 7 also provides effective support for the claim. It states that Wendy Ayche, known professionally as Wengie, is an Australian YouTube personality and vlogger. Most importantly, it mentions that Ayche was featured in the annual YouTube Rewind in 2016. This directly confirms her participation in the production mentioned in the claim and also identifies the other organization involved as Portal A Interactive, which was part of the production of "YouTube Rewind."
+
+Therefore, the contexts at index 3 and 7 are the most effective in providing support for the claim that Wendy Ayche was featured in an annual production created by Youtube and another organization in 2016.
+
+成功的数量为：185总数：200当前回溯率：92.5%
+第1轮错误：14，第2轮错误：0，第3轮错误：0
+##########

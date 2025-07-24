@@ -1,0 +1,449 @@
+##########
+ID:1
+Question:Were Scott Derrickson and Ed Wood of the same nationality?
+Right Answer:yes
+Answer: Yes
+Step-by-step reasoning: From the context, we can see that Scott Derrickson is mentioned as an American director, screenwriter, and producer in the context with index 1. Similarly, Ed Wood is mentioned as an American filmmaker, actor, writer, producer, and director in the context with index 8. Therefore, both Scott Derrickson and Ed Wood are of the same nationality, which is American.
+原始EM：1, 总数：1, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：1, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:2
+Question:What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?
+Right Answer:Chief of Protocol
+Answer: United States ambassador to Ghana and to Czechoslovakia and also served as Chief of Protocol of the United States.
+Step-by-step reasoning: The question asks for the government position held by the woman who portrayed Corliss Archer in the film "Kiss and Tell". From the context given, we can see in the paragraph with the title "Kiss and Tell (1945 film)" that the character Corliss Archer was portrayed by Shirley Temple. Then, in the paragraph with the title "Shirley Temple", it is mentioned that Shirley Temple Black was named United States ambassador to Ghana and to Czechoslovakia and also served as Chief of Protocol of the United States. Therefore, the government position held by the woman who portrayed Corliss Archer in the film "Kiss and Tell" is United States ambassador to Ghana and to Czechoslovakia and also served as Chief of Protocol of the United States.
+原始EM：1, 总数：2, 网络错误：0, 当前原始EM分数：50.0%, 增强EM答对：1, 当前增强EM分数：50.0%, 当前F1分数：65.78947368421053%
+##########
+##########
+ID:3
+Question:What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?
+Right Answer:Animorphs
+Answer: The Animorphs series.
+Step-by-step reasoning: The question asks for a science fantasy young adult series that is told in first person and has companion books that narrate the stories of enslaved worlds and alien species. From the provided context, the "Animorphs" series fits this description. According to the context from index 8, "Animorphs is a science fantasy series of young adult books... It is told in first person, with all six main characters taking turns narrating the books through their own perspectives." Furthermore, the context from index 6, "The Hork-Bajir Chronicles is the second companion book to the "Animorphs" series... tells him the story of how the Yeerks enslaved the Hork-Bajir, and how Aldrea, an Andalite, and her companion, Dak Hamee, a Hork-Bajir, tried to save their world from the invasion." This shows that the Animorphs series has companion books that narrate the stories of enslaved worlds and alien species. Therefore, the Animorphs series is the answer to the question.
+原始EM：1, 总数：3, 网络错误：0, 当前原始EM分数：33.33333333333333%, 增强EM答对：1, 当前增强EM分数：33.33333333333333%, 当前F1分数：66.08187134502924%
+##########
+##########
+ID:4
+Question:Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?
+Right Answer:no
+Answer: No
+Step-by-step reasoning: From the context provided, we can see that the Laleli Mosque is located in Laleli, Fatih, Istanbul, Turkey (from context index 3). On the other hand, the Esma Sultan Mansion is located at Bosphorus in Ortaköy neighborhood of Istanbul, Turkey (from context index 8). Therefore, the Laleli Mosque and Esma Sultan Mansion are not located in the same neighborhood.
+原始EM：2, 总数：4, 网络错误：0, 当前原始EM分数：50.0%, 增强EM答对：2, 当前增强EM分数：50.0%, 当前F1分数：74.56140350877193%
+##########
+##########
+ID:5
+Question:The director of the romantic comedy "Big Stone Gap" is based in what New York city?
+Right Answer:Greenwich Village, New York City
+Answer: Greenwich Village, New York City
+Step-by-step reasoning: The question asks for the city in New York where the director of the romantic comedy "Big Stone Gap" is based. From the context provided, we can see in the paragraph with index 8 that the film "Big Stone Gap" was written and directed by Adriana Trigiani. In the paragraph with index 7, it is mentioned that Adriana Trigiani is based in Greenwich Village, New York City. Therefore, the director of "Big Stone Gap" is based in Greenwich Village, New York City.
+原始EM：3, 总数：5, 网络错误：0, 当前原始EM分数：60.0%, 增强EM答对：3, 当前增强EM分数：60.0%, 当前F1分数：79.64912280701755%
+##########
+##########
+ID:6
+Question:2014 S/S is the debut album of a South Korean boy group that was formed by who?
+Right Answer:YG Entertainment
+Answer: YG Entertainment
+Step-by-step reasoning: The question asks about the debut album of a South Korean boy group and who formed the group. From the context provided, we can see that the album "2014 S/S" is the debut album of the South Korean group WINNER (context 5). The same context also mentions that the group's record label is YG Entertainment. Therefore, we can infer that WINNER was formed by YG Entertainment. This is further confirmed by context 1, which explicitly states that WINNER is a South Korean boy group formed in 2013 by YG Entertainment.
+原始EM：4, 总数：6, 网络错误：0, 当前原始EM分数：66.66666666666666%, 增强EM答对：4, 当前增强EM分数：66.66666666666666%, 当前F1分数：83.04093567251462%
+##########
+##########
+ID:7
+Question:Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?
+Right Answer:Eenasul Fateh
+Answer: Eenasul Fateh
+Step-by-step reasoning: The question asks for a person known by the stage name Aladin who also worked as a consultant to help organizations improve their performance. By going through the provided contexts, we can see that the person who fits this description is Eenasul Fateh. This information is found in the context with the title 'Eenasul Fateh', where it is stated that "Eenasul Fateh, also known by his stage name Aladin, is a Bangladeshi-British cultural practitioner, magician, live artist and former international management consultant." Therefore, the answer is Eenasul Fateh.
+原始EM：5, 总数：7, 网络错误：0, 当前原始EM分数：71.42857142857143%, 增强EM答对：5, 当前增强EM分数：71.42857142857143%, 当前F1分数：85.46365914786966%
+##########
+##########
+ID:8
+Question:The arena where the Lewiston Maineiacs played their home games can seat how many people?
+Right Answer:3,677 seated
+Answer: The arena can seat 4,000 people.
+
+Step-by-step reasoning: The Lewiston Maineiacs played their home games at the Androscoggin Bank Colisée as mentioned in the context with index 8. The seating capacity of the Androscoggin Bank Colisée is given in the context with index 9, which states that it has a capacity of 4,000. Therefore, the arena where the Lewiston Maineiacs played their home games can seat 4,000 people.
+原始EM：5, 总数：8, 网络错误：0, 当前原始EM分数：62.5%, 增强EM答对：5, 当前增强EM分数：62.5%, 当前F1分数：74.78070175438596%
+##########
+##########
+ID:9
+Question:Who is older, Annie Morton or Terry Richardson?
+Right Answer:Terry Richardson
+Answer: Annie Morton is older than Terry Richardson.
+Step-by-step reasoning: From the context provided, we can see that Terry Richardson was born on August 14, 1965 (from the context with index 0). Annie Morton was born on October 8, 1970 (from the context with index 3). Comparing these two dates, we can conclude that Annie Morton is older than Terry Richardson.
+原始EM：5, 总数：9, 网络错误：0, 当前原始EM分数：55.55555555555556%, 增强EM答对：5, 当前增强EM分数：55.55555555555556%, 当前F1分数：71.4100064977258%
+##########
+##########
+ID:10
+Question:Are Local H and For Against both from the United States?
+Right Answer:yes
+Answer: Yes
+Step-by-step reasoning: From the context provided, we can see that Local H is an American rock band originally formed in Zion, Illinois in 1987 as stated in the paragraph with index 5. For Against is also a United States post-punk/dream pop band from Lincoln, Nebraska as stated in the paragraph with index 6. Therefore, both Local H and For Against are from the United States.
+原始EM：6, 总数：10, 网络错误：0, 当前原始EM分数：60.0%, 增强EM答对：6, 当前增强EM分数：60.0%, 当前F1分数：74.26900584795322%
+##########
+##########
+ID:11
+Question:What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?
+Right Answer:Kansas Song
+Answer: Kansas Song (We’re From Kansas)
+Step-by-step reasoning: The question asks for the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area. From the context provided, we can see that the University of Kansas fits this description as stated in the context with index 1. The context with index 9 then provides the name of the fight song of the University of Kansas, which is 'Kansas Song (We’re From Kansas)'. Therefore, the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area is 'Kansas Song (We’re From Kansas)'.
+原始EM：6, 总数：11, 网络错误：0, 当前原始EM分数：54.54545454545454%, 增强EM答对：6, 当前增强EM分数：54.54545454545454%, 当前F1分数：72.71208323839903%
+##########
+##########
+ID:12
+Question:What screenwriter with credits for "Evolution" co-wrote a film starring Nicolas Cage and Téa Leoni?
+Right Answer:David Weissman
+Answer: David Weissman
+Step-by-step reasoning: The question asks for the screenwriter who has credits for "Evolution" and co-wrote a film starring Nicolas Cage and Téa Leoni. From the context given, we can see in index 5 that David Weissman is a screenwriter who has credits for "Evolution". In index 8, it is mentioned that "The Family Man" is a film that was co-written by David Weissman and starred Nicolas Cage and Téa Leoni. Therefore, the answer is David Weissman.
+原始EM：7, 总数：12, 网络错误：0, 当前原始EM分数：58.333333333333336%, 增强EM答对：7, 当前增强EM分数：58.333333333333336%, 当前F1分数：74.98607630186577%
+##########
+##########
+ID:13
+Question:What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?
+Right Answer:1999
+Answer: 1999
+Step-by-step reasoning: The context from the title "Oh My God (Guns N' Roses song)" mentions that the song by Guns N' Roses was released in 1999 on the soundtrack to the film "End of Days". The context from the title "End of Days (film)" confirms that Arnold Schwarzenegger starred in the film "End of Days" as a former New York Police Department detective. Therefore, Guns N Roses performed a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective in the year 1999.
+原始EM：8, 总数：13, 网络错误：0, 当前原始EM分数：61.53846153846154%, 增强EM答对：8, 当前增强EM分数：61.53846153846154%, 当前F1分数：76.91022427864532%
+##########
+##########
+ID:14
+Question:Are Random House Tower and 888 7th Avenue both used for real estate?
+Right Answer:no
+Answer: Yes
+Step-by-step reasoning: From the context provided, we can see that 888 7th Avenue is described as an office skyscraper in Midtown Manhattan which currently carries the Vornado Realty Trust corporate headquarters (context idx: 1). This indicates that it is used for real estate purposes. The Random House Tower, also known as the Park Imperial Apartments, is described as a mixed-use tower that is used as the headquarters of book publisher Random House and a luxury apartment complex (context idx: 2). This also indicates that it is used for real estate purposes. Therefore, both the Random House Tower and 888 7th Avenue are used for real estate.
+原始EM：8, 总数：14, 网络错误：0, 当前原始EM分数：57.14285714285714%, 增强EM答对：8, 当前增强EM分数：57.14285714285714%, 当前F1分数：71.41663683017066%
+##########
+##########
+ID:15
+Question:The football manager who recruited David Beckham managed Manchester United during what timeframe?
+Right Answer:from 1986 to 2013
+Answer: Alex Ferguson managed Manchester United from 1986 to 2013.
+Step-by-step reasoning: From the context given, we can see that David Beckham was part of Manchester United during the 1995-96 season (from context with index 4). The manager of Manchester United during this time was Alex Ferguson (from context with index 9). Therefore, the football manager who recruited David Beckham managed Manchester United from 1986 to 2013.
+原始EM：8, 总数：15, 网络错误：0, 当前原始EM分数：53.333333333333336%, 增强EM答对：8, 当前增强EM分数：53.333333333333336%, 当前F1分数：70.75809181072337%
+##########
+##########
+ID:16
+Question:Brown State Fishing Lake is in a country that has a population of how many inhabitants ?
+Right Answer:9,984
+Answer: 9,984 inhabitants
+Step-by-step reasoning: The question is asking for the population of the country where Brown State Fishing Lake is located. From the context, we can see that Brown State Fishing Lake is located in Brown County, Kansas in the United States (context index 9). The population of Brown County, Kansas, as of the 2010 census, was 9,984 (context index 0). However, the question asks for the population of the country, not the county. The population of the United States is not given in the context. Therefore, the best answer we can provide based on the given context is the population of Brown County, Kansas, which is 9,984.
+原始EM：8, 总数：16, 网络错误：0, 当前原始EM分数：50.0%, 增强EM答对：8, 当前增强EM分数：50.0%, 当前F1分数：70.50237773921984%
+##########
+##########
+ID:17
+Question:The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?
+Right Answer:the North Atlantic Conference
+Answer: North Atlantic Conference
+Step-by-step reasoning: The Vermont Catamounts men's soccer team competes in the America East Conference as stated in the context with index 5. The context with index 4 states that the America East Conference was known as the North Atlantic Conference from 1988 to 1996. Therefore, the Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as the North Atlantic Conference from 1988 to 1996.
+原始EM：9, 总数：17, 网络错误：0, 当前原始EM分数：52.94117647058824%, 增强EM答对：9, 当前增强EM分数：52.94117647058824%, 当前F1分数：72.23753198985396%
+##########
+##########
+ID:18
+Question:Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?
+Right Answer:yes
+Answer: Yes
+Step-by-step reasoning: From the context provided, we can see that Giuseppe Verdi is mentioned as an opera composer in the paragraph with index 4. Similarly, Ambroise Thomas is also mentioned as a composer known for his operas in the paragraph with index 5. Therefore, both Giuseppe Verdi and Ambroise Thomas are opera composers.
+原始EM：10, 总数：18, 网络错误：0, 当前原始EM分数：55.55555555555556%, 增强EM答对：10, 当前增强EM分数：55.55555555555556%, 当前F1分数：73.77989132375097%
+##########
+##########
+ID:19
+Question:Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?
+Right Answer:1969 until 1974
+Answer: 1969 to 1974
+Step-by-step reasoning: The question asks for the years during which the president served under whom Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs. From the context provided, we can see that Roger O. Egeberg served in this role during the Nixon administration (from context index 9). From context index 4, we learn that Richard Nixon was the 37th President of the United States from 1969 until 1974. Therefore, the years during which the president served under whom Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs are from 1969 to 1974.
+原始EM：10, 总数：19, 网络错误：0, 当前原始EM分数：52.63157894736842%, 增强EM答对：10, 当前增强EM分数：52.63157894736842%, 当前F1分数：73.40551107864127%
+##########
+##########
+ID:20
+Question:Which writer was from England, Henry Roth or Robert Erskine Childers?
+Right Answer:Robert Erskine Childers DSC
+Answer: Robert Erskine Childers
+Step-by-step reasoning: From the context given, we can see that Henry Roth was an American novelist and short story writer as stated in the context with index 0. On the other hand, Robert Erskine Childers, as stated in the context with index 9, was a British writer. Therefore, the writer from England is Robert Erskine Childers.
+原始EM：10, 总数：20, 网络错误：0, 当前原始EM分数：50.0%, 增强EM答对：10, 当前增强EM分数：50.0%, 当前F1分数：74.02094981042349%
+##########
+##########
+ID:21
+Question:Which other Mexican Formula One race car driver has held the podium besides the Force India driver born in 1990?
+Right Answer:Pedro Rodríguez
+Answer: Pedro Rodríguez
+Step-by-step reasoning: The question asks for another Mexican Formula One race car driver who has held the podium besides the Force India driver born in 1990. From the context given, we can identify the Force India driver born in 1990 as Sergio Pérez from context 9. Then, from context 3, we learn that Pedro Rodríguez is the only other Mexican driver to have won a grand prix, which implies that he has held the podium. Therefore, Pedro Rodríguez is the other Mexican Formula One race car driver who has held the podium besides Sergio Pérez.
+原始EM：11, 总数：21, 网络错误：0, 当前原始EM分数：52.38095238095239%, 增强EM答对：11, 当前增强EM分数：52.38095238095239%, 当前F1分数：75.25804743849855%
+##########
+##########
+ID:22
+Question:This singer of A Rather Blustery Day also voiced what hedgehog?
+Right Answer:Sonic
+Answer: Jim Cummings
+Step-by-step reasoning: The question asks for the singer of "A Rather Blustery Day" who also voiced a hedgehog. From the context given, we can see in the paragraph with index 9 that "A Rather Blustery Day" was sung by Jim Cummings as "Pooh". In the paragraph with index 4, we can see that Jim Cummings also voiced Dr. Robotnik from "Sonic the Hedgehog". Therefore, the answer is Jim Cummings.
+原始EM：11, 总数：22, 网络错误：0, 当前原始EM分数：50.0%, 增强EM答对：11, 当前增强EM分数：50.0%, 当前F1分数：71.837227100385%
+##########
+##########
+ID:23
+Question:Aside from the Apple Remote, what other device can control the program Apple Remote was originally designed to interact with?
+Right Answer:keyboard function keys
+Answer: The Siri Remote and the keyboard function keys can control the program Apple Remote was originally designed to interact with.
+
+Step-by-step reasoning: The Apple Remote was originally designed to interact with the Front Row media program as stated in context 9. From context 0, we learn that the Siri Remote, which is a successor of the original Apple Remote, is also compatible with the Apple TV 4K, which implies that it can control the same program as the Apple Remote. Additionally, context 2 mentions that the Front Row software can be controlled by an Apple Remote or the keyboard function keys. Therefore, aside from the Apple Remote, the Siri Remote and the keyboard function keys can control the program Apple Remote was originally designed to interact with.
+原始EM：11, 总数：23, 网络错误：0, 当前原始EM分数：47.82608695652174%, 增强EM答对：11, 当前增强EM分数：47.82608695652174%, 当前F1分数：70.08686711203873%
+##########
+##########
+ID:24
+Question:Which performance act has a higher instrument to person ratio, Badly Drawn Boy or Wolf Alice? 
+Right Answer:Badly Drawn Boy
+Answer: Badly Drawn Boy
+Step-by-step reasoning: From the context, we can see that Wolf Alice is a four-piece band, meaning there are four members in the band. Each member likely plays at least one instrument, so the instrument to person ratio is at least 1:1. On the other hand, Badly Drawn Boy is a stage name for Damon Michael Gough, who is described as a multi-instrumentalist. This implies that he plays more than one instrument. Since he is a solo artist, the instrument to person ratio is greater than 1:1. Therefore, Badly Drawn Boy has a higher instrument to person ratio than Wolf Alice.
+原始EM：12, 总数：24, 网络错误：0, 当前原始EM分数：50.0%, 增强EM答对：12, 当前增强EM分数：50.0%, 当前F1分数：71.33324764903712%
+##########
+##########
+ID:25
+Question:What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?
+Right Answer:World's Best Goalkeeper
+Answer: The IFFHS World's Best Goalkeeper
+Step-by-step reasoning: The question asks about the title given to Kasper Schmeichel's father by the IFFHS in 1992. From the context provided, we can see that Kasper Schmeichel's father is Peter Schmeichel, as mentioned in the context with index 5. In the context with index 2, it is stated that Peter Schmeichel was voted the IFFHS World's Best Goalkeeper in 1992. Therefore, the answer is that Peter Schmeichel, Kasper Schmeichel's father, was voted the IFFHS World's Best Goalkeeper in 1992.
+原始EM：12, 总数：25, 网络错误：0, 当前原始EM分数：48.0%, 增强EM答对：12, 当前增强EM分数：48.0%, 当前F1分数：71.90848917164706%
+##########
+##########
+ID:26
+Question:Who was the writer of These Boots Are Made for Walkin' and who died in 2007?
+Right Answer:Barton Lee Hazlewood
+Answer: The writer of "These Boots Are Made for Walkin'" was Lee Hazlewood and Lee Hazlewood died in 2007.
+Step-by-step reasoning: From the context given, we can see that "These Boots Are Made for Walkin'" was written by Lee Hazlewood as stated in the paragraph with index 2. The paragraph with index 4 confirms that Lee Hazlewood died in 2007. Therefore, the writer of "These Boots Are Made for Walkin'" who died in 2007 was Lee Hazlewood.
+原始EM：12, 总数：26, 网络错误：0, 当前原始EM分数：46.15384615384615%, 增强EM答对：12, 当前增强EM分数：46.15384615384615%, 当前F1分数：69.95249464885092%
+##########
+##########
+ID:27
+Question:The 2011–12 VCU Rams men's basketball team, led by third year head coach Shaka Smart, represented Virginia Commonwealth University which was founded in what year?
+Right Answer:1838
+Answer: 1838
+Step-by-step reasoning: The information about the founding year of Virginia Commonwealth University is found in the first context. It states that "VCU was founded in 1838 as the medical department of Hampden–Sydney College, becoming the Medical College of Virginia in 1854." Therefore, the university was founded in 1838.
+原始EM：13, 总数：27, 网络错误：0, 当前原始EM分数：48.148148148148145%, 增强EM答对：13, 当前增强EM分数：48.148148148148145%, 当前F1分数：71.065365217412%
+##########
+##########
+ID:28
+Question:Are both Dictyosperma, and Huernia described as a genus?
+Right Answer:yes
+Answer: Yes
+Step-by-step reasoning: From the context provided, we can see that both Dictyosperma and Huernia are described as a genus. The first context states that "Dictyosperma is a monotypic genus of flowering plant in the palm family found in the Mascarene Islands in the Indian Ocean". Similarly, the second context states that "The genus Huernia (family Apocynaceae, subfamily Asclepiadoideae) consists of stem succulents from Eastern and Southern Africa". Therefore, both Dictyosperma and Huernia are described as a genus.
+原始EM：14, 总数：28, 网络错误：0, 当前原始EM分数：50.0%, 增强EM答对：14, 当前增强EM分数：50.0%, 当前F1分数：72.09874503107585%
+##########
+##########
+ID:29
+Question:Kaiser Ventures corporation was founded by an American industrialist who became known as the father of modern American shipbuilding?
+Right Answer:Henry J. Kaiser
+Answer: False
+Step-by-step reasoning: The Kaiser Ventures corporation was founded by Henry J. Kaiser, who is indeed known as the father of modern American shipbuilding as stated in the context with index 9. However, the claim is incorrect because it states that Kaiser Ventures was founded by an American industrialist who became known as the father of modern American shipbuilding. According to the context with index 8, Kaiser Ventures was formerly known as Kaiser Steel, and it was founded by Henry J. Kaiser. Therefore, the claim is false because Kaiser Ventures was not directly founded by Henry J. Kaiser, but rather it was a successor to a company that he founded.
+原始EM：14, 总数：29, 网络错误：0, 当前原始EM分数：48.275862068965516%, 增强EM答对：14, 当前增强EM分数：48.275862068965516%, 当前F1分数：69.61258140931461%
+##########
+##########
+ID:30
+Question:What is the name for the adventure in "Tunnels and Trolls", a game designed by Ken St. Andre?
+Right Answer:Arena of Khazan
+Answer: The adventure in "Tunnels and Trolls" is called "Crusaders of Khazan" and "Arena of Khazan".
+
+Step-by-step reasoning: The context from index 2 and 5 provides the information needed to answer the question. The paragraph from index 2 mentions that "Crusaders of Khazan" is a computer adaptation of the tabletop role-playing game "Tunnels and Trolls". The paragraph from index 5 mentions that "Arena of Khazan" is a role-playing game adventure for "Tunnels & Trolls". Therefore, both "Crusaders of Khazan" and "Arena of Khazan" are adventures in "Tunnels and Trolls".
+原始EM：14, 总数：30, 网络错误：0, 当前原始EM分数：46.666666666666664%, 增强EM答对：14, 当前增强EM分数：46.666666666666664%, 当前F1分数：68.62549536233745%
+##########
+##########
+ID:31
+Question:When was Poison's album "Shut Up, Make Love" released?
+Right Answer:2000
+Answer: The album "Shut Up, Make Love" by Poison was released in 2000.
+Step-by-step reasoning: The context from index 2 titled 'Shut Up, Make Love' states that the song "Shut Up, Make Love" by the American rock band Poison was released in 2000. It was the first single presented to radio stations from their 2000 "Crack a Smile...and More!" album. This information directly answers the question about when the album was released.
+原始EM：14, 总数：31, 网络错误：0, 当前原始EM分数：45.16129032258064%, 增强EM答对：14, 当前增强EM分数：45.16129032258064%, 当前F1分数：66.94940411409002%
+##########
+##########
+ID:32
+Question:Hayden is a singer-songwriter from Canada, but where does Buck-Tick hail from?
+Right Answer:Fujioka, Gunma
+Answer: Buck-Tick hails from Fujioka, Gunma in Japan.
+
+Step-by-step reasoning: The question asks about the origin of the band Buck-Tick. Looking at the context provided, the paragraph with the title 'Buck-Tick' directly answers the question. It states that Buck-Tick is a Japanese rock band, formed in Fujioka, Gunma in 1983. Therefore, Buck-Tick hails from Fujioka, Gunma in Japan.
+原始EM：14, 总数：32, 网络错误：0, 当前原始EM分数：43.75%, 增强EM答对：14, 当前增强EM分数：43.75%, 当前F1分数：66.24612412441358%
+##########
+##########
+ID:33
+Question:Which  French ace pilot and adventurer fly L'Oiseau Blanc
+Right Answer:Charles Eugène
+Answer: Charles Nungesser and François Coli
+Step-by-step reasoning: The question asks for the French ace pilot and adventurer who flew L'Oiseau Blanc. Looking at the context provided, we can see in the paragraph with index 5 that L'Oiseau Blanc was flown by French World War I aviation heroes, Charles Nungesser and François Coli. This information is also confirmed in the paragraphs with index 2, 6 and 8. Therefore, the French ace pilot and adventurer who flew L'Oiseau Blanc were Charles Nungesser and François Coli.
+原始EM：14, 总数：33, 网络错误：0, 当前原始EM分数：42.42424242424242%, 增强EM答对：14, 当前增强EM分数：42.42424242424242%, 当前F1分数：65.24876682771418%
+##########
+##########
+ID:34
+Question:Are Freakonomics and In the Realm of the Hackers both American documentaries?
+Right Answer:no
+Answer: No
+Step-by-step reasoning: From the context provided, we can see that 'Freakonomics: The Movie' is an American documentary film based on the 2005 book "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything" by economist Steven D. Levitt and writer Stephen J. Dubner as stated in context index 9. However, 'In The Realm of the Hackers' is an Australian documentary directed by Kevin Anderson about the prominent hacker community, centered in Melbourne, Australia in the late 1980s until early 1990 as stated in context index 6. Therefore, while 'Freakonomics: The Movie' is an American documentary, 'In The Realm of the Hackers' is not. It is an Australian documentary. Hence, the answer is no.
+原始EM：15, 总数：34, 网络错误：0, 当前原始EM分数：44.11764705882353%, 增强EM答对：15, 当前增强EM分数：44.11764705882353%, 当前F1分数：66.2708619210167%
+##########
+##########
+ID:35
+Question:Which band, Letters to Cleo or Screaming Trees, had more members?
+Right Answer:Letters to Cleo
+Answer: Letters to Cleo had more members.
+
+Step-by-step reasoning: From the context provided, we can see that the band 'Letters to Cleo' had six members: Kay Hanley, Greg McKenna, Michael Eisenstein, Stacy Jones, Scott Riebling, and Tom Polce (context index 1). On the other hand, 'Screaming Trees' had four original members: Mark Lanegan, Gary Lee Conner, Van Conner, and Mark Pickerel (context index 9). Even though Mark Pickerel was replaced by Barrett Martin, the total number of members in 'Screaming Trees' is still five, which is less than the number of members in 'Letters to Cleo'. Therefore, 'Letters to Cleo' had more members.
+原始EM：15, 总数：35, 网络错误：0, 当前原始EM分数：42.857142857142854%, 增强EM答对：15, 当前增强EM分数：42.857142857142854%, 当前F1分数：66.28217062803527%
+##########
+##########
+ID:36
+Question:Alexander Kerensky was defeated and destroyed by the Bolsheviks in the course of a civil war that ended when ?
+Right Answer:October 1922
+Answer: The civil war ended in October 1922.
+
+Step-by-step reasoning: The context from the 'Russian Civil War' provides the information that the Russian Civil War, in which Alexander Kerensky was defeated and destroyed by the Bolsheviks, lasted from November 1917 to October 1922.
+原始EM：15, 总数：36, 网络错误：0, 当前原始EM分数：41.66666666666667%, 增强EM答对：15, 当前增强EM分数：41.66666666666667%, 当前F1分数：65.82988811058985%
+##########
+##########
+ID:37
+Question:Seven Brief Lessons on Physics was written by an Italian physicist that has worked in France since what year?
+Right Answer:2000
+Answer: 2000
+Step-by-step reasoning: The book "Seven Brief Lessons on Physics" was written by Carlo Rovelli as mentioned in the context with index 8. The context with index 5 mentions that Carlo Rovelli has worked in Italy, the United States and since 2000, in France. Therefore, the Italian physicist who wrote "Seven Brief Lessons on Physics" has worked in France since the year 2000.
+原始EM：16, 总数：37, 网络错误：0, 当前原始EM分数：43.24324324324324%, 增强EM答对：16, 当前增强EM分数：43.24324324324324%, 当前F1分数：66.75340464814148%
+##########
+##########
+ID:38
+Question:The Livesey Hal War Memorial commemorates the fallen of which war, that had over 60 million casualties?
+Right Answer:World War II
+Answer: World War II
+Step-by-step reasoning: The Livesey Hall War Memorial commemorates the fallen of World War I and World War II as per the context from index 2. However, the question specifically asks for a war that had over 60 million casualties. According to the context from index 5, World War II was the deadliest military conflict in history with over 60 million people killed. Therefore, the Livesey Hall War Memorial commemorates the fallen of World War II that had over 60 million casualties.
+原始EM：17, 总数：38, 网络错误：0, 当前原始EM分数：44.73684210526316%, 增强EM答对：17, 当前增强EM分数：44.73684210526316%, 当前F1分数：67.62831505213775%
+##########
+##########
+ID:39
+Question:Are both Elko Regional Airport and Gerald R. Ford International Airport located in Michigan?
+Right Answer:no
+Answer: No
+Step-by-step reasoning: From the context provided, we can see that Elko Regional Airport is located in Elko County, Nevada (from the context with idx: 1) and Gerald R. Ford International Airport is located in Grand Rapids, Michigan (from the context with idx: 6). Therefore, both airports are not located in Michigan.
+原始EM：18, 总数：39, 网络错误：0, 当前原始EM分数：46.15384615384615%, 增强EM答对：18, 当前增强EM分数：46.15384615384615%, 当前F1分数：68.4583582559291%
+##########
+##########
+ID:40
+Question:Ralph Hefferline was a psychology professor at a university that is located in what city?
+Right Answer:New York City
+Answer: New York City
+Step-by-step reasoning: The context with index 6 mentions that Ralph Franklin Hefferline was a psychology professor at Columbia University. The context with index 8 states that Columbia University is located in Upper Manhattan, New York City. Therefore, Ralph Hefferline was a psychology professor at a university located in New York City.
+原始EM：19, 总数：40, 网络错误：0, 当前原始EM分数：47.5%, 增强EM答对：19, 当前增强EM分数：47.5%, 当前F1分数：69.24689929953087%
+##########
+##########
+ID:41
+Question:Which dog's ancestors include Gordon and Irish Setters: the Manchester Terrier or the Scotch Collie?
+Right Answer:Scotch Collie
+Answer: Scotch Collie
+Step-by-step reasoning: The context provided in the first index tells us that the Scotch Collie's ancestors include the Gordon and Irish Setters. There is no mention of the Manchester Terrier having these breeds in its ancestry in any of the provided contexts. Therefore, the Scotch Collie's ancestors include Gordon and Irish Setters, not the Manchester Terrier.
+原始EM：20, 总数：41, 网络错误：0, 当前原始EM分数：48.78048780487805%, 增强EM答对：20, 当前增强EM分数：48.78048780487805%, 当前F1分数：69.99697492637158%
+##########
+##########
+ID:42
+Question:Where is the company that Sachin Warrier worked for as a software engineer headquartered? 
+Right Answer:Mumbai
+Answer: Mumbai, Maharashtra
+Step-by-step reasoning: From the first indexed context, we understand that Sachin Warrier worked as a software engineer for Tata Consultancy Services. The second indexed context provides additional information about Tata Consultancy Services, establishing that the company's headquarters are located in Mumbai, Maharashtra. Therefore, the company that Sachin Warrier worked at as a software engineer is headquartered in Mumbai, Maharashtra.
+原始EM：20, 总数：42, 网络错误：0, 当前原始EM分数：47.61904761904761%, 增强EM答对：20, 当前增强EM分数：47.61904761904761%, 当前F1分数：69.91768187256908%
+##########
+##########
+ID:43
+Question:A Japanese manga series based on a 16 year old high school student Ichitaka Seto, is written and illustrated by someone born in what year?
+Right Answer:1962
+Answer: Masakazu Katsura, the writer and illustrator of the manga series about Ichitaka Seto, was born on December 10, 1962.
+Step-by-step reasoning: 
+1. The question is about a Japanese manga series that involves a 16-year-old high school student named Ichitaka Seto.
+2. From the context given under the title 'I"s', we can determine that the series featuring Ichitaka Seto is "I"s". The creator is mentioned as Masakazu Katsura.
+3. To find out when the creator was born, we refer to the context given under the title 'Masakazu Katsura'. It clearly states that Katsura was born on December 10, 1962.
+原始EM：20, 总数：43, 网络错误：0, 当前原始EM分数：46.51162790697674%, 增强EM答对：20, 当前增强EM分数：46.51162790697674%, 当前F1分数：68.56528708209893%
+##########
+##########
+ID:44
+Question:The battle in which Giuseppe Arimondi lost his life secured what for Ethiopia?
+Right Answer:sovereignty
+Answer: The battle in which Giuseppe Arimondi lost his life secured Ethiopian sovereignty.
+
+Step-by-step reasoning: The context from index 0 tells us that Giuseppe Arimondi died in combat at Adwa. The context from index 5 tells us that the Battle of Adwa was a decisive defeat for Italy and secured Ethiopian sovereignty. Therefore, the battle in which Giuseppe Arimondi lost his life secured Ethiopian sovereignty.
+原始EM：20, 总数：44, 网络错误：0, 当前原始EM分数：45.45454545454545%, 增强EM答对：20, 当前增强EM分数：45.45454545454545%, 当前F1分数：67.3857729817482%
+##########
+##########
+ID:45
+Question:Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under which United States Vice President?
+Right Answer:Nelson Rockefeller
+Answer: Nelson Rockefeller
+
+Step-by-step reasoning: The question asks us to find which United States Vice President Alfred Balk served under as the secretary of the Committee on the Employment of Minority Groups in the News Media. From the context provided, we look for information related to Alfred Balk and the Committee on the Employment of Minority Groups in the News Media. From the paragraph with index 4, we find that Alfred Balk served as the secretary of New York Governor Nelson Rockefeller's Committee on the Employment of Minority Groups in the News Media. This tells us that Alfred Balk served under the vice president Nelson Rockefeller. In the paragraph with index 3, we confirm that Nelson Rockefeller was indeed a vice president of the United States, serving from 1974 to 1977. Cross-referencing these two pieces of context, we can conclude that Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under United States Vice President Nelson Rockefeller.
+原始EM：21, 总数：45, 网络错误：0, 当前原始EM分数：46.666666666666664%, 增强EM答对：21, 当前增强EM分数：46.666666666666664%, 当前F1分数：68.1105335821538%
+##########
+##########
+ID:46
+Question:A medieval fortress in Dirleton, East Lothian, Scotland borders on the south side of what coastal area?
+Right Answer:Yellowcraig
+Answer: The Firth of Forth
+Step-by-step reasoning: To answer the claim, I searched the given contexts for the combination of 'Dirleton', 'fortress' and 'coastal area'. Looking at context 3 and context 5, it is revealed that Dirleton is located near the Firth of Forth. Furthermore, context 7 also mentions that Dirleton village lies on the south shore of the Firth of Forth which further consolidates the first two context pieces. Therefore, I can conclude that the coastal area bordering on the south side of the medieval fortress in Dirleton, East Lothian, Scotland is the Firth of Forth.
+原始EM：21, 总数：46, 网络错误：0, 当前原始EM分数：45.65217391304348%, 增强EM答对：21, 当前增强EM分数：45.65217391304348%, 当前F1分数：66.62986980862871%
+##########
+##########
+ID:47
+Question:Who is the writer of this song that was inspired by words on a tombstone and was the first track on the box set Back to Mono?
+Right Answer:Phil Spector
+Answer: Phil Spector
+Step-by-step reasoning: Among the information provided in the context, I focused my attention on the 'Back to Mono (1958–1969)' and 'To Know Him Is to Love Him' pieces, since the question specifically asked about a song that was inspired by words on a tombstone, was the first track on the box set 'Back to Mono'. In the piece on 'Back to Mono (1958–1969)', it mentions that the first track is "To Know Him Is to Love Him". Following that, in the context of 'To Know Him Is to Love Him', it is specified that this song was written by Phil Spector and was inspired by words on his father's tombstone, "To Know Him Was To Love Him." Therefore, Phil Spector is the writer of this song.
+原始EM：22, 总数：47, 网络错误：0, 当前原始EM分数：46.808510638297875%, 增强EM答对：22, 当前增强EM分数：46.808510638297875%, 当前F1分数：67.3398725786579%
+##########
+##########
+ID:48
+Question:What type of forum did a former Soviet statesman initiate?
+Right Answer:Organizations could come together to address global issues
+Answer: The former Soviet statesman Mikhail Gorbachev initiated the World Summit of Nobel Peace Laureates.
+
+Step-by-step reasoning: The context from the title 'World Summit of Nobel Peace Laureates' states that the World Summit of Nobel Peace Laureates was initiated by Mikhail Gorbachev in the 90s. This is further confirmed by the context from the title 'Mikhail Gorbachev' which states that Mikhail Sergeyevich Gorbachev is a former Soviet statesman. Therefore, the former Soviet statesman who initiated a forum is Mikhail Gorbachev and the forum he initiated is the World Summit of Nobel Peace Laureates.
+原始EM：22, 总数：48, 网络错误：0, 当前原始EM分数：45.83333333333333%, 增强EM答对：22, 当前增强EM分数：45.83333333333333%, 当前F1分数：65.93695856660253%
+##########
+##########
+ID:49
+Question:Are Ferocactus and Silene both types of plant?
+Right Answer:yes
+Answer: Yes
+Step-by-step reasoning: From the context provided, we can see that Silene is a genus of flowering plants in the family Caryophyllaceae as stated in the context with index 1. Similarly, Ferocactus is a genus of large barrel-shaped cacti as stated in the context with index 4. Therefore, both Ferocactus and Silene are types of plants.
+原始EM：23, 总数：49, 网络错误：0, 当前原始EM分数：46.93877551020408%, 增强EM答对：23, 当前增强EM分数：46.93877551020408%, 当前F1分数：66.63212267748818%
+##########
+##########
+ID:50
+Question:Which British first-generation jet-powered medium bomber was used in the South West Pacific theatre of World War II?
+Right Answer:English Electric Canberra
+Answer: No British first-generation jet-powered medium bomber was used in the South West Pacific theatre of World War II.
+
+Step-by-step reasoning: The English Electric Canberra, as mentioned in context 5, is a British first-generation jet-powered medium bomber. However, it was manufactured during the 1950s, which is after World War II ended in 1945. Therefore, it could not have been used in the South West Pacific theatre of World War II.
+原始EM：23, 总数：50, 网络错误：0, 当前原始EM分数：46.0%, 增强EM答对：23, 当前增强EM分数：46.0%, 当前F1分数：65.29948022393842%
+##########
+##########
+ID:51
+Question:Which year and which conference was the 14th season for this conference as part of the NCAA Division that the Colorado Buffaloes played in with a record of 2-6 in conference play?
+Right Answer:2009 Big 12 Conference
+Answer: The year was 2009 and the conference was the Big 12 Conference.
+Step-by-step reasoning: The question asks for the year and conference in which the Colorado Buffaloes played their 14th season as part of the NCAA Division and had a record of 2-6 in conference play. From the context provided, we can see that the 2009 Colorado Buffaloes football team had a record of 2-6 in conference play as mentioned in context index 7. Additionally, the 2009 Big 12 Conference football season was the 14th season for the Big 12 as part of the 2009 NCAA Division I FBS football season as mentioned in context index 1. Therefore, the year was 2009 and the conference was the Big 12 Conference.
+原始EM：23, 总数：51, 网络错误：0, 当前原始EM分数：45.09803921568628%, 增强EM答对：23, 当前增强EM分数：45.09803921568628%, 当前F1分数：65.3262878012468%
+##########
+##########
+ID:52
+Question:In 1991 Euromarché was bought by a chain that operated how any hypermarkets at the end of 2016?
+Right Answer:1,462
+Answer: 1462
+Step-by-step reasoning: The question asks about the number of hypermarkets operated by the chain that bought Euromarché in 1991. From the context, we can see that Euromarché was bought by Carrefour in 1991 (context 6). The context also tells us that Carrefour operated 1,462 hypermarkets at the end of 2016 (context 0). Therefore, the answer is 1,462.
+原始EM：24, 总数：52, 网络错误：0, 当前原始EM分数：46.15384615384615%, 增强EM答对：24, 当前增强EM分数：46.15384615384615%, 当前F1分数：65.99308995891514%
+##########
+##########
+ID:53
+Question:What race track in the midwest hosts a 500 mile race eavery May?
+Right Answer:Indianapolis Motor Speedway
+Answer: The Indianapolis Motor Speedway
+Step-by-step reasoning: The question asks for a race track in the midwest that hosts a 500 mile race every May. Looking at the context, the Indianapolis Motor Speedway is mentioned in several contexts (idx 2, 3, 4, 6, 7). In context idx 3, it is mentioned that the Indianapolis Motor Speedway held the first Indianapolis 500 mile race. In context idx 4, it is mentioned that the 41st International 500-Mile Sweepstakes was held at the Indianapolis Motor Speedway in May 1957. This information confirms that the Indianapolis Motor Speedway hosts a 500 mile race every May.
+原始EM：25, 总数：53, 网络错误：0, 当前原始EM分数：47.16981132075472%, 增强EM答对：25, 当前增强EM分数：47.16981132075472%, 当前F1分数：66.63472977101108%
+##########
+##########
+ID:54
+Question:In what city did the "Prince of tenors" star in a film based on an opera by Giacomo Puccini?
+Right Answer:Rome
+Answer: Rome
+Step-by-step reasoning: The context from 'Tosca (1956 film)' mentions that the film was made at Cinecittà in Rome. This film is based on the opera "Tosca" by Giacomo Puccini. The context from 'Franco Corelli' mentions that Franco Corelli, dubbed the "Prince of tenors", starred in this film. Therefore, the city where the "Prince of tenors" starred in a film based on an opera by Giacomo Puccini is Rome.
+原始EM：26, 总数：54, 网络错误：0, 当前原始EM分数：48.148148148148145%, 增强EM答对：26, 当前增强EM分数：48.148148148148145%, 当前F1分数：67.25260514562198%
+##########
+##########
+ID:55
+Question:Ellie Goulding worked with what other writers on her third studio album, Delirium?
+Right Answer:Max Martin, Savan Kotecha and Ilya Salmanzadeh

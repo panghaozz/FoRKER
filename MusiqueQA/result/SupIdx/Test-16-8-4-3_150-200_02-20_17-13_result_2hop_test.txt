@@ -1,0 +1,752 @@
+##########
+ID:151
+Question:This is an instance of who was named commander in chief of texas forces by the new national government of texas National Forest?
+golden idx: [0, 7]
+ [0, 7, 6, 19, 2, 17, 1, 8, 9, 16, 10, 5, 4, 12, 11, 15]
+
+ [0, 7, 19, 2, 6, 17, 9, 5]
+
+ [0, 7, 19, 2]
+
+ [0, 7, 19]
+
+成功的数量为：2总数：2当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:152
+Question:Who was honored with the highest award in India before becoming president?
+golden idx: [16, 18]
+ [16, 3, 12, 8, 17, 18, 13, 0, 11, 9, 7, 1, 4, 5, 6, 19]
+
+ [16, 12, 8, 17, 18, 3, 13, 7]
+
+ [16, 12, 8, 17]
+
+ [16, 12, 8]
+
+成功的数量为：3总数：4当前回溯率：75.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：1，第4轮错误：0
+##########
+##########
+ID:153
+Question:Who was given India's highest civilian honor before he became President of India?
+golden idx: [10, 19]
+ [10, 1, 19, 17, 11, 18, 3, 13, 6, 14, 15, 0, 16, 9, 4, 12]
+
+ [10, 19, 1, 17, 11, 0, 3, 14]
+
+ [10, 19, 1, 17]
+
+ [10, 1, 19]
+
+成功的数量为：5总数：6当前回溯率：83.33333333333334%
+第1轮错误：0，第2轮错误：0，第3轮错误：1，第4轮错误：0
+##########
+##########
+ID:154
+Question:Who was honoured with the highest award a citizen without military experience in India before becoming a president?
+golden idx: [8, 16]
+ [16, 6, 19, 3, 14, 8, 12, 18, 7, 10, 1, 9, 4, 15, 13, 11]
+
+ [16, 19, 3, 14, 6, 12, 8, 7]
+
+ [16, 19, 3, 14]
+
+ [16, 19, 14]
+
+成功的数量为：6总数：8当前回溯率：75.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：2，第4轮错误：0
+##########
+##########
+ID:155
+Question:What type of animal is Xiao Liwu's mother?
+golden idx: [11, 14]
+ [11, 14, 1, 8, 0, 7, 10, 3, 18, 5, 12, 15, 6, 9, 4, 2]
+
+ [11, 14, 1, 8, 0, 10, 4, 6]
+
+ [11, 14, 1, 8]
+
+ [11, 14, 1]
+
+成功的数量为：8总数：10当前回溯率：80.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：2，第4轮错误：0
+##########
+##########
+ID:156
+Question:Who was honored with the award Dhondo Keshav Karve received prior to becoming president of India?
+golden idx: [12, 14]
+ [5, 7, 19, 14, 0, 1, 6, 16, 12, 3, 8, 9, 4, 15, 13, 18]
+
+ [5, 19, 14, 7, 12, 6, 16, 4]
+
+ [5, 19, 14, 7]
+
+ [5, 19, 14]
+
+成功的数量为：9总数：12当前回溯率：75.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：3，第4轮错误：0
+##########
+##########
+ID:157
+Question:What recognition did the actor of Truman Capote from Capote receive?
+golden idx: [10, 14]
+ [10, 8, 14, 0, 5, 1, 3, 11, 7, 6, 15, 16, 4, 12, 2, 9]
+
+ [10, 8, 14, 12, 1, 3, 5, 11]
+
+ [10, 8, 14, 1]
+
+ [10, 8, 14]
+
+成功的数量为：11总数：14当前回溯率：78.57142857142857%
+第1轮错误：0，第2轮错误：0，第3轮错误：3，第4轮错误：0
+##########
+##########
+ID:158
+Question:What kind of recognition did the actor who played the game maker in hunger games receive?
+golden idx: [2, 14]
+ [2, 16, 14, 13, 4, 9, 6, 0, 15, 8, 5, 7, 18, 19, 12, 17]
+
+ [14, 2, 16, 4, 13, 9, 18, 7]
+
+ [14, 2, 16, 4]
+
+ [14, 16, 2]
+
+成功的数量为：13总数：16当前回溯率：81.25%
+第1轮错误：0，第2轮错误：0，第3轮错误：3，第4轮错误：0
+##########
+##########
+ID:159
+Question:What other recognition did the Oscar winner for Best Actor in 2006 receive?
+golden idx: [5, 12]
+ [5, 12, 8, 19, 4, 7, 1, 3, 6, 14, 15, 17, 0, 2, 9, 18]
+
+ [5, 12, 8, 4, 7, 19, 1, 6]
+
+ [12, 5, 4, 19]
+
+ [5, 12, 4]
+
+成功的数量为：15总数：18当前回溯率：83.33333333333334%
+第1轮错误：0，第2轮错误：0，第3轮错误：3，第4轮错误：0
+##########
+##########
+ID:160
+Question:What recognition did the Jack Goes Boating director receive?
+golden idx: [1, 4]
+ [4, 1, 14, 13, 18, 3, 19, 17, 0, 11, 5, 9, 16, 7, 10, 8]
+
+ [1, 4, 14, 13, 18, 3, 0, 5]
+
+ [4, 1, 14, 13]
+
+ [4, 1, 14]
+
+成功的数量为：17总数：20当前回溯率：85.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：3，第4轮错误：0
+##########
+##########
+ID:161
+Question:What was the show named after the character featured in the video game Mickey's Safari in Letterland?
+golden idx: [2, 14]
+ [14, 2, 11, 6, 4, 9, 15, 13, 12, 8, 0, 7, 1, 16, 5, 18]
+
+ [14, 2, 11, 4, 6, 15, 9, 0]
+
+ [14, 2, 11, 4]
+
+ [2, 14, 11]
+
+成功的数量为：19总数：22当前回溯率：86.36363636363636%
+第1轮错误：0，第2轮错误：0，第3轮错误：3，第4轮错误：0
+##########
+##########
+ID:162
+Question:Who developed the eponymous character from the series that contains Mickey's Safari in Letterland?
+golden idx: [3, 19]
+ [3, 19, 12, 18, 15, 9, 13, 2, 6, 10, 11, 1, 5, 7, 4, 0]
+
+ [3, 19, 18, 12, 15, 9, 13, 10]
+
+ [3, 19, 18, 12]
+
+ [3, 19, 18]
+
+成功的数量为：21总数：24当前回溯率：87.5%
+第1轮错误：0，第2轮错误：0，第3轮错误：3，第4轮错误：0
+##########
+##########
+ID:163
+Question:Who did the original voice for the character whose series Mickey's safari in Letterland is from?
+golden idx: [8, 10]
+ [10, 6, 8, 14, 3, 12, 4, 1, 5, 0, 16, 13, 18, 11, 7, 9]
+
+ [10, 8, 14, 3, 4, 18, 0, 12]
+
+ [8, 10, 14, 3]
+
+ [8, 10, 14]
+
+成功的数量为：23总数：26当前回溯率：88.46153846153845%
+第1轮错误：0，第2轮错误：0，第3轮错误：3，第4轮错误：0
+##########
+##########
+ID:164
+Question:Who is the child of the creator of A Distinguished Member of the Humane Society?
+golden idx: [7, 13]
+ [7, 13, 6, 5, 10, 11, 0, 8, 9, 1, 14, 15, 2, 4, 16, 19]
+
+ [7, 13]
+
+ [7, 13, 6, 5, 10, 0, 8, 9]
+
+ [7, 13]
+
+成功的数量为：25总数：28当前回溯率：89.28571428571429%
+第1轮错误：0，第2轮错误：0，第3轮错误：3，第4轮错误：0
+##########
+##########
+ID:165
+Question:What was the old show that was named after a character that Walt Disney created in 1928 called?
+golden idx: [0, 6]
+ [6, 2, 12, 14, 0, 13, 9, 7, 19, 5, 10, 1, 4, 15, 18, 11]
+
+ [6, 2, 12, 14, 0, 13, 9, 10]
+
+ [6, 2, 12, 14]
+
+ [6, 2, 12]
+
+成功的数量为：26总数：30当前回溯率：86.66666666666667%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:166
+Question:What military overran much of Erich Zakowski's place of birth?
+golden idx: [11, 19]
+ [11, 19, 0, 9, 17, 18, 5, 13, 14, 3, 7, 15, 10, 6, 4, 2]
+
+ [11, 19, 0, 7, 9, 5, 18, 4]
+
+ [11, 19, 9, 5]
+
+ [19, 11, 9]
+
+成功的数量为：28总数：32当前回溯率：87.5%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:167
+Question:According to the agency that published U.S. and World Population Clock, what is the total area in square miles?
+golden idx: [10, 15]
+ [10, 15, 1, 5, 4, 19, 12, 6, 7, 2, 3, 14, 16, 13, 9, 11]
+
+ [10, 15, 1, 5, 6, 7, 12, 13]
+
+ [10, 15, 1, 13]
+
+ [1,10,15]
+
+成功的数量为：30总数：34当前回溯率：88.23529411764706%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:168
+Question:What else happened in the northern part of Erich Zakowski's birthplace in the now Russian area?
+golden idx: [10, 19]
+ [19, 17, 10, 14, 3, 8, 2, 1, 4, 5, 0, 6, 7, 9, 15, 16]
+
+ [19, 17, 10, 14, 3, 8, 9, 1]
+
+ [19, 17, 10, 14]
+
+ [19, 17, 10]
+
+成功的数量为：32总数：36当前回溯率：88.88888888888889%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:169
+Question:What happened to the Curonians who lived in the area where Erich Zakowski was born?
+golden idx: [3, 18]
+ [3, 18, 10, 0, 1, 4, 5, 13, 6, 14, 7, 8, 2, 9, 12, 16]
+
+ [3, 18, 10, 13, 2, 0, 9, 6]
+
+ [3, 18, 10, 13]
+
+ [3, 18, 10]
+
+成功的数量为：34总数：38当前回溯率：89.47368421052632%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:170
+Question:Where did the producer of Julius Caesar study or work?
+golden idx: [18, 19]
+ [18, 19, 1, 0, 3, 5, 7, 17, 15, 4, 6, 11, 8, 10, 9, 16]
+
+ [18, 19, 0, 1, 3, 5, 15, 7]
+
+ [18, 19, 0, 1]
+
+ [19, 18, 0]
+
+成功的数量为：36总数：40当前回溯率：90.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:171
+Question:According to the agency that considers if Los Angeles County is to be a separate metropolitan area, what is the total area in square miles?
+golden idx: [0, 10]
+ [0, 6, 10, 19, 13, 9, 1, 7, 8, 5, 18, 3, 16, 14, 15, 11]
+
+ [0, 10, 16, 1, 9, 19, 7, 13]
+
+ [0, 10, 9, 16]
+
+ [0, 10, 9]
+
+成功的数量为：38总数：42当前回溯率：90.47619047619048%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:172
+Question:According to the organization that creates census county division, what is the total area in square miles?
+golden idx: [2, 15]
+ [2, 15, 5, 12, 11, 17, 1, 14, 4, 3, 7, 6, 8, 18, 9, 0]
+
+ [15, 2, 5, 12, 11, 17, 4, 1]
+
+ [15, 2, 5, 12]
+
+ [2, 15, 5]
+
+成功的数量为：40总数：44当前回溯率：90.9090909090909%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:173
+Question:According to the developer of Topologically Integrated Geographic Encoding and Referencing, what is the total area of Atlantic City in square miles?
+golden idx: [3, 9]
+ [3, 9, 4, 11, 15, 19, 7, 12, 0, 1, 5, 6, 8, 14, 16, 18]
+
+ [9, 3, 4, 11, 15, 19, 7, 1]
+
+ [9, 3, 11, 15]
+
+ [9, 3, 11]
+
+成功的数量为：42总数：46当前回溯率：91.30434782608695%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:174
+Question:Where did the producer of On Dangerous Ground study or work?
+golden idx: [2, 4]
+ [2, 4, 6, 0, 3, 5, 7, 1, 8, 13, 17, 16, 14, 10, 9, 19]
+
+ [4, 2, 13, 6, 3, 0, 7, 19]
+
+ [4, 2, 3, 6]
+
+ [2, 4, 6]
+
+成功的数量为：44总数：48当前回溯率：91.66666666666666%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:175
+Question:Where did the founder of the Acting Company study?
+golden idx: [12, 19]
+ [12, 19, 11, 2, 5, 14, 6, 16, 7, 8, 10, 3, 17, 0, 4, 15]
+
+ [12, 19, 11, 14, 3, 17, 0, 4]
+
+ [12,19,11,0]
+
+ [12, 19, 11]
+
+成功的数量为：46总数：50当前回溯率：92.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:176
+Question:When did the crowning of the person under whom the Chapter House was built happen?
+golden idx: [1, 12]
+ [1, 12, 0, 3, 6, 13, 5, 7, 8, 4, 9, 10, 2, 16, 11, 14]
+
+ [1, 12, 0, 3, 6, 13, 5, 7]
+
+ [1, 12, 0, 3]
+
+ [1, 12, 0]
+
+成功的数量为：48总数：52当前回溯率：92.3076923076923%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:177
+Question:Who is the spouse of the person who sang holding out for a hero in shrek 2?
+golden idx: [10, 17]
+ [17, 10, 19, 15, 12, 5, 1, 0, 18, 14, 7, 9, 4, 2, 3, 8]
+
+ [17, 10, 19, 15, 5, 1, 0, 12]
+
+ [17, 10, 19, 15]
+
+ [17, 10, 19]
+
+成功的数量为：50总数：54当前回溯率：92.5925925925926%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:178
+Question:Who is the spouse of the creator of Absolutely Fabulous?
+golden idx: [2, 8]
+ [8, 2, 12, 18, 13, 19, 3, 1, 4, 6, 15, 16, 10, 5, 11, 9]
+
+ [8, 2]
+
+ [8, 2, 12, 5, 19, 1, 11, 9]
+
+ [8, 2]
+
+成功的数量为：52总数：56当前回溯率：92.85714285714286%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:179
+Question:Who is the spouse of the actress who played the fairy god mother in Shrek 2?
+golden idx: [6, 8]
+ [6, 11, 8, 5, 16, 3, 13, 18, 2, 12, 15, 19, 7, 0, 9, 4]
+
+ [6, 8, 11, 5, 18, 13, 3, 9]
+
+ [6, 8, 11, 5]
+
+ [6, 8, 11]
+
+成功的数量为：54总数：58当前回溯率：93.10344827586206%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:180
+Question:When was John's eldest son crowned?
+golden idx: [2, 17]
+ [2, 17, 3, 12, 1, 4, 6, 7, 8, 14, 15, 16, 5, 11, 18, 10]
+
+ [17, 2, 12, 4, 6, 7, 3, 1]
+
+ [17, 2, 6, 4]
+
+ [17, 2, 6]
+
+成功的数量为：56总数：60当前回溯率：93.33333333333333%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:181
+Question:When was the sibling of Alice de Lusignan, Countess of Surrey crowned?
+golden idx: [5, 13]
+ [13, 5, 6, 3, 2, 7, 14, 4, 12, 9, 1, 8, 0, 11, 10, 15]
+
+ [13, 5, 2, 12, 14, 0, 3, 8]
+
+ [13, 5, 12, 2]
+
+ [13, 5, 12]
+
+成功的数量为：58总数：62当前回溯率：93.54838709677419%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:182
+Question:What year was the father of Katherine of England crowned?
+golden idx: [0, 7]
+ [7, 13, 0, 8, 4, 1, 5, 9, 18, 3, 6, 2, 11, 14, 15, 17]
+
+ [7, 13, 0]
+
+ [7, 13, 0, 14, 17, 11, 3, 6]
+
+ [7, 13, 0]
+
+成功的数量为：60总数：64当前回溯率：93.75%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:183
+Question:What month did the person who retained trust in Longchamp go away to the Holy Land?
+golden idx: [4, 18]
+ [4, 6, 7, 18, 9, 13, 11, 14, 8, 0, 1, 2, 3, 5, 10, 19]
+
+ [4, 18, 6, 7, 9, 13, 14, 8]
+
+ [4, 18, 7, 6]
+
+ [4, 18, 7]
+
+成功的数量为：62总数：66当前回溯率：93.93939393939394%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:184
+Question:When did a storm disperse the fleet led by the English king who trusted William de Longchamp?
+golden idx: [3, 11]
+ [3, 8, 11, 14, 15, 4, 0, 18, 6, 17, 1, 13, 16, 12, 19, 9]
+
+ [3, 11, 8, 14, 1, 13, 12, 9]
+
+ [3, 11, 8, 14]
+
+ [3, 11, 8]
+
+成功的数量为：64总数：68当前回溯率：94.11764705882352%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:185
+Question:In the King's Speech, who played the person who was the King of England in 1950?
+golden idx: [1, 7]
+ [1, 7, 6, 15, 0, 5, 11, 8, 3, 4, 9, 10, 14, 13, 19, 12]
+
+ [1, 7, 6, 15, 0, 11, 8, 10]
+
+ [1, 7, 6, 15]
+
+ [1, 7, 6]
+
+成功的数量为：66总数：70当前回溯率：94.28571428571428%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:186
+Question:What is the record label for the singer who originally sang You Belong To Me.
+golden idx: [11, 13]
+ [11, 13, 0, 1, 2, 5, 6, 7, 8, 9, 10, 12, 14, 15, 16, 17]
+
+ [11, 13, 12]
+
+ [11, 13, 0, 1, 2, 5, 6, 7]
+
+ [11, 13, 0]
+
+成功的数量为：68总数：72当前回溯率：94.44444444444444%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:187
+Question:What record label does the artist who sang you belong to me belong to?
+golden idx: [10, 16]
+ [10, 16, 13, 6, 5, 0, 7, 1, 3, 4, 2, 12, 11, 15, 9, 18]
+
+ [10, 16]
+
+ [10, 16, 5, 6, 13, 0, 7, 15]
+
+ [10, 16, 5]
+
+成功的数量为：70总数：74当前回溯率：94.5945945945946%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:188
+Question:When is the next episode of the series that Steven the Sword Fighter is a part of being released?
+golden idx: [10, 18]
+ [10, 18, 6, 3, 1, 13, 2, 15, 5, 7, 9, 0, 4, 17, 11, 8]
+
+ [10, 18, 7, 9, 1, 0, 4, 5]
+
+ [18, 10, 7, 9]
+
+ [18, 10, 7]
+
+成功的数量为：72总数：76当前回溯率：94.73684210526315%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:189
+Question:Who played the monarch at the end of WW2 in The King's Speech?
+golden idx: [0, 7]
+ [7, 0, 12, 9, 1, 8, 17, 15, 10, 14, 16, 18, 11, 3, 19, 2]
+
+ [7, 0, 12, 9, 8, 11, 16, 19]
+
+ [7, 0, 12, 8]
+
+ [7, 0, 12]
+
+成功的数量为：74总数：78当前回溯率：94.87179487179486%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:190
+Question:Who played king whose regal Name did Albert Adopt in the king's speech?
+golden idx: [5, 7]
+ [5, 7, 6, 4, 0, 19, 8, 12, 18, 17, 16, 10, 3, 14, 13, 15]
+
+ [5, 7, 6, 4, 0, 19, 12, 3]
+
+ [5, 7, 6, 4]
+
+ [5, 7, 6]
+
+成功的数量为：76总数：80当前回溯率：95.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:191
+Question:Who played the king that was king of england in 1951 in the king's speech?
+golden idx: [2, 16]
+ [16, 2, 10, 0, 3, 12, 13, 15, 7, 14, 19, 6, 8, 11, 9, 5]
+
+ [16, 2, 10, 0, 15, 3, 13, 19]
+
+ [16, 2, 10, 15]
+
+ [16, 2, 10]
+
+成功的数量为：78总数：82当前回溯率：95.1219512195122%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:192
+Question:In A League of Their Own, who played the husband of the actress who played Thelma in Thelma and Louise?
+golden idx: [5, 12]
+ [5, 12, 6, 15, 13, 14, 18, 19, 0, 1, 2, 3, 4, 7, 8, 9]
+
+ [5, 12, 15, 18, 6, 0, 8, 19]
+
+ [5, 12, 15, 6]
+
+ [5, 12, 15]
+
+成功的数量为：80总数：84当前回溯率：95.23809523809523%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:193
+Question:In the movie A League of their Own, who played the husband of the person who also played Thelma in the movie Thelma and Louise?
+golden idx: [5, 17]
+ [5, 17, 18, 7, 19, 4, 9, 14, 6, 3, 16, 8, 1, 2, 10, 11]
+
+ [17, 5, 7, 14, 9, 4, 6, 3]
+
+ [17, 5, 7, 3]
+
+ [17, 5, 7]
+
+成功的数量为：82总数：86当前回溯率：95.34883720930233%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:194
+Question:What character in A League of their Own was played by the actress who played Thelma in the movie Thelma and Louise?
+golden idx: [11, 15]
+ [15, 11, 12, 19, 6, 13, 7, 14, 17, 5, 10, 1, 9, 3, 16, 8]
+
+ [11, 15]
+
+ [15, 11, 6, 10, 9, 8, 16, 7]
+
+ [15, 11, 6]
+
+成功的数量为：84总数：88当前回溯率：95.45454545454545%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:195
+Question:The actor who played Thelma in "Thelma and Louise" also played which character in "A League of Their Own"?
+golden idx: [8, 19]
+ [19, 8, 18, 0, 2, 14, 7, 16, 1, 3, 6, 11, 5, 12, 17, 9]
+
+ [19, 8, 18, 1, 0, 2, 5, 7]
+
+ [19, 8, 18, 1]
+
+ [19, 8, 18]
+
+成功的数量为：86总数：90当前回溯率：95.55555555555556%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:196
+Question:Who is the sibling of the author of Kapalkundala?
+golden idx: [4, 8]
+ [4, 8, 0, 6, 3, 1, 2, 5, 7, 9, 11, 10, 12, 13, 14, 15]
+
+ [8, 4]
+
+ [4, 8, 14, 1, 7, 15, 11, 13]
+
+ [8, 4, 1]
+
+成功的数量为：88总数：92当前回溯率：95.65217391304348%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:197
+Question:Who is the voice of the character in Spongebob Squarepants with the same name as the creature that annelid larvae live like?
+golden idx: [1, 3]
+ [3, 1, 15, 6, 17, 18, 5, 0, 8, 9, 4, 7, 19, 12, 2, 11]
+
+ [1, 15, 3, 6, 17, 19, 7, 18]
+
+ [3, 1, 15, 6]
+
+ [1, 3, 15]
+
+成功的数量为：90总数：94当前回溯率：95.74468085106383%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:198
+Question:The actor who plays the girl in Spiderman Homecoming is signed to which record label?
+golden idx: [12, 16]
+ [16, 6, 12, 7, 9, 3, 18, 19, 4, 10, 0, 17, 5, 2, 1, 11]
+
+ [16, 12, 6, 7, 9, 19, 3, 1]
+
+ [16, 12, 6, 7]
+
+ [16, 12, 6]
+
+成功的数量为：92总数：96当前回溯率：95.83333333333334%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:199
+Question:What is the record label of the co-writer and recording artist of Permission to Fly?
+golden idx: [7, 18]
+ [7, 18, 6, 10, 2, 5, 13, 11, 12, 16, 14, 17, 0, 1, 15, 4]
+
+ [18, 7, 13, 10, 6, 12, 2, 17]
+
+ [18, 7, 13, 10]
+
+ [18, 7, 13]
+
+成功的数量为：94总数：98当前回溯率：95.91836734693877%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+##########
+ID:200
+Question:What team drafted the winner of the NBA scoring title this year?
+golden idx: [3, 18]
+ [18, 3, 8, 1, 0, 11, 7, 19, 12, 4, 14, 10, 6, 5, 15, 13]
+
+ [3, 18, 0, 8, 4, 12, 7, 19]
+
+ [18, 3, 0, 12]
+
+ [18, 3, 0]
+
+成功的数量为：96总数：100当前回溯率：96.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：4，第4轮错误：0
+##########
+
+回溯率：96.0%

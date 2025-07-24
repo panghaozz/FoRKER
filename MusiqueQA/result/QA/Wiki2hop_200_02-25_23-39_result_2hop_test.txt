@@ -1,0 +1,94 @@
+##########
+ID:1
+Question:Who is the spouse of the Green performer?
+
+Right Answer:Miquette Giraudy
+不进行反思
+ Miquette Giraudy
+原始EM：1, 总数：1, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：1, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:2
+Question:Who founded the company that distributed the film UHF?
+
+Right Answer:Mike Medavoy
+不进行反思
+ Mike Medavoy
+原始EM：2, 总数：2, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：2, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:3
+Question:What administrative territorial entity is the owner of Ciudad Deportiva located?
+
+Right Answer:Tamaulipas
+进行反思
+ The previous reasoning failed because the identified owner was the city of Nuevo Laredo, instead of the administrative territorial entity. The error stemmed from not directly identifying the administrative territorial entity that owns Ciudad Deportiva as opposed to a city within that entity. To mitigate similar failures, it is crucial to accurately differentiate between city ownership and administrative territorial ownership. A high-level plan would involve focusing on the specific territorial entity rather than a city within it. 
+ Tamaulipas
+原始EM：3, 总数：3, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：3, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:4
+Question:Where is Ulrich Walter's employer headquartered?
+
+Right Answer:Cologne
+不进行反思
+ Cologne
+原始EM：4, 总数：4, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：4, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:5
+Question:Which company owns the manufacturer of Learjet 60?
+
+Right Answer:Bombardier Inc.
+不进行反思
+ Bombardier Inc.
+原始EM：5, 总数：5, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：5, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:6
+Question:Who is the child of Caroline LeRoy's spouse?
+
+Right Answer:Fletcher Webster
+不进行反思
+ Fletcher Webster
+原始EM：6, 总数：6, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：6, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:7
+Question:Who is the grandmother of Philippe, Duke of Orléans?
+
+Right Answer:Marie de' Medici
+不进行反思
+ Marie de' Medici
+原始EM：7, 总数：7, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：7, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:8
+Question:What is the goal of the group that European Movement Germany is a member of?
+
+Right Answer:European integration
+不进行反思
+ European integration
+原始EM：8, 总数：8, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：8, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:9
+Question:What company succeeded the owner of Empire Sports Network?
+
+Right Answer:Time Warner Cable
+不进行反思
+ Time Warner Cable
+原始EM：9, 总数：9, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：9, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+##########
+ID:10
+Question:What province shares a border with the province where Lago District is located?
+
+Right Answer:Cabo Delgado Province
+不进行反思
+ Cabo Delgado Province
+原始EM：10, 总数：10, 网络错误：0, 当前原始EM分数：100.0%, 增强EM答对：10, 当前增强EM分数：100.0%, 当前F1分数：100.0%
+##########
+
+准确率：100.0%
+网络错误：0
