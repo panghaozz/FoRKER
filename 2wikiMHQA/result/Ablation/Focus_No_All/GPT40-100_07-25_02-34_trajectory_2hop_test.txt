@@ -1,0 +1,1070 @@
+##########
+ID:1
+Question:Who is the mother of the director of film Polish-Russian War (Film)?
+golden idx: [4, 7]
+step-by-step think: 1. "Xawery Żuławski" context: This context directly mentions Xawery Żuławski, the director of the film "Polish-Russian War," and provides information about his mother, Małgorzata Braunek. It is highly relevant to the claim and likely contains the answer. 2. "Polish-Russian War (film)" context: This context mentions the film "Polish-Russian War" and its director, Xawery Żuławski. While it does not provide information about his mother, it is still relevant to the claim as it confirms the director's identity. 3. "Maheen Khan" context: This context is unrelated to the claim as it discusses a Pakistani fashion designer and does not mention the film or its director. 4. "Viktor Yeliseyev" context: This context is unrelated to the claim as it discusses a Russian general and orchestra conductor, with no mention of the film or its director. 5. "Alice Washburn" context: This context is unrelated to the claim as it discusses an American stage and film actress, with no mention of the film or its director. 6. "Minamoto no Chikako" context: This context is unrelated to the claim as it discusses the mother of Prince Morinaga, with no mention of the film or its director. 7. "A Snow White Christmas" context: This context is unrelated to the claim as it discusses a Christmas animated television special, with no mention of the film or its director. 8. "Snow White and the Three Stooges" context: This context is unrelated to the claim as it discusses a film starring the Three Stooges, with no mention of the film or its director. 9. "Snow White and the Seven Dwarfs (1955 film)" context: This context is unrelated to the claim as it discusses a German film based on the Brothers Grimm story, with no mention of the film or its director. 10. "Liberty Ross" context: This context is unrelated to the claim as it discusses an English model and actress, with no mention of the film or its director.
+idx: [7, 4]
+
+成功的数量为：2总数：2当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:2
+Question:Which film came out first, Blind Shaft or The Mask Of Fu Manchu?
+golden idx: [0, 2]
+step-by-step think: 1. "Blind Shaft" context: This context directly mentions "Blind Shaft" and provides information about its release year, 2003. It is highly relevant to the claim and likely contains the answer regarding the film's release date. 2. "The Mask of Fu Manchu" context: This context directly mentions "The Mask of Fu Manchu" and provides information about its release year, 1932. It is highly relevant to the claim and likely contains the answer regarding the film's release date. 3. "The Mysterious Dr. Fu Manchu" context: Although it mentions a Fu Manchu film, it does not directly relate to "The Mask of Fu Manchu" or provide its release date. It is less relevant compared to the context that directly mentions "The Mask of Fu Manchu." 4. "The Castle of Fu Manchu" context: This context discusses another Fu Manchu film but does not provide information about "The Mask of Fu Manchu" or its release date. It is less relevant to the claim. 5. "The Brides of Fu Manchu" context: This context discusses another Fu Manchu film but does not provide information about "The Mask of Fu Manchu" or its release date. It is less relevant to the claim. 6. "Les Trottoirs de Bangkok" context: This context mentions "The Mask of Fu Manchu" as an inspiration but does not provide information about its release date. It is less relevant to the claim. 7. "The Face of Fu Manchu" context: This context discusses another Fu Manchu film but does not provide information about "The Mask of Fu Manchu" or its release date. It is less relevant to the claim. 8. "The Mask of the Gorilla" context: This context does not relate to the claim about "Blind Shaft" or "The Mask of Fu Manchu." It is not relevant. 9. "The Blood of Fu Manchu" context: This context discusses another Fu Manchu film but does not provide information about "The Mask of Fu Manchu" or its release date. It is less relevant to the claim. 10. "The Return of Dr. Fu Manchu" context: This context discusses another Fu Manchu film but does not provide information about "The Mask of Fu Manchu" or its release date. It is less relevant to the claim.
+idx: [0, 2]
+
+成功的数量为：4总数：4当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:3
+Question:When did John V, Prince Of Anhalt-Zerbst's father die?
+golden idx: [6, 7]
+step-by-step think: 1. Context with idx 7 titled "Ernest I, Prince of Anhalt-Dessau" is directly relevant to the claim as it mentions Ernest I, Prince of Anhalt-Dessau, who is identified as John V's father. It provides the exact date of Ernest I's death, which is the answer to the claim. Therefore, it is highly relevant and informative. 2. Context with idx 6 titled "John V, Prince of Anhalt-Zerbst" is also relevant as it mentions John V and identifies his father as Ernest I, Prince of Anhalt-Dessau. While it does not provide the date of death, it confirms the relationship, making it relevant to the claim. 3. Other contexts mention different princes or do not provide information directly related to the claim about John V's father, making them less relevant and unlikely to contain the answer.
+idx: [7, 6]
+
+成功的数量为：6总数：6当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:4
+Question:What is the award that the director of film Wearing Velvet Slippers Under A Golden Umbrella won?
+golden idx: [5, 6]
+step-by-step think: 1. "Wunna" context: This context is highly relevant as it directly mentions Maung Wunna, who is the director of the film "Wearing Velvet Slippers under a Golden Umbrella." It also states that he was a two-time Myanmar Motion Picture Academy Awards-winning director, which is directly related to the claim about the award he won. This context is very likely to contain the answer to the claim. 2. "Wearing Velvet Slippers under a Golden Umbrella" context: This context is also relevant as it provides information about the film "Wearing Velvet Slippers under a Golden Umbrella," including the fact that it was directed by Maung Wunna. While it does not directly mention the award, it confirms the director's involvement with the film, which is pertinent to the claim. 3. Other contexts such as "Michael Govan," "Peter Levin," "John Donatich," "Dana Blankstein," "Ian Barry (director)," "John Farrell (businessman)," "Etan Boritzer," and "All in the Family (film)" do not provide relevant information about the director Maung Wunna or the specific film in question, making them less likely to contain the answer to the claim.
+idx: [5, 6]
+
+成功的数量为：8总数：8当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:5
+Question:Where was the director of film Ronnie Rocket born?
+golden idx: [6, 7]
+step-by-step think: 1. "David Lynch" context: This context is directly relevant to the claim as it provides detailed information about David Lynch, who is the director of "Ronnie Rocket." It includes his place of birth, Missoula, Montana, which directly answers the claim. It is highly informative and likely contains the answer. 2. "Ronnie Rocket" context: This context is relevant as it mentions the film "Ronnie Rocket" and its connection to David Lynch. However, it does not provide information about Lynch's place of birth, making it less likely to contain the answer compared to the "David Lynch" context. 3. Other contexts: The remaining contexts do not mention David Lynch or "Ronnie Rocket" and are not relevant to the claim about the director's place of birth. They are less likely to contain the answer.
+idx: [6, 7]
+
+成功的数量为：10总数：10当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:6
+Question:Who is Charles Bretagne Marie De La Trémoille's paternal grandfather?
+golden idx: [1, 5]
+step-by-step think: 1. Context 0 ("Charles Armand René de La Trémoille") is highly relevant as it mentions Charles Armand René de La Trémoille, who is identified as the father of Jean Bretagne Charles de La Trémoille, making him the paternal grandfather of Charles Bretagne Marie de La Trémoille. This context directly addresses the claim and is likely to contain the answer. 2. Context 5 ("Jean Bretagne Charles de La Trémoille") is also relevant as it confirms Jean Bretagne Charles de La Trémoille as the son of Charles Armand René de La Trémoille, reinforcing the paternal lineage. This context supports the claim and is likely to contain the answer. 3. Context 1 ("Charles Bretagne Marie de La Trémoille") mentions Charles Bretagne Marie de La Trémoille and his father, Jean Bretagne Charles de La Trémoille, but does not provide information about the paternal grandfather. It is less informative regarding the claim compared to contexts 0 and 5. 4. Contexts 2, 3, 4, 6, 7, 8, and 9 do not directly address the claim or provide information about Charles Bretagne Marie de La Trémoille's paternal grandfather. They are less relevant and less likely to contain the answer.
+idx: [0, 5]
+
+成功的数量为：11总数：12当前回溯率：91.66666666666666%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:7
+Question:Where was the father of Ștefan I. Nenițescu born?
+golden idx: [6, 9]
+step-by-step think: 1. "Ioan S. Nenițescu" context: This context is directly relevant to the claim as it mentions Ioan S. Nenițescu, who is identified as the father of Ștefan I. Nenițescu. It provides detailed information about Ioan S. Nenițescu's birthplace, Galați, which is the answer to the claim. Therefore, it is highly relevant and likely contains the answer. 2. "Ștefan I. Nenițescu" context: This context mentions Ștefan I. Nenițescu and his father, Ioan S. Nenițescu. While it provides information about Ștefan I. Nenițescu's birth and career, it does not directly address the birthplace of his father. However, it confirms the relationship between Ștefan I. Nenițescu and Ioan S. Nenițescu, making it somewhat relevant to the claim. 3. Other contexts: The remaining contexts do not mention Ioan S. Nenițescu or provide information related to his birthplace. They are not relevant to the claim and are unlikely to contain the answer.
+idx: [6, 9]
+
+成功的数量为：13总数：14当前回溯率：92.85714285714286%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:8
+Question:Are North Marion High School (Oregon) and Seoul High School both located in the same country?
+golden idx: [7, 9]
+# step-by-step think: 1. "North Marion High School (Oregon)" context: This context directly mentions North Marion High School and specifies its location in Aurora, Oregon, United States. It is highly relevant to the claim as it provides the exact location of one of the schools in question. 2. "Seoul High School" context: This context directly mentions Seoul High School and specifies its location in Seoul, South Korea. It is highly relevant to the claim as it provides the exact location of the other school in question. Both contexts are likely to contain the answer to the claim as they provide the necessary information about the locations of the schools.
+# idx: [9, 7]
+
+成功的数量为：15总数：16当前回溯率：93.75%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:9
+Question:Who is the maternal grandfather of Antiochus X Eusebes?
+golden idx: [3, 5]
+step-by-step think: 1. "Antiochus X Eusebes" context: This context is directly related to the claim as it mentions Antiochus X Eusebes and provides detailed information about his family, including his mother Cleopatra IV. It is highly relevant and likely contains the answer to the claim. 2. "Cleopatra IV of Egypt" context: This context is relevant as it mentions Cleopatra IV, who is the mother of Antiochus X Eusebes. It also provides information about her marriage to Ptolemy IX Lathyros, which is crucial for identifying the maternal grandfather. It is informative and likely contains the answer to the claim. 3. "Laodice of the Sameans" context: Although it mentions Antiochus X Eusebes, it does not provide information about his maternal grandfather. It is less relevant compared to the contexts directly mentioning Cleopatra IV and Ptolemy IX Lathyros. 4. Other contexts: These contexts do not mention Antiochus X Eusebes or his family members, making them less relevant and unlikely to contain the answer to the claim.
+idx: [3, 5]
+
+成功的数量为：17总数：18当前回溯率：94.44444444444444%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:10
+Question:Where was the director of film Thomas Jefferson (Film) born?
+golden idx: [4, 8]
+step-by-step think: 1. "Ken Burns" context: This context is directly relevant to the claim as it mentions Ken Burns, the director of the film "Thomas Jefferson." It provides detailed information about Ken Burns, including his filmmaking career, which is relevant to the claim. However, it does not mention his place of birth. 2. "Thomas Jefferson (film)" context: This context is directly related to the claim as it discusses the film "Thomas Jefferson" and mentions Ken Burns as the director. It is relevant but does not provide information about Ken Burns' place of birth. 3. Other contexts mentioning individuals named Jefferson are not relevant to the claim about the director of the film "Thomas Jefferson" and do not provide information about Ken Burns or his place of birth. Based on relevance and likelihood of containing the answer, the "Ken Burns" context is the most relevant, followed by the "Thomas Jefferson (film)" context.
+idx: [4, 8]
+
+成功的数量为：19总数：20当前回溯率：95.0%
+第1轮错误：1，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:11
+Question:Why did Grand Duke Kirill Vladimirovich Of Russia's wife die?
+golden idx: [3, 5]
+step-by-step think: 1. "Princess Victoria Melita of Saxe-Coburg and Gotha" context: This context is directly relevant to the claim as it mentions Princess Victoria Melita of Saxe-Coburg and Gotha, who is the spouse of Grand Duke Kirill Vladimirovich of Russia. It provides detailed information about her life, including her cause of death, which is a stroke. This context is highly likely to contain the answer to the claim. 2. "Prince Karl of Leiningen" context: This context mentions Princess Victoria Melita of Edinburgh and Saxe-Coburg-Gotha, who is the same person as Princess Victoria Melita of Saxe-Coburg and Gotha. It provides background information about her family connections but does not mention her cause of death. It is relevant but less likely to contain the answer compared to the first context. 3. "Grand Duke Kirill Vladimirovich of Russia" context: This context provides information about Grand Duke Kirill Vladimirovich of Russia, including his marriage to Princess Victoria Melita. However, it does not mention her cause of death. It is relevant but less likely to contain the answer compared to the first context. 4. Other contexts: The remaining contexts do not directly relate to the claim or provide information about Princess Victoria Melita's cause of death. They are less relevant and unlikely to contain the answer.
+idx: [3, 2]
+
+成功的数量为：20总数：22当前回溯率：90.9090909090909%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:12
+Question:Where was the place of death of the director of film Beat Girl?
+golden idx: [1, 4]
+step-by-step think: 1. "Edmond T. Gréville" context: This context directly mentions Edmond T. Gréville, the director of "Beat Girl," and provides information about his place of death, which is Nice. It is highly relevant and likely contains the answer to the claim. 2. "Beat Girl" context: This context provides information about the film "Beat Girl" and mentions Edmond T. Gréville as the director. While it does not directly provide the place of death, it is relevant to the claim as it confirms the connection between the director and the film. 3. Other contexts: The remaining contexts do not mention Edmond T. Gréville or provide information related to his place of death. They are less relevant and unlikely to contain the answer to the claim.
+idx: [4, 1]
+
+成功的数量为：22总数：24当前回溯率：91.66666666666666%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:13
+Question:Who died first, Fleetwood Sheppard or George William Whitaker?
+golden idx: [0, 1]
+step-by-step think: 1. "Fleetwood Sheppard" context: This context directly mentions Fleetwood Sheppard and provides detailed information about his life, including his date of death, which is crucial to answering the claim. It is highly relevant and likely contains the answer to the claim. 2. "George William Whitaker" context: This context directly mentions George William Whitaker and provides his date of death, which is essential for determining who died first. It is relevant and likely contains the answer to the claim. 3. Other contexts such as "Nicholas Sheppard," "William Whitaker (geologist)," and others do not directly relate to the claim about Fleetwood Sheppard and George William Whitaker's dates of death. They are less relevant and unlikely to contain the answer compared to the contexts that directly mention the individuals in question.
+idx: [1, 0]
+
+成功的数量为：24总数：26当前回溯率：92.3076923076923%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:14
+Question:When did Jean Martin (Singer)'s husband die?
+golden idx: [1, 9]
+step-by-step think: 1. "William Black (businessman)" context: This context directly mentions William Black, who is identified as Jean Martin's husband. It provides specific information about his date of death, which is March 7, 1983. This context is highly relevant and likely contains the answer to the claim. 2. "Jean Martin (singer)" context: This context provides information about Jean Martin, confirming her marriage to William Black. While it does not provide the date of his death, it establishes the relationship, making it relevant to the claim. 3. Other contexts: The remaining contexts do not mention Jean Martin or William Black and are not relevant to the claim about the date of death of Jean Martin's husband.
+idx: [1, 9]
+
+成功的数量为：26总数：28当前回溯率：92.85714285714286%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:15
+Question:Which film was released earlier, Moment Of Danger or The Ballad Of Josie?
+golden idx: [0, 3]
+step-by-step think: 1. "Moment of Danger" context: This context is directly relevant to the claim as it provides the release year of the film "Moment of Danger" (1960). It is informative and likely contains the answer to the claim regarding the release date of this film. 2. "The Ballad of Josie" context: This context is also directly relevant to the claim as it provides the release year of the film "The Ballad of Josie" (1967). It is informative and likely contains the answer to the claim regarding the release date of this film. 3. Other contexts such as "Point Danger," "The Ballad of Cossack Golota," "The Ballad of Uhlans," "Eskimo Nell (film)," "The Ballad of Little Joe," "Moment of Truth," and "The Ballad of Narayama" are not directly relevant to the claim as they do not provide information about the films "Moment of Danger" or "The Ballad of Josie." They are less likely to contain the answer to the claim.
+idx: [0, 3]
+
+成功的数量为：28总数：30当前回溯率：93.33333333333333%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:16
+Question:What nationality is the director of film World And Time Enough?
+golden idx: [1, 3]
+step-by-step think: 1. "World and Time Enough" context: This context directly mentions the film "World and Time Enough" and states that it was directed by Eric Mueller. It is highly relevant to the claim and likely contains the answer regarding the director's nationality. 2. "Eric Mueller" context: This context provides detailed information about Eric Mueller, including his background and achievements. It mentions that he represented the United States at the Olympics, which strongly suggests his nationality. It is highly relevant and likely contains the answer to the claim. 3. "Peter Levin" context: Although it mentions an American director, it does not relate to the film "World and Time Enough" or Eric Mueller. It is less relevant to the claim. 4. "Ian Barry (director)" context: This context mentions an Australian director, which is not relevant to the claim about Eric Mueller or the film "World and Time Enough." 5. Other contexts: These contexts mention various directors and individuals unrelated to the film "World and Time Enough" or Eric Mueller, making them less relevant and unlikely to contain the answer to the claim.
+idx: [1, 3]
+
+成功的数量为：30总数：32当前回溯率：93.75%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:17
+Question:Who is Catherine Of Pomerania, Countess Palatine Of Neumarkt's father-in-law?
+golden idx: [3, 4]
+step-by-step think: 1. "John, Count Palatine of Neumarkt" context: This context is directly relevant to the claim as it mentions John, who is Catherine of Pomerania's husband, and provides information about John's father, Rupert III of the Palatinate. This context is highly likely to contain the answer to the claim about Catherine's father-in-law. 2. "Catherine of Pomerania, Countess Palatine of Neumarkt" context: This context is relevant as it mentions Catherine of Pomerania and her marriage to John, Count Palatine of Neumarkt. While it does not directly mention her father-in-law, it provides background information about her and her family connections, which is useful for understanding the claim. 3. Other contexts: The remaining contexts do not directly relate to the claim about Catherine of Pomerania's father-in-law. They mention various other Countesses Palatine and their marriages, but none provide information about Catherine's father-in-law or her immediate family connections.
+idx: [3, 4]
+
+成功的数量为：32总数：34当前回溯率：94.11764705882352%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:18
+Question:Who is Marie Zéphyrine Of France's paternal grandmother?
+golden idx: [6, 7]
+step-by-step think: 1. "Louis, Dauphin of France (son of Louis XV)" context: This context is directly relevant to the claim as it mentions Louis, Dauphin of France, who is Marie Zéphyrine's father. It also provides information about his parents, King Louis XV and Queen Marie Leszczyńska, which directly answers the claim about Marie Zéphyrine's paternal grandmother. 2. "Marie Zéphyrine of France" context: This context provides background information about Marie Zéphyrine, including her parents, Louis, Dauphin of France, and Maria Josepha of Saxony. While it is relevant, it does not directly answer the claim about her paternal grandmother. 3. Other contexts: The remaining contexts do not mention Marie Zéphyrine or her family and are not relevant to the claim.
+idx: [7, 6]
+
+成功的数量为：34总数：36当前回溯率：94.44444444444444%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:19
+Question:Who is the spouse of the director of film Eden And After?
+golden idx: [3, 4]
+step-by-step think: 1. "Alain Robbe-Grillet" context: This context is directly relevant to the claim as it mentions Alain Robbe-Grillet, the director of "Eden and After," and provides information about his spouse, Catherine Robbe-Grillet. It is highly likely to contain the answer to the claim. 2. "Eden and After" context: This context provides information about the film "Eden and After" and its director, Alain Robbe-Grillet. While it confirms the director's identity, it does not provide information about his spouse. It is relevant but less likely to contain the answer compared to the context that directly mentions the spouse. 3. "Catherine Jourdan" context: Although it mentions the film "Eden and After," it focuses on Catherine Jourdan, an actress in the film, rather than the director's spouse. It is less relevant to the claim. 4. Other contexts: These contexts do not relate to the claim about the director of "Eden and After" or his spouse and are therefore not relevant or likely to contain the answer.
+idx: [4, 3]
+
+成功的数量为：36总数：38当前回溯率：94.73684210526315%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:20
+Question:Where was the place of death of Anastasia Of Serbia's husband?
+golden idx: [1, 3]
+step-by-step think: 1. "Stefan Nemanja" context: This context is highly relevant as it directly mentions Stefan Nemanja, who is the husband of Anastasia of Serbia. It provides detailed information about his life, including his abdication, monastic life, and his time at Mount Athos, where he restored the Hilandar Monastery. This context is very likely to contain the answer to the claim regarding the place of death of Anastasia's husband. 2. "Anastasia of Serbia" context: This context is relevant as it mentions Anastasia of Serbia and her marriage to Stefan Nemanja. However, it focuses more on Anastasia's life and her monastic vows rather than providing specific details about Stefan Nemanja's place of death. It is less likely to contain the answer compared to the "Stefan Nemanja" context but still relevant. 3. Other contexts: The remaining contexts do not mention Stefan Nemanja or Anastasia of Serbia and are not relevant to the claim. They are unlikely to contain the answer.
+idx: [1, 3]
+
+成功的数量为：38总数：40当前回溯率：95.0%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:21
+Question:Are Fire In Hell and The Tiger: An Old Hunter'S Tale from the same country?
+golden idx: [0, 3]
+step-by-step think: 1. "The Tiger: An Old Hunter's Tale" context: This context directly mentions "The Tiger: An Old Hunter's Tale" and provides information about its origin, stating it is a South Korean film. It is highly relevant to the claim and likely contains the answer regarding the country of origin. 2. "Fire in Hell" context: This context directly mentions "Fire in Hell" and provides information about its origin, stating it is a South Korean film. It is highly relevant to the claim and likely contains the answer regarding the country of origin. 3. "Return of the Tiger" context: Although it mentions "Tiger," it is not directly related to the claim about the specific films in question. It provides information about a different film and is less likely to contain the answer. 4. "Parinati" context: This context discusses a Hindi film, which is not related to the claim about the South Korean films. It is informative but not relevant to the claim. 5. "Hell and Back" context: This context does not provide specific information about the films in question and is less likely to contain the answer. 6. "News in Hell" context: This context discusses an Argentine film, which is not related to the claim about the South Korean films. It is informative but not relevant to the claim. 7. "Hell and High Water" context: This context does not provide specific information about the films in question and is less likely to contain the answer. 8. "2008 in comics" context: This context does not provide specific information about the films in question and is less likely to contain the answer. 9. "Burn in Hell" context: This context does not provide specific information about the films in question and is less likely to contain the answer. 10. "India: Kingdom of the Tiger" context: This context discusses a documentary about tigers in India, which is not related to the claim about the South Korean films. It is informative but not relevant to the claim.
+idx: [0, 3]
+
+成功的数量为：40总数：42当前回溯率：95.23809523809523%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:22
+Question:Which film was released more recently, Lo Zappatore or Placer Sangriento?
+golden idx: [4, 8]
+# step-by-step think: 
+1. "Placer sangriento" context: This context directly mentions "Placer sangriento" and provides its release year, 1967. It is highly relevant to the claim and likely contains the answer regarding the release date of the film.
+2. "Lo Zappatore" context: This context directly mentions "Lo Zappatore" and provides its release year, 1950. It is highly relevant to the claim and likely contains the answer regarding the release date of the film.
+3. Other contexts: The remaining contexts do not mention either "Lo Zappatore" or "Placer sangriento" and are therefore less relevant to the claim. They are unlikely to contain the answer to the question about which film was released more recently.
+
+# idx: [4, 8]
+
+成功的数量为：42总数：44当前回溯率：95.45454545454545%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:23
+Question:Was Şemsettin Baş or Gwenc'Hlan Le Scouëzec born first?
+golden idx: [2, 6]
+step-by-step think: 1. "Gwenc'hlan Le Scouëzec" context: This context directly provides the birth date of Gwenc'hlan Le Scouëzec, which is crucial for determining who was born first. It is highly relevant and likely contains the answer to the claim. 2. "Şemsettin Baş" context: This context directly provides the birth date of Şemsettin Baş, which is also crucial for determining who was born first. It is highly relevant and likely contains the answer to the claim. 3. "Gwenc'hlan" context: This context discusses a legendary figure named Gwenc'hlan, but it does not provide information about Gwenc'hlan Le Scouëzec's birth date. It is less relevant and less likely to contain the answer compared to the contexts that directly provide birth dates. 4. Other contexts: These contexts do not relate to the claim about the birth dates of Şemsettin Baş and Gwenc'hlan Le Scouëzec. They are not relevant and unlikely to contain the answer.
+idx: [2, 6]
+
+成功的数量为：44总数：46当前回溯率：95.65217391304348%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:24
+Question:Who is Cornelia (Wife Of Caesar)'s child-in-law?
+golden idx: [1, 6]
+step-by-step think: 
+1. "Julia (daughter of Caesar)" context: This context directly mentions Julia, who is the daughter of Cornelia and Julius Caesar. It also states that Julia became the fourth wife of Pompey the Great. This context is highly relevant to the claim as it provides information about Cornelia's child-in-law, Pompey, through her daughter Julia. It is informative and likely contains the answer to the claim.
+2. "Cornelia (wife of Caesar)" context: This context provides information about Cornelia, confirming that she is the mother of Julia. While it does not directly mention Julia's spouse, it is relevant as it establishes the relationship between Cornelia and Julia, which is necessary to understand the claim. It is informative but less likely to contain the direct answer compared to the context that mentions Julia's spouse.
+3. Other contexts: The remaining contexts do not directly relate to the claim about Cornelia's child-in-law. They provide information about various individuals and their relationships, but none are relevant to Cornelia, Julia, or Pompey.
+
+idx: [1, 6]
+
+成功的数量为：46总数：48当前回溯率：95.83333333333334%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:25
+Question:Why did John Middleton Murry's wife die?
+golden idx: [1, 9]
+step-by-step think: 1. "Katherine Mansfield" context: This context is directly relevant to the claim as it mentions Katherine Mansfield, who was John Middleton Murry's wife. It provides information about her diagnosis with extrapulmonary tuberculosis, which is the cause of her death. This context is highly informative and likely contains the answer to the claim. 2. "John Middleton Murry" context: This context is relevant as it mentions John Middleton Murry and his association with Katherine Mansfield, whom he married. It provides background information about Murry and his relationship with Mansfield, but does not directly mention the cause of her death. However, it is still relevant and informative regarding their relationship.
+idx: [9, 1]
+
+成功的数量为：48总数：50当前回溯率：96.0%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:26
+Question:Who is the paternal grandfather of Taj Al-Dawla?
+golden idx: [4, 8]
+step-by-step think: 
+1. Context 4 ("'Adud al-Dawla") is highly relevant as it directly mentions 'Adud al-Dawla, who is the father of Taj al-Dawla. It also provides information about 'Adud al-Dawla's father, Rukn al-Dawla, which is crucial to answering the claim about Taj al-Dawla's paternal grandfather. This context is very likely to contain the answer.
+2. Context 8 ("Taj al-Dawla") is also relevant as it directly mentions Taj al-Dawla and confirms that he is the son of 'Adud al-Dawla. While it does not provide information about the grandfather, it is still relevant to the claim and supports the information in context 4.
+3. Context 5 ("Ali ibn Kama") mentions Rukn al-Dawla but does not provide direct information about Taj al-Dawla or 'Adud al-Dawla. It is less relevant compared to contexts 4 and 8.
+4. Other contexts do not provide relevant information about Taj al-Dawla's paternal lineage and are therefore less likely to contain the answer.
+
+idx: [4, 8]
+
+成功的数量为：50总数：52当前回溯率：96.15384615384616%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:27
+Question:What is the place of birth of the director of film And The Spring Comes?
+golden idx: [3, 4]
+step-by-step think: 1. "Gu Changwei" context: This context directly mentions Gu Changwei, the director of "And the Spring Comes," and provides information about his place of birth, Xi'an, Shaanxi, China. It is highly relevant and likely contains the answer to the claim. 2. "And the Spring Comes" context: This context mentions the film "And the Spring Comes" and confirms Gu Changwei as the director. While it does not provide information about his place of birth, it is relevant to the claim as it confirms the director's identity. 3. "Rachel Feldman" context: This context mentions a different director, Rachel Feldman, and does not relate to the claim about Gu Changwei or his place of birth. 4. "Peter Holden" context: This context mentions an actor and producer, Peter Holden, and is not relevant to the claim about Gu Changwei or his place of birth. 5. "Brian Johnson (special effects artist)" context: This context mentions a special effects artist, Brian Johnson, and is not relevant to the claim about Gu Changwei or his place of birth. 6. "Dana Blankstein" context: This context mentions a different director, Dana Blankstein, and does not relate to the claim about Gu Changwei or his place of birth. 7. "Ian Barry (director)" context: This context mentions a different director, Ian Barry, and does not relate to the claim about Gu Changwei or his place of birth. 8. "Hanro Smitsman" context: This context mentions a different director, Hanro Smitsman, and does not relate to the claim about Gu Changwei or his place of birth. 9. "Àlex Gómez" context: This context mentions a football manager, Àlex Gómez, and is not relevant to the claim about Gu Changwei or his place of birth. 10. "Debra Christofferson" context: This context mentions an actress, Debra Christofferson, and is not relevant to the claim about Gu Changwei or his place of birth.
+idx: [3, 4]
+
+成功的数量为：52总数：54当前回溯率：96.29629629629629%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:28
+Question:Who died first, Madame Pasca or James A. Donohoe?
+golden idx: [5, 6]
+step-by-step think: 1. "Madame Pasca" context: This context directly mentions Madame Pasca and provides her date of death, which is crucial information for answering the claim about who died first. It is highly relevant and likely contains the answer to the claim. 2. "James A. Donohoe" context: This context directly mentions James A. Donohoe and provides his date of death, which is essential for determining who died first. It is highly relevant and likely contains the answer to the claim. 3. Other contexts: The remaining contexts do not directly mention Madame Pasca or James A. Donohoe, nor do they provide information about their dates of death. Therefore, they are less relevant and less likely to contain the answer to the claim.
+idx: [5, 6]
+
+成功的数量为：54总数：56当前回溯率：96.42857142857143%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:29
+Question:Who was born later, D'Arcy Coulson or Thomas William Adams?
+golden idx: [0, 9]
+step-by-step think: 1. Context idx 9 ("D'Arcy Coulson"): This context is directly relevant to the claim as it provides the birth date of D'Arcy Coulson, which is essential to determine who was born later. It is informative and likely contains the answer to the claim. 2. Context idx 0 ("Thomas William Adams"): This context is directly relevant to the claim as it provides the birth date of Thomas William Adams, which is necessary to compare with D'Arcy Coulson's birth date. It is informative and likely contains the answer to the claim. 3. Context idx 1 ("Thomas William Booker-Blakemore"): This context mentions a person with a similar name but does not provide relevant information about Thomas William Adams' birth date. It is less relevant and unlikely to contain the answer compared to the contexts directly related to the claim. 4. Context idx 2 ("Tom Goddard"): This context mentions a person with a similar name but does not provide relevant information about Thomas William Adams' birth date. It is less relevant and unlikely to contain the answer compared to the contexts directly related to the claim. 5. Context idx 3 ("Thoman Burgkmair"): This context is not relevant to the claim as it discusses a different person entirely. It is unlikely to contain the answer. 6. Context idx 4 ("William Adams (minister)"): This context is not relevant to the claim as it discusses a different person entirely. It is unlikely to contain the answer. 7. Context idx 5 ("Ernie Adams (footballer, born 1922)"): This context is not relevant to the claim as it discusses a different person entirely. It is unlikely to contain the answer. 8. Context idx 6 ("W. Augustus Barratt"): This context is not relevant to the claim as it discusses a different person entirely. It is unlikely to contain the answer. 9. Context idx 7 ("William Adams (wrestler)"): This context is not relevant to the claim as it discusses a different person entirely. It is unlikely to contain the answer. 10. Context idx 8 ("William E. Adams (New York)"): This context is not relevant to the claim as it discusses a different person entirely. It is unlikely to contain the answer.
+idx: [9, 0]
+
+成功的数量为：56总数：58当前回溯率：96.55172413793103%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:30
+Question:Are Simonds Catholic College and Saginaw High School (Texas) both located in the same country?
+golden idx: [4, 9]
+step-by-step think: 
+1. "Simonds Catholic College" context: This context directly mentions Simonds Catholic College, providing detailed information about its location in Melbourne, Australia. It is highly relevant to the claim as it confirms the country where Simonds Catholic College is located. It is informative and likely contains the answer to the claim regarding the location of Simonds Catholic College.
+2. "Saginaw High School (Texas)" context: This context directly mentions Saginaw High School, providing information about its location in Saginaw, Texas, United States. It is highly relevant to the claim as it confirms the country where Saginaw High School is located. It is informative and likely contains the answer to the claim regarding the location of Saginaw High School.
+3. "Saginaw High School" context: This context mentions Saginaw High School but refers to its location in Saginaw, Michigan, USA, which is not directly relevant to the claim about Saginaw High School in Texas. Although it provides information about a Saginaw High School, it is less likely to contain the answer to the claim compared to the context that directly mentions Saginaw High School in Texas.
+4. "Castleberry High School" context: This context provides information about a high school in Fort Worth, Texas, but does not directly relate to the claim about Simonds Catholic College or Saginaw High School. It is informative but not relevant to the claim.
+5. "John Paul II Catholic High School (Schertz, Texas)" context: This context provides information about a high school in Schertz, Texas, but does not directly relate to the claim about Simonds Catholic College or Saginaw High School. It is informative but not relevant to the claim.
+6. "St. Joseph High School (Victoria, Texas)" context: This context provides information about a high school in Victoria, Texas, but does not directly relate to the claim about Simonds Catholic College or Saginaw High School. It is informative but not relevant to the claim.
+7. "DeSales High School (Louisville, Kentucky)" context: This context provides information about a high school in Louisville, Kentucky, but does not directly relate to the claim about Simonds Catholic College or Saginaw High School. It is informative but not relevant to the claim.
+8. "Nazareth Academy (La Grange Park, Illinois)" context: This context provides information about a high school in LaGrange Park, Illinois, but does not directly relate to the claim about Simonds Catholic College or Saginaw High School. It is informative but not relevant to the claim.
+9. "Holy Family High School (Broomfield, Colorado)" context: This context provides information about a high school in Broomfield, Colorado, but does not directly relate to the claim about Simonds Catholic College or Saginaw High School. It is informative but not relevant to the claim.
+10. "DeLaSalle High School (Minneapolis)" context: This context provides information about a high school in Minneapolis, Minnesota, but does not directly relate to the claim about Simonds Catholic College or Saginaw High School. It is informative but not relevant to the claim.
+
+idx: [4, 9]
+
+成功的数量为：58总数：60当前回溯率：96.66666666666667%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:31
+Question:Which country Prince Nikolaus Wilhelm Of Nassau's mother is from?
+golden idx: [3, 5]
+# step-by-step think: 
+1. Context idx 3: "Prince Nikolaus Wilhelm of Nassau" directly mentions Prince Nikolaus Wilhelm of Nassau and his mother, Princess Pauline of Württemberg. This context is highly relevant to the claim as it provides information about his mother, which is directly related to the question. It is likely to contain the answer to the claim regarding the country of his mother's origin.
+2. Context idx 5: "Princess Pauline of Württemberg (1810–1856)" provides detailed information about Princess Pauline of Württemberg, including her full name, birth and death dates, and her connection to the House of Württemberg. This context is highly relevant as it directly addresses Princess Pauline of Württemberg, who is Prince Nikolaus Wilhelm's mother. It is likely to contain the answer to the claim regarding her country of origin, which is Germany.
+3. Context idx 0: "Sophie of Merenberg" mentions Prince Nikolaus Wilhelm of Nassau but focuses more on his daughter, Countess Sophie Nikolaievna of Merenberg. While it is related to the family, it does not directly address the claim about his mother's country of origin.
+4. Context idx 1, 2, 4, 6, 7, 8, 9: These contexts discuss various members of the Nassau family or related historical figures but do not directly address the claim about Prince Nikolaus Wilhelm of Nassau's mother or her country of origin. They are less relevant and less likely to contain the answer compared to contexts directly mentioning Princess Pauline of Württemberg.
+
+# idx: [3, 5]
+
+成功的数量为：60总数：62当前回溯率：96.7741935483871%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:32
+Question:Who is the paternal grandfather of Alexandre Berthier, 3Rd Prince Of Wagram?
+golden idx: [3, 9]
+step-by-step think: 1. Context with idx 9: This context is directly relevant to the claim as it mentions Alexandre Berthier, 3rd Prince of Wagram, and provides information about his lineage, specifically stating that he is the grandson of Louis Alexandre Berthier. This context is highly likely to contain the answer to the claim. 2. Context with idx 3: This context is also relevant as it mentions Napoléon Alexandre Berthier, 2nd Prince of Wagram, who is the father of Alexandre Berthier, 3rd Prince of Wagram. It further confirms the lineage by stating that Napoléon Alexandre Berthier is the son of Louis-Alexandre Berthier, thus providing a direct link to the paternal grandfather. 3. Context with idx 5: This context provides information about Louis-Alexandre Berthier, 1st Prince of Wagram, who is the paternal grandfather of Alexandre Berthier, 3rd Prince of Wagram. It is relevant but less directly connected to the claim compared to the contexts that mention the direct lineage. 4. Context with idx 2: This context mentions Duchess Maria Elisabeth in Bavaria, who is related to Louis-Alexandre Berthier through marriage, but it does not directly address the claim about the paternal grandfather. 5. Other contexts (idx 0, 1, 4, 6, 7, 8) are not directly relevant to the claim as they do not mention the Berthier family or the lineage in question.
+idx: [9, 3]
+
+成功的数量为：62总数：64当前回溯率：96.875%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:33
+Question:Where was the husband of Caterina Visconti born?
+golden idx: [5, 7]
+# step-by-step think: 
+1. "Gian Galeazzo Visconti" context: This context directly mentions Gian Galeazzo Visconti, who is the husband of Caterina Visconti. It provides information about his birth and his connection to Pavia, which is relevant to the claim. It is highly likely to contain the answer to the claim.
+2. "Caterina Visconti" context: This context mentions Caterina Visconti and her marriage to Gian Galeazzo Visconti. While it provides background information about Caterina, it does not directly address the birthplace of her husband. However, it is still relevant to the claim as it confirms the relationship.
+3. Other contexts such as "Pietro Visconti," "Alberto Visconti," "Jon Leach," "Stan Marks," "Mario Visconti," "Stan Rice," "Giacomo Feo," and "Giovanni Visconti (cyclist)" do not provide relevant information about Gian Galeazzo Visconti or his birthplace. They are not likely to contain the answer to the claim.
+
+# idx: [5, 7]
+
+成功的数量为：64总数：66当前回溯率：96.96969696969697%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:34
+Question:Who was born first, John Beach or Gordon Persons?
+golden idx: [1, 6]
+step-by-step think: 1. "John Beach" context: This context directly mentions John Beach and provides his date of birth, which is relevant to the claim about who was born first. It is informative and likely contains the answer to the claim. 2. "Gordon Persons" context: This context directly mentions Gordon Persons and provides his date of birth, which is relevant to the claim about who was born first. It is informative and likely contains the answer to the claim. 3. "John Litel" context: Although it mentions a person named John Beach Litel, it does not provide relevant information about the claim regarding John Beach and Gordon Persons. 4. "Nelson J. Beach" context: This context mentions a person named Nelson John Beach, but it does not provide relevant information about the claim regarding John Beach and Gordon Persons. 5. Other contexts: These contexts mention various individuals unrelated to the claim about John Beach and Gordon Persons, and are less likely to contain the answer.
+idx: [1, 6]
+
+成功的数量为：66总数：68当前回溯率：97.05882352941177%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:35
+Question:Who is the child of the director of film La Leona (Film)?
+golden idx: [3, 4]
+step-by-step think: 1. "La Leona (film)" context: This context directly mentions the film "La Leona" and its director Armando Bo, which is relevant to the claim. It is likely to contain information related to the director and potentially his family. 2. "Armando Bó" context: This context provides detailed information about Armando Bó, including his career and family. It mentions his son, Víctor Bó, which directly answers the claim about the child of the director of "La Leona." 3. Other contexts: The remaining contexts do not mention "La Leona" or Armando Bó, and are less likely to contain relevant information or the answer to the claim.
+idx: [4, 3]
+
+成功的数量为：68总数：70当前回溯率：97.14285714285714%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:36
+Question:Who is Blanche Of Portugal (1259–1321)'s paternal grandmother?
+golden idx: [1, 8]
+step-by-step think: 1. "Blanche of Portugal (1259–1321)" context: This context is directly related to the claim as it mentions Blanche of Portugal and her father, King Afonso III of Portugal. It provides relevant information about her family background, which is crucial for determining her paternal grandmother. 2. "Afonso III of Portugal" context: This context is highly relevant as it provides information about Afonso III of Portugal, including his parents, King Afonso II of Portugal and Urraca of Castile. This directly answers the claim by identifying Blanche of Portugal's paternal grandmother as Urraca of Castile. 3. Other contexts: The remaining contexts do not provide relevant information about Blanche of Portugal or her paternal grandmother. They discuss unrelated individuals and topics, making them less likely to contain the answer to the claim.
+idx: [8, 1]
+
+成功的数量为：70总数：72当前回溯率：97.22222222222221%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:37
+Question:Who lived longer, Giuseppe Cesari or Nicos Poulantzas?
+golden idx: [1, 3]
+step-by-step think: 1. "Nicos Poulantzas" context: This context directly provides the birth and death dates of Nicos Poulantzas, which are crucial for determining his lifespan. It is highly relevant and likely contains the answer to the claim. 2. "Giuseppe Cesari" context: This context directly provides the birth and death dates of Giuseppe Cesari, which are essential for determining his lifespan. It is highly relevant and likely contains the answer to the claim. 3. "Francesco Ruschi" context: Although it mentions Giuseppe Cesari, it does not provide any information about his lifespan. It is less relevant compared to the contexts that directly provide the birth and death dates. 4. "Aristides Baltas" context: This context mentions Nicos Poulantzas but does not provide any information about his lifespan. It is less relevant compared to the contexts that directly provide the birth and death dates. 5. Other contexts: These contexts do not provide any relevant information about the lifespans of Giuseppe Cesari or Nicos Poulantzas and are therefore not relevant to the claim.
+idx: [1, 3]
+
+成功的数量为：72总数：74当前回溯率：97.2972972972973%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:38
+Question:Who is older, Aryeh Ben-Eliezer or Jason Pociask?
+golden idx: [5, 7]
+step-by-step think: 1. "Aryeh Ben-Eliezer" context: This context directly mentions Aryeh Ben-Eliezer and provides his date of birth, which is crucial for determining who is older. It is highly relevant and likely contains the answer to the claim. 2. "Jason Pociask" context: This context directly mentions Jason Pociask and provides his date of birth, which is essential for comparing ages. It is highly relevant and likely contains the answer to the claim. 3. "Binyamin Ben-Eliezer" context: Although it mentions a person with a similar name, it does not provide information about Aryeh Ben-Eliezer or Jason Pociask, making it less relevant. 4. Other contexts: These contexts do not mention Aryeh Ben-Eliezer or Jason Pociask and are not relevant to the claim.
+idx: [5, 7]
+
+成功的数量为：74总数：76当前回溯率：97.36842105263158%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:39
+Question:Where does the director of film Man At Bath work at?
+golden idx: [7, 8]
+step-by-step think: 1. "Christophe Honoré" context: This context is directly relevant to the claim as it mentions Christophe Honoré, the director of "Man at Bath," and provides information about his work at "Les Cahiers du Cinéma." It is highly informative and likely contains the answer to the claim. 2. "Man at Bath" context: This context is relevant as it discusses the film "Man at Bath" directed by Christophe Honoré. While it provides background information about the film, it does not directly address the claim about the director's workplace. However, it is still relevant due to its connection to the film and director. 3. Other contexts: The remaining contexts discuss various directors and films unrelated to Christophe Honoré or "Man at Bath." They are less relevant and unlikely to contain the answer to the claim.
+idx: [8, 7]
+
+成功的数量为：76总数：78当前回溯率：97.43589743589743%
+第1轮错误：2，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:40
+Question:Who is Arthur Gore, 2Nd Earl Of Arran's paternal grandfather?
+golden idx: [4, 8]
+step-by-step think: 1. "Sir Arthur Gore, 2nd Baronet" context: This context is highly relevant to the claim as it mentions Sir Arthur Gore, 2nd Baronet, who is identified as the paternal grandfather of Arthur Gore, 1st Earl of Arran. It provides detailed information about his lineage, including his father Paul Gore, and his succession as baronet, which directly relates to the claim. It is informative and likely contains the answer to the claim. 2. "Arthur Gore, 1st Earl of Arran" context: This context is relevant as it mentions Arthur Gore, 1st Earl of Arran, who is the father of Arthur Saunders Gore, 2nd Earl of Arran. It provides information about his parentage, including his father Sir Arthur Gore, 2nd Baronet, which is directly related to the claim. It is informative and likely contains the answer to the claim. 3. "Arthur Gore, 2nd Earl of Arran" context: Although it mentions Arthur Saunders Gore, 2nd Earl of Arran, it focuses more on his achievements and titles rather than his paternal lineage. It is less directly relevant to the claim compared to the contexts that mention his grandfather. 4. "Paul Annesley Gore" context: This context mentions Paul Annesley Gore, who is the brother of Arthur Gore, 1st Earl of Arran, but does not directly address the paternal grandfather of Arthur Saunders Gore, 2nd Earl of Arran. It is less relevant to the claim. 5. Other contexts: These contexts do not directly relate to the claim about Arthur Gore, 2nd Earl of Arran's paternal grandfather and are less likely to contain the answer compared to the contexts that directly mention the relevant lineage.
+idx: [1, 4]
+
+成功的数量为：77总数：80当前回溯率：96.25%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:41
+Question:Are both Kaufland and Otrag located in the same country?
+golden idx: [3, 5]
+step-by-step think: 1. "OTRAG" context: This context directly mentions OTRAG and provides information about its location in Stuttgart, Germany. It is highly relevant to the claim as it confirms the country where OTRAG is based, making it likely to contain the answer to the claim. 2. "Kaufland" context: This context directly mentions Kaufland and provides information about it being a German hypermarket chain. It confirms the country where Kaufland is based, making it highly relevant and likely to contain the answer to the claim. 3. "Klaus Gehrig" context: Although it mentions Kaufland, it focuses more on Klaus Gehrig and the Schwarz Gruppe. It is less directly relevant to the claim compared to the contexts that specifically mention the locations of Kaufland and OTRAG. 4. Other contexts: These contexts do not mention Kaufland or OTRAG and are not relevant to the claim about their locations.
+idx: [3, 5]
+
+成功的数量为：79总数：82当前回溯率：96.34146341463415%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:42
+Question:Which film came out earlier, Aanaval Mothiram or Heroes Of The Street?
+golden idx: [4, 7]
+step-by-step think: 1. "Aanaval Mothiram" context: This context directly mentions "Aanaval Mothiram" and provides its release year as 1991, which is relevant to the claim about the film's release date. It is informative and likely contains the answer to the claim. 2. "Heroes of the Street" context: This context directly mentions "Heroes of the Street" and provides its release year as 1922, which is relevant to the claim about the film's release date. It is informative and likely contains the answer to the claim. 3. "The Gambler (1995 film)" context: Although it mentions "Aanaval Mothiram," it does not provide the release date of the original film, making it less relevant compared to the context that directly provides the release year. 4. "Ragalaipuram" context: This context mentions "Aanaval Mothiram" but provides the release year of a remake, not the original film, making it less relevant compared to the context that directly provides the release year of the original film. 5. Other contexts: These contexts do not directly relate to the claim about the films "Aanaval Mothiram" and "Heroes of the Street," making them less relevant and unlikely to contain the answer.
+idx: [4, 7]
+
+成功的数量为：81总数：84当前回溯率：96.42857142857143%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:43
+Question:Where was the father of Lord Patrick Crichton-Stuart born?
+golden idx: [4, 9]
+step-by-step think: 1. "John Stuart, Lord Mount Stuart" context: This context directly mentions John Stuart, Lord Mount Stuart, who is identified as the father of Lord Patrick Crichton-Stuart. It provides detailed information about his birth, including the location, Grosvenor Square, London, which is directly relevant to the claim. It is highly informative and likely contains the answer to the claim. 2. "Lord Patrick Crichton-Stuart" context: This context provides background information about Lord Patrick Crichton-Stuart, including his lineage and family connections. While it mentions his father, John Stuart, it does not provide specific information about his father's place of birth. However, it is still relevant as it confirms the relationship and may contain useful context about the family. 3. "James Stuart, 2nd Earl of Bute" context: This context mentions a different James Stuart and does not provide information about John Stuart or his place of birth. It is less relevant to the claim. 4. Other contexts: The remaining contexts do not mention John Stuart or provide information related to the claim about his place of birth. They are less relevant and unlikely to contain the answer.
+idx: [9, 4]
+
+成功的数量为：83总数：86当前回溯率：96.51162790697676%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:44
+Question:Which country the director of film Daadagiri is from?
+golden idx: [1, 6]
+step-by-step think: 1. "Daadagiri" context: This context is directly relevant to the claim as it mentions the film "Daadagiri" and its director, Arshad Khan. It is highly likely to contain the answer to the claim about the director's nationality. 2. "Arshad Khan (cricketer)" context: Although this context is about a cricketer named Arshad Khan, it mentions that he is Pakistani, which aligns with the reasoning step about Arshad Khan's country of citizenship. However, it is less directly relevant to the film director claim compared to the "Daadagiri" context. 3. Other contexts: These contexts mention various directors and individuals unrelated to the film "Daadagiri" or its director, Arshad Khan. They are not relevant to the claim and are unlikely to contain the answer.
+idx: [1, 6]
+
+成功的数量为：85总数：88当前回溯率：96.5909090909091%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:45
+Question:Where was the wife of Douglas Leiterman born?
+golden idx: [4, 6]
+step-by-step think: 1. "Beryl Fox" context: This context directly mentions Beryl Fox, who is the spouse of Douglas Leiterman, and provides information about her place of birth, Winnipeg, Manitoba. It is highly relevant and likely contains the answer to the claim. 2. "Douglas Leiterman" context: This context provides detailed information about Douglas Leiterman, including his marriage to Beryl Fox. While it does not directly mention her place of birth, it confirms the relationship and is relevant to the claim. 3. Other contexts such as "Artaynte," "Eunoë (wife of Bogudes)," "Empress Shōken," "Catherine Exley," "Agatha (wife of Samuel of Bulgaria)," "Lucy Kurtz," "Archibald I, Lord of Douglas," and "Margaret Douglas, Fair Maid of Galloway" do not mention Beryl Fox or her place of birth, making them less relevant and unlikely to contain the answer to the claim.
+idx: [4, 6]
+
+成功的数量为：87总数：90当前回溯率：96.66666666666667%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:46
+Question:What is the place of birth of the performer of song Who...?
+golden idx: [0, 8]
+step-by-step think: 1. "Ayumi Hamasaki" context: This context is directly relevant to the claim as it mentions Ayumi Hamasaki, the performer of the song "Who...". It provides detailed information about her place of birth, which is Fukuoka, making it highly likely to contain the answer to the claim. 2. "Who..." context: This context is relevant as it discusses the song "Who..." performed by Ayumi Hamasaki. While it provides information about the song and its release, it does not directly address the place of birth of the performer. However, it is still relevant due to the connection to the song mentioned in the claim. 3. "Marion Black" context: This context mentions a song titled "Who Knows" by Marion Black, but it is not directly related to the claim about Ayumi Hamasaki or her place of birth. It is less likely to contain the answer compared to the contexts directly related to Ayumi Hamasaki. 4. Other contexts: The remaining contexts mention various artists and songs but do not relate to Ayumi Hamasaki or the song "Who...". They are less relevant and unlikely to contain the answer to the claim.
+idx: [0, 8]
+
+成功的数量为：89总数：92当前回溯率：96.73913043478261%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:47
+Question:Where was the place of death of the director of film Mole Men Against The Son Of Hercules?
+golden idx: [1, 7]
+step-by-step think: 1. "Antonio Leonviola" context: This context provides information about Antonio Leonviola, who is the director of "Mole Men Against the Son of Hercules." It mentions his lifespan and his connection to Rome, which is relevant to determining his place of death. It is highly relevant and likely contains the answer to the claim. 2. "Mole Men Against the Son of Hercules" context: This context confirms that Antonio Leonviola directed the film "Mole Men Against the Son of Hercules." While it does not directly provide information about his place of death, it is relevant as it confirms his role as the director, which is part of the claim. 3. Other contexts: The remaining contexts discuss other films and directors, which are not directly relevant to the claim about Antonio Leonviola's place of death.
+idx: [1, 7]
+
+成功的数量为：91总数：94当前回溯率：96.80851063829788%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:48
+Question:Where was the father of Alexandre Gaydamak born?
+golden idx: [1, 4]
+step-by-step think: 1. "Arcadi Gaydamak" context: This context directly mentions Arcadi Gaydamak, who is the father of Alexandre Gaydamak. It provides specific information about Arcadi's place of birth, which is Moscow, USSR. This context is highly relevant to the claim and likely contains the answer. 2. "Alexandre Gaydamak" context: This context mentions Alexandre Gaydamak and his father, Arcadi Gaydamak. While it provides background information about Alexandre and his father's business ventures, it does not directly address Arcadi's place of birth. However, it is still relevant as it confirms the relationship between Alexandre and Arcadi. 3. "Mikhail Gaydamak" context: This context mentions a person with the last name Gaydamak, but it does not provide information about Arcadi Gaydamak or his place of birth. It is less relevant to the claim. 4. Other contexts: The remaining contexts do not mention Arcadi Gaydamak or provide information related to his place of birth. They are not relevant to the claim.
+idx: [4, 1]
+
+成功的数量为：93总数：96当前回溯率：96.875%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:49
+Question:Who is Gaston, Duke Of Orléans's paternal grandmother?
+golden idx: [0, 2]
+step-by-step think: 1. "Henry IV of France" context: This context is directly relevant to the claim as it provides information about Henry IV of France, who is Gaston, Duke of Orléans's father. It mentions Henry IV's mother, Jeanne d'Albret, which is crucial to answering the claim about Gaston's paternal grandmother. This context is highly likely to contain the answer. 2. "Gaston, Duke of Orléans" context: This context provides information about Gaston, Duke of Orléans, confirming his parentage as the son of King Henry IV of France. While it does not directly mention his grandmother, it is relevant as it establishes the connection to Henry IV, whose mother is the answer to the claim. 3. "Prince Henri of Orléans" context: This context is not directly relevant to the claim as it discusses a different individual, Prince Henri of Orléans, and does not provide information about Gaston's paternal grandmother. 4. "Charles, Duke of Orléans" context: This context is not relevant to the claim as it discusses Charles, Duke of Orléans, who is not directly related to Gaston, Duke of Orléans, in the context of the claim. 5. "Philip, Count of Vertus" context: This context is not relevant to the claim as it discusses Philip, Count of Vertus, who is not directly related to Gaston, Duke of Orléans, in the context of the claim. 6. "Philip, Duke of Orléans" context: This context is not relevant to the claim as it discusses Philip, Duke of Orléans, who is not directly related to Gaston, Duke of Orléans, in the context of the claim. 7. "Prince Jacques, Duke of Orléans" context: This context is not relevant to the claim as it discusses Prince Jacques, Duke of Orléans, who is not directly related to Gaston, Duke of Orléans, in the context of the claim. 8. "Hannah Arnold" context: This context is not relevant to the claim as it discusses Hannah Arnold, who is not related to Gaston, Duke of Orléans. 9. "Tjuyu" context: This context is not relevant to the claim as it discusses Tjuyu, who is not related to Gaston, Duke of Orléans. 10. "Hubba bint Hulail" context: This context is not relevant to the claim as it discusses Hubba bint Hulail, who is not related to Gaston, Duke of Orléans.
+idx: [0, 2]
+
+成功的数量为：95总数：98当前回溯率：96.93877551020408%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:50
+Question:Where was the director of film The Half-Way Girl born?
+golden idx: [5, 8]
+step-by-step think: 1. "John Francis Dillon (director)" context: This context is directly relevant to the claim as it mentions John Francis Dillon, the director of "The Half-Way Girl." It provides specific information about his birth, stating he was born in New York, which directly answers the claim. This context is highly relevant and likely contains the answer. 2. "The Half-Way Girl" context: This context mentions the film "The Half-Way Girl" and its director, John Francis Dillon. While it confirms the director's involvement with the film, it does not provide information about his place of birth. It is relevant but less informative regarding the specific claim about the director's birthplace. 3. Other contexts: The remaining contexts do not mention John Francis Dillon or "The Half-Way Girl" and are not relevant to the claim about the director's birthplace. They are unlikely to contain the answer.
+idx: [5, 8]
+
+成功的数量为：97总数：100当前回溯率：97.0%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:51
+Question:Who is the father-in-law of Sophia Of Wittelsbach?
+golden idx: [1, 8]
+step-by-step think: 1. "Sophia of Wittelsbach" context: This context directly mentions Sophia of Wittelsbach and her marriage to Hermann I, Landgrave of Thuringia. It is highly relevant to the claim and likely contains information about her family connections, including her father-in-law. 2. "Hermann I, Landgrave of Thuringia" context: This context provides information about Hermann I, including his parentage. It mentions Louis II, Landgrave of Thuringia, as Hermann I's father, which directly relates to the claim about Sophia's father-in-law. 3. Other contexts: The remaining contexts do not mention Sophia of Wittelsbach or her family connections, making them less relevant and unlikely to contain the answer to the claim.
+idx: [8, 1]
+
+成功的数量为：99总数：102当前回溯率：97.05882352941177%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:52
+Question:Where was the place of death of Lambert I, Count Of Louvain's father?
+golden idx: [7, 9]
+step-by-step think: 1. "Reginar III, Count of Hainaut" context: This context directly mentions Reginar III, who is Lambert I's father, and provides information about his exile and place of death in Bohemia. It is highly relevant and likely contains the answer to the claim. 2. "Lambert I, Count of Louvain" context: This context provides information about Lambert I, including his parentage, which confirms Reginar III as his father. It also mentions Lambert I's death, but the focus is on his father, making it relevant to the claim. 3. "Werner, Count of Valenciennes" context: This context mentions Reginar III in relation to his defeat and exile, but it does not specify the place of death. It is somewhat relevant but less informative than the first two contexts. 4. Other contexts: The remaining contexts do not mention Reginar III or provide information about his place of death, making them less relevant to the claim.
+idx: [7, 9]
+
+成功的数量为：101总数：104当前回溯率：97.11538461538461%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:53
+Question:Where was the director of film Highway Dragnet born?
+golden idx: [4, 5]
+step-by-step think: 1. "Nathan Juran" context: This context directly mentions Nathan Juran, who is identified as the director of "Highway Dragnet." It provides specific information about his place of birth, Gura Humorului, which is directly relevant to the claim and likely contains the answer. 2. "Highway Dragnet" context: This context mentions the film "Highway Dragnet" and its director, Nathan Juran. While it confirms Nathan Juran's role as the director, it does not provide information about his place of birth. It is relevant but less likely to contain the answer compared to the context that directly mentions his birthplace. 3. Other contexts: These contexts mention various directors and films but do not relate to Nathan Juran or provide information about his place of birth. They are less relevant and unlikely to contain the answer to the claim.
+idx: [5, 4]
+
+成功的数量为：103总数：106当前回溯率：97.16981132075472%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:54
+Question:Where did Prince Gustav Of Thurn And Taxis (1848–1914)'s mother die?
+golden idx: [1, 4]
+step-by-step think: 1. "Princess Mathilde Sophie of Oettingen-Oettingen and Oettingen-Spielberg" context: This context directly mentions Princess Mathilde Sophie of Oettingen-Oettingen and Oettingen-Spielberg, who is the mother of Prince Gustav of Thurn and Taxis. It provides detailed information about her birth and death, including the place of death, Obermais, Meran, County of Tyrol, Austria–Hungary. This context is highly relevant and likely contains the answer to the claim. 2. "Prince Gustav of Thurn and Taxis (1848–1914)" context: This context mentions Prince Gustav of Thurn and Taxis and his mother, Princess Mathilde Sophie of Oettingen-Oettingen and Oettingen-Spielberg. While it provides background information about Prince Gustav, it does not directly address the place of death of his mother. However, it is still relevant as it confirms the relationship between Prince Gustav and Princess Mathilde Sophie. 3. Other contexts such as "Prince Victor of Thurn and Taxis," "Anselm Franz, 2nd Prince of Thurn and Taxis," and others do not directly relate to the claim about the place of death of Prince Gustav's mother. They provide information about other members of the Thurn and Taxis family but are less likely to contain the answer to the claim.
+idx: [1, 4]
+
+成功的数量为：105总数：108当前回溯率：97.22222222222221%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:55
+Question:What is the award that the performer of song Sunday Papers earned?
+golden idx: [1, 5]
+step-by-step think: 
+1. "Sunday Papers" context: This context is directly related to the claim as it mentions the song "Sunday Papers" and its performer, Joe Jackson. It provides information about the song's release and reception, which is relevant to understanding the performer's background. However, it does not mention any awards received by Joe Jackson.
+2. "Joe Jackson (musician)" context: This context is highly relevant to the claim as it provides detailed information about Joe Jackson, the performer of "Sunday Papers." It mentions his career achievements, including receiving 5 Grammy Award nominations, which directly addresses the claim about awards. This context is likely to contain the answer to the claim.
+3. Other contexts: The remaining contexts do not mention Joe Jackson or the song "Sunday Papers," and are therefore less relevant to the claim. They provide information about other musicians or unrelated topics.
+
+idx: [5, 1]
+
+成功的数量为：107总数：110当前回溯率：97.27272727272728%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:56
+Question:Are both Nikolsk Airport and Svobodny Airport located in the same country?
+golden idx: [5, 7]
+step-by-step think: 1. "Nikolsk Airport" context: This context directly mentions Nikolsk Airport and provides information about its location in Russia. It is highly relevant to the claim and likely contains the answer regarding the country of Nikolsk Airport. 2. "Svobodny Airport" context: This context directly mentions Svobodny Airport and provides information about its location in Amur Oblast, Russia. It is highly relevant to the claim and likely contains the answer regarding the country of Svobodny Airport. 3. Other contexts such as "Madang Airport," "Antonio Maceo Airport," "Erzincan Airport," etc., mention airports in different countries and are not relevant to the claim about Nikolsk and Svobodny Airports being in the same country.
+idx: [5, 7]
+
+成功的数量为：109总数：112当前回溯率：97.32142857142857%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:57
+Question:Who is the maternal grandfather of Amadeus Vii, Count Of Savoy?
+golden idx: [0, 8]
+step-by-step think: 1. "Bonne of Bourbon" context: This context is directly relevant to the claim as it mentions Bonne of Bourbon, who is the mother of Amadeus VII, Count of Savoy. It also provides information about Bonne's father, Peter I, Duke of Bourbon, which is crucial for answering the claim about Amadeus VII's maternal grandfather. This context is highly informative and likely contains the answer to the claim. 2. "Amadeus VII, Count of Savoy" context: This context is relevant as it mentions Amadeus VII and his mother, Bonne of Bourbon. It provides background information about Amadeus VII's family, which is useful for understanding the lineage and potentially answering the claim. However, it does not directly mention Bonne's father, Peter I, making it slightly less informative than the "Bonne of Bourbon" context. 3. "Amadeus VIII, Duke of Savoy" context: This context mentions Amadeus VIII, the son of Amadeus VII, and his mother Bonne of Berry. While it provides some family background, it is less directly relevant to the claim about Amadeus VII's maternal grandfather. 4. Other contexts: The remaining contexts do not directly relate to the claim about Amadeus VII's maternal grandfather and are less likely to contain the answer compared to the contexts that mention Bonne of Bourbon and her father.
+idx: [8, 0]
+
+成功的数量为：111总数：114当前回溯率：97.36842105263158%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:58
+Question:Are both businesses, Telus and Ztr Control Systems, located in the same country?
+golden idx: [3, 9]
+# step-by-step think: 
+1. "Telus" context: This context directly mentions Telus and provides detailed information about the company, including its location in Canada. It is highly relevant to the claim and likely contains the answer regarding Telus's country of operation.
+2. "ZTR Control Systems" context: This context directly mentions ZTR Control Systems and provides information about its location in Canada. It is highly relevant to the claim and likely contains the answer regarding ZTR Control Systems' country of operation.
+3. "Control engineering" context: This context provides general information about control systems engineering but does not mention Telus or ZTR Control Systems specifically. It is less relevant to the claim and unlikely to contain the answer.
+4. "Information Control Systems" context: This context discusses a company located in the United States, which is not relevant to the claim about Telus and ZTR Control Systems being in the same country.
+5. "Measurex" context: This context discusses an American company, which is not relevant to the claim about Telus and ZTR Control Systems being in the same country.
+6. "Farouk Shami" context: This context discusses an American businessman and his company, which is not relevant to the claim about Telus and ZTR Control Systems being in the same country.
+7. "Tom, Dick & Harry Creative Co." context: This context discusses an American advertising agency, which is not relevant to the claim about Telus and ZTR Control Systems being in the same country.
+8. "IEEE Control Systems Award" context: This context discusses an award related to control systems but does not mention Telus or ZTR Control Systems specifically. It is less relevant to the claim and unlikely to contain the answer.
+9. "IEEE Transactions on Control Systems Technology" context: This context discusses a journal related to control systems but does not mention Telus or ZTR Control Systems specifically. It is less relevant to the claim and unlikely to contain the answer.
+10. "Digital model railway control systems" context: This context discusses control systems for model railways but does not mention Telus or ZTR Control Systems specifically. It is less relevant to the claim and unlikely to contain the answer.
+
+# idx: [3, 9]
+
+成功的数量为：113总数：116当前回溯率：97.41379310344827%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:59
+Question:Who is older, Dyson Parody or Gene Watson?
+golden idx: [2, 6]
+step-by-step think: 1. "Gene Watson" context: This context directly mentions Gene Watson and provides his date of birth, which is crucial for determining his age. It is highly relevant and likely contains the answer to the claim. 2. "Dyson Parody" context: This context directly mentions Dyson Parody and provides his date of birth, which is essential for determining his age. It is highly relevant and likely contains the answer to the claim. 3. "Naomi Bristow" context: Although it mentions Gene Watson, it does not provide any information about his age or date of birth. It is less relevant and less likely to contain the answer compared to the contexts that provide birth dates. 4. Other contexts: These contexts do not mention either Dyson Parody or Gene Watson and are not relevant to the claim.
+idx: [2, 6]
+
+成功的数量为：115总数：118当前回溯率：97.45762711864407%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:60
+Question:When did Prince John Konstantinovich Of Russia's mother die?
+golden idx: [1, 7]
+step-by-step think: 1. "Princess Elisabeth of Saxe-Altenburg (1865–1927)" context: This context is directly relevant to the claim as it mentions Princess Elisabeth of Saxe-Altenburg, who is the mother of Prince John Konstantinovich of Russia. It provides her date of death, which is the information needed to answer the claim. 2. "Prince John Konstantinovich of Russia" context: This context is relevant as it mentions Prince John Konstantinovich of Russia and his mother, Princess Elisabeth of Saxe-Altenburg. However, it does not provide the date of her death, making it less informative for answering the claim compared to the first context. 3. "Prince Igor Constantinovich of Russia" context: This context mentions Princess Elisabeth of Saxe-Altenburg as the mother of Prince Igor Constantinovich, but it does not provide her date of death. It is less relevant and informative for answering the claim compared to the first two contexts. 4. Other contexts: The remaining contexts do not mention Princess Elisabeth of Saxe-Altenburg or provide information about her date of death, making them less relevant and unlikely to contain the answer to the claim.
+idx: [1, 7]
+
+成功的数量为：117总数：120当前回溯率：97.5%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:61
+Question:Which country Audofleda's husband is from?
+golden idx: [0, 7]
+step-by-step think: 1. "Audofleda" context: This context directly mentions Audofleda and her marriage to Theoderic the Great, King of the Ostrogoths. It provides relevant information about her husband and his kingdom, which is likely to contain the answer to the claim about the country of Audofleda's husband. 2. "Theodoric the Great" context: This context provides detailed information about Theodoric the Great, including his rule over the Ostrogothic Kingdom of Italy. It is highly relevant to the claim as it discusses Theodoric's nationality and his kingdom, which is likely to contain the answer to the claim. 3. "Baglan Mailybayev" context: This context is not relevant to the claim as it discusses a Kazakh politician and does not mention Audofleda or Theodoric. 4. "Eleni Gabre-Madhin" context: This context is not relevant to the claim as it discusses an Ethiopian economist and does not mention Audofleda or Theodoric. 5. "Nayelly Hernández" context: This context is not relevant to the claim as it discusses a Mexican squash player and does not mention Audofleda or Theodoric. 6. "Fulco" context: This context is not relevant to the claim as it discusses a missionary bishop and does not mention Audofleda or Theodoric. 7. "Roberto Savio" context: This context is not relevant to the claim as it discusses a journalist and does not mention Audofleda or Theodoric. 8. "Khalid al-Habib" context: This context is not relevant to the claim as it discusses an Al-Qaeda leader and does not mention Audofleda or Theodoric. 9. "Rumbold of Mechelen" context: This context is not relevant to the claim as it discusses a Christian missionary and does not mention Audofleda or Theodoric. 10. "Ali Rahuma" context: This context is not relevant to the claim as it discusses a Libyan football player and does not mention Audofleda or Theodoric.
+idx: [7, 0]
+
+成功的数量为：119总数：122当前回溯率：97.54098360655738%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:62
+Question:What is the place of birth of the director of film Letter To The King?
+golden idx: [2, 8]
+step-by-step think: 1. "Letter to the King" context: This context directly mentions the film "Letter to the King" and its director, Hisham Zaman. It is highly relevant to the claim as it identifies the director, which is a key part of the claim. However, it does not provide information about the director's place of birth. 2. "Hisham Zaman" context: This context provides detailed information about Hisham Zaman, including his Kurdish-Norwegian background. It is directly relevant to the claim as it mentions his place of birth, which is crucial for answering the claim. 3. Other contexts: The remaining contexts do not mention Hisham Zaman or the film "Letter to the King," making them irrelevant to the claim. They are unlikely to contain the answer to the claim about the director's place of birth.
+idx: [8, 2]
+
+成功的数量为：121总数：124当前回溯率：97.58064516129032%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:63
+Question:Are both bands, Snowman (Band) and Jessamine (Band), from the same country?
+golden idx: [0, 1]
+step-by-step think: 1. "Snowman (band)" context: This context directly mentions Snowman and provides information about its origin, stating that the band is originally from Perth, Western Australia. This is highly relevant to the claim as it addresses the country of origin for Snowman. 2. "Jessamine (band)" context: This context directly mentions Jessamine and provides information about its origin, stating that the band is American and from Seattle. This is highly relevant to the claim as it addresses the country of origin for Jessamine. 3. Other contexts such as "Contra (band)", "The Grapes (band)", "Anarchicks", "DracoVirgo", "Dentist (band)", "The M's", "Tri-State (band)", and "Welcome (band)" do not mention Snowman or Jessamine and are not relevant to the claim about the country of origin for these two bands.
+idx: [0, 1]
+
+成功的数量为：123总数：126当前回溯率：97.61904761904762%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:64
+Question:Where was the performer of song God (John Lennon Song) born?
+golden idx: [2, 9]
+step-by-step think: 1. "John Lennon" context: This context is directly relevant to the claim as it provides detailed information about John Lennon, including his place of birth, which is Liverpool. It is highly informative and likely contains the answer to the claim. 2. "God (John Lennon song)" context: This context is relevant as it mentions the song "God" by John Lennon, which is part of the claim. However, it does not provide information about John Lennon's place of birth, making it less likely to contain the answer compared to the "John Lennon" context. 3. Other contexts such as "Caspar Babypants," "Bernie Bonvoisin," and others do not relate to John Lennon or his place of birth, making them irrelevant to the claim.
+idx: [9, 2]
+
+成功的数量为：125总数：128当前回溯率：97.65625%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:65
+Question:Which song was released more recently, Go Ahead And Break My Heart or Knee Deep In My Heart?
+golden idx: [0, 6]
+step-by-step think: 1. "Go Ahead and Break My Heart" context: This context directly mentions the song "Go Ahead and Break My Heart," providing information about its release date in 2016. It is highly relevant to the claim and likely contains the answer regarding the song's release date. 2. "Knee Deep in My Heart" context: This context directly mentions the song "Knee Deep in My Heart," providing information about its release date in 2013. It is highly relevant to the claim and likely contains the answer regarding the song's release date. 3. Other contexts such as "Hole in My Heart (Alphabeat song)" and "Missin' You (It Will Break My Heart)" do not directly relate to the claim about the specific songs in question and are less likely to contain the answer.
+idx: [6, 0]
+
+成功的数量为：127总数：130当前回溯率：97.6923076923077%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:66
+Question:Who is Maria Luisa Of Savoy's father-in-law?
+golden idx: [8, 9]
+step-by-step think: 1. "Maria Luisa of Savoy" context: This context directly mentions Maria Luisa of Savoy and her marriage to Philip V of Spain, which is relevant to the claim. It provides information about her role as queen consort and regent, making it likely to contain information about her father-in-law. 2. "Philip V of Spain" context: This context provides detailed information about Philip V, who is Maria Luisa of Savoy's spouse. It mentions his father, Louis, Grand Dauphin, which directly answers the claim about Maria Luisa's father-in-law. 3. "Ferdinand VI of Spain" context: Although it mentions Maria Luisa of Savoy, it focuses on Ferdinand VI, her son, rather than her father-in-law. It is less directly relevant to the claim compared to the contexts about Maria Luisa and Philip V. 4. Other contexts: These contexts either focus on different individuals or do not provide relevant information about Maria Luisa of Savoy's father-in-law, making them less likely to contain the answer to the claim.
+idx: [8, 9]
+
+成功的数量为：129总数：132当前回溯率：97.72727272727273%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:67
+Question:Who is the paternal grandfather of Kujō Yoritsugu?
+golden idx: [6, 7]
+step-by-step think: 1. "Kujō Yoritsune" context: This context is highly relevant as it directly mentions Kujō Yoritsune, who is the father of Kujō Yoritsugu. It provides information about Kujō Yoritsune's family, including his father, Kujō Michiie, which is crucial for determining the paternal grandfather of Kujō Yoritsugu. This context is very likely to contain the answer to the claim. 2. "Kujō Yoritsugu" context: This context is also relevant as it directly mentions Kujō Yoritsugu and his father, Kujō Yoritsune. However, it does not provide information about Kujō Yoritsune's father, which is necessary to answer the claim. It is relevant but less informative compared to the "Kujō Yoritsune" context. 3. Other contexts: The remaining contexts do not mention Kujō Yoritsugu or his family and are not relevant to the claim. They are unlikely to contain the answer.
+idx: [6, 7]
+
+成功的数量为：131总数：134当前回溯率：97.76119402985076%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:68
+Question:What is the place of birth of the director of film Marianela (1940 Film)?
+golden idx: [2, 9]
+step-by-step think: 1. "Benito Perojo" context: This context is directly relevant to the claim as it mentions Benito Perojo, the director of the film "Marianela." It provides detailed information about his place of birth, Madrid, which is the answer to the claim. It is highly informative and likely contains the answer. 2. "Marianela (1940 film)" context: This context is relevant as it mentions the film "Marianela" and confirms that Benito Perojo directed it. While it does not provide information about his place of birth, it is still relevant to the claim as it confirms the director's identity. 3. Other contexts such as "Dana Blankstein," "Peter Levin," and others mention different directors or individuals unrelated to the claim about Benito Perojo and the film "Marianela." They are less relevant and unlikely to contain the answer to the claim.
+idx: [2, 9]
+
+成功的数量为：133总数：136当前回溯率：97.79411764705883%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:69
+Question:Which film came out first, Repeated Absences or She Wore A Yellow Ribbon?
+golden idx: [1, 2]
+step-by-step think: 1. "She Wore a Yellow Ribbon" context: This context directly mentions the film "She Wore a Yellow Ribbon" and provides its release year as 1949. It is highly relevant to the claim and likely contains the answer regarding the film's release date. 2. "Repeated Absences" context: This context directly mentions the film "Repeated Absences" and provides its release year as 1972. It is highly relevant to the claim and likely contains the answer regarding the film's release date. 3. "Fort Apache (film)" context: This context mentions "She Wore a Yellow Ribbon" as part of John Ford's Cavalry trilogy, providing additional information about the film's sequence but does not directly provide the release date. It is somewhat relevant but less likely to contain the direct answer compared to the contexts that specifically mention the films in question. 4. "Rio Grande (film)" context: This context mentions "She Wore a Yellow Ribbon" as part of John Ford's Cavalry trilogy, similar to the "Fort Apache" context. It provides additional information but does not directly provide the release date. It is somewhat relevant but less likely to contain the direct answer. 5. "Joanne Dru" context: This context mentions "She Wore a Yellow Ribbon" as one of the films Joanne Dru was known for, but does not provide any information about the release date. It is less relevant and less likely to contain the answer compared to the contexts that directly mention the films' release dates.
+idx: [1, 2]
+
+成功的数量为：135总数：138当前回溯率：97.82608695652173%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:70
+Question:Who lived longer, Edward Dearle or Michael Doeberl?
+golden idx: [0, 5]
+step-by-step think: 1. "Edward Dearle" context: This context directly mentions Edward Dearle and provides both his birth and death dates, which are crucial for determining his lifespan. It is highly relevant and likely contains the answer to the claim. 2. "Michael Doeberl" context: This context directly mentions Michael Doeberl and provides both his birth and death dates, which are essential for determining his lifespan. It is highly relevant and likely contains the answer to the claim. 3. "Mike Hall" context: This context does not provide any information related to the claim about Edward Dearle or Michael Doeberl. It is not relevant and unlikely to contain the answer. 4. "Michael the Syrian" context: This context discusses a different Michael, unrelated to the claim about Michael Doeberl. It is not relevant and unlikely to contain the answer. 5. "Mike Jacobs" context: This context does not provide any information related to the claim about Edward Dearle or Michael Doeberl. It is not relevant and unlikely to contain the answer. 6. "Michael Wang (basketball)" context: This context discusses a different Michael, unrelated to the claim about Michael Doeberl. It is not relevant and unlikely to contain the answer. 7. "Michał Kruszka" context: This context discusses a different Michael, unrelated to the claim about Michael Doeberl. It is not relevant and unlikely to contain the answer. 8. "Michael Lennox" context: This context discusses a different Michael, unrelated to the claim about Michael Doeberl. It is not relevant and unlikely to contain the answer. 9. "Mike Wells" context: This context does not provide any information related to the claim about Edward Dearle or Michael Doeberl. It is not relevant and unlikely to contain the answer. 10. "Mike Baldwin" context: This context does not provide any information related to the claim about Edward Dearle or Michael Doeberl. It is not relevant and unlikely to contain the answer.
+idx: [0, 5]
+
+成功的数量为：137总数：140当前回溯率：97.85714285714285%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:71
+Question:Where does Karin Stoltenberg's husband work at?
+golden idx: [1, 6]
+step-by-step think: 1. "Thorvald Stoltenberg" context: This context is directly related to the claim as it provides detailed information about Thorvald Stoltenberg, Karin Stoltenberg's husband. It mentions his roles and positions within the United Nations, which is relevant to the claim about his workplace. It is highly informative and likely contains the answer to the claim. 2. "Karin Stoltenberg" context: This context mentions Karin Stoltenberg and her husband Thorvald Stoltenberg, providing background information about their family and Thorvald's role as a foreign minister. While it does not directly answer the claim about his workplace, it is relevant and provides context about his professional background. 3. "David Shute" context: This context is unrelated to the claim as it discusses a British journalist and his work at the BBC, which does not pertain to Thorvald Stoltenberg or his workplace. 4. "Alan McKenzie" context: This context is unrelated to the claim as it discusses a British comics writer and editor, which does not pertain to Thorvald Stoltenberg or his workplace. 5. "Mordechai Rotenberg" context: This context is unrelated to the claim as it discusses an Israeli professor of social work, which does not pertain to Thorvald Stoltenberg or his workplace. 6. "J. A. Lawrence" context: This context is unrelated to the claim as it discusses an American sketch artist and short fiction writer, which does not pertain to Thorvald Stoltenberg or his workplace. 7. "Frank Wildhorn" context: This context is unrelated to the claim as it discusses an American composer, which does not pertain to Thorvald Stoltenberg or his workplace. 8. "Mary Horner Lyell" context: This context is unrelated to the claim as it discusses a conchologist and geologist, which does not pertain to Thorvald Stoltenberg or his workplace. 9. "Christopher Shinn" context: This context is unrelated to the claim as it discusses an American playwright, which does not pertain to Thorvald Stoltenberg or his workplace. 10. "Dave Grossman (game developer)" context: This context is unrelated to the claim as it discusses an American game programmer and designer, which does not pertain to Thorvald Stoltenberg or his workplace.
+idx: [6, 1]
+
+成功的数量为：139总数：142当前回溯率：97.88732394366197%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:72
+Question:Where was the director of film Lettre Ouverte born?
+golden idx: [2, 4]
+step-by-step think: 1. "Alex Joffé" context: This context directly mentions Alex Joffé, the director of the film "Lettre Ouverte," and provides information about his place of birth, which is Alexandria, Egypt. It is highly relevant and likely contains the answer to the claim. 2. "Lettre ouverte" context: This context mentions the film "Lettre Ouverte" and its director, Alex Joffé. While it confirms the director's involvement with the film, it does not provide information about his place of birth. It is relevant but less informative regarding the specific claim compared to the "Alex Joffé" context. 3. "Ahmed Baba Miské" context: This context mentions "Lettre ouverte" but refers to a different work by Ahmed Baba Miské, not the film directed by Alex Joffé. It is not directly relevant to the claim about the film director's place of birth. 4. Other contexts: These contexts mention various directors and individuals unrelated to the film "Lettre Ouverte" or Alex Joffé. They are not relevant to the claim and unlikely to contain the answer.
+idx: [2, 4]
+
+成功的数量为：141总数：144当前回溯率：97.91666666666666%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:73
+Question:Who is William Ii, Count Of Flanders's paternal grandmother?
+golden idx: [1, 8]
+step-by-step think: 1. "William II of Dampierre" context: This context is directly relevant to the claim as it mentions William II of Dampierre, who is the father of William II, Count of Flanders. It also provides information about his mother, Mathilde of Bourbon, which is crucial for determining the paternal grandmother of William II, Count of Flanders. This context is highly likely to contain the answer to the claim. 2. "William II, Count of Flanders" context: This context provides information about William II, Count of Flanders, including his parentage. It mentions his father, William II of Dampierre, and his mother, Margaret II of Flanders. While it does not directly mention the paternal grandmother, it is still relevant as it confirms the lineage and is likely to contain related information. 3. "Beatrice of Brabant" context: This context mentions Beatrice of Brabant, who was married to William II, Count of Flanders. However, it does not provide information about his paternal grandmother, making it less relevant compared to the other contexts. 4. Other contexts: The remaining contexts do not provide relevant information about William II, Count of Flanders or his paternal grandmother, making them less likely to contain the answer to the claim.
+idx: [8, 1]
+
+成功的数量为：143总数：146当前回溯率：97.94520547945206%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:74
+Question:What is the place of birth of Clara Novello's father?
+golden idx: [3, 5]
+step-by-step think: 1. "Vincent Novello" context: This context is directly relevant to the claim as it mentions Vincent Novello, who is Clara Novello's father. It provides specific information about his place of birth, which is London. This context is highly likely to contain the answer to the claim. 2. "Clara Novello" context: This context is relevant as it mentions Clara Novello and her father, Vincent Novello. However, it does not provide specific information about Vincent Novello's place of birth. It is informative about Clara Novello's background but less likely to contain the direct answer to the claim compared to the "Vincent Novello" context. 3. Other contexts: The remaining contexts do not mention Vincent Novello or provide information about his place of birth. They are not relevant to the claim and are unlikely to contain the answer.
+idx: [3, 5]
+
+成功的数量为：145总数：148当前回溯率：97.97297297297297%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:75
+Question:Which film came out earlier, Emmy Of Stork'S Nest or Indira Vizha?
+golden idx: [1, 7]
+step-by-step think: 1. "Emmy of Stork's Nest" context: This context directly mentions "Emmy of Stork's Nest" and provides the publication date of 1915, which is crucial information for determining which film came out earlier. It is highly relevant and likely contains the answer to the claim. 2. "Indira Vizha" context: This context directly mentions "Indira Vizha" and provides the release date of 2009, which is essential information for comparing the release dates of the two films. It is highly relevant and likely contains the answer to the claim. 3. Other contexts such as "My Little Eye," "Hawks Nest," "The Fabulous Senorita," "Crows Nest," "Operation Leopard," "Hornets Nest," "Kabani Nadi Chuvannappol," and "The Night of Nights" do not directly relate to the claim about the films "Emmy of Stork's Nest" and "Indira Vizha." They do not provide relevant information about the release dates of these films and are less likely to contain the answer compared to the contexts directly mentioning the films in question.
+idx: [7, 1]
+
+成功的数量为：147总数：150当前回溯率：98.0%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:76
+Question:Which film came out first, Celine: Through The Eyes Of The World or Dilan 1991?
+golden idx: [4, 8]
+step-by-step think: 1. "Celine: Through the Eyes of the World" context: This context directly mentions the film "Celine: Through the Eyes of the World" and provides detailed information about its release date, which is crucial for answering the claim. It is highly relevant and likely contains the answer to the claim. 2. "Dilan 1991" context: This context directly mentions the film "Dilan 1991" and provides information about its release date, which is essential for answering the claim. It is relevant and likely contains the answer to the claim. 3. "Through the Eyes of a Painter" context: Although it mentions a film, it is not related to the films in the claim. It is less relevant and unlikely to contain the answer compared to the contexts directly related to the films in question. 4. "The Scars of Ages" context: This context mentions an EP and is not related to the films in the claim. It is less relevant and unlikely to contain the answer. 5. "Eyes of the World" context: This context does not provide specific information about the films in the claim. It is less relevant and unlikely to contain the answer. 6. "Time Bandits" context: This context discusses a different film and is not related to the films in the claim. It is less relevant and unlikely to contain the answer. 7. "Way of the World" context: This context does not provide specific information about the films in the claim. It is less relevant and unlikely to contain the answer. 8. "End of the world" context: This context does not provide specific information about the films in the claim. It is less relevant and unlikely to contain the answer. 9. "The Eyes of Mystery" context: This context discusses a different film and is not related to the films in the claim. It is less relevant and unlikely to contain the answer. 10. "Key to the World" context: This context does not provide specific information about the films in the claim. It is less relevant and unlikely to contain the answer.
+idx: [8, 4]
+
+成功的数量为：149总数：152当前回溯率：98.02631578947368%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:77
+Question:Who was born earlier, Silas Hardy or Lee Mantle?
+golden idx: [4, 6]
+step-by-step think: 1. "Lee Mantle" context: This context directly mentions Lee Mantle and provides detailed information about his birth date, December 13, 1851, which is relevant to the claim. It is informative and likely contains the answer to the claim regarding who was born earlier. 2. "Silas Hardy" context: This context directly mentions Silas Hardy and provides detailed information about his birth date, April 30, 1867, which is relevant to the claim. It is informative and likely contains the answer to the claim regarding who was born earlier. 3. "Silas H. Strawn" context: Although it mentions a person named Silas, it does not directly relate to Silas Hardy or Lee Mantle. It provides information about Silas Hardy Strawn, which is not relevant to the claim. 4. "Arthur Sherburne Hardy" context: This context mentions Arthur Sherburne Hardy, which is not directly related to the claim about Silas Hardy or Lee Mantle. It is informative but less likely to contain the answer compared to the contexts that directly mention the individuals in question. 5. Other contexts: These contexts mention individuals with the name Lee or Silas but do not provide relevant information about Silas Hardy or Lee Mantle's birth dates. They are less likely to contain the answer compared to the contexts that directly mention the individuals in question.
+idx: [4, 6]
+
+成功的数量为：151总数：154当前回溯率：98.05194805194806%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:78
+Question:Where was the place of burial of Albert Frederick, Duke Of Prussia's mother?
+golden idx: [4, 6]
+step-by-step think: 1. "Anna Marie of Brunswick-Lüneburg" context: This context directly mentions Anna Marie of Brunswick-Lüneburg, who is Albert Frederick's mother. It provides information about her birth and death, including the location of her death near Königsberg, which is relevant to the claim about her place of burial. This context is highly relevant and likely contains the answer to the claim. 2. "Albert Frederick, Duke of Prussia" context: This context mentions Albert Frederick and his mother, Anna Marie of Brunswick-Lüneburg. While it provides background information about Albert Frederick, it does not directly address the claim about his mother's place of burial. However, it is still relevant as it confirms the relationship between Albert Frederick and Anna Marie. 3. "Duchess Anna of Prussia" context: This context mentions Albert Frederick and his daughter, but it does not provide information about his mother or her place of burial. It is less relevant to the claim. 4. Other contexts: The remaining contexts do not mention Anna Marie of Brunswick-Lüneburg or provide information relevant to her place of burial. They are not relevant to the claim.
+idx: [4, 6]
+
+成功的数量为：153总数：156当前回溯率：98.07692307692307%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:79
+Question:Where was the place of death of Juan Carlos Gumucio's wife?
+golden idx: [7, 8]
+step-by-step think: 1. "Marie Colvin" context: This context directly mentions Marie Colvin, who is identified as Juan Carlos Gumucio's wife in the reasoning steps. It provides information about her death, stating she died while covering the siege of Homs in Syria. This context is highly relevant to the claim and likely contains the answer regarding the place of death. 2. "Juan Carlos Gumucio" context: This context mentions Juan Carlos Gumucio and confirms his relationship with Marie Colvin as her second husband. While it does not provide information about the place of death, it is relevant to the claim as it establishes the connection between Juan Carlos Gumucio and Marie Colvin. 3. Other contexts: The remaining contexts do not mention Juan Carlos Gumucio or Marie Colvin and are not relevant to the claim about the place of death of Juan Carlos Gumucio's wife. They are less likely to contain the answer compared to the contexts directly related to Marie Colvin.
+idx: [7, 8]
+
+成功的数量为：155总数：158当前回溯率：98.10126582278481%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:80
+Question:Who is the father of the director of film Gramps Is In The Resistance?
+golden idx: [0, 9]
+step-by-step think: 1. Context idx 0: This context directly mentions Jean-Marie Poiré, the director of "Gramps Is in the Resistance," and states that he is the son of Alain Poiré. This is highly relevant to the claim and likely contains the answer. 2. Context idx 9: This context provides information about the film "Gramps Is in the Resistance," confirming that Jean-Marie Poiré is the director. While it doesn't mention his father, it is still relevant to the claim as it confirms the director's identity. 3. Context idx 7: This context mentions Roland Giraud, an actor in "Papy fait de la résistance," but does not provide information about the director's father. It is less relevant to the claim compared to contexts directly mentioning Jean-Marie Poiré and his father. 4. Context idx 8: This context mentions Julien Guiomar, an actor in "Papy fait de la résistance," but does not provide information about the director's father. It is less relevant to the claim compared to contexts directly mentioning Jean-Marie Poiré and his father. 5. Other contexts (idx 1, 2, 3, 4, 5, 6): These contexts do not mention Jean-Marie Poiré or his father and are not relevant to the claim.
+idx: [0, 9]
+
+成功的数量为：157总数：160当前回溯率：98.125%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:81
+Question:What is the place of birth of the performer of song Heaven (Namie Amuro Song)?
+golden idx: [3, 5]
+step-by-step think: 1. "Namie Amuro" context: This context is directly relevant to the claim as it provides detailed information about Namie Amuro, including her place of birth, which is Naha, Okinawa. It is highly informative and likely contains the answer to the claim. 2. "Heaven (Namie Amuro song)" context: This context is relevant as it discusses the song "Heaven" by Namie Amuro, which is part of the claim. However, it focuses more on the song's production and reception rather than Amuro's personal details, making it less likely to contain the answer about her place of birth compared to the "Namie Amuro" context. 3. "Vic Coppersmith-Heaven" context: This context is not directly relevant to the claim about Namie Amuro's place of birth, as it discusses a different person, Vic Coppersmith-Heaven. It is unlikely to contain the answer to the claim. 4. "Billy Milano" context: This context is unrelated to the claim about Namie Amuro's place of birth, as it discusses a different musician, Billy Milano. It is not relevant and unlikely to contain the answer. 5. "Kristian Leontiou" context: This context is unrelated to the claim about Namie Amuro's place of birth, as it discusses a different musician, Kristian Leontiou. It is not relevant and unlikely to contain the answer. 6. "Caspar Babypants" context: This context is unrelated to the claim about Namie Amuro's place of birth, as it discusses a different musician, Caspar Babypants. It is not relevant and unlikely to contain the answer. 7. "Astrid North" context: This context is unrelated to the claim about Namie Amuro's place of birth, as it discusses a different musician, Astrid North. It is not relevant and unlikely to contain the answer. 8. "Bernie Bonvoisin" context: This context is unrelated to the claim about Namie Amuro's place of birth, as it discusses a different musician, Bernie Bonvoisin. It is not relevant and unlikely to contain the answer.
+idx: [3, 5]
+
+成功的数量为：159总数：162当前回溯率：98.14814814814815%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:82
+Question:What nationality is Philip Of Ibelin (1180–1227)'s mother?
+golden idx: [0, 2]
+step-by-step think: 1. Context idx 0 ("Maria Komnene, Queen of Jerusalem"): This context is highly relevant to the claim as it directly mentions Maria Komnene, who is identified as Philip of Ibelin's mother. It provides detailed information about her background, including her parentage, which is crucial for determining her nationality. The mention of her father being a Byzantine "dux" in Cyprus strongly suggests her Byzantine nationality, making this context likely to contain the answer to the claim. 2. Context idx 2 ("Philip of Ibelin (1180–1227)"): This context is also relevant as it confirms Philip of Ibelin's mother is Maria Komnene, reinforcing the connection to the Byzantine nobility. However, it does not provide additional information about Maria Komnene's nationality beyond confirming her identity as his mother. While relevant, it is slightly less informative than context idx 0 regarding the nationality aspect. 3. Context idx 7 ("Helvis of Ibelin"): This context mentions Maria Komnene as the mother of Helvis of Ibelin, another child of Balian of Ibelin. It confirms Maria Komnene's identity but does not provide further information about her nationality. It is relevant but less informative compared to contexts idx 0 and 2. 4. Other contexts (idx 1, 3, 4, 5, 6, 8, 9): These contexts do not directly address the claim about Philip of Ibelin's mother's nationality. They focus on other members of the Ibelin family or different historical figures, making them less relevant and unlikely to contain the answer to the claim.
+idx: [0, 2]
+
+成功的数量为：161总数：164当前回溯率：98.17073170731707%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:83
+Question:Who was born later, Joseph J. Magliocco or Viktoriya Zeynep Güneş?
+golden idx: [1, 7]
+step-by-step think: 1. "Joseph J. Magliocco" context: This context directly mentions Joseph J. Magliocco and provides his date of birth, which is crucial information for answering the claim about who was born later. It is highly relevant and likely contains the answer to the claim. 2. "Viktoriya Zeynep Güneş" context: This context directly mentions Viktoriya Zeynep Güneş and provides her date of birth, which is essential for answering the claim. It is highly relevant and likely contains the answer to the claim. 3. "Louis Guss" context: Although it mentions Joseph Magliocco, it refers to a different person and does not provide relevant birth date information for the claim. It is less relevant compared to the contexts directly mentioning the individuals in the claim. 4. "Joseph Magliocco" context: This context mentions a different Joseph Magliocco, an Italian-born mobster, and provides his birth date, which is not relevant to the claim about Joseph J. Magliocco and Viktoriya Zeynep Güneş. It is less likely to contain the answer compared to the contexts directly related to the claim. 5. Other contexts: These contexts do not mention either Joseph J. Magliocco or Viktoriya Zeynep Güneş and are not relevant to the claim. They are less likely to contain the answer compared to the contexts directly related to the claim.
+idx: [1, 7]
+
+成功的数量为：163总数：166当前回溯率：98.19277108433735%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:84
+Question:When is the lead guitarist of List Of The Dillinger Escape Plan Band Members's birthday?
+golden idx: [2, 9]
+step-by-step think: 1. "Ben Weinman" context: This context is directly relevant to the claim as it mentions Ben Weinman, who is the lead guitarist for The Dillinger Escape Plan. It provides his date of birth, August 8, 1975, which directly answers the claim about his birthday. This context is highly informative and likely contains the answer to the claim. 2. "List of The Dillinger Escape Plan band members" context: This context is relevant as it lists Ben Weinman as a member of The Dillinger Escape Plan, confirming his role as the lead guitarist. While it does not provide his date of birth, it supports the identification of Ben Weinman as the person in question. It is informative but less likely to contain the answer compared to the context that directly provides the date of birth. 3. "Dimitri Minakakis" context: This context is less relevant as it discusses Dimitri Minakakis, the original singer of The Dillinger Escape Plan, and does not mention Ben Weinman or his birthday. It is informative about another band member but unlikely to contain the answer to the claim. 4. "Liam Wilson" context: This context discusses Liam Wilson, the bass player for The Dillinger Escape Plan, and does not mention Ben Weinman or his birthday. It is informative about another band member but not relevant to the claim. 5. "Mike Watts" context: This context discusses Mike Watts, an audio engineer who worked with The Dillinger Escape Plan, but does not mention Ben Weinman or his birthday. It is informative about a collaborator but not relevant to the claim. 6. "Chris Pennie" context: This context discusses Chris Pennie, the former drummer of The Dillinger Escape Plan, and does not mention Ben Weinman or his birthday. It is informative about another band member but not relevant to the claim. 7. "Jeff Tuttle" context: This context discusses Jeff Tuttle, a former guitarist of The Dillinger Escape Plan, and does not mention Ben Weinman or his birthday. It is informative about another band member but not relevant to the claim. 8. "The Black Queen (band)" context: This context discusses The Black Queen, a band formed by Greg Puciato, a member of The Dillinger Escape Plan, but does not mention Ben Weinman or his birthday. It is informative about a related band but not relevant to the claim. 9. "Billy Rymer" context: This context discusses Billy Rymer, the drummer for The Dillinger Escape Plan, and does not mention Ben Weinman or his birthday. It is informative about another band member but not relevant to the claim. 10. "The End (Canadian band)" context: This context discusses The End, a band compared to The Dillinger Escape Plan, but does not mention Ben Weinman or his birthday. It is informative about a related band but not relevant to the claim.
+idx: [2, 9]
+
+成功的数量为：165总数：168当前回溯率：98.21428571428571%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:85
+Question:Where does Huma Abedin's husband work at?
+golden idx: [5, 6]
+# step-by-step think: 
+1. "Anthony Weiner" context: This context is directly relevant to the claim as it provides detailed information about Anthony Weiner, who is Huma Abedin's husband. It mentions his career as a former Democratic congressman and his work as a congressional aide to U.S. Representative Chuck Schumer, which is directly related to the claim about his employment. This context is highly likely to contain the answer to the claim.
+2. "Huma Abedin" context: This context is relevant as it mentions Huma Abedin's marriage to Anthony Weiner, providing background information on her political career and personal life. While it does not directly answer the claim about Weiner's employment, it is informative and relevant to the claim.
+3. Other contexts such as "J. A. Lawrence," "Dave Grossman," "Mordechai Rotenberg," "Christopher Shinn," "Mary Horner Lyell," "Frank Wildhorn," "Alan McKenzie," and "David Shute" do not provide information relevant to the claim about Huma Abedin's husband's employment. They focus on different individuals and topics unrelated to the claim.
+
+# idx: [6, 5]
+
+成功的数量为：167总数：170当前回溯率：98.23529411764706%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:86
+Question:Are the movies About A Wife, A Dream And Another... and The Doolins Of Oklahoma, from the same country?
+golden idx: [2, 7]
+step-by-step think: 1. "The Doolins of Oklahoma" context: This context directly mentions "The Doolins of Oklahoma," which is part of the claim. It provides information about the film, including its country of origin (American), making it highly relevant and likely to contain the answer to the claim. 2. "About a Wife, a Dream and Another..." context: This context directly mentions "About a Wife, a Dream and Another...," which is part of the claim. It provides information about the film, including its country of origin (Russian), making it highly relevant and likely to contain the answer to the claim. 3. "Patience Latting" context: This context provides information about an American politician from Oklahoma, but it does not directly relate to the claim about the films' countries of origin. It is less likely to contain the answer compared to the contexts directly related to the films. 4. "David Boren" context: This context provides information about an American politician from Oklahoma, but it does not directly relate to the claim about the films' countries of origin. It is less likely to contain the answer compared to the contexts directly related to the films. 5. "Pat O'Neal" context: This context provides information about an American football coach from Oklahoma, but it does not directly relate to the claim about the films' countries of origin. It is less likely to contain the answer compared to the contexts directly related to the films.
+idx: [2, 7]
+
+成功的数量为：169总数：172当前回溯率：98.25581395348837%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:87
+Question:Which film came out earlier, Out Of The Rain or Les Résultats Du Féminisme?
+golden idx: [3, 6]
+# step-by-step think: 
+1. "Out of the Rain" context: This context directly mentions "Out of the Rain" and provides the publication date of the film, which is 1991. It is highly relevant to the claim and likely contains the answer regarding the film's release date.
+2. "Les Résultats du féminisme" context: This context directly mentions "Les Résultats du féminisme" and provides the publication date of the film, which is 1906. It is highly relevant to the claim and likely contains the answer regarding the film's release date.
+3. "Archives du Féminisme" context: Although it mentions feminism, it does not directly relate to the film "Les Résultats du féminisme" or its release date. It is less relevant and less likely to contain the answer compared to the contexts directly related to the films in question.
+4. "Rain or Shine Elasto Painters all-time roster" context: This context is unrelated to the films mentioned in the claim. It discusses a basketball team and is not relevant to the claim about film release dates.
+5. "Lady Cops" context: This context mentions a different film, "Les Keufs," which is unrelated to the claim. It is not relevant to the films in question.
+6. "The Little Wheedlers" context: This context mentions a different film, "Les petits câlins," which is unrelated to the claim. It is not relevant to the films in question.
+7. "Rain or Shine" context: This context is unrelated to the films mentioned in the claim. It discusses different meanings of "Rain or Shine" and is not relevant to the claim about film release dates.
+8. "List of Rain or Shine Elasto Painters seasons" context: This context is unrelated to the films mentioned in the claim. It discusses a basketball team's seasons and is not relevant to the claim about film release dates.
+9. "LES" context: This context is unrelated to the films mentioned in the claim. It discusses different meanings of "LES" and is not relevant to the claim about film release dates.
+10. "Achuhucanac" context: This context is unrelated to the films mentioned in the claim. It discusses a rain god in Guanche religion and is not relevant to the claim about film release dates.
+
+# idx: [3, 6]
+
+成功的数量为：171总数：174当前回溯率：98.27586206896551%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:88
+Question:Where did Giacomo Feo's wife die?
+golden idx: [1, 7]
+step-by-step think: 1. "Caterina Sforza" context: This context is directly relevant to the claim as it provides information about Caterina Sforza, who is Giacomo Feo's wife. It mentions her life events, including her final years in Florence, which is relevant to determining her place of death. This context is highly likely to contain the answer to the claim. 2. "Giacomo Feo" context: This context provides information about Giacomo Feo, including his relationship with Caterina Sforza. However, it focuses more on Giacomo Feo's life and death in Forlì, which is less directly relevant to the claim about Caterina Sforza's place of death. It is informative but less likely to contain the specific answer compared to the context about Caterina Sforza. 3. Other contexts: The remaining contexts do not provide relevant information about Giacomo Feo's wife or her place of death. They are unrelated to the claim and unlikely to contain the answer.
+idx: [7, 1]
+
+成功的数量为：173总数：176当前回溯率：98.29545454545455%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:89
+Question:What is the place of birth of the director of film Swedenhielms?
+golden idx: [3, 4]
+step-by-step think: 1. "Swedenhielms" context: This context directly mentions the film "Swedenhielms" and its director Gustaf Molander, which is relevant to the claim. It provides information about the film's genre and the director, making it likely to contain the answer to the claim. 2. "Gustaf Molander" context: This context provides detailed information about Gustaf Molander, including his place of birth, which is directly relevant to the claim. It is highly informative and likely contains the answer to the claim about the director's place of birth. 3. Other contexts such as "Jason Moore (director)" and "Dana Blankstein" mention directors but are not related to Gustaf Molander or the film "Swedenhielms," making them less relevant and unlikely to contain the answer to the claim.
+idx: [4, 3]
+
+成功的数量为：175总数：178当前回溯率：98.31460674157303%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:90
+Question:Which country Jan Baptist Van Rensselaer's father is from?
+golden idx: [1, 7]
+step-by-step think: 1. Context with idx 1: This context mentions Jan Baptist van Rensselaer and identifies him as the son of Kiliaen van Rensselaer, which directly relates to the claim about Jan Baptist Van Rensselaer's father. It is relevant and likely to contain information about his father's nationality. 2. Context with idx 7: This context provides detailed information about Kiliaen van Rensselaer, including his Dutch origin, which is directly relevant to the claim. It is highly informative and likely contains the answer to the claim regarding the nationality of Jan Baptist Van Rensselaer's father. 3. Context with idx 3: This context mentions Jeremias van Rensselaer as the son of Kiliaen van Rensselaer, but it does not provide additional information about Kiliaen's nationality. It is less informative compared to the contexts that directly address Kiliaen's background. 4. Other contexts (idx 0, 2, 4, 5, 6, 8, 9): These contexts do not provide relevant information about Jan Baptist Van Rensselaer's father or his nationality. They are less likely to contain the answer to the claim.
+idx: [7, 1]
+
+成功的数量为：177总数：180当前回溯率：98.33333333333333%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:91
+Question:Which film was released earlier, Sathyavan Savithri or Kids Of The Round Table?
+golden idx: [6, 9]
+step-by-step think: 1. "Kids of the Round Table" context: This context directly mentions the film "Kids of the Round Table" and provides its release year as 1995. It is highly relevant to the claim and likely contains the answer regarding the film's release date. 2. "Sathyavan Savithri" context: This context directly mentions the film "Sathyavan Savithri" and provides its release year as 2007. It is highly relevant to the claim and likely contains the answer regarding the film's release date. 3. Other contexts: The remaining contexts do not directly mention either of the films in question and are less likely to contain the answer to the claim. They discuss various unrelated topics such as round tables, King Arthur, and other films or concepts not related to the claim.
+idx: [6, 9]
+
+成功的数量为：179总数：182当前回溯率：98.35164835164835%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:92
+Question:Where did Gigi Causey's husband graduate from?
+golden idx: [1, 5]
+step-by-step think: 1. "Andrew Bowler" context: This context is directly relevant to the claim as it mentions Andrew Bowler, who is Gigi Causey's husband. It provides specific information about his education, stating that he graduated from the Tisch School of the Arts of New York University in 1996. This context is highly likely to contain the answer to the claim. 2. "Gigi Causey" context: This context is relevant as it mentions Gigi Causey and her husband, Andrew Bowler. However, it does not provide specific information about where Andrew Bowler graduated from. It is relevant but less informative compared to the "Andrew Bowler" context. 3. Other contexts: The remaining contexts do not mention Gigi Causey, Andrew Bowler, or any information related to their education. They are not relevant to the claim and are unlikely to contain the answer.
+idx: [5, 1]
+
+成功的数量为：181总数：184当前回溯率：98.36956521739131%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:93
+Question:What nationality is Geodeung Of Geumgwan Gaya's mother?
+golden idx: [2, 9]
+step-by-step think: 1. "Heo Hwang-ok" context: This context is directly relevant to the claim as it mentions Heo Hwang-ok, who is identified as the mother of Geodeung of Geumgwan Gaya. It provides information about her origin, suggesting she came from a distant kingdom, believed to be located in India. This context is highly likely to contain the answer to the claim regarding her nationality. 2. "Geodeung of Geumgwan Gaya" context: This context is relevant as it mentions Geodeung of Gaya and his mother, Heo Hwang-ok. It provides additional details about her entourage and her role as queen, reinforcing the connection to the claim. While it does not explicitly state her nationality, it supports the information provided in the "Heo Hwang-ok" context. 3. "Sin Po" context: This context mentions Sin Po, who was an attendant of Heo Hwang-ok from India, which indirectly supports the claim about Heo Hwang-ok's nationality. However, it focuses more on Sin Po's role rather than directly addressing Heo Hwang-ok's nationality. 4. "Queen Mojong" context: This context mentions Queen Mojong, who is related to Heo Hwang-ok through Sin Po, but it does not directly address Heo Hwang-ok's nationality. It is less relevant compared to the contexts that directly mention Heo Hwang-ok. 5. Other contexts: The remaining contexts do not directly relate to the claim about Geodeung of Gaya's mother's nationality and are less likely to contain the answer.
+idx: [9, 2]
+
+成功的数量为：183总数：186当前回溯率：98.38709677419355%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:94
+Question:Which film was released earlier, Xenoa or Divorce Invitation?
+golden idx: [3, 4]
+step-by-step think: 1. "Divorce Invitation" context: This context directly mentions "Divorce Invitation" and provides its release date as 2012. It is highly relevant to the claim and likely contains the answer regarding the release date of "Divorce Invitation." 2. "Xenoa" context: This context directly mentions "Xenoa" and provides its release date as 2007. It is highly relevant to the claim and likely contains the answer regarding the release date of "Xenoa." Both contexts are directly related to the claim and provide the necessary information to determine which film was released earlier.
+idx: [3, 4]
+
+成功的数量为：185总数：188当前回溯率：98.40425531914893%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:95
+Question:What is the cause of death of Alex Matthiessen's father?
+golden idx: [7, 8]
+# step-by-step think: 
+1. Context 8 ("Peter Matthiessen") is directly relevant to the claim as it provides detailed information about Peter Matthiessen, who is Alex Matthiessen's father. It mentions Peter Matthiessen's death and specifies that he was treated for acute leukemia, which is directly related to the cause of death. This context is highly informative and likely contains the answer to the claim.
+2. Context 7 ("Alex Matthiessen") is relevant as it confirms the relationship between Alex Matthiessen and Peter Matthiessen, identifying Peter as Alex's father. However, it does not provide information about the cause of death. It is relevant for establishing the relationship but less informative regarding the cause of death compared to context 8.
+
+# idx: [8, 7]
+
+成功的数量为：187总数：190当前回溯率：98.42105263157895%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:96
+Question:What is the place of birth of Remigius Of Rouen's father?
+golden idx: [0, 3]
+step-by-step think: 
+1. "Charles Martel" context: This context is directly relevant to the claim as it mentions Charles Martel, who is the father of Remigius of Rouen. It provides detailed information about Charles Martel's background, including his place of birth, Herstal. This context is highly likely to contain the answer to the claim.
+2. "Remigius of Rouen" context: This context mentions Remigius of Rouen and his father, Charles Martel. While it provides background information about Remigius, it does not directly address the place of birth of Charles Martel. However, it is still relevant to the claim as it establishes the relationship between Remigius and Charles Martel.
+3. Other contexts such as "Nicasius of Rouen," "Joseph Duval," "Flavius of Rouen," "Tom Rouen," "John Templeton (botanist)," "Victricius," "Obata Toramori," and "Cleomenes II" do not provide information directly related to Charles Martel or his place of birth. They are less relevant and unlikely to contain the answer to the claim.
+
+idx: [3, 0]
+
+成功的数量为：189总数：192当前回溯率：98.4375%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:97
+Question:When did Lord Patrick Crichton-Stuart's father die?
+golden idx: [2, 4]
+step-by-step think: 1. Context idx 2 ("John Stuart, Lord Mount Stuart"): This context is directly relevant to the claim as it mentions John Stuart, Lord Mount Stuart, who is Lord Patrick Crichton-Stuart's father. It provides detailed information about his life, including his date of death, which is 22 January 1794. This context is highly informative and likely contains the answer to the claim. 2. Context idx 4 ("Lord Patrick Crichton-Stuart"): This context is also relevant to the claim as it mentions Lord Patrick Crichton-Stuart and his father, John Stuart, Lord Mount Stuart. It states that his father was killed in a riding accident six months before he was born, which aligns with the information provided in context idx 2. This context is informative and supports the answer to the claim.
+idx: [2, 4]
+
+成功的数量为：191总数：194当前回溯率：98.4536082474227%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:98
+Question:Which school was established first, Whitehorse Manor Junior School or Sabawoon Rehabilitation Centre?
+golden idx: [3, 9]
+step-by-step think: 1. "Whitehorse Manor Junior School" context: This context directly mentions Whitehorse Manor Junior School and provides detailed information about its establishment in April 2011. It is highly relevant to the claim and likely contains the answer regarding the inception date of the school. 2. "Sabawoon Rehabilitation Centre" context: This context directly mentions Sabawoon Rehabilitation Centre and provides information about its inauguration in 2009. It is highly relevant to the claim and likely contains the answer regarding the inception date of the centre. 3. Other contexts: The remaining contexts do not mention either Whitehorse Manor Junior School or Sabawoon Rehabilitation Centre, making them less relevant and unlikely to contain the answer to the claim.
+idx: [3, 9]
+
+成功的数量为：193总数：196当前回溯率：98.46938775510205%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:99
+Question:Are Little Sachigo Lake and Holden Lake located in the same country?
+golden idx: [5, 7]
+step-by-step think: 1. "Little Sachigo Lake" context: This context directly mentions Little Sachigo Lake and provides information about its location in Northwestern Ontario, Canada. It is highly relevant to the claim and likely contains the answer regarding the country of Little Sachigo Lake. 2. "Holden Lake" context: This context directly mentions Holden Lake and states that it is located in Ontario, Canada. It is highly relevant to the claim and likely contains the answer regarding the country of Holden Lake. 3. "Sachigo Lake" context: While this context provides information about Sachigo Lake, it is not directly about Little Sachigo Lake or Holden Lake. It is less relevant compared to the contexts that directly mention the lakes in question. 4. Other contexts: These contexts mention different lakes in various locations and are not relevant to the claim about Little Sachigo Lake and Holden Lake.
+idx: [5, 7]
+
+成功的数量为：195总数：198当前回溯率：98.48484848484848%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########
+##########
+ID:100
+Question:Who is Henriette Of France (1727–1752)'s maternal grandfather?
+golden idx: [4, 5]
+step-by-step think: 1. Context with idx 4 titled "Henriette of France (1727–1752)" is directly relevant to the claim as it mentions Anne "Henriette" of France and her parents, King Louis XV of France and Marie Leszczyńska. This context is highly likely to contain the answer to the claim about Henriette's maternal grandfather. 2. Context with idx 5 titled "Marie Leszczyńska" is also directly relevant as it provides information about Marie Leszczyńska, Henriette's mother, and her father, King Stanisław Leszczyński. This context is informative and likely contains the answer to the claim. 3. Other contexts, such as those about Princess Henriette of Belgium or Duchess Elisabeth Alexandrine of Württemberg, are not directly related to the claim about Henriette of France and her maternal grandfather, making them less relevant and less likely to contain the answer.
+idx: [4, 5]
+
+成功的数量为：197总数：200当前回溯率：98.5%
+第1轮错误：3，第2轮错误：0，第3轮错误：0
+##########

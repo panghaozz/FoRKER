@@ -3,11 +3,11 @@ import json
 from Function import find_best_match
 from evaluate_single_4o import normalize_answer
 
-directory = "result\\Q&A GOLDEN V3\\distractor\\JSON\\"
+directory = "result/Q&A GOLDEN V3/distractor/JSON/"
 ITEM_PATH = "KE_new_trajectory.json"
 RESULT_PATH = "KE_new_result.json"
 
-TXT_ITEM = "ANALYSE\\KE_new_trajectory_EM_pro.txt"
+TXT_ITEM = "ANALYSE/KE_new_trajectory_EM_pro.txt"
 MAX_ITERATION = 236
 full_filepath = os.path.join(directory, ITEM_PATH)
 full_result_filepath = os.path.join(directory, RESULT_PATH)

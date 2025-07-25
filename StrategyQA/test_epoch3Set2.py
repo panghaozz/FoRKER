@@ -17,10 +17,10 @@ def Supporting_context(client: OpenAI, LEVEL:str, TYPE_INPUT:str, TYPE_GOLDEN:st
     datasets = []
     datasets_golden = []
     recall_list = []
-    reslut_path = "result\\SupIdx\\" + str(Eps) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE_INPUT) + ".txt"
-    trajectory_path = "result\\SupIdx\\" + str(Eps) + "_" + str(CurrentTime) + "_trajectory_" + str(LEVEL) + "_" + str(TYPE_INPUT) + ".txt"
-    reslut_json_path = "result\\SupIdx\\JSON\\" + str(Eps) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE_INPUT) + ".json"
-    trajectory_json_path = "result\\SupIdx\\JSON\\" + str(Eps) + "_" + str(CurrentTime) + "_trajectory_" + str(LEVEL) + "_" + str(TYPE_INPUT) + ".json"
+    reslut_path = "result/SupIdx/" + str(Eps) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE_INPUT) + ".txt"
+    trajectory_path = "result/SupIdx/" + str(Eps) + "_" + str(CurrentTime) + "_trajectory_" + str(LEVEL) + "_" + str(TYPE_INPUT) + ".txt"
+    reslut_json_path = "result/SupIdx/JSON/" + str(Eps) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE_INPUT) + ".json"
+    trajectory_json_path = "result/SupIdx/JSON/" + str(Eps) + "_" + str(CurrentTime) + "_trajectory_" + str(LEVEL) + "_" + str(TYPE_INPUT) + ".json"
 
     with open(file_path, 'r', encoding='utf-8') as file:
         for line in file:
@@ -194,7 +194,7 @@ def Supporting_context(client: OpenAI, LEVEL:str, TYPE_INPUT:str, TYPE_GOLDEN:st
         print(f"回溯率：: {final_goal}%")
         result_file.write("\n回溯率：" + str(final_goal) + "%")
 
-    save_path = "result\\SupIdx\\picture\\"
+    save_path = "result/SupIdx/picture/"
     # painting_from_list(recall_list, LEVEL, TYPE_INPUT, CurrentTime, Epochs=Eps)
     painting_from_list(list=recall_list, save_path=save_path, LEVEL=LEVEL, TYPE=TYPE_INPUT, TIME=CurrentTime, Epochs=Eps)
 

@@ -53,10 +53,10 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
     acc_em_list = []
     acc_em_pro_list = []
     acc_f1_list = []
-    result_path = "result\\QA_GPT4o\\" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
-    trajectory_path = "result\\QA_GPT4o\\" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
-    result_json_path = "result\\QA_GPT4o\\JSON\\" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".json"
-    trajectory_json_path = "result\\QA_GPT4o\\JSON\\" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".json"
+    result_path = "result/QA_GPT4o/" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
+    trajectory_path = "result/QA_GPT4o/" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
+    result_json_path = "result/QA_GPT4o/JSON/" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".json"
+    trajectory_json_path = "result/QA_GPT4o/JSON/" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".json"
 
     List_path = "./result/SupIdx/JSON/Joint-2hop-16-8-4-3_result_all.json"
     context_dict_list = get_Context_List(List_path)
@@ -370,7 +370,7 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
         result_file.write("\n准确率：" + str(final_goal) + "%\n网络错误：" + str(ERROR))
         trajectory_file.write("\n准确率：" + str(final_goal) + "%\n网络错误：" + str(ERROR))
 
-    save_path = "result\\QA_GPT4o\\picture\\"
+    save_path = "result/QA_GPT4o/picture/"
     painting_from_list(list=acc_em_list, save_path=save_path, LEVEL=LEVEL, TYPE=TYPE, TIME=CurrentTime, Epochs="EM")
     painting_from_list(list=acc_em_list, save_path=save_path, LEVEL=LEVEL, TYPE=TYPE, TIME=CurrentTime, Epochs="EM pro")
     painting_from_list(list=acc_em_list, save_path=save_path, LEVEL=LEVEL, TYPE=TYPE, TIME=CurrentTime, Epochs="F1")

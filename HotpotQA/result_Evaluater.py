@@ -67,8 +67,8 @@ def Sumarize_result(full_filepath: str, MAX_ITERATION: int, ISPRO: bool):
 
 if __name__ == '__main__':
     # print(f"{predictions[1]}\n{gold_answers[1]}\n{pred_contexts[235]}\n{gold_contexts[235]}")
-    # directory = "result\\Q&A GOLDEN V3\\distractor\\JSON\\"
-    directory = "result\\Q&A GOLDEN V3\\GPT4o\\JSON\\"
+    # directory = "result/Q&A GOLDEN V3/distractor/JSON/"
+    directory = "result/Q&A GOLDEN V3/GPT4o/JSON/"
     ITEM_PATH = "GPT4o_100_07-23_00-44_result_distractor_test.json"
     MAX_ITERATION = 100
     ISPRO = True

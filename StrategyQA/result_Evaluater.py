@@ -66,7 +66,7 @@ def Sumarize_result(full_filepath: str, MAX_ITERATION: int, ISPRO: bool, LEVEL: 
 
 if __name__ == '__main__':
     # print(f"{predictions[1]}\n{gold_answers[1]}\n{pred_contexts[235]}\n{gold_contexts[235]}")
-    directory = "result\\QA\\JSON\\"
+    directory = "result/QA/JSON/"
     ITEM_PATH_2hop = "Joint_2hop_QA_result_test.json"
     MAX_ITERATION = 199
     ISPRO = False

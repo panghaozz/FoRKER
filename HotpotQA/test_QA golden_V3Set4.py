@@ -56,10 +56,10 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
     acc_em_list = []
     acc_em_pro_list = []
     acc_f1_list = []
-    result_path = "result\\Q&A GOLDEN V3\\distractor\\" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
-    trajectory_path = "result\\Q&A GOLDEN V3\\distractor\\" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
-    result_json_path = "result\\Q&A GOLDEN V3\\distractor\\JSON\\" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".json"
-    trajectory_json_path = "result\\Q&A GOLDEN V3\\distractor\\JSON\\" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".json"
+    result_path = "result/Q&A GOLDEN V3/distractor/" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
+    trajectory_path = "result/Q&A GOLDEN V3/distractor/" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
+    result_json_path = "result/Q&A GOLDEN V3/distractor/JSON/" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".json"
+    trajectory_json_path = "result/Q&A GOLDEN V3/distractor/JSON/" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".json"
 
     List_path = "./result/SupIdx/distractor/V2/8-4-3-joint_06-04_15-45_result_distractor_test.txt"
     context_dict_list = get_Context_List(List_path)
@@ -372,7 +372,7 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
         result_file.write("\n准确率：" + str(final_goal) + "%\n网络错误：" + str(ERROR))
         trajectory_file.write("\n准确率：" + str(final_goal) + "%\n网络错误：" + str(ERROR))
 
-    save_path = "result\\Q&A GOLDEN PICTURE V3\\distractor\\"
+    save_path = "result/Q&A GOLDEN PICTURE V3/distractor/"
     painting_from_list(list=acc_em_list, save_path=save_path, LEVEL=LEVEL, TYPE=TYPE, TIME=CurrentTime, Epochs="EM")
     painting_from_list(list=acc_em_list, save_path=save_path, LEVEL=LEVEL, TYPE=TYPE, TIME=CurrentTime, Epochs="EM pro")
     painting_from_list(list=acc_em_list, save_path=save_path, LEVEL=LEVEL, TYPE=TYPE, TIME=CurrentTime, Epochs="F1")

@@ -5,7 +5,7 @@ from Function import find_best_match
 from evaluate_single_4o import normalize_answer, evaluate_all
 
 def reflexion_reader(ITEM_PATH: str):
-    directory = "result\\Q&A GOLDEN V3\\distractor\\"
+    directory = "result/Q&A GOLDEN V3/distractor/"
     full_filepath = os.path.join(directory, ITEM_PATH)
     print(f"Writing in: {full_filepath}")
 
@@ -41,7 +41,7 @@ def reflexion_reader(ITEM_PATH: str):
         goldenAnswerList.append(goldenAnswer)
     return predictionsList, predictionsProList, goldenAnswerList
 
-QA_file_path = "result\\Q&A GOLDEN V3\\distractor\\JSON\\KE_new_result.json"
+QA_file_path = "result/Q&A GOLDEN V3/distractor/JSON/KE_new_result.json"
 QA_datasets = []
 with open(QA_file_path, 'r', encoding='utf-8') as file:
     for line in file:

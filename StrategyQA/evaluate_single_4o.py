@@ -166,7 +166,7 @@ def evaluate_all(predictions, gold_answers, pred_contexts, gold_contexts, MAX_IT
         'joint_prec': round(avg_joint_prec * 100, 2),
         'joint_recall': round(avg_joint_recall * 100, 2)
     }
-    save_path = "result\\QA\\picture\\"
+    save_path = "result/QA/picture/"
     LEVEL = Version
     painting_from_list(em_list, save_path, LEVEL)
 

@@ -112,3 +112,39 @@ Answer: Sonic
 Evidence and explanation: Jim Cummings is identified as the singer of "A Rather Blustery Day" in context index 9. Context index 4 lists characters voiced by Jim Cummings, which includes Sonic the Hedgehog. Since Sonic is the only hedgehog mentioned in the contexts, he is the correct answer.
 Step by step with evidence and explanation:1. The question asks for the hedgehog voiced by the singer of "A Rather Blustery Day."2. Context index 9 confirms that Jim Cummings sang "A Rather Blustery Day."3. Context index 4 lists Sonic the Hedgehog among characters voiced by Jim Cummings.4. Sonic is the hedgehog character in the series, making him the correct answer to the question.
 '''
+
+No_CoE_prompt = '''
+# You are a text Question-Answer agent. Given a claim to answer and a collection of potentially useful context about the claim.
+# The format of each piece of context: {"idx":[context index], "title":[title of the context], "paragraph_text":[content of the context]}
+#  Find the answer to this claim.
+'''
+
+No_CoE_output_prompt = '''
+# Please adhere strictly to the following response format.
+# The format of your response is: 
+Answer: [Your answer]
+'''
+
+No_CoE_prompt_KE = '''
+# You are a text Question-Answer agent. Given a claim to answer and a collection of potentially useful context about the claim.
+# The format of each piece of context: {"idx":[context index], "title":[title of the context], "paragraph_text":[content of the context]}
+# Your task is to analyze these pieces of contexts, and find the answer to this claim directly in these Contexts.
+'''
+
+No_CoE_output_prompt_KE = '''
+# Please adhere strictly to the following response format.
+# The format of your response is: 
+Answer: [Your answer]
+'''
+
+No_CoE_prompt_YN = '''
+# You are a text Question-Answer agent. Given a claim to answer and a collection of potentially useful context about the claim.
+# The format of each piece of context: {"idx":[context index], "title":[title of the context], "paragraph_text":[content of the context]}
+#  Find the answer to this claim.
+'''
+
+No_CoE_output_prompt_YN = '''
+# Please adhere strictly to the following response format.
+# The format of your response is: 
+Answer: [Your answer]
+'''

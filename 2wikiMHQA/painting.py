@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib
 
 def painting_from_path(file_path: str, item: str, save_path: str):
-    matplotlib.rc("font", family='Microsoft YaHei')
+    matplotlib.rc("font", family='Arial Unicode MS')
     MESSAGE = item.split("_")
     FORMAT, TIME_DAY, TIME_HOUR, TYPE, LEVEL = MESSAGE[0], MESSAGE[1], MESSAGE[2], MESSAGE[3], MESSAGE[4]
     item_path = item + ".txt"
@@ -32,7 +32,7 @@ def painting_from_path(file_path: str, item: str, save_path: str):
     print(ACC_LIST)
 
 def painting_from_list(list: list, save_path: str, LEVEL="", TYPE="", TIME="", Epochs = ""):
-    matplotlib.rc("font", family='Microsoft YaHei')
+    matplotlib.rc("font", family='Arial Unicode MS')
     ACC_LIST = list
     plt.figure(figsize=(20, 10), dpi=100)
     plt.plot(ACC_LIST, color="red")
@@ -49,9 +49,9 @@ def painting_from_list(list: list, save_path: str, LEVEL="", TYPE="", TIME="", E
     # plt.show()
 
 def run():
-    file_path = "result\\SupIdx\\distractor\\V2\\"
+    file_path = "./result/SupIdx/distractor/V2/"
     item = "8-4-3-joint_06-04_15-45_result_distractor_test"
-    save_path = "result\\SupIdx\\distractor\\PICTURE\\"
+    save_path = "./result/SupIdx/distractor/PICTURE/"
     painting_from_path(file_path, item, save_path)
 
 # run()

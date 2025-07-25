@@ -50,10 +50,10 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
     file_path = base_path + str(LEVEL) + "_" + str(TYPE) + ".json"
     datasets = []
     acc_list = []
-    result_path = "result\\Q&A V3\\distractor\\" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
-    trajectory_path = "result\\Q&A V3\\distractor\\" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
-    result_json_path = "result\\Q&A V3\\distractor\\JSON\\" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".json"
-    trajectory_json_path = "result\\Q&A V3\\distractor\\JSON\\" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".json"
+    result_path = "result/Q&A V3/distractor/" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
+    trajectory_path = "result/Q&A V3/distractor/" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
+    result_json_path = "result/Q&A V3/distractor/JSON/" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".json"
+    trajectory_json_path = "result/Q&A V3/distractor/JSON/" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".json"
 
     List_path = "./result/SupIdx/distractor/V2/8-4-3_05-20_18-36_result_distractor_test.txt"
     context_dict_list = get_Context_List(List_path)
@@ -184,7 +184,7 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
         result_file.write("\n准确率：" + str(final_goal) + "%\n网络错误：" + str(ERROR))
         trajectory_file.write("\n准确率：" + str(final_goal) + "%\n网络错误：" + str(ERROR))
 
-    save_path = "result\\Q&A V3 PICTURE\\distractor\\"
+    save_path = "result/Q&A V3 PICTURE/distractor/"
     painting_from_list(acc_list, LEVEL, TYPE, CurrentTime, save_path)
 
 

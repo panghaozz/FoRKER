@@ -28,8 +28,8 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
     file_path = base_path + str(LEVEL) + "_" + str(TYPE) + ".json"
     datasets = []
     acc_list = []
-    result_path = "result\\Q&A V2\\" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
-    trajectory_path = "result\\Q&A V2\\" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
+    result_path = "result/Q&A V2/" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
+    trajectory_path = "result/Q&A V2/" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
 
     with open(file_path, 'r', encoding='utf-8') as file:
         for line in file:
@@ -130,7 +130,7 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
         result_file.write("\n准确率：" + str(final_goal) + "%\n网络错误：" + str(ERROR))
         trajectory_file.write("\n准确率：" + str(final_goal) + "%\n网络错误：" + str(ERROR))
 
-    save_path = "result\\Q&A V2 PICTURE\\"
+    save_path = "result/Q&A V2 PICTURE/"
     painting_from_list(acc_list, LEVEL, TYPE, CurrentTime, save_path)
 
 
