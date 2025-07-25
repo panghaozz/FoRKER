@@ -1,7 +1,7 @@
 from openai import OpenAI
 import httpx
+from prompt_Evidence import Evidence_prompt_golden, Evidence_output_prompt_golden, Evidence_prompt_golden_YN, Evidence_output_prompt_golden_YN, Reflexion_prompt, Reflexion_output_prompt, Reflexion_prompt_YN, Reflexion_output_prompt_YN
 from prompt_Ablation import *
-from prompt import *
 import json
 import time
 from time import sleep
@@ -50,17 +50,17 @@ def is_spans_non_empty(answer):
     else:
         return 0
 
-def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base_path: str, CurrentTime: time.strftime, Input_prompt: list, Output_prompt: list, Input_Rprompt: list, Output_Rprompt: list,  start_iter: int, ISKE: bool, ISAP: bool, Version = ""):
+def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base_path: str, CurrentTime: time.strftime, Input_prompt: list, Output_prompt: list, Input_Rprompt: list, Output_Rprompt: list,  start_iter: int, ISKE: bool, ISAP: bool, ISRF: bool, Version = ""):
     file_path = base_path + str(LEVEL) + "_" + str(TYPE) + ".json"
     datasets = []
     acc_list = []
     acc_em_list = []
     acc_em_pro_list = []
     acc_f1_list = []
-    result_path = "result\Ablation/NoCoE/" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
-    trajectory_path = "result/Ablation/NoCoE/" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
-    result_json_path = "result/Ablation/NoCoE/JSON/" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".json"
-    trajectory_json_path = "result/Ablation/NoCoE/JSON/" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".json"
+    result_path = "result/Ablation/QA_w_Focus/" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
+    trajectory_path = "result/Ablation/QA_w_Focus/" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
+    result_json_path = "result/Ablation/QA_w_Focus/JSON/" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".json"
+    trajectory_json_path = "result/Ablation/QA_w_Focus/JSON/" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".json"
 
     List_path = "./result/SupIdx/distractor/V2/8-4-3-joint_06-04_15-45_result_distractor_test.txt"
     context_dict_list = get_Context_List(List_path)
@@ -149,7 +149,7 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
             while not is_made_it:
                 try:
                     completion = client.chat.completions.create(
-                        model="gpt-3.5-turbo-16k",
+                        model="deepseek-chat",
                         messages=[
                             {"role": "system", "content": set_prompt},
                         ],
@@ -195,7 +195,7 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
                         response_answer = found_answer if ISAP else answer
                         EM_answer = answer
 
-                        if response_answer != ground_truth_answer:
+                        if ISRF and response_answer != ground_truth_answer:
                             print(f"回答错误，开始反思\n")
                             Context_ref_prompt = '''Context:''' + str(Support_Context_List) + '''\n'''
                             Trajectory = str(response)
@@ -373,7 +373,7 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
         result_file.write("\n准确率：" + str(final_goal) + "%\n网络错误：" + str(ERROR))
         trajectory_file.write("\n准确率：" + str(final_goal) + "%\n网络错误：" + str(ERROR))
 
-    save_path = "result/Ablation/NoCoE/picture/"
+    save_path = "result/Ablation/QA_w_Focus/picture/"
     painting_from_list(list=acc_em_list, save_path=save_path, LEVEL=LEVEL, TYPE=TYPE, TIME=CurrentTime, Epochs="EM")
     painting_from_list(list=acc_em_list, save_path=save_path, LEVEL=LEVEL, TYPE=TYPE, TIME=CurrentTime, Epochs="EM pro")
     painting_from_list(list=acc_em_list, save_path=save_path, LEVEL=LEVEL, TYPE=TYPE, TIME=CurrentTime, Epochs="F1")
@@ -383,23 +383,30 @@ if __name__ == "__main__":
     LEVEL_list = {"distractor"}  # {"easy", "hard", "medium"} or {"total"} or {"distractor"}
     TYPE = "test"  # {"train", "test"}
     # MAX_EPOCH = 2
-    MAX_ITERATION = 150
+    MAX_ITERATION = 100
     base_path = "./processed_data/hotpotqa/"
     Input_prompt = [No_CoE_prompt, No_CoE_prompt_YN]
     Output_prompt = [No_CoE_output_prompt, No_CoE_output_prompt_YN]
     Input_Ref_prompt = [Reflexion_prompt, Reflexion_prompt_YN]
     Output_Ref_prompt = [Reflexion_output_prompt, Reflexion_output_prompt_YN]
-    Version = "NoCoEKnowledge-150"
+    Version = "DS_Focus_100"
     start_iter = 0
     ISKE = False  # 知识编辑
     ISAP = False # 答案处理
+    ISRF = False # 反思
 
-    client = OpenAI(
+    clientGPT = OpenAI(
         base_url="https://xiaoai.plus/v1",
         api_key="sk-inNndrUrn8S4hfpy328c83E091364cF1B743Ee6d1dA9818f",
-        http_client=httpx.Client( base_url="https://xiaoai.plus/v1", follow_redirects=True,),
+        http_client=httpx.Client(base_url="https://xiaoai.plus/v1", follow_redirects=True, ),
+    )
+
+    clientDS = OpenAI(  # deepseek-chat
+        api_key="sk-d84a65c9c6574df5934ae04f8692268d",
+        base_url="https://api.deepseek.com",
+        http_client=httpx.Client(base_url="https://api.deepseek.com", follow_redirects=True, ),
     )
 
     for LEVEL in LEVEL_list:
         print(f"正在运行{LEVEL}类型的实验\n是否使用知识编辑：{ISKE}")
-        Evidengce_QA(client=client, LEVEL=LEVEL, TYPE=TYPE, MAX_ITERATION=MAX_ITERATION, base_path=base_path, CurrentTime=CurrentTime, Input_prompt=Input_prompt, Output_prompt=Output_prompt, Input_Rprompt=Input_Ref_prompt, Output_Rprompt=Output_Ref_prompt, start_iter=start_iter, ISKE=ISKE, ISAP=ISAP, Version=Version)
+        Evidengce_QA(client=clientDS, LEVEL=LEVEL, TYPE=TYPE, MAX_ITERATION=MAX_ITERATION, base_path=base_path, CurrentTime=CurrentTime, Input_prompt=Input_prompt, Output_prompt=Output_prompt, Input_Rprompt=Input_Ref_prompt, Output_Rprompt=Output_Ref_prompt, start_iter=start_iter, ISKE=ISKE, ISAP=ISAP, ISRF=ISRF, Version=Version)
