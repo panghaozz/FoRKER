@@ -82,7 +82,7 @@ def run():
 
     List_path = "./result/SupIdx/distractor/V2/8-4-3_05-20_18-36_result_distractor_test.txt"
     context_dict_list = get_Context_List(List_path)
-    result_path = "knowledge editing\\" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
+    result_path = "knowledge editing/" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
     file_path = base_path + str(LEVEL) + "_" + str(TYPE) + ".json"
     datasets = []
 

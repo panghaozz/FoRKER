@@ -3,7 +3,7 @@ import json
 from Function import find_best_match
 from evaluate_single_4o import normalize_answer
 
-directory = "result\\Q&A GOLDEN V3\\distractor\\JSON\\"
+directory = "result/Q&A GOLDEN V3/distractor/JSON/"
 ITEM_PATH1 = "KE_new_trajectory.json"
 ITEM_PATH2 = "Reflexion_06-05_17-02_trajectory_distractor_test.json"
 ITEM_PATH3 = "Reflexion_06-05_19-39_trajectory_distractor_test.json"

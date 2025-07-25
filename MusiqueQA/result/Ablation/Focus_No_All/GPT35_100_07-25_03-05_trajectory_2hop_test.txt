@@ -1,0 +1,900 @@
+##########
+ID:1
+Question:Who is the spouse of the Green performer?
+golden idx: [5, 10]
+idx: [5, 10]
+
+成功的数量为：2总数：2当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:2
+Question:Who founded the company that distributed the film UHF?
+golden idx: [6, 10]
+idx: [10, 6]
+
+成功的数量为：4总数：4当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:3
+Question:What administrative territorial entity is the owner of Ciudad Deportiva located?
+golden idx: [3, 11]
+idx: [3, 11]
+
+成功的数量为：6总数：6当前回溯率：100.0%
+第1轮错误：0，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:4
+Question:Where is Ulrich Walter's employer headquartered?
+golden idx: [11, 14]
+idx: [11, 12]
+
+成功的数量为：7总数：8当前回溯率：87.5%
+第1轮错误：1，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:5
+Question:Which company owns the manufacturer of Learjet 60?
+golden idx: [5, 10]
+idx: [10, 5]
+
+成功的数量为：9总数：10当前回溯率：90.0%
+第1轮错误：1，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:6
+Question:Who is the child of Caroline LeRoy's spouse?
+golden idx: [0, 10]
+idx: [0, 10]
+
+成功的数量为：11总数：12当前回溯率：91.66666666666666%
+第1轮错误：1，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:7
+Question:Who is the grandmother of Philippe, Duke of Orléans?
+golden idx: [8, 14]
+idx: [8, 13]
+
+成功的数量为：12总数：14当前回溯率：85.71428571428571%
+第1轮错误：2，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:8
+Question:What is the goal of the group that European Movement Germany is a member of?
+golden idx: [4, 17]
+idx: [4, 17]
+
+成功的数量为：14总数：16当前回溯率：87.5%
+第1轮错误：2，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:9
+Question:What company succeeded the owner of Empire Sports Network?
+golden idx: [2, 16]
+idx: [2, 16]
+
+成功的数量为：16总数：18当前回溯率：88.88888888888889%
+第1轮错误：2，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:10
+Question:What province shares a border with the province where Lago District is located?
+golden idx: [0, 16]
+idx: [16, 0]
+
+成功的数量为：18总数：20当前回溯率：90.0%
+第1轮错误：2，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:11
+Question:What league does the team that plays in Stadio Ciro Vigorito play for?
+golden idx: [11, 13]
+idx: [11, 13]
+
+成功的数量为：20总数：22当前回溯率：90.9090909090909%
+第1轮错误：2，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:12
+Question:What is a notable work written by the author of The Timothy files?
+golden idx: [3, 15]
+idx: [3, 15]
+
+成功的数量为：22总数：24当前回溯率：91.66666666666666%
+第1轮错误：2，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:13
+Question:In which borough was Callum McManaman born?
+golden idx: [17, 18]
+idx: [17, 18]
+
+成功的数量为：24总数：26当前回溯率：92.3076923076923%
+第1轮错误：2，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:14
+Question:What other county does the county where Imperial is located share a border with?
+golden idx: [12, 17]
+idx: [12, 4]
+
+成功的数量为：25总数：28当前回溯率：89.28571428571429%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:15
+Question:In what county is William W. Blair's birthplace located?
+golden idx: [15, 17]
+idx: [15, 17]
+
+成功的数量为：27总数：30当前回溯率：90.0%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:16
+Question:What award did the author of The Red Tree receive?
+golden idx: [4, 13]
+idx: [13, 4]
+
+成功的数量为：29总数：32当前回溯率：90.625%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:17
+Question:Where was Tyler MacDuff's child educated?
+golden idx: [8, 14]
+idx: [14, 8]
+
+成功的数量为：31总数：34当前回溯率：91.17647058823529%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:18
+Question:Who is the spouse of the Rabbit Hole's producer?
+golden idx: [3, 9]
+idx: [9, 3]
+
+成功的数量为：33总数：36当前回溯率：91.66666666666666%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:19
+Question:Who is the child of Sigrid Eskilsdotter's child?
+golden idx: [4, 15]
+idx: [4, 15]
+
+成功的数量为：35总数：38当前回溯率：92.10526315789474%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:20
+Question:In which county is Kimbrough Memorial Stadium located?
+golden idx: [4, 16]
+idx: [4, 16]
+
+成功的数量为：37总数：40当前回溯率：92.5%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:21
+Question:What record label is the performer of Almost Made Ya signed to?
+golden idx: [7, 10]
+idx: [7, 10]
+
+成功的数量为：39总数：42当前回溯率：92.85714285714286%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:22
+Question:Where was the author of Hannibal and Scipio educated at?
+golden idx: [9, 12]
+idx: [9, 12]
+
+成功的数量为：41总数：44当前回溯率：93.18181818181817%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:23
+Question:In which county is Southern Maryland Electric Cooperative headquartered?
+golden idx: [3, 7]
+idx: [3,7]
+
+成功的数量为：43总数：46当前回溯率：93.47826086956522%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:24
+Question:Who is the child of the Victim of Romance performer?
+golden idx: [8, 15]
+idx: [15, 8]
+
+成功的数量为：45总数：48当前回溯率：93.75%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:25
+Question:What county was Tim Dubois born in?
+golden idx: [6, 17]
+idx: [6, 17]
+
+成功的数量为：47总数：50当前回溯率：94.0%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:26
+Question:What record label did the person who is part of The Bruce Lee Band start?
+golden idx: [9, 18]
+idx: [9, 18]
+
+成功的数量为：49总数：52当前回溯率：94.23076923076923%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:27
+Question:What is another notable work made by the author of Miss Sara Sampson?
+golden idx: [15, 17]
+idx: [15, 17]
+
+成功的数量为：51总数：54当前回溯率：94.44444444444444%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:28
+Question:What instrument is played by the person from The Blackout All-Stars?
+golden idx: [12, 16]
+idx: [12, 16]
+
+成功的数量为：53总数：56当前回溯率：94.64285714285714%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:29
+Question:What is the seat of the county where Van Hook Township is located?
+golden idx: [1, 8]
+idx: [8, 1]
+
+成功的数量为：55总数：58当前回溯率：94.82758620689656%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:30
+Question:Who is the father of Edward Baring, 1st Baron Revelstoke's father?
+golden idx: [6, 17]
+idx: [6,17]
+
+成功的数量为：57总数：60当前回溯率：95.0%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:31
+Question:What group was the performer of Be the One a member of?
+golden idx: [8, 17]
+idx: [8, 17]
+
+成功的数量为：59总数：62当前回溯率：95.16129032258065%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:32
+Question:Who is the lead singer of the band performing Bang Bang Rock & Roll?
+golden idx: [2, 8]
+idx: [2, 8]
+
+成功的数量为：61总数：64当前回溯率：95.3125%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:33
+Question:What is the network which National Cycle Route 57 is part of an example of?
+golden idx: [12, 14]
+idx: [12, 14]
+
+成功的数量为：63总数：66当前回溯率：95.45454545454545%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:34
+Question:Who is the spouse of the child of Peter Andreas Heiberg?
+golden idx: [11, 16]
+idx: [16, 11]
+
+成功的数量为：65总数：68当前回溯率：95.58823529411765%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:35
+Question:The Unwinding author volunteered for which organisation?
+golden idx: [11, 12]
+idx: [11, 12]
+
+成功的数量为：67总数：70当前回溯率：95.71428571428572%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:36
+Question:What is the capital of the county that Pine Springs is located in?
+golden idx: [4, 6]
+idx: [6, 4]
+
+成功的数量为：69总数：72当前回溯率：95.83333333333334%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:37
+Question:What district is the headquarter of Julia's House located?
+golden idx: [7, 10]
+idx: [7, 10]
+
+成功的数量为：71总数：74当前回溯率：95.94594594594594%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:38
+Question:Who is the spouse of Young Man Luther's author?
+golden idx: [12, 19]
+idx: [12, 19]
+
+成功的数量为：73总数：76当前回溯率：96.05263157894737%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:39
+Question:What record label did the performer of The Place and the Time belong to?
+golden idx: [0, 6]
+idx: [0, 6]
+
+成功的数量为：75总数：78当前回溯率：96.15384615384616%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:40
+Question:Who is the child of the person who followed Tihomir of Serbia?
+golden idx: [6, 17]
+idx: [6, 17]
+
+成功的数量为：77总数：80当前回溯率：96.25%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:41
+Question:What team was Anna Benson's husband on?
+golden idx: [9, 16]
+idx: [9, 16]
+
+成功的数量为：79总数：82当前回溯率：96.34146341463415%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:42
+Question:What place does the administrative territorial entity that Juba is located in share a border with?
+golden idx: [13, 14]
+idx: [13, 14]
+
+成功的数量为：81总数：84当前回溯率：96.42857142857143%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:43
+Question:Where was the spouse of Frances Tupper born?
+golden idx: [4, 13]
+idx: [4, 13]
+
+成功的数量为：83总数：86当前回溯率：96.51162790697676%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:44
+Question:Who founded the political party of Dimuthu Bandara Abayakoon?
+golden idx: [8, 12]
+idx: [12, 8]
+
+成功的数量为：85总数：88当前回溯率：96.5909090909091%
+第1轮错误：3，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:45
+Question:Bancroft's county borders what county?
+golden idx: [7, 8]
+idx: [7, 17]
+
+成功的数量为：86总数：90当前回溯率：95.55555555555556%
+第1轮错误：4，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:46
+Question:In which county is Mark Dismore's birthplace located?
+golden idx: [10, 13]
+idx: [10, 0]
+
+成功的数量为：87总数：92当前回溯率：94.56521739130434%
+第1轮错误：5，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:47
+Question:Who was the sibling of Nannina de' Medici?
+golden idx: [5, 8]
+idx: [5, 8]
+
+成功的数量为：89总数：94当前回溯率：94.68085106382979%
+第1轮错误：5，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:48
+Question:What county is the NRHEG High School located in?
+golden idx: [16, 19]
+idx: [16, 19]
+
+成功的数量为：91总数：96当前回溯率：94.79166666666666%
+第1轮错误：5，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:49
+Question:What league does the team that occupies the Rabat Ajax Football Ground belong to?
+golden idx: [6, 13]
+idx: [13, 5]
+
+成功的数量为：92总数：98当前回溯率：93.87755102040816%
+第1轮错误：6，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:50
+Question:Who was married to the star of No Escape?
+golden idx: [5, 19]
+idx: [5, 19]
+
+成功的数量为：94总数：100当前回溯率：94.0%
+第1轮错误：6，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:51
+Question:What administrative territorial entity contains the place where KPRM is licensed to broadcast to?
+golden idx: [5, 16]
+idx: [5,16]
+
+成功的数量为：96总数：102当前回溯率：94.11764705882352%
+第1轮错误：6，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:52
+Question:Where are the headquarters for the publisher of In the Shadow of Greatness?
+golden idx: [4, 5]
+idx: [4, 5]
+
+成功的数量为：98总数：104当前回溯率：94.23076923076923%
+第1轮错误：6，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:53
+Question:Who is part of the band that performed Full Cooperation?
+golden idx: [8, 10]
+idx: [10, 8]
+
+成功的数量为：100总数：106当前回溯率：94.33962264150944%
+第1轮错误：6，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:54
+Question:The territory containing Bansaan Island is located at which island?
+golden idx: [7, 17]
+idx: [17, 7]
+
+成功的数量为：102总数：108当前回溯率：94.44444444444444%
+第1轮错误：6，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:55
+Question:In which county did Snappy Tomato Pizza form?
+golden idx: [4, 8]
+idx: [4, 8]
+
+成功的数量为：104总数：110当前回溯率：94.54545454545455%
+第1轮错误：6，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:56
+Question:What's the place of birth of the former member of The Sunnyboys?
+golden idx: [17, 18]
+idx: [17, 18]
+
+成功的数量为：106总数：112当前回溯率：94.64285714285714%
+第1轮错误：6，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:57
+Question:In which district was Ernie Watts born?
+golden idx: [14, 18]
+idx: [14, 18]
+
+成功的数量为：108总数：114当前回溯率：94.73684210526315%
+第1轮错误：6，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:58
+Question:Which county does Lloyd Dane's birthplace belong to?
+golden idx: [0, 18]
+idx: [0,4]
+
+成功的数量为：109总数：116当前回溯率：93.96551724137932%
+第1轮错误：7，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:59
+Question:Who is the spouse of the screenwriter of The Actress?
+golden idx: [0, 10]
+idx: [0, 10]
+
+成功的数量为：111总数：118当前回溯率：94.0677966101695%
+第1轮错误：7，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:60
+Question:What award was received by the person who authored Missing Person?
+golden idx: [0, 16]
+idx: [0, 16]
+
+成功的数量为：113总数：120当前回溯率：94.16666666666667%
+第1轮错误：7，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:61
+Question:What event caused the founder of Australia's liberal party to become Prime Minister?
+golden idx: [5, 17]
+idx: [2, 17]
+
+成功的数量为：114总数：122当前回溯率：93.44262295081968%
+第1轮错误：8，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:62
+Question:What event caused the Liberal Party of Australia's longest-serving leader to become Prime Minister?
+golden idx: [10, 17]
+idx: [7, 17]
+
+成功的数量为：115总数：124当前回溯率：92.74193548387096%
+第1轮错误：9，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:63
+Question:What was the average per capita GVA in 2013 of the country which created Burma's academic system?
+golden idx: [10, 15]
+idx: [10, 0]
+
+成功的数量为：116总数：126当前回溯率：92.06349206349206%
+第1轮错误：10，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:64
+Question:Who is the spouse of the creator of The Nanny Reunion: A Nosh to Remember?
+golden idx: [11, 19]
+idx: [11, 19]
+
+成功的数量为：118总数：128当前回溯率：92.1875%
+第1轮错误：10，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:65
+Question:Who founded the publisher of The Final Testament of the Holy Bible?
+golden idx: [3, 8]
+idx: [3, 8]
+
+成功的数量为：120总数：130当前回溯率：92.3076923076923%
+第1轮错误：10，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:66
+Question:During which era was the company that makes Nirbhay founded?
+golden idx: [6, 7]
+idx: [6,7]
+
+成功的数量为：122总数：132当前回溯率：92.42424242424242%
+第1轮错误：10，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:67
+Question:During what era was the manufacturer of Agni-V founded?
+golden idx: [15, 16]
+idx: [15, 0]
+
+成功的数量为：123总数：134当前回溯率：91.7910447761194%
+第1轮错误：11，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:68
+Question:In what era was the company known as the manufacturer of Agni-V founded?
+golden idx: [2, 6]
+idx: [2, 18]
+
+成功的数量为：124总数：136当前回溯率：91.17647058823529%
+第1轮错误：12，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:69
+Question:What city is located in the county containing Qiantong?
+golden idx: [10, 13]
+idx: [10, 13]
+
+成功的数量为：126总数：138当前回溯率：91.30434782608695%
+第1轮错误：12，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:70
+Question:What is the performer of Heartbeat named after?
+golden idx: [4, 12]
+idx: [4, 12]
+
+成功的数量为：128总数：140当前回溯率：91.42857142857143%
+第1轮错误：12，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:71
+Question:The Move Ya Body song's band is named after who?
+golden idx: [7, 9]
+idx: [7, 9]
+
+成功的数量为：130总数：142当前回溯率：91.54929577464789%
+第1轮错误：12，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:72
+Question:When did the spacecraft that detected storms on Neptune leave our solar system?
+golden idx: [8, 10]
+idx: [2, 10]
+
+成功的数量为：131总数：144当前回溯率：90.97222222222221%
+第1轮错误：13，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:73
+Question:The Nicole and Natalie album's band is named after who?
+golden idx: [5, 19]
+idx: [5, 19]
+
+成功的数量为：133总数：146当前回溯率：91.0958904109589%
+第1轮错误：13，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:74
+Question:Where was the founder of the National Women's Party born?
+golden idx: [4, 11]
+idx: [11, 4]
+
+成功的数量为：135总数：148当前回溯率：91.21621621621621%
+第1轮错误：13，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:75
+Question:What is the place of birth of the person who submitted the first version of the equal rights amendment to congress in 1923?
+golden idx: [0, 18]
+idx: [0, 18]
+
+成功的数量为：137总数：150当前回溯率：91.33333333333333%
+第1轮错误：13，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:76
+Question:The Directory of Public Worship was approved by a parliament whose modern equivalent has been based where since 2004?
+golden idx: [13, 16]
+idx: [13, 16]
+
+成功的数量为：139总数：152当前回溯率：91.44736842105263%
+第1轮错误：13，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:77
+Question:Where was the person featured on the Chester Arthur coin born?
+golden idx: [14, 19]
+idx: [14, 19]
+
+成功的数量为：141总数：154当前回溯率：91.55844155844156%
+第1轮错误：13，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:78
+Question:Since 2004, what is the location of the body to which, if a matter is not specifically reserved, it is devolved?
+golden idx: [3, 7]
+idx: [3, 7]
+
+成功的数量为：143总数：156当前回溯率：91.66666666666666%
+第1轮错误：13，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:79
+Question:The city which contains Broadhurst Park shares a border with what town?
+golden idx: [6, 11]
+idx: [6,11]
+
+成功的数量为：145总数：158当前回溯率：91.77215189873418%
+第1轮错误：13，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:80
+Question:What is the record label of the Metalworks Studio founder?
+golden idx: [1, 9]
+idx: [9, 5]
+
+成功的数量为：146总数：160当前回溯率：91.25%
+第1轮错误：14，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:81
+Question:What is the mouth of watercourse for the body of water where Bartram's Covered Bridge is located?
+golden idx: [9, 18]
+idx: [18, 9]
+
+成功的数量为：148总数：162当前回溯率：91.35802469135803%
+第1轮错误：14，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:82
+Question:What is the ruler of the underworld in ancient Egypt a part of?
+golden idx: [9, 17]
+idx: [9, 17]
+
+成功的数量为：150总数：164当前回溯率：91.46341463414635%
+第1轮错误：14，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:83
+Question:What pantheon is the God of the underworld in ancient Egypt a part of?
+golden idx: [10, 11]
+idx: [10, 11]
+
+成功的数量为：152总数：166当前回溯率：91.56626506024097%
+第1轮错误：14，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:84
+Question:In which district was Alhandra born?
+golden idx: [3, 19]
+idx: [3, 19]
+
+成功的数量为：154总数：168当前回溯率：91.66666666666666%
+第1轮错误：14，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:85
+Question:In which state is Vera Barbosa's place of birth located?
+golden idx: [5, 6]
+idx: [5, 6]
+
+成功的数量为：156总数：170当前回溯率：91.76470588235294%
+第1轮错误：14，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:86
+Question:In which state is Póvoa de Santa Iria's municipality located?
+golden idx: [13, 17]
+idx: [17, 13]
+
+成功的数量为：158总数：172当前回溯率：91.86046511627907%
+第1轮错误：14，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:87
+Question:How old was Mary when engaged to the person from whom São José dos Campos takes it's name?
+golden idx: [18, 19]
+idx: [18, 19]
+
+成功的数量为：160总数：174当前回溯率：91.95402298850574%
+第1轮错误：14，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:88
+Question:Where was Mary's betrothed born?
+golden idx: [4, 11]
+idx: [5, 10]
+
+成功的数量为：160总数：176当前回溯率：90.9090909090909%
+第1轮错误：15，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:89
+Question:Where is the country with ISO code ISO 3166-2:CV located?
+golden idx: [11, 13]
+idx: [11, 13]
+
+成功的数量为：162总数：178当前回溯率：91.01123595505618%
+第1轮错误：15，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:90
+Question:Where is Assomada located?
+golden idx: [4, 11]
+idx: [11, 4]
+
+成功的数量为：164总数：180当前回溯率：91.11111111111111%
+第1轮错误：15，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:91
+Question:Where is Amílcar Cabral International Airport?
+golden idx: [17, 19]
+idx: [17, 19]
+
+成功的数量为：166总数：182当前回溯率：91.20879120879121%
+第1轮错误：15，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:92
+Question:Where was the person who wrote about the rioting being a dividing factor in Birmingham educated?
+golden idx: [8, 14]
+idx: [14, 8]
+
+成功的数量为：168总数：184当前回溯率：91.30434782608695%
+第1轮错误：15，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:93
+Question:Where was the designer of the Lap Engine educated?
+golden idx: [14, 16]
+idx: [14, 16]
+
+成功的数量为：170总数：186当前回溯率：91.39784946236558%
+第1轮错误：15，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:94
+Question:Where was the creator of the Lap Engine educated?
+golden idx: [3, 18]
+idx: [3,18]
+
+成功的数量为：172总数：188当前回溯率：91.48936170212765%
+第1轮错误：15，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:95
+Question:The 1967 Federation Cup is an instance of this tournament which is named after what organization?
+golden idx: [10, 16]
+idx: [16, 10]
+
+成功的数量为：174总数：190当前回溯率：91.57894736842105%
+第1轮错误：15，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:96
+Question:What is the competition that the 1965 Federation Cup is part of named after?
+golden idx: [8, 16]
+idx: [8, 16]
+
+成功的数量为：176总数：192当前回溯率：91.66666666666666%
+第1轮错误：15，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:97
+Question:What is the competition the 1972 Federation Cup is part of named after?
+golden idx: [10, 19]
+idx: [10, 19]
+
+成功的数量为：178总数：194当前回溯率：91.75257731958763%
+第1轮错误：15，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:98
+Question:What is the capital of the county which contains Hickory Grove Estates, Mississippi?
+golden idx: [0, 15]
+idx: [0, 15]
+
+成功的数量为：180总数：196当前回溯率：91.83673469387756%
+第1轮错误：15，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:99
+Question:Who is the father of the performer of Je dis aime?
+golden idx: [2, 16]
+idx: [2, 16]
+
+成功的数量为：182总数：198当前回溯率：91.91919191919192%
+第1轮错误：15，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########
+##########
+ID:100
+Question:Who is the father of the Labo M performer?
+golden idx: [5, 13]
+idx: [5, 12]
+
+成功的数量为：183总数：200当前回溯率：91.5%
+第1轮错误：16，第2轮错误：0，第3轮错误：0，第4轮错误：0
+##########

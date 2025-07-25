@@ -57,10 +57,10 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
     acc_em_list = []
     acc_em_pro_list = []
     acc_f1_list = []
-    result_path = "result\Ablation\\NoFocusKnowledgeCoERef\\" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
-    trajectory_path = "result\\Ablation\\NoFocusKnowledgeCoERef\\" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
-    result_json_path = "result\\Ablation\\NoFocusKnowledgeCoERef\\JSON\\" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".json"
-    trajectory_json_path = "result\\Ablation\\NoFocusKnowledgeCoERef\\JSON\\" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".json"
+    result_path = "result/Ablation/NoFocusKnowledgeCoERef/" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
+    trajectory_path = "result/Ablation/NoFocusKnowledgeCoERef/" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
+    result_json_path = "result/Ablation/NoFocusKnowledgeCoERef/JSON/" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".json"
+    trajectory_json_path = "result/Ablation/NoFocusKnowledgeCoERef/JSON/" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".json"
 
     List_path = "./result/SupIdx/distractor/V2/8-4-3-joint_06-04_15-45_result_distractor_test.txt"
     context_dict_list = get_Context_List(List_path)
@@ -142,7 +142,7 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
             while not is_made_it:
                 try:
                     completion = client.chat.completions.create(
-                        model="gpt-3.5-turbo-16k",
+                        model="deepseek-chat",
                         messages=[
                             {"role": "system", "content": set_prompt},
                         ],
@@ -187,174 +187,53 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
                         found_answer = find_best_match(answer, target_phrases)
                         response_answer = found_answer if ISAP else answer
                         EM_answer = answer
+                        
+                        trajectory_file.write(f"不进行反思\n")
+                        trajectory_file.write(response + "\n")
+                        result_file.write(f"不进行反思\n")
+                        result_file.write(dict_response["answer"] + "\n")
+                        trajectory_instance["response"] = str(response)
+                        trajectory_instance["isRef"] = False
+                        result_instance["answer"] = str(dict_response["answer"])
+                        result_instance["isRef"] = False
 
-                        if response_answer != ground_truth_answer:
-                            print(f"回答错误，开始反思\n")
-                            Context_ref_prompt = '''Context:''' + str(Support_Context_List) + '''\n'''
-                            Trajectory = str(response)
-                            Trajectory_prompt = '''Previous round's results and trajectory:''' + str(Trajectory) + '''\n'''
-                            ref_prompt = Input_Rprompt[IS_YN] + Question_prompt + Context_ref_prompt + Trajectory_prompt + Output_Rprompt[IS_YN]
-                            is_made_it_ref = False
-                            error_times_ref = 0
-                            trial_times_ref = 0
-                            while not is_made_it_ref:
-                                try:
-                                    while trial_times_ref < 3:
-                                        completion = client.chat.completions.create(
-                                            model="gpt-3.5-turbo-16k",
-                                            messages=[
-                                                {"role": "system", "content": ref_prompt},
-                                            ],
-                                            temperature=0,
-                                            max_tokens=1000,
-                                            top_p=1,
-                                            frequency_penalty=0,
-                                            presence_penalty=0,
-                                        )
-                                        if completion.choices[0].message.content == None:
-                                            print(f"Response is None\n{goal}")
-                                            is_made_it_ref = True
-                                            trial_times_ref = 1000
-                                            ERROR += 1
-                                        else:
-                                            response = completion.choices[0].message.content.strip()
-                                            print(f"RESPONSE:\n" + response)
-                                            # 手动解析回复并提取信息
-                                            resp_text_list = response.split("\n")
-                                            filtered_list = [element for element in resp_text_list if element.strip()]
-                                            getAns_ref = False
-                                            getRef = False
-                                            for line in filtered_list:
-                                                if "answer:" in line.lower() and line[0].lower() == "a":
-                                                    Re_Answer = line.split(":")[1]
-                                                    getAns_ref = True
-                                                if "reflexion:" in line.lower() and line[0].lower() == "r":
-                                                    Re_Reflexion = line.split(":")[1]
-                                                    getRef = True
-                                            if not getAns_ref and not getRef:
-                                                omo = 1 / 0
-                                            dict_response_ref = {
-                                                "answer": Re_Answer,
-                                                "reflexion": Re_Reflexion
-                                            }
-                                            answer_ref = normalize_answer(dict_response_ref["answer"])
-                                            ground_truth_answer_ref = normalize_answer(Right_answer)
-                                            target_phrases_ref = []
-                                            target_phrases_ref.append(str(ground_truth_answer_ref))
-                                            response_answer_ref = find_best_match(answer_ref, target_phrases_ref)
-                                            EM_answer_ref = answer_ref
-                                            if response_answer_ref != ground_truth_answer_ref:
-                                                trial_times_ref += 1
-                                                print(f"第 {trial_times_ref}次反思失败，再来一次\n")
-                                                if trial_times_ref == 3:
-                                                    print(f"答不对，不再尝试\n")
-                                            else:
-                                                trial_times_ref = 100
+                        CORRECT = False
+                        CORRECT_em = False
+                        CORRECT_em_process = False
+                        if str(response_answer).lower() in str(ground_truth_answer).lower() or str(ground_truth_answer).lower() in str(response_answer).lower():
+                            goal += 1
+                            CORRECT = True
+                        if EM_answer == ground_truth_answer:
+                            goal_em += 1
+                            CORRECT_em = True
+                        if response_answer == ground_truth_answer:
+                            goal_em_process += 1
+                            CORRECT_em_process = True
+                        f1 = f1_score(response_answer, ground_truth_answer)[0]
+                        goal_f1 += f1
+                        current_acc = goal / (iters - ERROR - start_iter) * 100
+                        current_em_acc = goal_em / (iters - ERROR - start_iter) * 100
+                        current_em_process_acc = goal_em_process / (iters - ERROR - start_iter) * 100
+                        current_f1_acc = goal_f1 / (iters - ERROR - start_iter) * 100
+                        acc_list.append(round(current_acc, 2))
+                        acc_em_list.append(round(current_em_acc, 2))
+                        acc_em_pro_list.append(round(current_em_process_acc, 2))
+                        acc_f1_list.append(round(current_f1_acc, 2))
+                        print(f"原始EM:{goal_em}, 总数:{iters - start_iter}, 网络错误:{ERROR}, 当前原始EM分数:{current_em_acc}%, 增强EM答对:{goal_em_process}，当前增强EM分数:{current_em_process_acc}%，当前F1分数:{current_f1_acc}%")
 
-                                            if trial_times_ref >= 3:
-                                                trajectory_file.write(f"进行反思\n")
-                                                trajectory_file.write(response + "\n")
-                                                result_file.write(f"进行反思\n")
-                                                result_file.write(dict_response_ref["reflexion"] + "\n")
-                                                result_file.write(dict_response_ref["answer"] + "\n")
-                                                trajectory_instance["response"] = str(response)
-                                                trajectory_instance["isRef"] = True
-                                                result_instance["answer"] = str(dict_response_ref["answer"])
-                                                result_instance["reflexion"] = str(dict_response_ref["reflexion"])
-                                                result_instance["isRef"] = True
+                        result_file.write("原始EM：" + str(goal_em) + ", 总数：" + str(iters - start_iter) + ", 网络错误：" + str(ERROR) + ", 当前原始EM分数：" + str(current_em_acc) + "%, 增强EM答对：" + str(goal_em_process) + ", 当前增强EM分数：" + str(current_em_process_acc) + "%, 当前F1分数：" + str(current_f1_acc) + "%\n")
+                        trajectory_file.write("原始EM：" + str(goal_em) + ", 总数：" + str(iters - start_iter) + ", 网络错误：" + str(ERROR) + ", 当前原始EM分数：" + str(current_em_acc) + "%, 增强EM答对：" + str(goal_em_process) + ", 当前增强EM分数：" + str(current_em_process_acc) + "%, 当前F1分数：" + str(current_f1_acc) + "%\n")
+                        result_file.write("#" * 10 + "\n")
+                        trajectory_file.write("#" * 10 + "\n")
 
-                                                CORRECT = False
-                                                CORRECT_em = False
-                                                CORRECT_em_process = False
-                                                if str(response_answer_ref).lower() in str(ground_truth_answer_ref).lower() or str(
-                                                        ground_truth_answer_ref).lower() in str(response_answer_ref).lower():
-                                                    goal += 1
-                                                    CORRECT = True
-                                                if EM_answer_ref == ground_truth_answer_ref:
-                                                    goal_em += 1
-                                                    CORRECT_em = True
-                                                if response_answer_ref == ground_truth_answer_ref:
-                                                    goal_em_process += 1
-                                                    CORRECT_em_process = True
-                                                f1 = f1_score(response_answer_ref, ground_truth_answer_ref)[0]
-                                                goal_f1 += f1
-                                                current_acc = goal / (iters - ERROR - start_iter) * 100
-                                                current_em_acc = goal_em / (iters - ERROR - start_iter) * 100
-                                                current_em_process_acc = goal_em_process / (iters - ERROR - start_iter) * 100
-                                                current_f1_acc = goal_f1 / (iters - ERROR - start_iter) * 100
-                                                acc_list.append(round(current_acc, 2))
-                                                acc_em_list.append(round(current_em_acc, 2))
-                                                acc_em_pro_list.append(round(current_em_process_acc, 2))
-                                                acc_f1_list.append(round(current_f1_acc, 2))
-                                                print(f"原始EM:{goal_em}, 总数:{iters - start_iter}, 网络错误:{ERROR}, 当前原始EM分数:{current_em_acc}%, 增强EM答对:{goal_em_process}，当前增强EM分数:{current_em_process_acc}%，当前F1分数:{current_f1_acc}%")
+                        result_instance["EM pro correct"] = str(CORRECT_em_process)
+                        result_instance["EM correct"] = str(CORRECT_em)
+                        trajectory_instance["EM pro correct"] = str(CORRECT_em_process)
+                        trajectory_instance["EM correct"] = str(CORRECT_em)
+                        result_json_file.write(json.dumps(result_instance) + "\n")
+                        trajectory_json_file.write(json.dumps(trajectory_instance) + "\n")
 
-                                                result_file.write("原始EM：" + str(goal_em) + ", 总数：" + str(iters - start_iter) + ", 网络错误：" + str(ERROR) + ", 当前原始EM分数：" + str(current_em_acc) + "%, 增强EM答对：" + str(goal_em_process) + ", 当前增强EM分数：" + str(current_em_process_acc) + "%, 当前F1分数：" + str(current_f1_acc) + "%\n")
-                                                trajectory_file.write("原始EM：" + str(goal_em) + ", 总数：" + str(iters - start_iter) + ", 网络错误：" + str(ERROR) + ", 当前原始EM分数：" + str(current_em_acc) + "%, 增强EM答对：" + str(goal_em_process) + ", 当前增强EM分数：" + str(current_em_process_acc) + "%, 当前F1分数：" + str(current_f1_acc) + "%\n")
-                                                result_file.write("#" * 10 + "\n")
-                                                trajectory_file.write("#" * 10 + "\n")
-
-                                                result_instance["EM pro correct"] = str(CORRECT_em_process)
-                                                result_instance["EM correct"] = str(CORRECT_em)
-                                                trajectory_instance["EM pro correct"] = str(CORRECT_em_process)
-                                                trajectory_instance["EM correct"] = str(CORRECT_em)
-                                                result_json_file.write(json.dumps(result_instance) + "\n")
-                                                trajectory_json_file.write(json.dumps(trajectory_instance) + "\n")
-
-                                                is_made_it_ref = True
-                                                is_made_it = True
-                                except Exception as e:
-                                    error_times_ref += 1
-                                    print("#" * 5 + "ERROR" + str(error_times_ref) + "#" * 5)
-                                    print(e)
-                                    sleep(1)
-
-                        else:
-                            trajectory_file.write(f"不进行反思\n")
-                            trajectory_file.write(response + "\n")
-                            result_file.write(f"不进行反思\n")
-                            result_file.write(dict_response["answer"] + "\n")
-                            trajectory_instance["response"] = str(response)
-                            trajectory_instance["isRef"] = False
-                            result_instance["answer"] = str(dict_response["answer"])
-                            result_instance["isRef"] = False
-
-                            CORRECT = False
-                            CORRECT_em = False
-                            CORRECT_em_process = False
-                            if str(response_answer).lower() in str(ground_truth_answer).lower() or str(ground_truth_answer).lower() in str(response_answer).lower():
-                                goal += 1
-                                CORRECT = True
-                            if EM_answer == ground_truth_answer:
-                                goal_em += 1
-                                CORRECT_em = True
-                            if response_answer == ground_truth_answer:
-                                goal_em_process += 1
-                                CORRECT_em_process = True
-                            f1 = f1_score(response_answer, ground_truth_answer)[0]
-                            goal_f1 += f1
-                            current_acc = goal / (iters - ERROR - start_iter) * 100
-                            current_em_acc = goal_em / (iters - ERROR - start_iter) * 100
-                            current_em_process_acc = goal_em_process / (iters - ERROR - start_iter) * 100
-                            current_f1_acc = goal_f1 / (iters - ERROR - start_iter) * 100
-                            acc_list.append(round(current_acc, 2))
-                            acc_em_list.append(round(current_em_acc, 2))
-                            acc_em_pro_list.append(round(current_em_process_acc, 2))
-                            acc_f1_list.append(round(current_f1_acc, 2))
-                            print(f"原始EM:{goal_em}, 总数:{iters - start_iter}, 网络错误:{ERROR}, 当前原始EM分数:{current_em_acc}%, 增强EM答对:{goal_em_process}，当前增强EM分数:{current_em_process_acc}%，当前F1分数:{current_f1_acc}%")
-
-                            result_file.write("原始EM：" + str(goal_em) + ", 总数：" + str(iters - start_iter) + ", 网络错误：" + str(ERROR) + ", 当前原始EM分数：" + str(current_em_acc) + "%, 增强EM答对：" + str(goal_em_process) + ", 当前增强EM分数：" + str(current_em_process_acc) + "%, 当前F1分数：" + str(current_f1_acc) + "%\n")
-                            trajectory_file.write("原始EM：" + str(goal_em) + ", 总数：" + str(iters - start_iter) + ", 网络错误：" + str(ERROR) + ", 当前原始EM分数：" + str(current_em_acc) + "%, 增强EM答对：" + str(goal_em_process) + ", 当前增强EM分数：" + str(current_em_process_acc) + "%, 当前F1分数：" + str(current_f1_acc) + "%\n")
-                            result_file.write("#" * 10 + "\n")
-                            trajectory_file.write("#" * 10 + "\n")
-
-                            result_instance["EM pro correct"] = str(CORRECT_em_process)
-                            result_instance["EM correct"] = str(CORRECT_em)
-                            trajectory_instance["EM pro correct"] = str(CORRECT_em_process)
-                            trajectory_instance["EM correct"] = str(CORRECT_em)
-                            result_json_file.write(json.dumps(result_instance) + "\n")
-                            trajectory_json_file.write(json.dumps(trajectory_instance) + "\n")
-
-                            is_made_it = True
+                        is_made_it = True
                 except Exception as e:
                     error_times += 1
                     print("#" * 5 + "ERROR" + str(error_times) + "#" * 5)
@@ -366,7 +245,7 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
         result_file.write("\n准确率：" + str(final_goal) + "%\n网络错误：" + str(ERROR))
         trajectory_file.write("\n准确率：" + str(final_goal) + "%\n网络错误：" + str(ERROR))
 
-    save_path = "result\\Ablation\\NoFocusKnowledgeCoERef\\picture\\"
+    save_path = "result/Ablation/NoFocusKnowledgeCoERef/picture/"
     painting_from_list(list=acc_em_list, save_path=save_path, LEVEL=LEVEL, TYPE=TYPE, TIME=CurrentTime, Epochs="EM")
     painting_from_list(list=acc_em_list, save_path=save_path, LEVEL=LEVEL, TYPE=TYPE, TIME=CurrentTime, Epochs="EM pro")
     painting_from_list(list=acc_em_list, save_path=save_path, LEVEL=LEVEL, TYPE=TYPE, TIME=CurrentTime, Epochs="F1")
@@ -382,17 +261,23 @@ if __name__ == "__main__":
     Output_prompt = [No_CoE_output_prompt, No_CoE_output_prompt_YN ]
     Input_Ref_prompt = [Reflexion_prompt_No_CoE, Reflexion_prompt_No_CoE_YN]
     Output_Ref_prompt = [Reflexion_output_prompt_No_CoE, Reflexion_output_prompt_No_CoE_YN]
-    Version = "NoFocusKnowledgeCoERef-150"
+    Version = "GPT4o-150"
     start_iter = 0
     ISKE = True  # 知识编辑
     ISAP = False # 答案处理
 
-    client = OpenAI(
+    clientGPT = OpenAI(
         base_url="https://xiaoai.plus/v1",
         api_key="sk-inNndrUrn8S4hfpy328c83E091364cF1B743Ee6d1dA9818f",
-        http_client=httpx.Client( base_url="https://xiaoai.plus/v1", follow_redirects=True,),
+        http_client=httpx.Client(base_url="https://xiaoai.plus/v1", follow_redirects=True, ),
+    )
+
+    clientDS = OpenAI(  # deepseek-chat
+        api_key="sk-d84a65c9c6574df5934ae04f8692268d",
+        base_url="https://api.deepseek.com",
+        http_client=httpx.Client(base_url="https://api.deepseek.com", follow_redirects=True, ),
     )
 
     for LEVEL in LEVEL_list:
         print(f"正在运行{LEVEL}类型的实验\n是否使用知识编辑：{ISKE}")
-        Evidengce_QA(client=client, LEVEL=LEVEL, TYPE=TYPE, MAX_ITERATION=MAX_ITERATION, base_path=base_path, CurrentTime=CurrentTime, Input_prompt=Input_prompt, Output_prompt=Output_prompt, Input_Rprompt=Input_Ref_prompt, Output_Rprompt=Output_Ref_prompt, start_iter=start_iter, ISKE=ISKE, ISAP=ISAP, Version=Version)
+        Evidengce_QA(client=clientDS, LEVEL=LEVEL, TYPE=TYPE, MAX_ITERATION=MAX_ITERATION, base_path=base_path, CurrentTime=CurrentTime, Input_prompt=Input_prompt, Output_prompt=Output_prompt, Input_Rprompt=Input_Ref_prompt, Output_Rprompt=Output_Ref_prompt, start_iter=start_iter, ISKE=ISKE, ISAP=ISAP, Version=Version)

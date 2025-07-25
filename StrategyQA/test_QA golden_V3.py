@@ -34,10 +34,10 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
     acc_em_list = []
     acc_em_pro_list = []
     acc_f1_list = []
-    result_path = "result\\QA_GPT4o\\" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
-    trajectory_path = "result\\QA_GPT4o\\" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
-    result_json_path = "result\\QA_GPT4o\\JSON\\" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".json"
-    trajectory_json_path = "result\\QA_GPT4o\\JSON\\" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".json"
+    result_path = "result/QA_GPT4o/" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
+    trajectory_path = "result/QA_GPT4o/" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".txt"
+    result_json_path = "result/QA_GPT4o/JSON/" + str(Version) + "_" + str(CurrentTime) + "_" + "result_" + str(LEVEL) + "_" + str(TYPE) + ".json"
+    trajectory_json_path = "result/QA_GPT4o/JSON/" + str(Version) + "_" + str(CurrentTime) + "_" + "trajectory_" + str(LEVEL) + "_" + str(TYPE) + ".json"
 
     with open(file_path, 'r', encoding='utf-8') as file:
         # 解析每一行为一个JSON对象，并添加到列表中
@@ -328,7 +328,7 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
         result_file.write("\n准确率：" + str(final_goal) + "%\n网络错误：" + str(ERROR))
         trajectory_file.write("\n准确率：" + str(final_goal) + "%\n网络错误：" + str(ERROR))
 
-    save_path = "result\\QA_GPT4o\\picture\\"
+    save_path = "result/QA_GPT4o/picture/"
     painting_from_list(list=acc_em_list, save_path=save_path, LEVEL=LEVEL, TYPE=TYPE, TIME=CurrentTime, Epochs="EM")
     painting_from_list(list=acc_em_list, save_path=save_path, LEVEL=LEVEL, TYPE=TYPE, TIME=CurrentTime, Epochs="EM pro")
     painting_from_list(list=acc_em_list, save_path=save_path, LEVEL=LEVEL, TYPE=TYPE, TIME=CurrentTime, Epochs="F1")
