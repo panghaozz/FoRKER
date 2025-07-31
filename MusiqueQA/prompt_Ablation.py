@@ -31,9 +31,8 @@ E2G_Output_prompt_YN = '''
 '''
 
 CoT_prompt = '''
-# You are a text Question-Answer agent. Given a claim to answer and a collection of potentially useful context about the claim, along with reasoning steps that guide your inference.
+# You are a text Question-Answer agent. Given a claim to answer and a collection of potentially useful context about the claim.
 # The format of each piece of context: {"idx":[context index], "title":[title of the context], "paragraph_text":[content of the context]}
-# The [Reasoning Steps] contain A list of Reasoning Steps provided to guide the inference process. 
 #  Think step by step to come out the answer.
 '''
 
@@ -46,10 +45,8 @@ Step-by-step reasoning: [Your Step-by-step reasoning ]
 
 
 CoT_prompt_YN = '''
-# You are a text Question-Answer agent. Given a claim to answer and a collection of potentially useful context about the claim, along with reasoning steps that guide your inference..
+# You are a text Question-Answer agent. Given a claim to answer and a collection of potentially useful context about the claim.
 # The format of each piece of context: {"idx":[context index], "title":[title of the context], "paragraph_text":[content of the context]}
-# The [Reasoning Steps] contain A list of Reasoning Steps provided to guide the inference process.
-# This is a yes/no question. Your task is to analyze these pieces of contexts, and answer [yes] or [no].
 #  Think step by step to come out the answer.
 '''
 
