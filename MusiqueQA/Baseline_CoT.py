@@ -92,7 +92,7 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
             # print(Context_prompt)
 
             print(f"ID:{iters}" + "\n" + Question_prompt + "\n" + "Right Answer:" + Right_answer)
-            print(ReasoningStep_prompt)
+            # print(ReasoningStep_prompt)
             result_file.write("#" * 10 + "\n")
             trajectory_file.write("#" * 10 + "\n")
             result_file.write("ID:" + str(iters) + "\n" + Question_prompt + "\n" + "Right Answer:" + Right_answer + "\n")
@@ -111,7 +111,7 @@ def Evidengce_QA(client: OpenAI, LEVEL: str, TYPE: str, MAX_ITERATION: int, base
             trajectory_instance["context"] = str(Temp_Context_List)
             # trajectory_instance["processed context"] = str(processed_contexts)
 
-            set_prompt = Input_prompt[IS_YN] + Question_prompt + ReasoningStep_prompt + Context_prompt + Output_prompt[IS_YN]
+            set_prompt = Input_prompt[IS_YN] + Question_prompt + Context_prompt + Output_prompt[IS_YN]
 
             is_made_it = False
             error_times = 0
